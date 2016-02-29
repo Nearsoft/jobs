@@ -31,6 +31,4 @@ And be sure to follow us online too!
 
 ## Credit
 
-Inspired by:
-
-* [npm/jobs](https://github.com/npm/jobs)
+Inspired by [npm/jobs](https://github.com/npm/jobs)
