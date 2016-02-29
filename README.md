@@ -2,6 +2,17 @@
 
 At Nearsoft we're always looking for talented individuals who want to join our team and help us create great things.
 
+## Our openings
+
+* [.NET Engineer](dot-net.md)
+* [Front End Engineer](front-end.md)
+* [iOS Engineer](ios.md)
+* [Java Engineer](java.md)
+* [Python Engineer](python.md)
+* [QA Automation Engineer](qa-automation.md)
+* [QA Engineer](qa.md)
+* [Ruby on Rails Engineer](ror.md)
+
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com).
 
 And be sure to follow us online too!
