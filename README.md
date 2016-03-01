@@ -7,7 +7,7 @@ At Nearsoft we're always looking for talented individuals who want to join our t
 * [.NET Engineer](dot-net.md)
 * [Front End Engineer](front-end.md)
 * [iOS Engineer](ios.md)
-* [Java Engineer](java.md)
+* [Full Stack Java Engineer](java.md)
 * [Python Engineer](python.md)
 * [QA Automation Engineer](qa-automation.md)
 * [QA Engineer](qa.md)
