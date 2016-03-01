@@ -1,4 +1,4 @@
-# iOS Engineer (4)
+# iOS Engineer
 
 Be our iOS expert. Possess the willingness and confidence to be the owner of the company's iOS code
 bases. Work closely with our designer and Android developer while working to achieve the goals set

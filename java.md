@@ -1,4 +1,4 @@
-# Full Stack Java Engineer (28)
+# Full Stack Java Engineer
 
 You're a Full Stack Java Engineer with 2-5 years of experience with great communication skills,
 leadership and commitment who likes to work as part of a team.

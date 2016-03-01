@@ -1,4 +1,4 @@
-# Python Engineer (6)
+# Python Engineer
 
 You're a Python Engineer with 3-5 years of experience with great communication skills, leadership
 and commitment who likes to work as part of a team.

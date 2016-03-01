@@ -1,4 +1,4 @@
-# QA Engineer (4)
+# QA Engineer
 
 You're a QA Engineer with genuine enjoyment of software testing, problem solving, and quality
 assurance work. You have the ability to work independently, multitask and manage time effectively

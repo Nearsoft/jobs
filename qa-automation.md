@@ -1,4 +1,4 @@
-# QA Automation Engineer (4)
+# QA Automation Engineer
 
 You're a QA Automation Engineer with 3-5 years of experience with great communication skills, leadership
 and commitment who likes to work as part of a team.

@@ -1,4 +1,4 @@
-# Front End Engineer (2)
+# Front End Engineer
 
 You're a Front End Engineer with 7+ years of experience either with C#, Java or Python with proven
 ability to work independently, as a part of a team and operate in a senior level career role with

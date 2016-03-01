@@ -1,4 +1,4 @@
-# Ruby on Rails Engineer (2)
+# Ruby on Rails Engineer
 
 ## Responsibilities
 
