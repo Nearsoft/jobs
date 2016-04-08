@@ -9,7 +9,6 @@ At Nearsoft we're always looking for talented individuals who want to join our t
 * [Front End Engineer](front-end.md)
 * [iOS Engineer](ios.md)
 * [Full Stack Java Engineer](java.md)
-* [Python Engineer](python.md)
 * [QA Engineer](qa.md)
 * [Ruby on Rails Engineer](ror.md)
 
