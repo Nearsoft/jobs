@@ -4,6 +4,7 @@ At Nearsoft we're always looking for talented individuals who want to join our t
 
 ## Our openings
 
+* [Android Engineer](android.md)
 * [AngularJS Engineer](angular.md)
 * [DevOps Engineer](dev-ops.md)
 * [Front End Engineer](front-end.md)
