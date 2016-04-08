@@ -16,4 +16,4 @@
 * Experience with testing, and test driven development, knowledge of Protractor, Karma, Jasmine, or
 other client side testing frameworks a plus
 
-Contact us at jobs@nearsoft.com if you're interested.
+If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.
