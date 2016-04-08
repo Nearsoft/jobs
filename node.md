@@ -11,7 +11,8 @@
 * Experience working within a distributed SOA architecture
 * You love turning performance and making things faster
 * Experience building an automation‐focused culture, both in testing and build/deploy
-* You are client-focused, react well to changes, work with teams and able to multi-task on multiple products and projects
+* You are client-focused, react well to changes, work with teams and able to multi-task on multiple
+products and projects
 * You're authorized to work in the US (California).
 
 ## Nice to have
@@ -22,3 +23,5 @@
 * Experience with CI systems such as TeamCity, Jenkins, or Travis CI
 * You are involved in an OSS initiative and have authored an npm package
 * Experience in an agile environment
+
+If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.

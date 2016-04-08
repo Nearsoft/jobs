@@ -17,3 +17,5 @@ in place by Product.
 ## Nice to have
 
 * Swift
+
+If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.

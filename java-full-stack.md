@@ -14,3 +14,5 @@ leadership and commitment who likes to work as part of a team.
 * SQL
 * PL-SQL
 * Web Services development
+
+If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.

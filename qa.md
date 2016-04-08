@@ -11,3 +11,5 @@ with strong problem solving and analytical skills.
 * Familiarity with programming and/or scripting languages
 * Experience with databases and SQL
 * Bachelor's degree (or equivalent) in Computer Science, Engineering or related field
+
+If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.

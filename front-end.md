@@ -20,3 +20,5 @@ mentoring other developers and helping them improve their skill.
 * Comfortable with databases (SQL or NoSQL)
 * JSON
 * XML and XSD
+
+If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.

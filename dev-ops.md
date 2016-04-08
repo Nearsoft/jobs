@@ -1,7 +1,7 @@
 # DevOps Engineer
 
-You're a DevOps Engineer with great communication skills, experience, leadership and commitment who likes to work as
-part of a team.
+You're a DevOps Engineer with great communication skills, experience, leadership and commitment who
+likes to work as part of a team.
 
 ## Responsibilities
 
@@ -16,3 +16,5 @@ part of a team.
 * Git
 * Amazon Web Services
 * Continuous Integration (Jenkins, Bamboo, Travis CI)
+
+If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.
