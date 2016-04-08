@@ -1,5 +1,7 @@
 # Jobs
 
+[![Travis CI](https://img.shields.io/travis/Nearsoft/jobs.svg)](https://travis-ci.org/Nearsoft/jobs)
+
 At Nearsoft we're always looking for talented individuals who want to join our team and help us create great things.
 
 ## Our openings
