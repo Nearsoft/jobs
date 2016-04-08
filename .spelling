@@ -1,0 +1,43 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+Nearsoft
+Akamai
+AngularJS
+jQuery
+Backbone.js
+Underscore.js
+Node.js
+NoSQL
+JavaEE
+JavaBeans
+Django
+MySQL
+RSpec
+Capybara
+ASP.NET
+PL-SQL
+hapi.js
+DevOps
+Ansible
+CoffeeScript
+B.S.
+async
+RabbitMQ
+TeamCity
+SaaS
+Memcached
+Maven
+M.S.
+ColdFusion
+FreeMarker
+CircleCI
+RxJava
+OkHttp
+Robolectric
+Robotium
+nearsoft.com
+nearsoft.com.
+npm

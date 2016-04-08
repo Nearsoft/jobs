@@ -1,0 +1,17 @@
+{
+  "name": "nearsoft-jobs",
+  "description": "Our openings at Nearsoft",
+  "scripts": {
+    "test": "mdspell -a -n -r '**/*.md' '!node_modules/**/*.md'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nearsoft/jobs.git"
+  },
+  "author": "Alejandro Beltrán",
+  "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+  "devDependencies": {
+    "markdown-spellcheck": "^0.10.0"
+  },
+  "private": true
+}

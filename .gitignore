@@ -5,3 +5,4 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 *.log
+node_modules
