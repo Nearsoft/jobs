@@ -15,7 +15,7 @@ mentoring other developers and helping them improve their skill.
 * Strong REST API design and implementation
 * Design Patterns, .NET framework 3.5 and LINQ
 * JavaScript frameworks like AngularJS, jQuery, Backbone.js, Underscore.js or React
-* Node.js frameworks and tools (Express, hapi, Grunt, Bower)
+* Node.js frameworks and tools (Express, hapi.js, Grunt, Bower)
 * Automation with tools (Grunt, Gulp, or Rake)
 * Comfortable with databases (SQL or NoSQL)
 * JSON
