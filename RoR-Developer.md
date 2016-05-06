@@ -7,3 +7,5 @@
 * Maintain Cucumber Tests.
 * Write and maintain Javascript.
 * Technologies: Ruby, Rails, Javascript, Rspec, Bootstrap, jQuery.
+
+### If this opening has caught your eye feel free to contact us at jobs@nearsoft.com
