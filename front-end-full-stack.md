@@ -8,17 +8,23 @@ mentoring other developers and helping them improve their skill.
 
 ## Requirements
 
-* Senior level C#, Java or Python (+7 years)
-* Strong Front End development skills in JavaScript
-* Strong Object-oriented design and development practices
-* Strong Test-driven development experience
-* Strong REST API design and implementation
-* Design Patterns, .NET framework 3.5 and LINQ
-* JavaScript frameworks like AngularJS, jQuery, Backbone.js, Underscore.js or React
-* Node.js frameworks and tools (Express, hapi.js, Grunt, Bower)
-* Automation with tools (Grunt, Gulp, or Rake)
-* Comfortable with databases (SQL or NoSQL)
-* JSON
-* XML and XSD
+*Over 5 years of solid web development experience either with Javascript,  Ruby, Python, ASP.Net  or PHP with proven ability to work independently, as a part of a team and operate at a senior level.
+*Strong front-end development skills in HTML5, CSS3, and ES5+ 
+*Experience building an automation‐focused culture, both in testing and build/deploy
+*Experience with JavaScript frameworks such as AngularJS, jQuery, Backbone.js, Underscore, ReactJS
+*Must be strong in OO design and development practices
+*Comfortable with Node.js frameworks and tools such as  Grunt, Gulp, Bower, Express, Hapi, WebPack, Browserify
+*Strong REST API design and implementation
+8Comfortable with databases using either SQL or NoSQL
+*Knowledge about Design Patterns,
+*Strong TDD experience
+*Test driven or unit/acceptance test experience
+*Experience working on an Agile development team, both on-site and remotely
+*Build Automation with tools like Grunt, Gulp, or Rake
+*Continuous improver
+*Good communication skills
+*Very fluent in English, can speak without hesitation
+*Experience mentoring other developers and helping them improve their skills
+
 
 If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.
