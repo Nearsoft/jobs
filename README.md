@@ -7,12 +7,10 @@ At Nearsoft we're always looking for talented individuals who want to join our t
 ## Our openings
 
 * [Android Engineer](android.md)
-* [AngularJS Engineer](angular.md)
 * [Full Stack Front End Engineer](front-end-full-stack.md)
 * [iOS Engineer](ios.md)
 * [Full Stack Java Engineer](java-full-stack.md)
 * [Java Engineer](java.md)
-* [Node.js Engineer](node.md)
 * [QA Engineer](qa.md)
 * [QA Automation](qa-automation.md)
 * [Ruby on Rails Engineer](ror.md)
