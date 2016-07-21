@@ -12,12 +12,11 @@
 * Product: Building the tools our large and engaged user-base utilize to connect and share
 experiences
 * Design: Care about making every pixel perfect and meaningful. Every transition smooth and
-delightful. Every interaction intuitive.
+delightful. Every interaction intuitive
 * Reliability: Deliver reliable software through continuous integration, automated testing, and
-in-depth code reviews.
+in-depth code reviews
 * Invention: Envision totally new features, flows, and techniques that are inspired, considered,
-and magical.
-
+and magical
 
 ## You will be working on the cutting edge of Android with the latest tools, libraries and techniques
 
@@ -25,7 +24,7 @@ and magical.
 * Gradle + CircleCI
 * Make use of the awesome Android open source community with the leading Square/Netflix libraries
 Dagger, RxJava, Retrofit, OkHttp, Butter Knife, Flow, Mortar, etc.
-* Implement the latest Android design patterns.
+* Implement the latest Android design patterns
 * Designing APIs optimized for mobile clients
 * Automatized testing environment with Robolectric, Robotium/Espresso, Spoon, etc.
 
