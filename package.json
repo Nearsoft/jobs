@@ -11,7 +11,7 @@
   "author": "Alejandro Beltrán",
   "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
   "devDependencies": {
-    "markdown-spellcheck": "^0.10.0"
+    "markdown-spellcheck": "^0.11.0"
   },
   "private": true
 }
