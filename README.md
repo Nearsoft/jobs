@@ -13,8 +13,6 @@ At Nearsoft we're always looking for talented individuals who want to join our t
 * [Java Engineer](java.md)
 * [QA Engineer](qa.md)
 * [QA Automation](qa-automation.md)
-* [Ruby on Rails Engineer](ror.md)
-
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com).
 
