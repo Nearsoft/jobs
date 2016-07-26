@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "remark-lint": {
+      "list-item-indent": "space",
+      "maximum-heading-length": false,
+      "maximum-line-length": 100
+    }
+  }
+}
