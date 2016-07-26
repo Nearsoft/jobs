@@ -1,3 +1,5 @@
+<!--alex disable execute-->
+
 # QA Automation
 
 ## Responsibilities

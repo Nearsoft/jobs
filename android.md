@@ -1,3 +1,5 @@
+<!--alex disable knife-->
+
 # Android Engineer
 
 ## Experience we're interested in
