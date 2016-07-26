@@ -2,9 +2,10 @@
   "name": "nearsoft-jobs",
   "description": "Our openings at Nearsoft",
   "scripts": {
-    "test-spelling": "mdspell -a -n -r '**/*.md' '!node_modules/**/*.md'",
+    "test-markdown-lint": "remark *.md -u remark-lint",
+    "test-spelling": "mdspell -a -n -r '*.md'",
     "test-writing": "alex",
-    "test": "npm run test-spelling && npm run test-writing"
+    "test": "npm run test-spelling && npm run test-writing && npm run test-markdown-lint"
   },
   "repository": {
     "type": "git",
@@ -14,7 +15,9 @@
   "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
   "devDependencies": {
     "alex": "^3.1.0",
-    "markdown-spellcheck": "^0.11.0"
+    "markdown-spellcheck": "^0.11.0",
+    "remark-cli": "^1.0.0",
+    "remark-lint": "^4.0.2"
   },
   "private": true
 }
