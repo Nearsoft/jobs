@@ -2,7 +2,9 @@
   "name": "nearsoft-jobs",
   "description": "Our openings at Nearsoft",
   "scripts": {
-    "test": "mdspell -a -n -r '**/*.md' '!node_modules/**/*.md'"
+    "test-spelling": "mdspell -a -n -r '**/*.md' '!node_modules/**/*.md'",
+    "test-writing": "alex",
+    "test": "npm run test-spelling && npm run test-writing"
   },
   "repository": {
     "type": "git",
@@ -11,6 +13,7 @@
   "author": "Alejandro Beltrán",
   "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
   "devDependencies": {
+    "alex": "^3.1.0",
     "markdown-spellcheck": "^0.11.0"
   },
   "private": true
