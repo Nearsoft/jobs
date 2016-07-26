@@ -22,4 +22,4 @@
 
 * Selenium
 
-If this opening has caught your eye feel free to contact us at jobs@nearsoft.com
+If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.
