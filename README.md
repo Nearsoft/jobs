@@ -7,13 +7,9 @@ create great things.
 
 ## Our openings
 
-* [Android Engineer](android.md)
+
 * [Full Stack Front End Engineer](front-end-full-stack.md)
-* [iOS Engineer](ios.md)
-* [Full Stack Java Engineer](java-full-stack.md)
-* [Java Engineer](java.md)
-* [QA Engineer](qa.md)
-* [QA Automation](qa-automation.md)
+
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com).
 
