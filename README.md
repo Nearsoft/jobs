@@ -8,7 +8,7 @@ create great things.
 ## Our openings
 
 
-* [Full Stack Front End Engineer](front-end-full-stack.md)
+* iOS Developer
 
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com).
