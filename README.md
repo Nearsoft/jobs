@@ -7,9 +7,7 @@ create great things.
 
 ## Our openings
 
-
-* iOS Developer
-
+* [iOS Engineer](ios.md)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com).
 
