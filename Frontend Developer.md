@@ -1,5 +1,5 @@
 # Must Have: 
-* Strong with Ember.js :bowtie:
+* Strong with Ember.js :hamster:
 
 ## Nice to have:
 * Rails for backend.
