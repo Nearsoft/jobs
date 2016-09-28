@@ -1,5 +1,5 @@
 # Must Have: 
-* +5 experience with Ember.js :bowtie:
+* Strong with Ember.js :bowtie:
 
 ## Nice to have:
 * Rails for backend.
