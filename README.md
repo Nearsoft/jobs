@@ -7,8 +7,8 @@ create great things.
 
 ## Our openings
 
+* [Front End Engineer](front-end.md)
 * [iOS Engineer](ios.md)
-* [Frontend Developer] (Frontend Developer.md)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com).
 
