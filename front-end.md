@@ -1,16 +1,12 @@
-# Front End Engineer
+# Front End Ember/ Python Engineer
 
 ## Must Have
 
-* Strong with Ember.js :hamster:
+* 2+ years of experience with Ember.js :hamster:
+* 3+ years of experience with Python.
+* Postgres.
+* RDBMS.
+* Great english communication skill.
 
-## Nice to have
-
-* Rails for back end
-* PostgreSQL
-* SQL
-
-Effective Communication
-Speak up
 
 If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.
