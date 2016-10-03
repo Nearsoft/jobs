@@ -9,9 +9,9 @@ create great things.
 
 * [Front End Engineer](front-end.md)
 * [iOS Engineer](ios.md)
-* [Full stack .NET Software Engineer (Full stack .NET Software Engineer.md)
-* .NET/Silverlight Software Engineer (.NET-Silverlight Software Engineer.md)
-* .NET/SQL Server Software Engineer (.NET-SQL Server Software Engineer.md)
+* [Full stack .NET Software Engineer] (Full stack .NET Software Engineer.md)
+* [.NET/Silverlight Software Engineer] (.NET-Silverlight Software Engineer.md)
+* [.NET/SQL Server Software Engineer] (.NET-SQL Server Software Engineer.md)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com).
 
