@@ -19,5 +19,8 @@
     "remark-lint": "^5.1.0",
     "yaspeller": "^2.9.1"
   },
+  "engines": {
+    "node": ">=4"
+  },
   "private": true
 }
