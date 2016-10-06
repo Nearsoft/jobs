@@ -14,10 +14,10 @@
   "author": "Alejandro Beltrán",
   "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
   "devDependencies": {
-    "alex": "^3.1.0",
-    "markdown-spellcheck": "^0.11.0",
-    "remark-cli": "^1.0.0",
-    "remark-lint": "^4.0.2"
+    "alex": "^4.0.1",
+    "remark-cli": "^2.0.0",
+    "remark-lint": "^5.1.0",
+    "yaspeller": "^2.9.1"
   },
   "private": true
 }
