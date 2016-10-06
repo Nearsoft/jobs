@@ -11,6 +11,6 @@
 * Solid communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences
 * Strong understanding of the Software design/architecture process
 * Experience with Unit testing & Test-driven Development (TDD)
-* BS/MS in computer science a plus but not required
+* B.S./M.S. in computer science a plus but not required
 
-If this opening has caught your eye feel free to contact us at jobs@nearsoft.com.
+If this opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com).
