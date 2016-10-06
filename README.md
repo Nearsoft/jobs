@@ -17,11 +17,11 @@ create great things.
 ## Our openings
 
 * [Front End Ember/Python Engineer](#front-end-emberpython-engineer)
-* Front End Engineer
-* iOS Engineer
-* Full Stack .NET Software Engineer
-* .NET/Silverlight Software Engineer
-* .NET/SQL Server Software Engineer
+* [Front End Engineer](#front-end-engineer)
+* [iOS Engineer](#ios-engineer)
+* [Full Stack .NET Software Engineer](#full-stack-net-software-engineer)
+* [.NET/Silverlight Software Engineer](#netsilverlight-software-engineer)
+* [.NET/SQL Server Software Engineer](#netsql-server-software-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
