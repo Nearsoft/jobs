@@ -2,9 +2,9 @@
   "name": "nearsoft-jobs",
   "description": "Our openings at Nearsoft",
   "scripts": {
-    "test-markdown-lint": "remark *.md -u remark-lint",
-    "test-spelling": "mdspell -a -n -r '*.md'",
+    "test-spelling": "yaspeller .",
     "test-writing": "alex",
+    "test-markdown-lint": "remark *.md -u remark-lint",
     "test": "npm run test-spelling && npm run test-writing && npm run test-markdown-lint"
   },
   "repository": {
