@@ -16,6 +16,7 @@ create great things.
 
 ## Our openings
 
+* [Android Engineer](#android-engineer)
 * [Front End Ember/Python Engineer](#front-end-emberpython-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [iOS Engineer](#ios-engineer)
@@ -24,6 +25,23 @@ create great things.
 * [.NET/SQL Server Software Engineer](#netsql-server-software-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+
+### Android Engineer
+
+* 2+ years experience in mobile application development
+* 2+ years of native technologies or mobile frameworks
+* 2+ years of programming
+* Knowledge of XML and JSON parsers
+* Excellent problem solving, critical thinking, and communication skill
+* Ability to thrive in a highly collaborative environment focused on learning and on peer-reviewing all code changes
+* Strong object-oriented programming and software design and architecture skills
+* Ability to design and prototype user-facing features
+* Excellent debugging and performance analysis skills
+* Familiarity with Test Driven Development and Agile Methodologies
+* Experience working with mobile operating systems and mobile industry standards
+* Experience with Android SDK
+* Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
+* Integration and object-oriented analysis and design (OOAD)
 
 ### Front End Ember/Python Engineer
 
@@ -119,21 +137,3 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 ## Credit
 
 Inspired by [npm/jobs](https://github.com/npm/jobs)
-
-
-### Android Developer 
-
-* 2+ Years’ experience in mobile application development
-* 2+ years of native technologies or mobile frameworks
-* 2+ years of programming
-* Knowledge of XML and JSON parsers.
-* Excellent problem solving, critical thinking, and communication skill
-* Ability to thrive in a highly collaborative environment focused on learning and on peer-reviewing all code changes
-* Strong object-oriented programming and software design and architecture skills
-* Ability to design and prototype user-facing features
-* Excellent debugging and performance analysis skills
-* Familiarity with Test Driven Development and Agile Methodologies
-* Experience working with mobile operating systems and mobile industry standards.
-* Experience with Android SDK.
-* Experience with different architectures like Model-view-controller (MVC) architecture and Model-view-presenter (MVP)
-* integration and Object-oriented analysis and design (OOAD).
