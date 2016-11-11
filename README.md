@@ -17,8 +17,6 @@ create great things.
 ## Our openings
 
 * [Android Engineer](#android-engineer)
-* [Front End Ember/Python Engineer](#front-end-emberpython-engineer)
-* [Front End Engineer](#front-end-engineer)
 * [iOS Engineer](#ios-engineer)
 * [Full Stack .NET Software Engineer](#full-stack-net-software-engineer)
 * [.NET/Silverlight Software Engineer](#netsilverlight-software-engineer)
