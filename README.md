@@ -43,31 +43,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
 
-### Front End Ember/Python Engineer
-
-#### Must have
-
-* 2+ years of experience with Ember.js :hamster:
-* 3+ years of experience with Python
-* Postgres
-* RDBMS
-* Great English communication skill
-
-### Front End Engineer
-
-#### Requirements and experience with
-
-* Hands on experience with Ember.js is a must
-* Very strong proficiency in JavaScript
-* Experience using Rails for back end
-* Postgres
-* SQL
-
-#### Personal Attributes :full_moon_with_face:
-
-* Effective English communication skills
-* Speaks up and is confident of their input regarding their project and team
-* Likes to have fun :rainbow:
 
 ### iOS Engineer
 
