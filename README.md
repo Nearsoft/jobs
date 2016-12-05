@@ -18,9 +18,7 @@ create great things.
 
 * [Android Engineer](#android-engineer)
 * [iOS Engineer](#ios-engineer)
-* [Full Stack .NET Software Engineer](#full-stack-net-software-engineer)
-* [.NET/Silverlight Software Engineer](#netsilverlight-software-engineer)
-* [.NET/SQL Server Software Engineer](#netsql-server-software-engineer)
+
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
@@ -57,55 +55,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with Unit testing & Test-driven Development (TDD)
 * B.S./M.S. in computer science a plus but not required
 
-### Full Stack .NET Software Engineer
-
-#### Must have :information_desk_person:
-
-* Hands on experience in Web development using MVC, C# and the Entity Framework, RESTful API development and using a database such as SQL Server or Oracle
-* Strong front end development skills using HTML, JavaScript and libraries such as AngularJS
-* Comprehensive experience using Visual Studio
-* Excellent understanding of Object Oriented concepts
-* Solid knowledge of SOLID principles
-* Design patterns knowledge
-* Test driven or unit test experience
-* Experience working on an Agile development team, both on-site and remotely
-* Integrity, pro-activity and a sense of ownership about what they do
-* Passionate about software development
-
-### .NET/Silverlight Software Engineer
-
-#### Must have :alien:
-
-* Hands on experience in Web development using MVC, C# and the Entity Framework, RESTful API development and using a database such as SQL Server or Oracle
-* Experience with WPF Silverlight /XAML, MVVM
-* Comprehensive experience using Visual Studio
-* Test driven or unit test experience
-* Excellent understanding of Object Oriented concepts
-* Solid knowledge of SOLID principles
-* Design patterns knowledge
-* Experience working on an Agile development team, both on-site and remotely
-* Really good English skills, both written and listening comprehension
-* Integrity, pro-activity and a sense of ownership about what they do
-* Passionate about software development
-
-### .NET/SQL Server Software Engineer
-
-#### Must have :point_left:
-
-* Hands on experience in Web development using MVC, C# and the Entity Framework, RESTful API development
-* Strong understanding of RDBMS databases, ideally SQL Server
-* Actual real experience with large amounts of data (leadership in this area)
-* Comprehensive experience using Visual Studio
-* Excellent understanding of Object Oriented concepts
-* Solid knowledge of SOLID principles
-* Design patterns knowledge
-* Test driven or unit test experience
-* Experience working on an Agile development team, both on-site and remotely
-* Really good English skills, both written and listening comprehension
-* Integrity, pro-activity and a sense of ownership about what they do
-* Passionate about software development
-
-If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
 ## Credit
 
