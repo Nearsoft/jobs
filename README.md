@@ -19,7 +19,6 @@ create great things.
 * [Android Engineer](#android-engineer)
 * [iOS Engineer](#ios-engineer)
 
-
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
 ### Android Engineer
@@ -39,7 +38,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
 
-
 ### iOS Engineer
 
 #### Requirements
@@ -54,7 +52,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Strong understanding of the Software design/architecture process
 * Experience with Unit testing & Test-driven Development (TDD)
 * B.S./M.S. in computer science a plus but not required
-
 
 ## Credit
 
