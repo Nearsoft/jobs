@@ -16,10 +16,21 @@ create great things.
 
 ## Our openings
 
+* [Ruby on Rails Engineer](#Ruby on Rails-engineer)
 * [Android Engineer](#android-engineer)
 * [iOS Engineer](#ios-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+
+### Ruby on Rails Engineer
+
+* Strong Ruby experience (on and off rails)
+* Experience designing and developing distributed architecture, preferably using RESTful Web Services
+* Extensive experience with testing frameworks (Rspec, Test::Unit, Cucumber)
+* Comfortable crafting complex queries in MySQL/Mongo
+* Experience working with Solr/ElasticSearch
+* Familiar with HTML/CSS/OO Javascript/AJAX
+
 
 ### Android Engineer
 
