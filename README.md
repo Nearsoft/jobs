@@ -24,13 +24,12 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 ### Ruby on Rails Engineer
 
-* Strong Ruby experience (on and off rails)
+* Strong Ruby experience (on and off Rails)
 * Experience designing and developing distributed architecture, preferably using RESTful Web Services
-* Extensive experience with testing frameworks (Rspec, Test::Unit, Cucumber)
-* Comfortable crafting complex queries in MySQL/Mongo
-* Experience working with Solr/ElasticSearch
-* Familiar with HTML/CSS/OO Javascript/AJAX
-
+* Extensive experience with testing frameworks (RSpec, Test::Unit, Cucumber)
+* Comfortable writing complex queries in MySQL/MongoDB
+* Experience working with Solr/Elastic Search
+* Familiar with HTML/CSS, Object-orientation and JavaScript/Ajax
 
 ### Android Engineer
 
