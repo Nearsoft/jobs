@@ -17,6 +17,7 @@ create great things.
 ## Our openings
 
 * [Ruby on Rails Engineer](#Ruby on Rails-engineer)
+* [Frontend Engineer](#Ruby on Rails-engineer)
 * [Android Engineer](#android-engineer)
 * [iOS Engineer](#ios-engineer)
 
@@ -30,6 +31,19 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Comfortable writing complex queries in MySQL/MongoDB
 * Experience working with Solr/Elastic Search
 * Familiar with HTML/CSS, Object-orientation and JavaScript/Ajax
+
+### Frontend Engineer
+
+* Exceptional JavaScript programming skills. This is our primary requirement.
+* Excellent HTML, XHTML, CSS programming skills.
+* Developing cross-browser and cross-platform compatible solutions.
+* Understanding of MVC frameworks paradigms both on the server and inside browsers talking to servers through REST APIs.
+* Experience designing large-scale consumer or enterprise products.
+* BS in Computer Science or other related discipline/experience.
+* Self-starter, driven and obsessed about building great products.
+* Nice to have video experience such as Roku, fine TV, smart TV (...)
+
+
 
 ### Android Engineer
 
