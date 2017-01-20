@@ -62,6 +62,7 @@
     "RDBMS",
     "Robolectric",
     "Robotium",
+    "Roku",
     "RSpec",
     "RxJava",
     "SaaS",
@@ -74,6 +75,7 @@
     "Underscore.js",
     "webpack",
     "WPF",
-    "XAML"
+    "XAML",
+    "XHTML"
   ]
 }
