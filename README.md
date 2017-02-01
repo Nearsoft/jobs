@@ -19,9 +19,10 @@ create great things.
 * [Android Engineer](#android-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [iOS Engineer](#ios-engineer)
-* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
+
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+
 
 ### Android Engineer
 
@@ -40,6 +41,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
 
+
 ### Front End Engineer
 
 * Exceptional JavaScript programming skills. This is our primary requirement
@@ -50,6 +52,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * B.S. in Computer Science or other related discipline/experience
 * Self-starter, driven and obsessed about building great products
 * Nice to have video experience such as Roku, Fine TV, Smart TV
+
 
 ### iOS Engineer
 
@@ -64,14 +67,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with Unit testing & Test-driven Development (TDD)
 * B.S./M.S. in computer science a plus but not required
 
-### Ruby on Rails Engineer
-
-* Strong Ruby experience (on and off Rails)
-* Experience designing and developing distributed architecture, preferably using RESTful Web Services
-* Extensive experience with testing frameworks (RSpec, Test::Unit, Cucumber)
-* Comfortable writing complex queries in MySQL/MongoDB
-* Experience working with Solr/Elastic Search
-* Familiar with HTML/CSS, Object-orientation and JavaScript/Ajax
 
 ## Credit
 
