@@ -19,6 +19,7 @@ create great things.
 * [Android Engineer](#android-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [iOS Engineer](#ios-engineer)
+* [.NET/Silverlight Engineer](#.NET/Silverlight-engineer)
 
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
@@ -66,6 +67,21 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Strong understanding of the Software design/architecture process
 * Experience with Unit testing & Test-driven Development (TDD)
 * B.S./M.S. in computer science a plus but not required
+
+
+### .NET/Silverlight Engineer
+
+* Hands on experience in Web development using MVC, C# and the Entity Framework, RESTful API development and using a database such as SQL Server or Oracle.
+* Strong experience with WPF silverlight /XAML, MVVM (required).
+* Comprehensive experience using Visual Studio.
+* Test driven or unit test experience. 
+* Excellent understanding of Object Oriented concepts.
+* Solid knowledge of SOLID principles.
+* Design patterns knowledge.
+* Experience working on an Agile development team, both on-site and remotely.
+* Really good english skills, both written and listening comprehension.
+* Integrity, proactivity and a sense of ownership about what they do. 
+* Passionate about software development.
 
 
 ## Credit
