@@ -19,11 +19,9 @@ create great things.
 * [Android Engineer](#android-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [iOS Engineer](#ios-engineer)
-* [.NET/Silverlight Engineer](#.NET/Silverlight-engineer)
-
+* [.NET/Silverlight Engineer](#netsilverlight-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
-
 
 ### Android Engineer
 
@@ -42,7 +40,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
 
-
 ### Front End Engineer
 
 * Exceptional JavaScript programming skills. This is our primary requirement
@@ -53,7 +50,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * B.S. in Computer Science or other related discipline/experience
 * Self-starter, driven and obsessed about building great products
 * Nice to have video experience such as Roku, Fine TV, Smart TV
-
 
 ### iOS Engineer
 
@@ -68,21 +64,19 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with Unit testing & Test-driven Development (TDD)
 * B.S./M.S. in computer science a plus but not required
 
-
 ### .NET/Silverlight Engineer
 
-* Hands on experience in Web development using MVC, C# and the Entity Framework, RESTful API development and using a database such as SQL Server or Oracle.
-* Strong experience with WPF silverlight /XAML, MVVM (required).
-* Comprehensive experience using Visual Studio.
-* Test driven or unit test experience. 
-* Excellent understanding of Object Oriented concepts.
-* Solid knowledge of SOLID principles.
-* Design patterns knowledge.
-* Experience working on an Agile development team, both on-site and remotely.
-* Really good english skills, both written and listening comprehension.
-* Integrity, proactivity and a sense of ownership about what they do. 
-* Passionate about software development.
-
+* Hands on experience in Web development using MVC, C# and the Entity Framework, RESTful API development and using a database such as SQL Server or Oracle
+* Strong experience with WPF Silverlight/XAML, MVVM (required)
+* Comprehensive experience using Visual Studio
+* Test driven or unit test experience
+* Excellent understanding of object-oriented concepts
+* Solid knowledge of SOLID principles
+* Design patterns knowledge
+* Experience working on an Agile development team, both on-site and remotely
+* Really good English skills, both written and listening comprehension
+* Integrity, pro-activity and a sense of ownership about what they do
+* Passionate about software development
 
 ## Credit
 
