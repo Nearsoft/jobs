@@ -53,16 +53,29 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 ### iOS Engineer
 
-* You are a strong mobile enthusiast: You have strong interest and opinions about mobile technology
-* You have shipped at least 1 mobile app (native iOS), either personally or with a company
-* 5+ years experience developing web, software, or mobile applications
-* Strong experience with Objective-C
-* Experience with the entire Software Development Life Cycle (SDLC)
-* Familiarity with iOS UI design principles and accessibility best practices
-* Solid communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences
-* Strong understanding of the Software design/architecture process
-* Experience with Unit testing & Test-driven Development (TDD)
-* B.S./M.S. in computer science a plus but not required
+As Developer
+* Strong and Comprehensive knowledge/experience in Objective-C**
+* Strong experience building views WITHOUT storyboards or .xib (pure code)
+* Strong experience with Auto Layout using NSLayoutConstraints
+* Comprehensive knowledge for App Life Cycle and View Controller Life Cycle
+* Competitive in Swift 
+* Familiar with Size Classes 
+* Familiar with GitFlow
+* Familiar with GitSubmodules and Workspaces
+* Very Good Coding Practices(Maintainability, Usability, Clear)
+
+Nice to have:
+* Knowledge using Charles Proxy
+* Strong debugging skills(Breakpoints, Console, Debug View Hierarchy)
+
+
+As Person/Professional
+* Someone that can team-up easily 
+* That is able to write code highly maintainable and scalable.
+* He/She must have highly disponilility to be at Hermosillo the time necessary  to help him/her (not teach) to get familiar with the code and the "ways" of the client.
+
+BIG Plus
+* Willing to pay the beers and "alitas”, several times... Sometimes I get hungry and my wife took all my money.
 
 ### .NET/Silverlight Engineer
 
