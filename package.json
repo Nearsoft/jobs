@@ -2,10 +2,10 @@
   "name": "nearsoft-jobs",
   "description": "Our openings at Nearsoft",
   "scripts": {
-    "test-spelling": "yaspeller *.md",
-    "test-writing": "alex *.md --diff",
-    "test-markdown-lint": "remark *.md --quiet --no-stdout",
-    "test": "npm run test-spelling && npm run test-writing && npm run test-markdown-lint"
+    "test:spelling": "yaspeller-ci *.md",
+    "test:writing": "alex *.md --diff",
+    "test:markdown-lint": "remark *.md --quiet --no-stdout",
+    "test": "npm run test:spelling && npm run test:writing && npm run test:markdown-lint"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "alex": "^4.0.1",
     "remark-cli": "^2.0.0",
     "remark-lint": "^5.1.0",
-    "yaspeller": "^2.9.1"
+    "yaspeller-ci": "^0.3.0"
   },
   "engines": {
     "node": ">=4"
