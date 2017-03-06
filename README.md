@@ -2,8 +2,7 @@
 
 [![Build status](https://img.shields.io/travis/Nearsoft/jobs.svg)](https://travis-ci.org/Nearsoft/jobs)
 
-At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals who want to join our team and help us
-create great things.
+At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals who want to join our team and help us create great things.
 
 ## Follow us
 
@@ -53,29 +52,28 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 ### iOS Engineer
 
-As Developer
-* Strong and Comprehensive knowledge/experience in Objective-C**
-* Strong experience building views WITHOUT storyboards or .xib (pure code)
-* Strong experience with Auto Layout using NSLayoutConstraints
+#### As a Developer
+
+* Strong and comprehensive knowledge/experience in Objective-C
+* Strong experience building views without storyboards or `.xib` (pure code)
+* Strong experience with Auto Layout using `NSLayoutConstraints`
 * Comprehensive knowledge for App Life Cycle and View Controller Life Cycle
-* Competitive in Swift 
-* Familiar with Size Classes 
+* Competitive in Swift
+* Familiar with Size Classes
 * Familiar with GitFlow
-* Familiar with GitSubmodules and Workspaces
-* Very Good Coding Practices(Maintainability, Usability, Clear)
+* Familiar with Git submodules and workspaces
+* Very good coding practices (Maintainability, Usability, Clear)
 
-Nice to have:
+#### Nice to have
+
 * Knowledge using Charles Proxy
-* Strong debugging skills(Breakpoints, Console, Debug View Hierarchy)
+* Strong debugging skills (breakpoints, console, debug view hierarchy)
 
+#### As a Person/Professional
 
-As Person/Professional
-* Someone that can team-up easily 
-* That is able to write code highly maintainable and scalable.
-* He/She must have highly disponilility to be at Hermosillo the time necessary  to help him/her (not teach) to get familiar with the code and the "ways" of the client.
-
-BIG Plus
-* Willing to pay the beers and "alitas”, several times... Sometimes I get hungry and my wife took all my money.
+* Someone that can team-up easily
+* That is able to write code highly maintainable and scalable
+* Willingness to be at Hermosillo the necessary time in order to get familiar with the code and the client
 
 ### .NET/Silverlight Engineer
 
