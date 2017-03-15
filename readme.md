@@ -9,9 +9,7 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 * [Facebook](https://www.facebook.com/NearsoftInc)
 * [Twitter](https://twitter.com/nearsoft)
 * [Flickr](https://www.flickr.com/photos/nearsoft)
-* [Nearsoft Jobs@Medium](https://medium.com/nearsoft-jobs)
-* [Nearsoft Jobs@Facebook](https://www.facebook.com/nearsoftjobs)
-* [Nearsoft Jobs@Twitter](https://twitter.com/NearsoftJobs)
+* [Nearsoft Jobs](http://nearsoftjobs.com)
 
 ## Our openings
 
