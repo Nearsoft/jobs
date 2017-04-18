@@ -14,7 +14,6 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 ## Our openings
 
 * [Android Engineer](#android-engineer)
-* [Front End Engineer](#front-end-engineer)
 * [iOS Engineer](#ios-engineer)
 * [.NET/Silverlight Engineer](#netsilverlight-engineer)
 
@@ -36,17 +35,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with Android SDK
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
-
-### Front End Engineer
-
-* Exceptional JavaScript programming skills. This is our primary requirement
-* Excellent HTML, XHTML, CSS skills
-* Developing cross-browser and cross-platform compatible solutions
-* Understanding of MVC frameworks paradigms both on the server and inside browsers talking to servers through REST APIs
-* Experience designing large-scale consumer or enterprise products
-* B.S. in Computer Science or other related discipline/experience
-* Self-starter, driven and obsessed about building great products
-* Nice to have video experience such as Roku, Fine TV, Smart TV
 
 ### iOS Engineer
 
