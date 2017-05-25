@@ -13,11 +13,24 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 
 ## Our openings
 
+* [Ruby Engineer](#Ruby-Engineer)
 * [Android Engineer](#android-engineer)
 * [iOS Engineer](#ios-engineer)
 * [.NET/Silverlight Engineer](#netsilverlight-engineer)
 
+
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+
+
+### Ruby Engineer
+
+* Experience building web apps. Share with us a project if you can!
+* Deep experience with Ruby
+* Experience delivering software in an agile development environment
+* Demonstrated experience with all tiers of development, front to back
+* Deep belief in automated testing and continuous integration. Because we do too!
+* A passion for learning the latest technologies and standards.
+
 
 ### Android Engineer
 
