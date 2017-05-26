@@ -13,14 +13,12 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 
 ## Our openings
 
-* [Ruby Engineer](#Ruby-Engineer)
+* [Ruby Engineer](#ruby-engineer)
 * [Android Engineer](#android-engineer)
 * [iOS Engineer](#ios-engineer)
 * [.NET/Silverlight Engineer](#netsilverlight-engineer)
 
-
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
-
 
 ### Ruby Engineer
 
