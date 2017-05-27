@@ -15,7 +15,7 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 
 * [Android Engineer](#android-engineer)
 * [iOS Engineer](#ios-engineer)
-* [.NET/Silverlight Engineer](#netsilverlight-engineer)
+* [Fullstack.NET Engineer](#fullstack-engineer)
 * [Ruby Engineer](#ruby-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
@@ -62,12 +62,13 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * That is able to write code highly maintainable and scalable
 * Willingness to be at Hermosillo the necessary time in order to get familiar with the code and the client
 
-### .NET/Silverlight Engineer
+### Fullstack.NET Engineer
 
-* Hands on experience in Web development using MVC, C# and the Entity Framework, RESTful API development and using a database such as SQL Server or Oracle
-* Strong experience with WPF Silverlight/XAML, MVVM (required)
-* Comprehensive experience using Visual Studio
-* Test driven or unit test experience
+* Strong with MongoDB
+* Experience working with Microservices pattern 
+* Runs in Linux (CentOS)
+* Strong experience working with React.js
+* Nice to have Inferno.JS
 * Excellent understanding of object-oriented concepts
 * Solid knowledge of SOLID principles
 * Design patterns knowledge
