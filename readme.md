@@ -14,8 +14,8 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 ## Our openings
 
 * [Android Engineer](#android-engineer)
+* [Full Stack .NET Engineer](#fullstack-engineer)
 * [iOS Engineer](#ios-engineer)
-* [Fullstack.NET Engineer](#fullstack-engineer)
 * [Ruby Engineer](#ruby-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
@@ -36,6 +36,21 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with Android SDK
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
+
+### Full Stack. NET Engineer
+
+* Strong with MongoDB
+* Experience working with Microservices pattern
+* Runs in Linux (CentOS)
+* Strong experience working with React.js
+* Nice to have Inferno.JS
+* Excellent understanding of object-oriented concepts
+* Solid knowledge of SOLID principles
+* Design patterns knowledge
+* Experience working on an Agile development team, both on-site and remotely
+* Really good English skills, both written and listening comprehension
+* Integrity, pro-activity and a sense of ownership about what they do
+* Passionate about software development
 
 ### iOS Engineer
 
@@ -61,21 +76,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Someone that can team-up easily
 * That is able to write code highly maintainable and scalable
 * Willingness to be at Hermosillo the necessary time in order to get familiar with the code and the client
-
-### Fullstack.NET Engineer
-
-* Strong with MongoDB
-* Experience working with Microservices pattern 
-* Runs in Linux (CentOS)
-* Strong experience working with React.js
-* Nice to have Inferno.JS
-* Excellent understanding of object-oriented concepts
-* Solid knowledge of SOLID principles
-* Design patterns knowledge
-* Experience working on an Agile development team, both on-site and remotely
-* Really good English skills, both written and listening comprehension
-* Integrity, pro-activity and a sense of ownership about what they do
-* Passionate about software development
 
 ### Ruby Engineer
 
