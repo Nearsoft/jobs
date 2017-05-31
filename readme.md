@@ -14,7 +14,7 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 ## Our openings
 
 * [Android Engineer](#android-engineer)
-* [Full Stack .NET Engineer](#fullstack-engineer)
+* [Full Stack .NET Engineer](#full-stack-net-engineer)
 * [iOS Engineer](#ios-engineer)
 * [Ruby Engineer](#ruby-engineer)
 
