@@ -79,12 +79,15 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 ### Ruby Engineer
 
-* Experience building web apps. Share with us a project if you can!
-* Deep experience with Ruby
-* Experience delivering software in an agile development environment
-* Demonstrated experience with all tiers of development, front to back
-* Deep belief in automated testing and continuous integration. Because we do too!
-* A passion for learning the latest technologies and standards
+* 2+ years experience in ruby development
+* 2+ years experience with ruby frameworks (RoR or Grape)
+* Knowledge of REST API platforms
+* Excellent problem solving, critical thinking, and communication skill
+* Ability to thrive in a highly collaborative environment focused on learning and on peer-reviewing all code changes
+* Strong object-oriented programming and software design and architecture skills
+* Excellent debugging and performance analysis skills
+* Familiarity with Test Driven Development, Behavioral Driven Development and Agile Methodologies
+* Familiarity working with Ruby legacy versions (2.1.10 or older)
 
 ## Credit
 
