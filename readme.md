@@ -79,14 +79,15 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 ### Ruby Engineer
 
-* Minimum of 5+ years of work experience with at least 3+ years of backend Ruby/Rails development. Experience with other programming languages such as Java is a definite asset.
-* Experience with a range of data stores, including relational (SQL), column-oriented and key-value stores such as Postgres, Memcache, Redis and RedShift.
-* Knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, agile development, build processes, testing, and operations.
+* Minimum of 5+ years of work experience with at least 3+ years of back end Ruby/Rails development
+* Experience with other programming languages such as Java is a definite asset
+* Experience with a range of data stores, including relational (SQL), column-oriented and key-value stores such as Postgres, Memcached, Redis and Redshift
+* Knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, agile development, build processes, testing, and operations
 * Experience with the following technologies is preferred:
-* AWS platform and its many components (S3, API Gateway, Lambda etc)
-* Microservices architecture
-* Swagger and RESTful API design
-* Docker containerization
+    * AWS platform and its many components (S3, API Gateway, Lambda, etc.)
+    * Microservices architecture
+    * Swagger and RESTful API design
+    * Docker containerization
 
 ## Credit
 
