@@ -33,7 +33,8 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Swagger and RESTful API design
     * Docker containerization
     
-    ### Full Stack. NET Engineer
+    
+### Full Stack. NET Engineer
 
 * Strong with MongoDB
 * Experience working with Microservices pattern
