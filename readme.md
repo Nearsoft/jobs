@@ -20,6 +20,35 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
+
+### Ruby Engineer
+
+* Minimum of 5+ years of work experience with at least 3+ years of back end Ruby/Rails development
+* Experience with other programming languages such as Java is a definite asset
+* Experience with a range of data stores, including relational (SQL), column-oriented and key-value stores such as Postgres, Memcached, Redis and Redshift
+* Knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, agile development, build processes, testing, and operations
+* Experience with the following technologies is preferred:
+    * AWS platform and its many components (S3, API Gateway, Lambda, etc.)
+    * Microservices architecture
+    * Swagger and RESTful API design
+    * Docker containerization
+    
+    ### Full Stack. NET Engineer
+
+* Strong with MongoDB
+* Experience working with Microservices pattern
+* Runs in Linux (CentOS)
+* Strong experience working with React.js
+* Nice to have Inferno.JS
+* Excellent understanding of object-oriented concepts
+* Solid knowledge of SOLID principles
+* Design patterns knowledge
+* Experience working on an Agile development team, both on-site and remotely
+* Really good English skills, both written and listening comprehension
+* Integrity, pro-activity and a sense of ownership about what they do
+* Passionate about software development
+
+
 ### Android Engineer
 
 * 2+ years experience in mobile application development
@@ -37,20 +66,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
 
-### Full Stack. NET Engineer
-
-* Strong with MongoDB
-* Experience working with Microservices pattern
-* Runs in Linux (CentOS)
-* Strong experience working with React.js
-* Nice to have Inferno.JS
-* Excellent understanding of object-oriented concepts
-* Solid knowledge of SOLID principles
-* Design patterns knowledge
-* Experience working on an Agile development team, both on-site and remotely
-* Really good English skills, both written and listening comprehension
-* Integrity, pro-activity and a sense of ownership about what they do
-* Passionate about software development
 
 ### iOS Engineer
 
@@ -77,17 +92,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * That is able to write code highly maintainable and scalable
 * Willingness to be at Hermosillo the necessary time in order to get familiar with the code and the client
 
-### Ruby Engineer
 
-* Minimum of 5+ years of work experience with at least 3+ years of back end Ruby/Rails development
-* Experience with other programming languages such as Java is a definite asset
-* Experience with a range of data stores, including relational (SQL), column-oriented and key-value stores such as Postgres, Memcached, Redis and Redshift
-* Knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, agile development, build processes, testing, and operations
-* Experience with the following technologies is preferred:
-    * AWS platform and its many components (S3, API Gateway, Lambda, etc.)
-    * Microservices architecture
-    * Swagger and RESTful API design
-    * Docker containerization
 
 ## Credit
 
