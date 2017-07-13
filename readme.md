@@ -13,13 +13,12 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 
 ## Our openings
 
-* [Android Engineer](#android-engineer)
-* [Full Stack .NET Engineer](#full-stack-net-engineer)
-* [iOS Engineer](#ios-engineer)
 * [Ruby Engineer](#ruby-engineer)
+* [Full Stack .NET Engineer](#full-stack-net-engineer)
+* [Android Engineer](#android-engineer)
+* [iOS Engineer](#ios-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
-
 
 ### Ruby Engineer
 
@@ -32,9 +31,8 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Microservices architecture
     * Swagger and RESTful API design
     * Docker containerization
-    
-    
-### Full Stack. NET Engineer
+
+### Full Stack .NET Engineer
 
 * Strong with MongoDB
 * Experience working with Microservices pattern
@@ -48,7 +46,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Really good English skills, both written and listening comprehension
 * Integrity, pro-activity and a sense of ownership about what they do
 * Passionate about software development
-
 
 ### Android Engineer
 
@@ -67,10 +64,9 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
 
-
 ### iOS Engineer
 
-#### As a Developer
+#### As an Engineer
 
 * Strong and comprehensive knowledge/experience in Objective-C
 * Strong experience building views without storyboards or `.xib` (pure code)
@@ -92,8 +88,6 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Someone that can team-up easily
 * That is able to write code highly maintainable and scalable
 * Willingness to be at Hermosillo the necessary time in order to get familiar with the code and the client
-
-
 
 ## Credit
 
