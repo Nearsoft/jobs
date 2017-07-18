@@ -36,6 +36,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 * Strong with MongoDB
 * Experience working with Microservices pattern
+* Node.js is a must
 * Runs in Linux (CentOS)
 * Strong experience working with React.js
 * Nice to have Inferno.JS
