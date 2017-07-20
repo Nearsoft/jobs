@@ -32,6 +32,18 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Swagger and RESTful API design
     * Docker containerization
 
+
+### DevOps with .NET Development experience
+
+## We need at least 2 years of experience with these tools:
+* TeamCity
+* BitBucket/Git
+* Visual Studio 2010 and 2015 Solutions
+* IIS and Windows Servers
+* SQL Database 2008 and 2012
+
+
+
 ### Full Stack .NET Engineer
 
 * Strong with MongoDB
