@@ -33,7 +33,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Docker containerization
 
 
-## DevOps with .NET Development experience
+## DevOps
 
 ### We need at least 2 years of experience with these tools:
 * TeamCity
@@ -41,6 +41,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Visual Studio 2010 and 2015 Solutions
 * IIS and Windows Servers
 * SQL Database 2008 and 2012
+* .NET Development experience
 
 
 
