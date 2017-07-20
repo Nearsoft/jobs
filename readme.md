@@ -20,7 +20,7 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
-### Ruby Engineer
+## Ruby Engineer
 
 * Minimum of 5+ years of work experience with at least 3+ years of back end Ruby/Rails development
 * Experience with other programming languages such as Java is a definite asset
@@ -44,7 +44,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 
 
-### Full Stack .NET Engineer
+## Full Stack .NET Engineer
 
 * Strong with MongoDB
 * Experience working with Microservices pattern
@@ -60,7 +60,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Integrity, pro-activity and a sense of ownership about what they do
 * Passionate about software development
 
-### Android Engineer
+## Android Engineer
 
 * 2+ years experience in mobile application development
 * 2+ years of native technologies or mobile frameworks
@@ -77,7 +77,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
 * Integration and object-oriented analysis and design (OOAD)
 
-### iOS Engineer
+## iOS Engineer
 
 #### As an Engineer
 
