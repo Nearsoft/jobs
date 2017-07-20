@@ -14,6 +14,7 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 ## Our openings
 
 * [Ruby Engineer](#ruby-engineer)
+* [DevOps Engineer](#devops-engineer)
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
 * [Android Engineer](#android-engineer)
 * [iOS Engineer](#ios-engineer)
@@ -32,18 +33,16 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Swagger and RESTful API design
     * Docker containerization
 
+## DevOps Engineer
 
-## DevOps
+We need at least *2 years* of experience with these tools:
 
-### We need at least 2 years of experience with these tools:
 * TeamCity
 * BitBucket/Git
 * Visual Studio 2010 and 2015 Solutions
 * IIS and Windows Servers
 * SQL Database 2008 and 2012
 * .NET Development experience
-
-
 
 ## Full Stack .NET Engineer
 
