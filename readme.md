@@ -35,7 +35,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 ## DevOps Engineer
 
-We need at least *2 years* of experience with these tools:
+We need at least **2 years** of experience with these tools:
 
 * TeamCity
 * BitBucket/Git
