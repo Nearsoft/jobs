@@ -14,6 +14,7 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 ## Our openings
 
 * [Ruby Engineer](#ruby-engineer)
+* [PHP Engineer](#PHP-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
 * [Android Engineer](#android-engineer)
@@ -32,6 +33,17 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Microservices architecture
     * Swagger and RESTful API design
     * Docker containerization
+    
+## PHP Engineer
+
+We need at least **2 years** of experience with these tools:
+
+* Very strong on engineering concept such as OOP/OOD
+* Knowledge and experience on Design Patterns
+* Have used Unit Testing and undestrand the software development life cycle
+* Web related programming patterns (MVC, ReST)
+* Git
+* Laravel and React is a must.
 
 ## DevOps Engineer
 
