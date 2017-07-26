@@ -15,6 +15,7 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 
 * [Ruby Engineer](#ruby-engineer)
 * [PHP Engineer](#PHP-engineer)
+* [Senior .NET Developer](#Senior-.NET-Developer)
 * [DevOps Engineer](#devops-engineer)
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
 * [Android Engineer](#android-engineer)
@@ -44,6 +45,19 @@ We need at least **2 years** of experience with these tools:
 * Web related programming patterns (MVC, ReST)
 * Git
 * Laravel and React is a must.
+
+## Senior .NET Developer
+
+We need at least **5 years** as a Software Developer:
+
+* Proficient with Microsoft .NET 3.5+ development using C#
+* MVC
+* Bootstrap or other modern JS frameworks
+* Experience with source control management systems and CI/deployment environments. (specifically, TFS)
+* Experience with web development technologies including ASP.NET, MVC3+, JavaScript, AJAX and CSS.
+* Experience with database development including relational database design, SQL and ORM technologies.
+* Nice to have SCORM or other LMS content
+* Nice to have with SOAP/REST
 
 ## DevOps Engineer
 
