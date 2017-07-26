@@ -14,8 +14,8 @@ At [Nearsoft](http://nearsoft.com) we're always looking for talented individuals
 ## Our openings
 
 * [Ruby Engineer](#ruby-engineer)
-* [PHP Engineer](#PHP-engineer)
-* [Senior .NET Developer](#Senior-.NET-Developer)
+* [PHP Engineer](#php-engineer)
+* [Senior .NET Engineer](#senior-net-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
 * [Android Engineer](#android-engineer)
@@ -34,30 +34,30 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Microservices architecture
     * Swagger and RESTful API design
     * Docker containerization
-    
+
 ## PHP Engineer
 
 We need at least **2 years** of experience with these tools:
 
-* Very strong on engineering concept such as OOP/OOD
+* Very strong on engineering concepts such as OOP/OOD
 * Knowledge and experience on Design Patterns
-* Have used Unit Testing and undestrand the software development life cycle
-* Web related programming patterns (MVC, ReST)
+* Have used Unit Testing and understanding of the software development life cycle
+* Web related programming patterns (MVC, REST)
 * Git
-* Laravel and React is a must.
+* Laravel and React.js is a must.
 
-## Senior .NET Developer
+## Senior .NET Engineer
 
-We need at least **5 years** as a Software Developer:
+We need at least **5 years** as a Software Engineer:
 
 * Proficient with Microsoft .NET 3.5+ development using C#
 * MVC
-* Bootstrap or other modern JS frameworks
-* Experience with source control management systems and CI/deployment environments. (specifically, TFS)
-* Experience with web development technologies including ASP.NET, MVC3+, JavaScript, AJAX and CSS.
-* Experience with database development including relational database design, SQL and ORM technologies.
+* Bootstrap or other modern JavaScript frameworks
+* Experience with source control management systems and CI/deployment environments (specifically, TFS)
+* Experience with web development technologies including ASP.NET, MVC3+, JavaScript, Ajax and CSS
+* Experience with database development including relational database design, SQL and ORM technologies
 * Nice to have SCORM or other LMS content
-* Nice to have with SOAP/REST
+* Nice to have SOAP/REST
 
 ## DevOps Engineer
 
