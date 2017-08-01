@@ -13,7 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
-* [Ruby Engineer](#ruby-engineer)
+* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [QA Automation](#qa-automation)
 * [PHP Engineer](#php-engineer)
 * [Senior .NET Engineer](#senior-net-engineer)
@@ -24,7 +24,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
-## Ruby Engineer
+## Ruby on Rails Engineer
 
 * Minimum of 5+ years of work experience with at least 3+ years of back end Ruby/Rails development
 * Experience with other programming languages such as Java is a definite asset
