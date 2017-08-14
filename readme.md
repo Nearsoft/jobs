@@ -13,7 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
-* [Senior Frontend Engineer](#senior-frontend-engineer)
+* [Senior Front End Engineer](#senior-front-end-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [QA Automation](#qa-automation)
 * [PHP Engineer](#php-engineer)
@@ -25,25 +25,26 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
-## Senior Frontend Engineer
+## Senior Front End Engineer
 
-* At least 5 years’ experience working as part of a software development team
-* Expert in HTML5, CSS3 and JavaScript (ES6)
-* Experience with modern front end frameworks like Angular, React or Vue
+* At least 5 years experience working as part of a software development team
+* Expert in HTML 5, CSS3 and JavaScript (ES6)
+* Experience with modern front end frameworks like AngularJS, React.js or Vue.js
 * Passion for mastering collaborative software development
-* Comfortable coding in your high level language of choice: we code primarily in Python and
-JavaScript
+* Comfortable coding in your high level language of choice: we code primarily in Python and JavaScript
 * Strong communication skills
-### NICE TO HAVE
+
+### Nice to have
+
 * Experience with Agile development
 * Experience developing distributed web services and micro service architectures
 * Experience working with RESTful APIs
 * Experience applying the SOLID principles
 * Deep understanding of refactoring and design patterns
-* Experience with GraphQL, Relay, Flux Application Architecture
+* Experience with GraphQL, Relay, Flux application architecture
 * Experience with Python
-* Experience with CouchDB, Elasticsearch or other NoSQL databases
-* Experience with Configuration Management Systems (puppet, vagrant, docker, ansible)
+* Experience with CouchDB, Elastic Search or other NoSQL databases
+* Experience with Configuration Management Systems (Puppet, Vagrant, Docker, Ansible)
 * Experience with Cloud Computing Platforms
 * Knowledge of Linux systems and Internet Protocols
 
