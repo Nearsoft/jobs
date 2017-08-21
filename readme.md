@@ -20,8 +20,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior .NET Engineer](#senior-net-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
-* [Android Engineer](#android-engineer)
-* [iOS Engineer](#ios-engineer)
+
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
@@ -148,47 +147,6 @@ We need at least **5 years** as a Software Engineer:
 * Integrity, pro-activity and a sense of ownership about what they do
 * Passionate about software development
 
-## Android Engineer
-
-* 2+ years experience in mobile application development
-* 2+ years of native technologies or mobile frameworks
-* 2+ years of programming
-* Knowledge of XML and JSON parsers
-* Excellent problem solving, critical thinking, and communication skill
-* Ability to thrive in a highly collaborative environment focused on learning and on peer-reviewing all code changes
-* Strong object-oriented programming and software design and architecture skills
-* Ability to design and prototype user-facing features
-* Excellent debugging and performance analysis skills
-* Familiarity with Test Driven Development and Agile Methodologies
-* Experience working with mobile operating systems and mobile industry standards
-* Experience with Android SDK
-* Experience with different architectures like Model-View-Controller (MVC) architecture and Model-View-Presenter (MVP)
-* Integration and object-oriented analysis and design (OOAD)
-
-## iOS Engineer
-
-### As an Engineer
-
-* Strong and comprehensive knowledge/experience in Objective-C
-* Strong experience building views without storyboards or `.xib` (pure code)
-* Strong experience with Auto Layout using `NSLayoutConstraints`
-* Comprehensive knowledge for App Life Cycle and View Controller Life Cycle
-* Competitive in Swift
-* Familiar with Size Classes
-* Familiar with GitFlow
-* Familiar with Git submodules and workspaces
-* Very good coding practices (Maintainability, Usability, Clear)
-
-### Nice to have
-
-* Knowledge using Charles Proxy
-* Strong debugging skills (breakpoints, console, debug view hierarchy)
-
-### As a Person/Professional
-
-* Someone that can team-up easily
-* That is able to write code highly maintainable and scalable
-* Willingness to be at Hermosillo the necessary time in order to get familiar with the code and the client
 
 ## Credit
 
