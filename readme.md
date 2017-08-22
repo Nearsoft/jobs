@@ -22,27 +22,25 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps Engineer](#devops-engineer)
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
 
-
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
 ## Senior Software Engineer
 
 * Excellent communication and teamwork skills
 * 3 years hands-on core JavaScript development
-* 3 years using modern web UI frameworks such as React, Angular, Aurelia
+* 3 years using modern web UI frameworks such as React.js, AngularJS, Aurelia
 * Cloud based development (AWS is a plus)
 * Ability to hand code JavaScript (without a framework)
 * Experience with Node.js
-* Familiarity with ES6/ECMAScript2015
+* Familiarity with ES6/ES2015
 * Familiarity with Typescript
 * Experience building large, multi-tenant web based and/or client server applications
 * Experience interfacing with RESTful APIs
 * Expert knowledge of OOD, design patterns, data structures and algorithms
-* Experience with role and rule based security and authentication tools and best-practices preferred (LDAP,
-single sign-on, etc)
+* Experience with role and rule based security and authentication tools and best-practices preferred (LDAP, single sign-on, etc)
 * Working knowledge of Agile/SCRUM development methodologies and best practices
 * Experience using Ruby a plus
-* Financial systems experience (accounting, payroll, etc.) a
+* Financial systems experience (accounting, payroll, etc.) a plus
 
 ## Senior Front End Engineer
 
