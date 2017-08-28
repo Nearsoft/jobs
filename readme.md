@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 * [Senior Software Engineer](#senior-software-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
+* [Ruby on Rails Developer](#ruby-on-rails-developer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [QA Automation](#qa-automation)
 * [PHP Engineer](#php-engineer)
@@ -23,6 +24,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+
 
 ## Senior Software Engineer
 
@@ -41,6 +43,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Working knowledge of Agile/SCRUM development methodologies and best practices
 * Experience using Ruby a plus
 * Financial systems experience (accounting, payroll, etc.) a plus
+
 
 ## Senior Front End Engineer
 
@@ -65,7 +68,8 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with Cloud Computing Platforms
 * Knowledge of Linux systems and Internet Protocols
 
-## Ruby on Rails Engineer
+
+## Ruby on Rails Developer
 
 * Minimum of 5+ years of work experience with at least 3+ years of back end Ruby/Rails development
 * Experience with other programming languages such as Java is a definite asset
@@ -76,6 +80,25 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Microservices architecture
     * Swagger and RESTful API design
     * Docker containerization
+    
+   
+ ## Ruby on Rails Engineer
+    
+* BS in Computer Science, Engineering, Mathematics, or Physics
+* In lieu of a technical degree, 4 years of relevant work experience is an acceptable substitute
+* Proficiency in Ruby, Rails, MySQL, Javascript
+* Strong foundation in computer science, with strong competencies in data structures, algorithms and software design
+* Work experience with relational databases and SQL
+* Experience with agile development process in collaborative environment
+* Good understanding of performance tradeoffs
+
+### Bonus points if you have:
+
+* Experience designing and deploying large scale distributed data processing systems
+* Experience in big data, information retrieval, data mining, or machine learning
+* High degree of proficiency in Linux systems administration
+* You’ve built (and are dying to show us) something you’re proud of, especially if it’s outside of work/school
+
 
 ## QA Automation
 
@@ -96,6 +119,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with GitHub, JIRA, Confluence and Jenkins is a plus
 * Experience with scripting
 
+
 ## PHP Engineer
 
 We need at least **2 years** of experience with these tools:
@@ -106,6 +130,7 @@ We need at least **2 years** of experience with these tools:
 * Web related programming patterns (MVC, REST)
 * Git
 * Laravel and React.js is a must
+
 
 ## Senior .NET Engineer
 
@@ -119,6 +144,7 @@ We need at least **5 years** as a Software Engineer:
 * Experience with database development including relational database design, SQL and ORM technologies
 * Nice to have SCORM or other LMS content
 * Nice to have SOAP/REST
+
 
 ## DevOps Engineer
 
@@ -148,6 +174,7 @@ We need at least **5 years** as a Software Engineer:
 * Create scripts or process to automate development tasks
 * Provide status update reports on a timely manner. Through JIRA, email, or during meetings
 * Track time spent on tasks and projects on our time-tracking system
+
 
 ## Full Stack .NET Engineer
 
