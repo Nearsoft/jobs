@@ -80,24 +80,24 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Microservices architecture
     * Swagger and RESTful API design
     * Docker containerization
-    
-   
+
+
  ## Ruby on Rails Engineer
-    
-* BS in Computer Science, Engineering, Mathematics, or Physics
+
+* B.S. in Computer Science, Engineering, Mathematics, or Physics
 * In lieu of a technical degree, 4 years of relevant work experience is an acceptable substitute
-* Proficiency in Ruby, Rails, MySQL, Javascript
+* Proficiency in Ruby, Rails, MySQL, JavaScript
 * Strong foundation in computer science, with strong competencies in data structures, algorithms and software design
 * Work experience with relational databases and SQL
 * Experience with agile development process in collaborative environment
-* Good understanding of performance tradeoffs
+* Good understanding of performance trade-offs
 
-### Bonus points if you have:
+### Bonus points if you have
 
 * Experience designing and deploying large scale distributed data processing systems
 * Experience in big data, information retrieval, data mining, or machine learning
 * High degree of proficiency in Linux systems administration
-* You’ve built (and are dying to show us) something you’re proud of, especially if it’s outside of work/school
+* You've built (and are dying to show us) something you're proud of, especially if it's outside of work/school
 
 
 ## QA Automation
