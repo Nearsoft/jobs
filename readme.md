@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [Front-end Engineer](#front-end-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Ruby on Rails Developer](#ruby-on-rails-developer)
@@ -24,6 +25,31 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+
+
+## Front-end Engineer 
+
+### What you will be doing 
+
+* Partnering with business stakeholders in self organizing teams to architect, design, develop and launch new features while supporting existing applications
+* Defining best practices, tools, and techniques to enable standardization, and to raise quality and maintainability of front-end components
+* Create tools, and processes to automate our development, testing, and production workflows
+* Work independently as well as collaborate with on-site and remote teams as necessary to drive results
+* Performing platform performance reviews and performance optimization on all layers as needed
+* Conducting peer review of code and technical designs
+* Mentoring and growing junior level developers through technical guidance and leadership
+
+### What you will need
+
+* Strong, production-level experience with React and its related ecosystem: Webpack, Redux, ES6/ES7, Node.js, REST APIs
+* Solid understanding of asynchronous programming, closures, and types
+* Efficient build and deploy pipelines, with application architecture leveraging AWS services
+* Pride in your work, and a drive for quality.
+* Attention to detail and sensitivity to user experience.
+* Willingness to mentor and grow developers in the team and help them be successful.
+* Passionate about iterative business value delivery empowered by technology and engineering.
+* Experience with source control systems such as GIT
+* Experience in agile software development (Scrum or Kanban)
 
 
 ## Senior Software Engineer
