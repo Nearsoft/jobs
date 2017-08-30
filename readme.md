@@ -17,8 +17,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Software Engineer](#senior-software-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Ruby on Rails Developer](#ruby-on-rails-developer)
-* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
-* [QA Automation](#qa-automation)
+* [Ruby Developer](#ruby-developer)
+* [QA](#qa)
+* [Devops](#devops)
 * [PHP Engineer](#php-engineer)
 * [Senior .NET Engineer](#senior-net-engineer)
 * [DevOps Engineer](#devops-engineer)
@@ -108,42 +109,88 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Docker containerization
 
 
- ## Ruby on Rails Engineer
+ ## Ruby Developer
 
-* B.S. in Computer Science, Engineering, Mathematics, or Physics
+### Responsibilities
+
+* As a member of our small but seriously talented engineering team, you will play a key role building scalability and repeatability into our systems.  You will manage them with automation and be driven by metrics. You will write Chef recipes to build servers, manage large auto-scaling arrays, and provide best security practices.
+* Helping with re-architecting our infrastructure
+* Good knowledge of security best practices
+* Day to day maintenance and working closely with development team
+* Dealing with issues that may come up
+* Participating in on call rotation
+* Helping in launching new micro services in Rails 5 and Elixir
+
+### Requirements:
+
+* Nice to have BS in Computer Science, Engineering, Mathematics, or Physics
 * In lieu of a technical degree, 4 years of relevant work experience is an acceptable substitute
-* Proficiency in Ruby, Rails, MySQL, JavaScript
-* Strong foundation in computer science, with strong competencies in data structures, algorithms and software design
+* High degree of proficiency in Linux systems administration
+* High degree of proficiency in Chef
+* Helping in automation that requires a lot of scripting in Bash, Ruby or Phtyon
+* Strong understanding of AWS Cloud Infrastructure
+* Understanding of the Ruby on Rails ecosystem, its pros and its cons
+* Streamlined deployment for a continuous integration based team
 * Work experience with relational databases and SQL
 * Experience with agile development process in collaborative environment
-* Good understanding of performance trade-offs
+* Good understanding of performance tradeoffs
 
-### Bonus points if you have
 
+## QA 
+
+### Responsibilities
+
+* Create detailed, comprehensive and well-structured test cases
+* Ability to follow, modify, and reuse test cases
+* Estimate, prioritize, plan and coordinate testing activities
+* Design, develop and execute automation scripts using open source tools
+* Identify, record, document thoroughly and track bugs
+* Perform thorough regression testing when bugs are resolved
+* Develop and apply testing processes for new and existing products to meet client needs
+* Liaise with internal teams (e.g. developers and product managers) to identify system requirements
+
+### Requirements
+
+* Proven work experience in software quality assurance
+* Strong knowledge of software QA methodologies, tools and processes
+* Experience in writing clear, concise and comprehensive test plans and test cases
+* Hands-on experience with black box testing, white box testing is a plus
+* Hands-on experience with automated testing tools
+* Solid knowledge of SQL
+* Experience working in an Agile/Scrum development process
+* Experience with performance and/or security testing is a plus
+
+
+## DevOps
+
+### Responsibilities
+
+* Day to day maintenance and ability to work closely with development team
+* Good knowledge of security best practices, preferably PCI requirements
+* Dealing with issues that may come up
+* Participating in on call rotation
+* Helping in launching and maintaining new micro services in Rails 5 and Elixir
+* Managing security patching and deployments
+* Familiarity with monitoring systems like Grafana, DataDog, Nagios, etc.
+
+### Requirements
+
+* High degree of proficiency in Linux systems administration, mainly Ubuntu flavor
+* Helping in automation that requires a lot of scripting in Bash, Ruby or Python
+* Strong understanding of AWS Cloud Infrastructure and its services, including but not limited to “ec2, Elasticache, RDS, Redshift, S3, IAM, efs, etc.”
+* Understanding of the Ruby on Rails ecosystem, its pros and its cons
+* Streamlined deployment for a continuous integration based team
+* Work experience with relational databases and SQL
+* Experience with agile development process in collaborative environment
+* Good understanding of performance tradeoffs
+* Good communications skills
+
+### Bonus qualifications
+
+* Experience developing cookbooks with Chef
+* Familiarity with TimeSeries databases like InfluxDB, Prometheus, Graphit, etc.
 * Experience designing and deploying large scale distributed data processing systems
-* Experience in big data, information retrieval, data mining, or machine learning
-* High degree of proficiency in Linux systems administration
-* You've built (and are dying to show us) something you're proud of, especially if it's outside of work/school
-
-
-## QA Automation
-
-* Strong coding skills with experience in Object-oriented languages such as C# or Java
-* Experience creating test automation framework and tools
-* Strong QA skills: planning, exploratory testing, defect reporting and troubleshooting
-* Experience working on SOAP and RESTful web services
-* Experience using various tools such as NUnit, JUnit, Selenium, etc.
-* Experience in performance and reliability engineering
-* A strong background with SQL
-* Great problem solving skills
-* Experience understanding complex requirements and designing test plans from it
-* Ability to deal with ambiguity and flexibility to work in collaboration with others in a dynamic environment
-* Excellent communication skills, collaboration, follow-up and self-motivation
-* Bachelor of Science in Computer Science, Engineering, or related field
-* Preferred Qualifications (great to have but not absolutely necessary)
-* Knowledge of working on AWS systems
-* Experience with GitHub, JIRA, Confluence and Jenkins is a plus
-* Experience with scripting
+* Experience with CI/CD tools preferably Chef Automate
 
 
 ## PHP Engineer
