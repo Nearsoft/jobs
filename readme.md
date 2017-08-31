@@ -136,7 +136,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Good understanding of performance tradeoffs
 
 
-## QA
+## QA Engineer
 
 ### Responsibilities
 
