@@ -13,13 +13,13 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
-* [Front-end Engineer](#front-end-engineer)
+* [Front End Engineer](#front-end-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Ruby on Rails Developer](#ruby-on-rails-developer)
 * [Ruby Developer](#ruby-developer)
-* [QA](#qa)
-* [Devops](#devops)
+* [QA Engineer](#qa-engineer)
+* [DevOps](#devops)
 * [PHP Engineer](#php-engineer)
 * [Senior .NET Engineer](#senior-net-engineer)
 * [DevOps Engineer](#devops-engineer)
@@ -28,9 +28,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
 
-## Front-end Engineer 
+## Front End Engineer
 
-### What you will be doing 
+### What you will be doing
 
 * Partnering with business stakeholders in self organizing teams to architect, design, develop and launch new features while supporting existing applications
 * Defining best practices, tools, and techniques to enable standardization, and to raise quality and maintainability of front-end components
@@ -84,7 +84,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 ### Nice to have
 
 * Experience with Agile development
-* Experience developing distributed web services and micro service architectures
+* Experience developing distributed web services and Microservice architectures
 * Experience working with RESTful APIs
 * Experience applying the SOLID principles
 * Deep understanding of refactoring and design patterns
@@ -109,7 +109,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Docker containerization
 
 
- ## Ruby Developer
+## Ruby Developer
 
 ### Responsibilities
 
@@ -119,31 +119,31 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Day to day maintenance and working closely with development team
 * Dealing with issues that may come up
 * Participating in on call rotation
-* Helping in launching new micro services in Rails 5 and Elixir
+* Helping in launching new Microservices in Rails 5 and Elixir
 
-### Requirements:
+### Requirements
 
-* Nice to have BS in Computer Science, Engineering, Mathematics, or Physics
+* Nice to have B.S. in Computer Science, Engineering, Mathematics, or Physics
 * In lieu of a technical degree, 4 years of relevant work experience is an acceptable substitute
 * High degree of proficiency in Linux systems administration
 * High degree of proficiency in Chef
-* Helping in automation that requires a lot of scripting in Bash, Ruby or Phtyon
+* Helping in automation that requires a lot of scripting in Bash, Ruby or Python
 * Strong understanding of AWS Cloud Infrastructure
-* Understanding of the Ruby on Rails ecosystem, its pros and its cons
+* Understanding of the Ruby on Rails ecosystem, its benefits and its deficiencies
 * Streamlined deployment for a continuous integration based team
 * Work experience with relational databases and SQL
 * Experience with agile development process in collaborative environment
 * Good understanding of performance tradeoffs
 
 
-## QA 
+## QA
 
 ### Responsibilities
 
 * Create detailed, comprehensive and well-structured test cases
 * Ability to follow, modify, and reuse test cases
 * Estimate, prioritize, plan and coordinate testing activities
-* Design, develop and execute automation scripts using open source tools
+* Designing, developing and executing automation scripts using open source tools
 * Identify, record, document thoroughly and track bugs
 * Perform thorough regression testing when bugs are resolved
 * Develop and apply testing processes for new and existing products to meet client needs
@@ -154,7 +154,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Proven work experience in software quality assurance
 * Strong knowledge of software QA methodologies, tools and processes
 * Experience in writing clear, concise and comprehensive test plans and test cases
-* Hands-on experience with black box testing, white box testing is a plus
+* Hands-on experience with black-box testing, white-box testing is a plus
 * Hands-on experience with automated testing tools
 * Solid knowledge of SQL
 * Experience working in an Agile/Scrum development process
@@ -169,26 +169,26 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Good knowledge of security best practices, preferably PCI requirements
 * Dealing with issues that may come up
 * Participating in on call rotation
-* Helping in launching and maintaining new micro services in Rails 5 and Elixir
+* Helping in launching and maintaining new Microservices in Rails 5 and Elixir
 * Managing security patching and deployments
-* Familiarity with monitoring systems like Grafana, DataDog, Nagios, etc.
+* Familiarity with monitoring systems like Grafana, Datadog, Nagios, etc.
 
 ### Requirements
 
 * High degree of proficiency in Linux systems administration, mainly Ubuntu flavor
 * Helping in automation that requires a lot of scripting in Bash, Ruby or Python
-* Strong understanding of AWS Cloud Infrastructure and its services, including but not limited to “ec2, Elasticache, RDS, Redshift, S3, IAM, efs, etc.”
-* Understanding of the Ruby on Rails ecosystem, its pros and its cons
+* Strong understanding of AWS Cloud Infrastructure and its services, including but not limited to EC2, ElastiCache, RDS, Redshift, S3, IAM, EFS, etc.
+* Understanding of the Ruby on Rails ecosystem, its benefits and its deficiencies
 * Streamlined deployment for a continuous integration based team
 * Work experience with relational databases and SQL
 * Experience with agile development process in collaborative environment
-* Good understanding of performance tradeoffs
+* Good understanding of performance trade-offs
 * Good communications skills
 
 ### Bonus qualifications
 
 * Experience developing cookbooks with Chef
-* Familiarity with TimeSeries databases like InfluxDB, Prometheus, Graphit, etc.
+* Familiarity with time series databases like InfluxDB, Prometheus, Graphite, etc.
 * Experience designing and deploying large scale distributed data processing systems
 * Experience with CI/CD tools preferably Chef Automate
 
