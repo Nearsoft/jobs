@@ -75,7 +75,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 ## Senior Front End Engineer
 
 * At least 5 years experience working as part of a software development team
-* Expert in HTML 5, CSS3 and JavaScript (ES6)
+* Expert in HTML5, CSS3 and JavaScript (ES6)
 * Experience with modern front end frameworks like AngularJS, React.js or Vue.js
 * Passion for mastering collaborative software development
 * Comfortable coding in your high level language of choice: we code primarily in Python and JavaScript
