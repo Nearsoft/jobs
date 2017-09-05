@@ -20,7 +20,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Ruby Developer](#ruby-developer)
 * [QA Engineer](#qa-engineer)
 * [DevOps](#devops)
-* [PHP Engineer](#php-engineer)
 * [Senior .NET Engineer](#senior-net-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Full Stack .NET Engineer](#full-stack-net-engineer)
@@ -29,6 +28,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 
 ## Front End Engineer
+💐
 
 ### What you will be doing
 
@@ -54,6 +54,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 
 ## Senior Software Engineer
+📽 🎞
 
 * Excellent communication and teamwork skills
 * 3 years hands-on core JavaScript development
@@ -73,6 +74,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 
 ## Senior Front End Engineer
+🍽
 
 * At least 5 years experience working as part of a software development team
 * Expert in HTML5, CSS3 and JavaScript (ES6)
@@ -97,6 +99,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 
 ## Ruby on Rails Developer
+🌱
 
 * Minimum of 5+ years of work experience with at least 3+ years of back end Ruby/Rails development
 * Experience with other programming languages such as Java is a definite asset
@@ -110,6 +113,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 
 ## Ruby Developer
+💳
 
 ### Responsibilities
 
@@ -137,6 +141,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 
 ## QA Engineer
+💳
 
 ### Responsibilities
 
@@ -162,6 +167,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 
 ## DevOps
+💳
 
 ### Responsibilities
 
@@ -193,19 +199,8 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with CI/CD tools preferably Chef Automate
 
 
-## PHP Engineer
-
-We need at least **2 years** of experience with these tools:
-
-* Very strong on engineering concepts such as OOP/OOD
-* Knowledge and experience on Design Patterns
-* Have used Unit Testing and understanding of the software development life cycle
-* Web related programming patterns (MVC, REST)
-* Git
-* Laravel and React.js is a must
-
-
 ## Senior .NET Engineer
+🎨
 
 We need at least **5 years** as a Software Engineer:
 
@@ -220,6 +215,7 @@ We need at least **5 years** as a Software Engineer:
 
 
 ## DevOps Engineer
+🎨
 
 * Proactive, experienced and detailed-oriented professional on the DevOps field, someone who is able to implement tasks and resolve issues with high quality, with no or little assistance
 * Have experience working on a very agile environment, being able to prioritize tasks with the lead of the group
@@ -250,6 +246,7 @@ We need at least **5 years** as a Software Engineer:
 
 
 ## Full Stack .NET Engineer
+⛷
 
 * Strong with MongoDB
 * Experience working with Microservices pattern
