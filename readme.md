@@ -22,7 +22,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps](#devops)
 * [Senior .NET Engineer](#senior-net-engineer)
 * [DevOps Engineer](#devops-engineer)
-* [Full Stack .NET Engineer](#full-stack-net-engineer)
+
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
@@ -243,24 +243,6 @@ We need at least **5 years** as a Software Engineer:
 * Create scripts or process to automate development tasks
 * Provide status update reports on a timely manner. Through JIRA, email, or during meetings
 * Track time spent on tasks and projects on our time-tracking system
-
-
-## Full Stack .NET Engineer
-⛷
-
-* Strong with MongoDB
-* Experience working with Microservices pattern
-* Node.js is a must
-* Runs in Linux (CentOS)
-* Strong experience working with React.js
-* Nice to have Inferno.JS
-* Excellent understanding of object-oriented concepts
-* Solid knowledge of SOLID principles
-* Design patterns knowledge
-* Experience working on an Agile development team, both on-site and remotely
-* Really good English skills, both written and listening comprehension
-* Integrity, pro-activity and a sense of ownership about what they do
-* Passionate about software development
 
 
 ## Credit
