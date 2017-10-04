@@ -74,14 +74,14 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 ## Ruby on Rails Developer
 🌱
 
-* Minimum of 5 years of work experience working with Java 8+ / Spring Boot and/or Ruby/Rails development (experience with both is a big plus).
-* Experience with a range of data stores, including relational (SQL), column-oriented and key-value stores such as Postgres, Memcache, Redis and RedShift.
-* Knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, agile development, build processes, testing, and operations.
+* Minimum of 5 years of work experience working with Java 8+/Spring Boot and/or Ruby/Rails development (experience with both is a big plus)
+* Experience with a range of data stores, including relational (SQL), column-oriented and key-value stores such as Postgres, Memcached, Redis and Redshift
+* Knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, agile development, build processes, testing, and operations
 * Experience with the following technologies will be a definite asset:
-* AWS platform and its many components (S3, API Gateway, etc)
-* Microservices architecture
-* Swagger and RESTful API design
-* Docker containerization, Kubernetes orchestration
+    * AWS platform and its many components (S3, API Gateway, etc)
+    * Microservices architecture
+    * Swagger and RESTful API design
+    * Docker containerization, Kubernetes orchestration
 
 
 ## Ruby Developer
