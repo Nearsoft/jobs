@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [Node.js Engineer](#node.js-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Ruby on Rails Developer](#ruby-on-rails-developer)
@@ -24,6 +25,28 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+
+
+## Node.js Engineer
+💉
+
+* Must be strong in OO design and development practices.
+* Comfortable with Node.js frameworks and tools such as Grunt, Gulp, Bower, WebPack, Browserify.
+* Experience with Docker, Dokku and Heroku (build & deploy).
+* Strong REST API design and implementation.
+* Deep knowledge on frameworks like HAPI, Express, Passport, Pug.
+* Comfortable using MongoDB.
+* Knowledge about Design patterns.
+* Strong TDD experience.
+* Experience working on an Agile development team, both onsite and remotely.
+* Build Automation with tools like Grunt, Gulp, or Rake.
+* Good communication skills.
+
+### Nice to have
+
+* Experience with JavaScript frameworks such as AngularJS, jQuery, Backbone.js, Underscore, ReactJS.
+* Knowledge of healthcare protocols like HL7 and FHIR.
+* Experience with remote, mobile push notifications
 
 
 ## Senior Software Engineer
