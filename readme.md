@@ -13,7 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
-* [Node.js Engineer](#nodejs-engineer)
+* [Senior Frontend](#senior-frontend)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Ruby on Rails Developer](#ruby-on-rails-developer)
@@ -22,31 +22,20 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps](#devops)
 * [Senior .NET Engineer](#senior-net-engineer)
 * [DevOps Engineer](#devops-engineer)
+* [Success Coach](#success-coach)
 
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
 
-## Node.js Engineer
-💉
+## Senior Frontend 
+🏊
 
-* Must be strong in object-oriented design and development practices
-* Comfortable with Node.js frameworks and tools such as Grunt, gulp, Bower, webpack, Browserify
-* Experience with Docker, Dokku and Heroku (build & deploy)
-* Strong REST API design and implementation
-* Deep knowledge on frameworks like hapi.js, Express, Passport, Pug
-* Comfortable using MongoDB
-* Knowledge about Design patterns
-* Strong TDD experience
-* Experience working on an Agile development team, both on-site and remotely
-* Build Automation with tools like Grunt, gulp, or Rake
-* Good communication skills
-
-### Nice to have
-
-* Experience with JavaScript frameworks such as AngularJS, jQuery, Backbone.js, Underscore.js, React.js.
-* Knowledge of healthcare protocols like HL7 and FHIR.
-* Experience with remote, mobile push notifications
+* A strong frontend engineer with experience optimizing checkout funnels. 
+* This engineer will be responsible for making HTML/CSS changes to a wordpress site and working with node.js. 
+* We are currently using tools like: google analytics, optimizely, fullstory, & facebook. 
+* We will be running back-to-back experiments to increase our sales conversion rate. 
+* This engineer will need to setup analytics, measure, devise an experiment with our team, and then perform any analytics/instrumentations/changes.
 
 
 ## Senior Software Engineer
@@ -238,6 +227,52 @@ We need at least **5 years** as a Software Engineer:
 * Create scripts or process to automate development tasks
 * Provide status update reports on a timely manner. Through JIRA, email, or during meetings
 * Track time spent on tasks and projects on our time-tracking system
+
+
+## Success Coach 
+⭐️
+
+### Role Definition
+
+* Follow up projects, making sure they are running smoothly.
+* Identify project risks and prevent them from happening.
+* Succession planning.
+* People allocation.
+* Elaborate client proposals, estimates, budgetary numbers, form teams.
+* Projects kickoff and clients onboarding.
+* Software development processes definition and software best practices evangelist.
+* Conflicts resolution.
+* Implement Agile methodology.
+* Helping the product owner maintain the product backlog in a way that ensures the project is well defined and the team can continually advance .
+* Helping the team to determine the definition of done for the product, with input from key stakeholders.
+* Coaching the team, within the agile principles, in order to deliver quality valuable features for their product.
+* Promoting self-organization within the team.
+* Helping the team to avoid or remove impediments to their progress, whether internal or external to the team.
+* Facilitating team milestone achievementevents to ensure regular progress.
+* Educating key stakeholders in the product on agile principles.
+* Assist with scaling Agile beyond the team to the program and portfolio.
+
+### Requirements
+
+* Software engineering background.
+* Proven communication skills.
+* Strong in technology, be able to provide technical advice to the team.
+* Proficient on  iterative development.
+* Proficiency in leadership, influencing, decision making.
+* Understand other processes and methodologies and can speak intelligently about them and leverage other techniques to provide value to a team/enterprise.
+* Proficient on software development processes and procedures.
+* Understand the value of commitments to delivery made by a development team.
+* Understand incremental delivery and the value of metrics
+* Understand backlog tracking, burndown metrics, velocity, and task definition
+* Familiarity with common Agile practices, and better development practices
+* Be able to manage multiple projects.
+* Someone who lives our values, understand Nearsoft vision and strategy.
+* Understand Nearsoft processes and business model.
+* People person.
+* 10++ years in the software industry, 5+ year of experience leading/coaching teams in agile software development.
+* Location: Hermosillo.
+* Travel to client offices.
+* Nice to have: Scrum or Kanban Management Experience
 
 
 ## Credit
