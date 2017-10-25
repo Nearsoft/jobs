@@ -13,52 +13,32 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
-* [Senior Frontend](#senior-frontend)
+* [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
+* [Senior Front End Engineer (2)](#senior-front-end-engineer-2)
 * [Senior Software Engineer](#senior-software-engineer)
-* [Senior Front End Engineer](#senior-front-end-engineer)
-* [Ruby on Rails Developer](#ruby-on-rails-developer)
-* [Ruby Developer](#ruby-developer)
+* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
+* [Ruby Engineer](#ruby-developer)
 * [QA Engineer](#qa-engineer)
-* [DevOps](#devops)
+* [DevOps Engineer (1)](#devops-engineer-1)
+* [DevOps Engineer (2)](#devops-engineer-2)
 * [Senior .NET Engineer](#senior-net-engineer)
-* [DevOps Engineer](#devops-engineer)
 * [Success Coach](#success-coach)
 
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
 
-## Senior Frontend 
+## Senior Front End Engineer (1)
 🏊
 
-* A strong frontend engineer with experience optimizing checkout funnels. 
-* This engineer will be responsible for making HTML/CSS changes to a wordpress site and working with node.js. 
-* We are currently using tools like: google analytics, optimizely, fullstory, & facebook. 
-* We will be running back-to-back experiments to increase our sales conversion rate. 
-* This engineer will need to setup analytics, measure, devise an experiment with our team, and then perform any analytics/instrumentations/changes.
+* A strong Front End Engineer with experience optimizing checkout funnels
+* This engineer will be responsible for making HTML/CSS changes to a WordPress site and working with Node.js
+* We are currently using tools like: Google Analytics, Optimizely, FullStory, & Facebook
+* We will be running back-to-back experiments to increase our sales conversion rate.
+* This engineer will need to setup analytics, measure, devise an experiment with our team, and then perform any analytics/instrumentations/changes
 
 
-## Senior Software Engineer
-📽 🎞
-
-* Excellent communication and teamwork skills
-* 3 years hands-on core JavaScript development
-* 3 years using modern web UI frameworks such as React.js, AngularJS, Aurelia
-* Cloud based development (AWS is a plus)
-* Ability to hand code JavaScript (without a framework)
-* Experience with Node.js
-* Familiarity with ES6/ES2015
-* Familiarity with Typescript
-* Experience building large, multi-tenant web based and/or client server applications
-* Experience interfacing with RESTful APIs
-* Expert knowledge of OOD, design patterns, data structures and algorithms
-* Experience with role and rule based security and authentication tools and best-practices preferred (LDAP, single sign-on, etc)
-* Working knowledge of Agile/SCRUM development methodologies and best practices
-* Experience using Ruby a plus
-* Financial systems experience (accounting, payroll, etc.) a plus
-
-
-## Senior Front End Engineer
+## Senior Front End Engineer (2)
 🍽
 
 * At least 5 years experience working as part of a software development team
@@ -83,7 +63,27 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Knowledge of Linux systems and Internet Protocols
 
 
-## Ruby on Rails Developer
+## Senior Software Engineer
+📽 🎞
+
+* Excellent communication and teamwork skills
+* 3 years hands-on core JavaScript development
+* 3 years using modern web UI frameworks such as React.js, AngularJS, Aurelia
+* Cloud based development (AWS is a plus)
+* Ability to hand code JavaScript (without a framework)
+* Experience with Node.js
+* Familiarity with ES6/ES2015
+* Familiarity with Typescript
+* Experience building large, multi-tenant web based and/or client server applications
+* Experience interfacing with RESTful APIs
+* Expert knowledge of OOD, design patterns, data structures and algorithms
+* Experience with role and rule based security and authentication tools and best-practices preferred (LDAP, single sign-on, etc)
+* Working knowledge of Agile/SCRUM development methodologies and best practices
+* Experience using Ruby a plus
+* Financial systems experience (accounting, payroll, etc.) a plus
+
+
+## Ruby on Rails Engineer
 🌱
 
 * Minimum of 5 years of work experience working with Java 8+/Spring Boot and/or Ruby/Rails development (experience with both is a big plus)
@@ -96,7 +96,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
     * Docker containerization, Kubernetes orchestration
 
 
-## Ruby Developer
+## Ruby Engineer
 💳
 
 ### Responsibilities
@@ -150,7 +150,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with performance and/or security testing is a plus
 
 
-## DevOps
+## DevOps Engineer (1)
 💳
 
 ### Responsibilities
@@ -183,22 +183,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Experience with CI/CD tools preferably Chef Automate
 
 
-## Senior .NET Engineer
-🎨
-
-We need at least **5 years** as a Software Engineer:
-
-* Proficient with Microsoft .NET 3.5+ development using C#
-* MVC
-* Bootstrap or other modern JavaScript frameworks
-* Experience with source control management systems and CI/deployment environments (specifically, TFS)
-* Experience with web development technologies including ASP.NET, MVC3+, JavaScript, Ajax and CSS
-* Experience with database development including relational database design, SQL and ORM technologies
-* Nice to have SCORM or other LMS content
-* Nice to have SOAP/REST
-
-
-## DevOps Engineer
+## DevOps Engineer (2)
 🎨
 
 * Proactive, experienced and detailed-oriented professional on the DevOps field, someone who is able to implement tasks and resolve issues with high quality, with no or little assistance
@@ -229,28 +214,43 @@ We need at least **5 years** as a Software Engineer:
 * Track time spent on tasks and projects on our time-tracking system
 
 
-## Success Coach 
+## Senior .NET Engineer
+🎨
+
+We need at least **5 years** as a Software Engineer:
+
+* Proficient with Microsoft .NET 3.5+ development using C#
+* MVC
+* Bootstrap or other modern JavaScript frameworks
+* Experience with source control management systems and CI/deployment environments (specifically, TFS)
+* Experience with web development technologies including ASP.NET, MVC3+, JavaScript, Ajax and CSS
+* Experience with database development including relational database design, SQL and ORM technologies
+* Nice to have SCORM or other LMS content
+* Nice to have SOAP/REST
+
+
+## Success Coach
 ⭐️
 
 ### Role Definition
 
-* Follow up projects, making sure they are running smoothly.
-* Identify project risks and prevent them from happening.
-* Succession planning.
-* People allocation.
-* Elaborate client proposals, estimates, budgetary numbers, form teams.
-* Projects kickoff and clients onboarding.
-* Software development processes definition and software best practices evangelist.
-* Conflicts resolution.
-* Implement Agile methodology.
-* Helping the product owner maintain the product backlog in a way that ensures the project is well defined and the team can continually advance .
-* Helping the team to determine the definition of done for the product, with input from key stakeholders.
-* Coaching the team, within the agile principles, in order to deliver quality valuable features for their product.
-* Promoting self-organization within the team.
-* Helping the team to avoid or remove impediments to their progress, whether internal or external to the team.
-* Facilitating team milestone achievementevents to ensure regular progress.
-* Educating key stakeholders in the product on agile principles.
-* Assist with scaling Agile beyond the team to the program and portfolio.
+* Follow up projects, making sure they are running smoothly
+* Identify project risks and prevent them from happening
+* Succession planning
+* People allocation
+* Elaborate client proposals, estimates, budgetary numbers, form teams
+* Projects kick-off and clients onboarding
+* Software development processes definition and software best practices evangelist
+* Conflicts resolution
+* Implement Agile methodology
+* Helping the product owner maintain the product backlog in a way that ensures the project is well defined and the team can continually advance
+* Helping the team to determine the definition of done for the product, with input from key stakeholders
+* Coaching the team, within the agile principles, in order to deliver quality valuable features for their product
+* Promoting self-organization within the team
+* Helping the team to avoid or remove impediments to their progress, whether internal or external to the team
+* Facilitating team milestone achievements to ensure regular progress
+* Educating key stakeholders in the product on agile principles
+* Assist with scaling Agile beyond the team to the program and portfolio
 
 ### Requirements
 
