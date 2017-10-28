@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [Android Developer](#android-developer)
 * [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
 * [Senior Front End Engineer (2)](#senior-front-end-engineer-2)
 * [Senior Software Engineer](#senior-software-engineer)
@@ -28,13 +29,28 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
 
 
+## Android Developer
+🔎
+
+* 5 years of experience
+* Proficient knowledge of Java and Android
+* Strong knowledge of Android UI design principles, patterns, and best practices
+* Proficient understanding of code versioning tools, such as Git
+* Familiarity with continuous integration
+* Strong knowledge in RESTful web services
+ * Good Knowledge of Android SDK’s
+* Knowledge of the open-source Android ecosystem and the libraries available for common tasks.
+* Knowledge of HTML and Javascript a plus
+* Familiar with Kotlin
+* Experience with Agile metodologies
+
 ## Senior Front End Engineer (1)
 🏊
 
 * A strong Front End Engineer with experience optimizing checkout funnels
 * This engineer will be responsible for making HTML/CSS changes to a WordPress site and working with Node.js
 * We are currently using tools like: Google Analytics, Optimizely, FullStory, & Facebook
-* We will be running back-to-back experiments to increase our sales conversion rate.
+* We will be running back-to-back experiments to increase our sales conversion rate
 * This engineer will need to setup analytics, measure, devise an experiment with our team, and then perform any analytics/instrumentations/changes
 
 
@@ -101,7 +117,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 ### Responsibilities
 
-* As a member of our small but seriously talented engineering team, you will play a key role building scalability and repeatability into our systems.  You will manage them with automation and be driven by metrics. You will write Chef recipes to build servers, manage large auto-scaling arrays, and provide best security practices.
+* As a member of our small but seriously talented engineering team, you will play a key role building scalability and repeatability into our systems.  You will manage them with automation and be driven by metrics. You will write Chef recipes to build servers, manage large auto-scaling arrays, and provide best security practices
 * Helping with re-architecting our infrastructure
 * Good knowledge of security best practices
 * Day to day maintenance and working closely with development team
@@ -161,13 +177,13 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * Participating in on call rotation
 * Helping in launching and maintaining new Microservices in Rails 5 and Elixir
 * Managing security patching and deployments
-* Familiarity with monitoring systems like Grafana, Datadog, Nagios, etc.
+* Familiarity with monitoring systems like Grafana, Datadog, Nagios
 
 ### Requirements
 
 * High degree of proficiency in Linux systems administration, mainly Ubuntu flavor
 * Helping in automation that requires a lot of scripting in Bash, Ruby or Python
-* Strong understanding of AWS Cloud Infrastructure and its services, including but not limited to EC2, ElastiCache, RDS, Redshift, S3, IAM, EFS, etc.
+* Strong understanding of AWS Cloud Infrastructure and its services, including but not limited to EC2, ElastiCache, RDS, Redshift, S3, IAM, EFS
 * Understanding of the Ruby on Rails ecosystem, its benefits and its deficiencies
 * Streamlined deployment for a continuous integration based team
 * Work experience with relational databases and SQL
@@ -254,24 +270,24 @@ We need at least **5 years** as a Software Engineer:
 
 ### Requirements
 
-* Software engineering background.
-* Proven communication skills.
+* Software engineering background
+* Proven communication skills
 * Strong in technology, be able to provide technical advice to the team.
-* Proficient on  iterative development.
-* Proficiency in leadership, influencing, decision making.
-* Understand other processes and methodologies and can speak intelligently about them and leverage other techniques to provide value to a team/enterprise.
+* Proficient on  iterative development
+* Proficiency in leadership, influencing, decision making
+* Understand other processes and methodologies and can speak intelligently about them and leverage other techniques to provide value to a team/enterprise
 * Proficient on software development processes and procedures.
-* Understand the value of commitments to delivery made by a development team.
+* Understand the value of commitments to delivery made by a development team
 * Understand incremental delivery and the value of metrics
 * Understand backlog tracking, burndown metrics, velocity, and task definition
 * Familiarity with common Agile practices, and better development practices
-* Be able to manage multiple projects.
+* Be able to manage multiple projects
 * Someone who lives our values, understand Nearsoft vision and strategy.
-* Understand Nearsoft processes and business model.
-* People person.
+* Understand Nearsoft processes and business model
+* People person
 * 10++ years in the software industry, 5+ year of experience leading/coaching teams in agile software development.
-* Location: Hermosillo.
-* Travel to client offices.
+* Location: Hermosillo
+* Travel to client offices
 * Nice to have: Scrum or Kanban Management Experience
 
 
