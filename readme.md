@@ -35,14 +35,14 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 * 5 years of experience
 * Proficient knowledge of Java and Android
 * Strong knowledge of Android UI design principles, patterns, and best practices
-* Proficient understanding of code versioning tools, such as Git
+* Proficient understanding of source control tools, such as Git
 * Familiarity with continuous integration
 * Strong knowledge in RESTful web services
- * Good Knowledge of Android SDK’s
-* Knowledge of the open-source Android ecosystem and the libraries available for common tasks.
-* Knowledge of HTML and Javascript a plus
+* Good knowledge of Android SDKs
+* Knowledge of the open-source Android ecosystem and the libraries available for common tasks
+* Knowledge of HTML and JavaScript a plus
 * Familiar with Kotlin
-* Experience with Agile metodologies
+* Experience with agile methodologies
 
 ## Senior Front End Engineer (1)
 🏊
@@ -117,7 +117,7 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 
 ### Responsibilities
 
-* As a member of our small but seriously talented engineering team, you will play a key role building scalability and repeatability into our systems.  You will manage them with automation and be driven by metrics. You will write Chef recipes to build servers, manage large auto-scaling arrays, and provide best security practices
+* As a member of our small but seriously talented engineering team, you will play a key role building scalability and repeatability into our systems. You will manage them with automation and be driven by metrics. You will write Chef recipes to build servers, manage large auto-scaling arrays, and provide best security practices
 * Helping with re-architecting our infrastructure
 * Good knowledge of security best practices
 * Day to day maintenance and working closely with development team
@@ -272,11 +272,11 @@ We need at least **5 years** as a Software Engineer:
 
 * Software engineering background
 * Proven communication skills
-* Strong in technology, be able to provide technical advice to the team.
+* Strong in technology, be able to provide technical advice to the team
 * Proficient on  iterative development
 * Proficiency in leadership, influencing, decision making
 * Understand other processes and methodologies and can speak intelligently about them and leverage other techniques to provide value to a team/enterprise
-* Proficient on software development processes and procedures.
+* Proficient on software development processes and procedures
 * Understand the value of commitments to delivery made by a development team
 * Understand incremental delivery and the value of metrics
 * Understand backlog tracking, burndown metrics, velocity, and task definition
@@ -285,7 +285,7 @@ We need at least **5 years** as a Software Engineer:
 * Someone who lives our values, understand Nearsoft vision and strategy.
 * Understand Nearsoft processes and business model
 * People person
-* 10++ years in the software industry, 5+ year of experience leading/coaching teams in agile software development.
+* 10+ years in the software industry, 5+ year of experience leading/coaching teams in agile software development
 * Location: Hermosillo
 * Travel to client offices
 * Nice to have: Scrum or Kanban Management Experience

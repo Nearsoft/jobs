@@ -10,7 +10,7 @@
     ".Trashes",
     "node_modules"
   ],
-  "format": "markdown",
+  "format": "madown",
   "lang": "en",
   "fileExtensions": [
     ".md"
@@ -74,6 +74,7 @@
     "jQuery",
     "JUnit",
     "Kanban",
+    "Kotlin",
     "Kubernetes",
     "Laravel",
     "LDAP",
