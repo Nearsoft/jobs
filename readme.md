@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [iOS Developer](#ios-developer)
 * [Android Developer](#android-developer)
 * [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
 * [Senior Front End Engineer (2)](#senior-front-end-engineer-2)
@@ -27,6 +28,19 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+
+## iOS Developer
+🔎
+
+* Proficient Swift knowledge
+* Strong Objective-C knowledge
+* Strong knowledge of iOS UI principles, patterns, and best practices
+* Familiar Bluetooth Framework
+* Experience with Auto Layout
+* Proficient understanding of code versioning tools and branching model(Git/ GitFlow)
+* Experience creating reusable views only with code(without .xib or storyboards)
+* In general, Strong iOS SDK knowledge
+* Experience with Agile Methodologies
 
 
 ## Android Developer
