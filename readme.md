@@ -46,17 +46,20 @@ If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com]
 ## Android Developer
 🔎
 
-* 5 years of experience
-* Proficient knowledge of Java and Android
-* Strong knowledge of Android UI design principles, patterns, and best practices
-* Proficient understanding of source control tools, such as Git
-* Familiarity with continuous integration
-* Strong knowledge in RESTful web services
-* Good knowledge of Android SDKs
-* Knowledge of the open-source Android ecosystem and the libraries available for common tasks
-* Knowledge of HTML and JavaScript a plus
-* Familiar with Kotlin
-* Experience with agile methodologies
+* Minimum 5-7 years of Android Development Experience using Android framework and Android Studio
+* Strong understanding of RESTFUL APIs
+* Delivered multiple Android apps to Google Playstore
+* Expert knowledge OO design patterns, data structures and algorithms
+* Hardware integration experience (Bluetooth, iOT, etc.)
+* Familiarity with version control systems including Github
+* Understanding of mobile databases such as Realm
+* Understanding of back end development technologies and languages such as Java, Go,
+Postgres, MySql, DynamoDB is a plus
+* Follow best practices related to coding, testing, and building software in a continuous integration environment
+* Solid understanding and demonstrated experience using Amazon Web Services and/or other cloud providers
+* Strong working knowledge of Agile development methodologies and best practices
+* Excellent communication and teamwork skills
+
 
 ## Senior Front End Engineer (1)
 🏊
