@@ -13,48 +13,48 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
-* [iOS Developer](#ios-developer)
-* [Android Developer](#android-developer)
+* [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
+* [Android Engineer](#android-engineer)
 * [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
 * [Senior Front End Engineer (2)](#senior-front-end-engineer-2)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
-* [Ruby Engineer](#ruby-developer)
-* [QA Engineer](#qa-engineer)
-* [DevOps Engineer (1)](#devops-engineer-1)
-* [DevOps Engineer (2)](#devops-engineer-2)
+* [Ruby Engineer](#ruby-engineer)
+* [QA Engineer](#qa-engineer) <!-- yaspeller ignore -->
+* [DevOps Engineer (1)](#devops-engineer-1) <!-- yaspeller ignore -->
+* [DevOps Engineer (2)](#devops-engineer-2) <!-- yaspeller ignore -->
 * [Senior .NET Engineer](#senior-net-engineer)
 * [Success Coach](#success-coach)
 
 
-If an opening has caught your eye feel free to contact us at [jobs@nearsoft.com](mailto:jobs@nearsoft.com)
+If an opening has caught your eye feel free to contact us at
+[jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
-## iOS Developer
+## iOS Engineer
 🔎
 
 * Proficient Swift knowledge
 * Strong Objective-C knowledge
 * Strong knowledge of iOS UI principles, patterns, and best practices
-* Familiar Bluetooth Framework
+* Familiar with Bluetooth Framework
 * Experience with Auto Layout
-* Proficient understanding of code versioning tools and branching model(Git/ GitFlow)
-* Experience creating reusable views only with code(without .xib or storyboards)
-* In general, Strong iOS SDK knowledge
+* Proficient understanding of version control tools and branching model (Git/GitFlow)
+* Experience creating reusable views only with code (without .xib or storyboards)
+* In general, strong iOS SDK knowledge
 * Experience with Agile Methodologies
 
 
-## Android Developer
+## Android Engineer
 🔎
 
 * Minimum 5-7 years of Android Development Experience using Android framework and Android Studio
-* Strong understanding of RESTFUL APIs
-* Delivered multiple Android apps to Google Playstore
-* Expert knowledge OO design patterns, data structures and algorithms
-* Hardware integration experience (Bluetooth, iOT, etc.)
-* Familiarity with version control systems including Github
+* Strong understanding of RESTful APIs
+* Delivered multiple Android apps to Google Play Store
+* Expert knowledge of object-oriented design patterns, data structures and algorithms
+* Hardware integration experience (Bluetooth, IoT, etc.)
+* Familiarity with version control systems including GitHub
 * Understanding of mobile databases such as Realm
-* Understanding of back end development technologies and languages such as Java, Go,
-Postgres, MySql, DynamoDB is a plus
+* Understanding of back end development technologies and languages such as Java, Go, PostgreSQL, MySQL, DynamoDB is a plus
 * Follow best practices related to coding, testing, and building software in a continuous integration environment
 * Solid understanding and demonstrated experience using Amazon Web Services and/or other cloud providers
 * Strong working knowledge of Agile development methodologies and best practices

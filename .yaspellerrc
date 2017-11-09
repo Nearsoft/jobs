@@ -42,6 +42,7 @@
     "DevOps",
     "Django",
     "Dokku",
+    "DynamoDB",
     "EC2",
     "EFS",
     "ElastiCache",
@@ -67,6 +68,7 @@
     "IIS",
     "InfluxDB",
     "iOS",
+    "IoT",
     "JavaEE",
     "JavaBeans",
     "Jenkins",
@@ -138,6 +140,7 @@
     "webpack",
     "WPF",
     "XAML",
+    "xib",
     "XHTML"
   ]
 }
