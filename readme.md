@@ -25,6 +25,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps Engineer (2)](#devops-engineer-2) <!-- yaspeller ignore -->
 * [Senior .NET Engineer](#senior-net-engineer)
 * [Success Coach](#success-coach)
+* [Learning & Development Engineer](#learning-&-development-engineer)
+* [Training Operations Success Coach](#training-operations-success-coach)
+
 
 
 If an opening has caught your eye feel free to contact us at
@@ -307,6 +310,55 @@ We need at least **5 years** as a Software Engineer:
 * Travel to client offices
 * Nice to have: Scrum or Kanban Management Experience
 
+
+## Learning & Development Engineer
+⭐️
+
+### Your responsibilities:
+
+* Research, write, update and create scalable resources, help articles and guides related to online teaching and learning
+* Analyze data related to pedagogical L&D needs and support services
+* Create training programs for face to face and online Teaching and Learning workshops
+* Support impact evaluation and measurement processes for L&D
+
+### Your skills:
+
+* 5+ years experience  building software using multiple  tech stacks
+* A Passion for education
+* Proven research skills, excellent analytical skills
+* Superior writing skills
+* Ability to work independently and deliver results with clear deadlines
+* Quick to learn new technologies, methods and work styles
+* Shows Interest in learning more about teaching and learning online
+* Background in online learning is an advantage.
+
+
+## Training Operations Success Coach
+⭐️
+
+### Your responsibilities:
+
+* Build the relationship with our partner universities for education programs, from early program design through to launch and beyond.
+* Design and execute new programs to bring high-quality educational experience to learners around the world
+* Build new partnerships with local and global education institutions to run our programs
+* Align a broad set of cross-functional teams (Finance,   Marketing, Engineering, Operations, etc.) to ensure your programs are successful - from recruiting the best applicants to building high quality courses to providing a best-in-class student experience
+* Coordinate the operations and processes associated with programs, resolving issues as needed to ensure an exceptional student experience
+* Provide platform and technical support to our partners - backed by engineering, but leading as a platform expert
+* Analyze data to build compelling business cases for resource investment either from Nearsoft or our partners to make our courses more successful
+* Identify, test, and implement strategies to launch and grow our courses in ways that drive student retention and satisfaction Knowledge of efficiency parameters and familiar with measurement of performance through indicators
+* Lead and collaborate with cross-functional teams to execute and manage programs, resources, and outreach channels
+* Work closely with Product, Design, and Engineering to make our platform compelling for both students and partners
+
+### Your skills:
+
+* 5+ years experience managing relationships with partners or customers
+* Executive presence and comfort moving between senior stakeholders and operational execution rapidly to enable different audiences
+* Demonstrated passion for building products or programs that meet the needs of students and universities
+* Exceptional analytical, strategic, and problem-solving skills
+* Excellent written and verbal communication skills; a cross-functional team leader Level-headed temperament; ability to make quick judgments and defend decisions
+* Incredible perseverance and drive, manifested in a strong work ethic and a willingness to roll up your sleeves and do whatever needs to be done
+* The ability to thrive in a fast-paced, ever-changing environment and to radiate positivity even while under pressure
+* A passion for our mission, and achieving ambitious goals to bring high-quality educational experience to learners around the world
 
 ## Credit
 
