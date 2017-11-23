@@ -18,6 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
 * [Senior Front End Engineer (2)](#senior-front-end-engineer-2)
 * [Senior Software Engineer](#senior-software-engineer)
+* [Fullstack Software Engineer] (#fullstack-software-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [QA Engineer](#qa-engineer) <!-- yaspeller ignore -->
@@ -117,6 +118,33 @@ If an opening has caught your eye feel free to contact us at
 * Working knowledge of Agile/SCRUM development methodologies and best practices
 * Experience using Ruby a plus
 * Financial systems experience (accounting, payroll, etc.) a plus
+
+
+## Fullstack Software Engineer
+🌎
+
+### Programming Languages:
+* C# and .NET ecosystem
+* Nodejs (specifically the Express framework)
+### Also:
+* Powershell scripting
+* Bash shell scripting
+* Python scripting
+### Operating Systems
+* Microsoft Windows Server 2008 and above
+* CentOS
+* Ubuntu
+### Data/Persistence
+* Microsoft SQL Server
+* PostgreSQL
+* MongoDB
+* Redis
+* Messaging
+* AMQP/RabbitMQ
+### Platform Automation
+* SaltStack
+* Docker
+* Kubernetes
 
 
 ## Ruby on Rails Engineer
