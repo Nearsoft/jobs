@@ -18,7 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
 * [Senior Front End Engineer (2)](#senior-front-end-engineer-2)
 * [Senior Software Engineer](#senior-software-engineer)
-* [Fullstack Software Engineer] (#fullstack-software-engineer)
+* [Fullstack Software Engineer](#fullstack-software-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [QA Engineer](#qa-engineer) <!-- yaspeller ignore -->
