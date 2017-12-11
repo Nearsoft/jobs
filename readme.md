@@ -18,7 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
 * [Senior Front End Engineer (2)](#senior-front-end-engineer-2)
 * [Senior Software Engineer](#senior-software-engineer)
-* [Fullstack Software Engineer](#fullstack-software-engineer)
+* [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [QA Engineer](#qa-engineer) <!-- yaspeller ignore -->
@@ -27,7 +27,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior .NET Engineer](#senior-net-engineer)
 * [Success Coach](#success-coach)
 * [Product Designer](#product-designer)
-* [UX/UI Designer](#uxui-designer)
+* [UX/UI Designer](#uxui-designer) <!-- yaspeller ignore -->
 
 
 If an opening has caught your eye feel free to contact us at
@@ -120,28 +120,37 @@ If an opening has caught your eye feel free to contact us at
 * Financial systems experience (accounting, payroll, etc.) a plus
 
 
-## Fullstack Software Engineer
+## Full-Stack Software Engineer
 🌎
 
-### Programming Languages:
+### Programming Languages
+
 * C# and .NET ecosystem
-* Nodejs (specifically the Express framework)
-### Also:
+* Node.js (specifically the Express framework)
+
+### Also
+
 * Powershell scripting
 * Bash shell scripting
 * Python scripting
+
 ### Operating Systems
+
 * Microsoft Windows Server 2008 and above
 * CentOS
 * Ubuntu
+
 ### Data/Persistence
+
 * Microsoft SQL Server
 * PostgreSQL
 * MongoDB
 * Redis
 * Messaging
 * AMQP/RabbitMQ
+
 ### Platform Automation
+
 * SaltStack
 * Docker
 * Kubernetes
@@ -339,22 +348,22 @@ We need at least **5 years** as a Software Engineer:
 * Nice to have: Scrum or Kanban Management Experience
 
 
-## Product Designer 
+## Product Designer
 ⭐️
 
-### Role Definition 
+### Role Definition
 
-* Helping UX team and clients to ensure the project is well defined and running smoothly 
+* Helping UX team and clients to ensure the project is well defined and running smoothly
 * Educating Key Stakeholders in the product development process
 * Able to identify, solve and prevent problems to happen during the product development process
 * Encourage innovation and technology best practices inside Nearsoft
 * Elaborate client proposals and project estimates
 * Continuously implement strategies to improve team and projects performance
 * Test assumptions and measure success in projects and team strategies
-* Provide user perspective to development teams to help them redefine their products. 
+* Provide user perspective to development teams to help them redefine their products.
 * Plan, design, test and measure UX projects
-* Create user flows, wireframes and prototypes that accurately communicate product functionality 
-* Design high fidelity user interfaces that reflects ux findings and business objectives with feasible implementation for dev teams
+* Create user flows, wireframes and prototypes that accurately communicate product functionality
+* Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
 * Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users’ needs
 * Collaborate with UX researchers, designers, marketing, developers and stakeholders to produce high quality digital products
 * Create and share product development content in the software industry
@@ -365,14 +374,14 @@ We need at least **5 years** as a Software Engineer:
 * Fluent in written and spoken English
 * Experience working with startups
 * Experience with Human Centered Design, Design Thinking and Design Sprint Methodology
-* Samples of Live digital products 
-* Experience using Sketch, Invision and Zeplin or similar tools
+* Samples of Live digital products
+* Experience using Sketch, InVision and Zeplin or similar tools
 * Experience with Multidisciplinary collaboration (Engineers, designers, stakeholders, product managers)
 * Proactive and Leadership skills
 * Strong User Interface Design skills
 * Experience defining, planning and measuring projects
 * Location: Hermosillo
-* Availability to travel outside México
+* Availability to travel outside Mexico
 
 ### Nice to have
 
@@ -385,15 +394,15 @@ We need at least **5 years** as a Software Engineer:
 ## UX/UI Designer
 ⭐️
 
-### Role definition 
+### Role definition
 
 * Conduct quantitative and qualitative user research
 * Implement UX methods to discover user insights and interpret data
 * Build dynamic style guides with assets ready for responsive iOS, Android devices
 * Plan, design, test and measure UX projects
-* Create user flows, wireframes and prototypes that accurately communicate product functionality 
-* Design high fidelity user interfaces that reflects ux findings and business objectives with feasible implementation for dev teams
-* Communicate design intent to both internal and external teams, and justify design work and advocate for users’ needs
+* Create user flows, wireframes and prototypes that accurately communicate product functionality
+* Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
+* Communicate design intent to both internal and external teams, and justify design work and advocate for users' needs
 * Continuously elaborate strategies to improve team and projects performance
 * Elaborate client proposals and project estimates
 * Collaborate with UX researchers, marketers, developers, product managers to build high quality digital products
@@ -402,23 +411,23 @@ We need at least **5 years** as a Software Engineer:
 ### Requirements
 
 * At least 5 years of experience designing digital products
-* Experience leading digital projects 
+* Experience leading digital projects
 * Fluent in written and spoken English
 * Experience with Human Centered Design, Design Thinking and Design Sprint Methodology
 * Samples of Live digital projects
 * Experience using Sketch, Invision and Zeplin or similar tools
-* Experience with Multidisciplinary collaboration (Engineers, designers, marketers, stakeholders, product managers)
+* Experience with Multidisciplinary collaboration (engineers, designers, marketers, stakeholders, product managers)
 * Proactive and Leadership skills
-* Strong Visual Design skills
+* Strong visual design skills
 * Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
 * Location: Hermosillo
-* Availability to travel outside México
+* Availability to travel outside Mexico
 
 ### Nice to have
 
 * SEO and Google analytics skills
 * Conference speaker
-* Front-end knowledge
+* Front End knowledge
 
 
 ## Credit

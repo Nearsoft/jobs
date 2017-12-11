@@ -18,6 +18,7 @@
   "ignoreUrls": true,
   "dictionary": [
     "Akamai",
+    "AMQP",
     "AngularJS",
     "Ansible",
     "ASP.NET",
@@ -67,6 +68,7 @@
     "IAM",
     "IIS",
     "InfluxDB",
+    "InVision",
     "iOS",
     "IoT",
     "JavaEE",
@@ -91,6 +93,7 @@
     "MVC",
     "MVP",
     "MVVM",
+    "Multidisciplinary",
     "Nagios",
     "Nearsoft",
     "npm",
@@ -106,6 +109,7 @@
     "PL-SQL",
     "Postgres",
     "PostgreSQL",
+    "Powershell",
     "QA",
     "RabbitMQ",
     "RDS",
@@ -124,6 +128,7 @@
     "RxJava",
     "S3",
     "SaaS",
+    "SaltStack",
     "scalability",
     "SCORM",
     "SDLC",
@@ -135,12 +140,14 @@
     "TeamCity",
     "TFS",
     "UI",
+    "UX",
     "Underscore.js",
     "Vue.js",
     "webpack",
     "WPF",
     "XAML",
     "xib",
-    "XHTML"
+    "XHTML",
+    "Zeplin"
   ]
 }
