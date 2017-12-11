@@ -27,7 +27,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior .NET Engineer](#senior-net-engineer)
 * [Success Coach](#success-coach)
 * [Product Designer](#product-designer)
-* [UX/UI Designer](#ux/ui-designer)
+* [UX/UI Designer](#uxui-designer)
 
 
 If an opening has caught your eye feel free to contact us at
