@@ -47,24 +47,24 @@ If an opening has caught your eye feel free to contact us at
 
 ### What We’re Looking For
 	
-  * 5+ years of experience with Core Java 
-	* Recent Java 8 experience
-	* JUnit – unit testing
-	* 5+ years of experience with SQL and NoSQL databases
-	* MySQL 
-	* DynamoDB 
-	* MongoDB (a plus)
-	* 3+ years of experience with Spring frameworks
-	* 3+ years of experience with Hibernate 
-	* Experience with AWS services
-	* Experience working with an MVC architecture
-	* Has experience working with Agile teams (SCRUM)
-	* Ability to come up with accurate development estimates based on high-level business and/or technical requirements
-	* Object oriented analysis and design using common design patterns
-	* Understanding of established software development life cycles
-	*	Excellent communication, organizational and problem-solving skills
-	* Enjoy working collaboratively with a team, while also possessing a strong independent work ethic
-	* Desire to continuously improve her/his craft of software development while adhering to best practices and standards
+* 5+ years of experience with Core Java 
+* Recent Java 8 experience
+* JUnit – unit testing
+* 5+ years of experience with SQL and NoSQL databases
+* MySQL 
+* DynamoDB 
+* MongoDB (a plus)
+* 3+ years of experience with Spring frameworks
+* 3+ years of experience with Hibernate 
+* Experience with AWS services
+* Experience working with an MVC architecture
+* Has experience working with Agile teams (SCRUM)
+* Ability to come up with accurate development estimates based on high-level business and/or technical requirements
+* Object oriented analysis and design using common design patterns
+* Understanding of established software development life cycles
+*	Excellent communication, organizational and problem-solving skills
+* Enjoy working collaboratively with a team, while also possessing a strong independent work ethic
+* Desire to continuously improve her/his craft of software development while adhering to best practices and standards
 
 
 ## iOS Engineer
