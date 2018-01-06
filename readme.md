@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
 * [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
@@ -32,6 +33,38 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Senior Java Developer 
+📦
+
+* Be a trusted advisor: Understand and effectively communicate Java features and limitations in the context of design and development
+* Help manage the design and development process, drive decisions, and coordinate efforts with fellow teammates
+* Designs are following compliance specifications and design and conduct tests
+* New applications that serve existing software systems and further develop current software
+* Support users by developing documentation and assistance tools
+* Support continuous improvement by investigating alternatives and new technologies and presenting these for architectural review
+
+### What We’re Looking For
+	
+  * 5+ years of experience with Core Java 
+	* Recent Java 8 experience
+	* JUnit – unit testing
+	* 5+ years of experience with SQL and NoSQL databases
+	* MySQL 
+	* DynamoDB 
+	* MongoDB (a plus)
+	* 3+ years of experience with Spring frameworks
+	* 3+ years of experience with Hibernate 
+	* Experience with AWS services
+	* Experience working with an MVC architecture
+	* Has experience working with Agile teams (SCRUM)
+	* Ability to come up with accurate development estimates based on high-level business and/or technical requirements
+	* Object oriented analysis and design using common design patterns
+	* Understanding of established software development life cycles
+	*	Excellent communication, organizational and problem-solving skills
+	* Enjoy working collaboratively with a team, while also possessing a strong independent work ethic
+	* Desire to continuously improve her/his craft of software development while adhering to best practices and standards
 
 
 ## iOS Engineer
