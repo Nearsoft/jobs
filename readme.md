@@ -17,7 +17,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
 * [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
-* [Senior Front End Engineer (2)](#senior-front-end-engineer-2)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
@@ -106,31 +105,6 @@ If an opening has caught your eye feel free to contact us at
 * We are currently using tools like: Google Analytics, Optimizely, FullStory, & Facebook
 * We will be running back-to-back experiments to increase our sales conversion rate
 * This engineer will need to setup analytics, measure, devise an experiment with our team, and then perform any analytics/instrumentations/changes
-
-
-## Senior Front End Engineer (2)
-🍽
-
-* At least 5 years experience working as part of a software development team
-* Expert in HTML5, CSS3 and JavaScript (ES6)
-* Experience with modern front end frameworks like AngularJS, React.js or Vue.js
-* Passion for mastering collaborative software development
-* Comfortable coding in your high level language of choice: we code primarily in Python and JavaScript
-* Strong communication skills
-
-### Nice to have
-
-* Experience with Agile development
-* Experience developing distributed web services and Microservice architectures
-* Experience working with RESTful APIs
-* Experience applying the SOLID principles
-* Deep understanding of refactoring and design patterns
-* Experience with GraphQL, Relay, Flux application architecture
-* Experience with Python
-* Experience with CouchDB, Elastic Search or other NoSQL databases
-* Experience with Configuration Management Systems (Puppet, Vagrant, Docker, Ansible)
-* Experience with Cloud Computing Platforms
-* Knowledge of Linux systems and Internet Protocols
 
 
 ## Senior Software Engineer
