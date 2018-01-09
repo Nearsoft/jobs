@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
-* [Senior Front End Engineer (#senior-front-end-engineer)
+* [Senior Front End Engineer](#senior-front-end-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
