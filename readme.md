@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
-* [Senior Front End Engineer (1)](#senior-front-end-engineer-1)
+* [Senior Front End Engineer (#senior-front-end-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
@@ -97,7 +97,7 @@ If an opening has caught your eye feel free to contact us at
 * Excellent communication and teamwork skills
 
 
-## Senior Front End Engineer (1)
+## Senior Front End Engineer 
 🏊
 
 * A strong Front End Engineer with experience optimizing checkout funnels
