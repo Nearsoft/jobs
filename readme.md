@@ -225,7 +225,7 @@ If an opening has caught your eye feel free to contact us at
 * Experience with performance and/or security testing is a plus
 
 
-## DevOps Engineer (1)
+## DevOps Engineer 
 💳
 
 ### Responsibilities
