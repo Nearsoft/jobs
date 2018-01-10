@@ -22,11 +22,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [QA Engineer](#qa-engineer) <!-- yaspeller ignore -->
-* [DevOps Engineer (1)](#devops-engineer-1) <!-- yaspeller ignore -->
-* [DevOps Engineer (2)](#devops-engineer-2) <!-- yaspeller ignore -->
-* [Senior .NET Engineer](#senior-net-engineer)
-* [Product Designer](#product-designer)
-* [UX/UI Designer](#uxui-designer) <!-- yaspeller ignore -->
+* [DevOps Engineer](#devops-engineer-1) <!-- yaspeller ignore -->
 
 
 If an opening has caught your eye feel free to contact us at
@@ -260,134 +256,6 @@ If an opening has caught your eye feel free to contact us at
 * Familiarity with time series databases like InfluxDB, Prometheus, Graphite, etc.
 * Experience designing and deploying large scale distributed data processing systems
 * Experience with CI/CD tools preferably Chef Automate
-
-
-## DevOps Engineer (2)
-🎨
-
-* Proactive, experienced and detailed-oriented professional on the DevOps field, someone who is able to implement tasks and resolve issues with high quality, with no or little assistance
-* Have experience working on a very agile environment, being able to prioritize tasks with the lead of the group
-* Have experience configuring and optimizing a delivery pipeline for web applications and service components
-* Have experience working with TeamCity, Visual Studio 2010 and 2015 solutions, and Git-based Repositories when optimizing the delivery pipeline
-* Have experience deploying code changes to the following systems: IIS running in Windows Server 2012, SQL Server 2008 and 2014
-* Have experience and understanding on how to implement solutions that addresses Security, Performance, and Availability concerns
-* Have experience reporting progress to Management
-* At least 5+ years of experience working on the DevOps field, being able to demonstrate it is important
-* Being able to effectively communicate in English
-
-### Some of the tasks and responsibilities
-
-* Effectively and actively communicate ideas that can help to improve DevOps
-* Configure TeamCity, Visual Studio 2010 and 2015 Solutions, and BitBucket as needed
-* Configure Windows Server 2008 and 2012 environments
-* Work with the QA team to test the applications that are being modified
-* Apply upgrades and fixes to our CMS Framework. These patches will be provided by the vendor in most of the occasions
-* Work with other developers on the group to extract and document systems information
-* Create any other technical documentation that is needed for maintaining the environments
-* Configure and support the test environments from an application infrastructure standpoint
-* Troubleshoot test environment issues, and pin point if the problem is application or infrastructure. If it's an application issue, work with the developers to transition the problem
-* In some cases, make code changes to the application with the purpose of enhancing the development process
-* Create automated tests that can help to identify problems on early stage of the development process
-* Create scripts or process to automate development tasks
-* Provide status update reports on a timely manner. Through JIRA, email, or during meetings
-* Track time spent on tasks and projects on our time-tracking system
-
-
-## Senior .NET Engineer
-🎨
-
-We need at least **5 years** as a Software Engineer:
-
-* Proficient with Microsoft .NET 3.5+ development using C#
-* MVC
-* Bootstrap or other modern JavaScript frameworks
-* Experience with source control management systems and CI/deployment environments (specifically, TFS)
-* Experience with web development technologies including ASP.NET, MVC3+, JavaScript, Ajax and CSS
-* Experience with database development including relational database design, SQL and ORM technologies
-* Nice to have SCORM or other LMS content
-* Nice to have SOAP/REST
-
-
-## Product Designer
-⭐️
-
-### Role Definition
-
-* Helping UX team and clients to ensure the project is well defined and running smoothly
-* Educating Key Stakeholders in the product development process
-* Able to identify, solve and prevent problems to happen during the product development process
-* Encourage innovation and technology best practices inside Nearsoft
-* Elaborate client proposals and project estimates
-* Continuously implement strategies to improve team and projects performance
-* Test assumptions and measure success in projects and team strategies
-* Provide user perspective to development teams to help them redefine their products.
-* Plan, design, test and measure UX projects
-* Create user flows, wireframes and prototypes that accurately communicate product functionality
-* Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
-* Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users’ needs
-* Collaborate with UX researchers, designers, marketing, developers and stakeholders to produce high quality digital products
-* Create and share product development content in the software industry
-
-### Requirements
-
-* At least 5 years of experience leading digital products to successful outcomes
-* Fluent in written and spoken English
-* Experience working with startups
-* Experience with Human Centered Design, Design Thinking and Design Sprint Methodology
-* Samples of Live digital products
-* Experience using Sketch, InVision and Zeplin or similar tools
-* Experience with Multidisciplinary collaboration (Engineers, designers, stakeholders, product managers)
-* Proactive and Leadership skills
-* Strong User Interface Design skills
-* Experience defining, planning and measuring projects
-* Location: Hermosillo
-* Availability to travel outside Mexico
-
-### Nice to have
-
-* SEO and Google analytics skills
-* Marketing background
-* UX research methodologies knowledge
-* Conference speaker
-
-
-## UX/UI Designer
-⭐️
-
-### Role definition
-
-* Conduct quantitative and qualitative user research
-* Implement UX methods to discover user insights and interpret data
-* Build dynamic style guides with assets ready for responsive iOS, Android devices
-* Plan, design, test and measure UX projects
-* Create user flows, wireframes and prototypes that accurately communicate product functionality
-* Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
-* Communicate design intent to both internal and external teams, and justify design work and advocate for users' needs
-* Continuously elaborate strategies to improve team and projects performance
-* Elaborate client proposals and project estimates
-* Collaborate with UX researchers, marketers, developers, product managers to build high quality digital products
-* Create and share UX content in the software industry
-
-### Requirements
-
-* At least 5 years of experience designing digital products
-* Experience leading digital projects
-* Fluent in written and spoken English
-* Experience with Human Centered Design, Design Thinking and Design Sprint Methodology
-* Samples of Live digital projects
-* Experience using Sketch, Invision and Zeplin or similar tools
-* Experience with Multidisciplinary collaboration (engineers, designers, marketers, stakeholders, product managers)
-* Proactive and Leadership skills
-* Strong visual design skills
-* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
-* Location: Hermosillo
-* Availability to travel outside Mexico
-
-### Nice to have
-
-* SEO and Google analytics skills
-* Conference speaker
-* Front End knowledge
 
 
 ## Credit
