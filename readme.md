@@ -18,9 +18,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Android Engineer](#android-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
-* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
-* [Ruby Engineer](#ruby-engineer)
-* [QA Engineer](#qa-engineer) <!-- yaspeller ignore -->
 * [DevOps Engineer](#devops-engineer-1) <!-- yaspeller ignore -->
 
 
@@ -145,73 +142,6 @@ If an opening has caught your eye feel free to contact us at
 * SaltStack
 * Docker
 * Kubernetes
-
-
-## Ruby on Rails Engineer
-🌱
-
-* Minimum of 5 years of work experience working with Java 8+/Spring Boot and/or Ruby/Rails development (experience with both is a big plus)
-* Experience with a range of data stores, including relational (SQL), column-oriented and key-value stores such as Postgres, Memcached, Redis and Redshift
-* Knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, agile development, build processes, testing, and operations
-* Experience with the following technologies will be a definite asset:
-    * AWS platform and its many components (S3, API Gateway, etc)
-    * Microservices architecture
-    * Swagger and RESTful API design
-    * Docker containerization, Kubernetes orchestration
-
-
-## Ruby Engineer
-💳
-
-### Responsibilities
-
-* As a member of our small but seriously talented engineering team, you will play a key role building scalability and repeatability into our systems. You will manage them with automation and be driven by metrics. You will write Chef recipes to build servers, manage large auto-scaling arrays, and provide best security practices
-* Helping with re-architecting our infrastructure
-* Good knowledge of security best practices
-* Day to day maintenance and working closely with development team
-* Dealing with issues that may come up
-* Participating in on call rotation
-* Helping in launching new Microservices in Rails 5 and Elixir
-
-### Requirements
-
-* Nice to have B.S. in Computer Science, Engineering, Mathematics, or Physics
-* In lieu of a technical degree, 4 years of relevant work experience is an acceptable substitute
-* High degree of proficiency in Linux systems administration
-* High degree of proficiency in Chef
-* Helping in automation that requires a lot of scripting in Bash, Ruby or Python
-* Strong understanding of AWS Cloud Infrastructure
-* Understanding of the Ruby on Rails ecosystem, its benefits and its deficiencies
-* Streamlined deployment for a continuous integration based team
-* Work experience with relational databases and SQL
-* Experience with agile development process in collaborative environment
-* Good understanding of performance tradeoffs
-
-
-## QA Engineer
-💳
-
-### Responsibilities
-
-* Create detailed, comprehensive and well-structured test cases
-* Ability to follow, modify, and reuse test cases
-* Estimate, prioritize, plan and coordinate testing activities
-* Designing, developing and executing automation scripts using open source tools
-* Identify, record, document thoroughly and track bugs
-* Perform thorough regression testing when bugs are resolved
-* Develop and apply testing processes for new and existing products to meet client needs
-* Liaise with internal teams (e.g. developers and product managers) to identify system requirements
-
-### Requirements
-
-* Proven work experience in software quality assurance
-* Strong knowledge of software QA methodologies, tools and processes
-* Experience in writing clear, concise and comprehensive test plans and test cases
-* Hands-on experience with black-box testing, white-box testing is a plus
-* Hands-on experience with automated testing tools
-* Solid knowledge of SQL
-* Experience working in an Agile/Scrum development process
-* Experience with performance and/or security testing is a plus
 
 
 ## DevOps Engineer 
