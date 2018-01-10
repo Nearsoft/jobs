@@ -25,7 +25,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps Engineer (1)](#devops-engineer-1) <!-- yaspeller ignore -->
 * [DevOps Engineer (2)](#devops-engineer-2) <!-- yaspeller ignore -->
 * [Senior .NET Engineer](#senior-net-engineer)
-* [Success Coach](#success-coach)
 * [Product Designer](#product-designer)
 * [UX/UI Designer](#uxui-designer) <!-- yaspeller ignore -->
 
@@ -307,52 +306,6 @@ We need at least **5 years** as a Software Engineer:
 * Experience with database development including relational database design, SQL and ORM technologies
 * Nice to have SCORM or other LMS content
 * Nice to have SOAP/REST
-
-
-## Success Coach
-⭐️
-
-### Role Definition
-
-* Follow up projects, making sure they are running smoothly
-* Identify project risks and prevent them from happening
-* Succession planning
-* People allocation
-* Elaborate client proposals, estimates, budgetary numbers, form teams
-* Projects kick-off and clients onboarding
-* Software development processes definition and software best practices evangelist
-* Conflicts resolution
-* Implement Agile methodology
-* Helping the product owner maintain the product backlog in a way that ensures the project is well defined and the team can continually advance
-* Helping the team to determine the definition of done for the product, with input from key stakeholders
-* Coaching the team, within the agile principles, in order to deliver quality valuable features for their product
-* Promoting self-organization within the team
-* Helping the team to avoid or remove impediments to their progress, whether internal or external to the team
-* Facilitating team milestone achievements to ensure regular progress
-* Educating key stakeholders in the product on agile principles
-* Assist with scaling Agile beyond the team to the program and portfolio
-
-### Requirements
-
-* Software engineering background
-* Proven communication skills
-* Strong in technology, be able to provide technical advice to the team
-* Proficient on  iterative development
-* Proficiency in leadership, influencing, decision making
-* Understand other processes and methodologies and can speak intelligently about them and leverage other techniques to provide value to a team/enterprise
-* Proficient on software development processes and procedures
-* Understand the value of commitments to delivery made by a development team
-* Understand incremental delivery and the value of metrics
-* Understand backlog tracking, burndown metrics, velocity, and task definition
-* Familiarity with common Agile practices, and better development practices
-* Be able to manage multiple projects
-* Someone who lives our values, understand Nearsoft vision and strategy.
-* Understand Nearsoft processes and business model
-* People person
-* 10+ years in the software industry, 5+ year of experience leading/coaching teams in agile software development
-* Location: Hermosillo
-* Travel to client offices
-* Nice to have: Scrum or Kanban Management Experience
 
 
 ## Product Designer
