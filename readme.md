@@ -16,7 +16,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
-* [Senior Front End Engineer](#senior-front-end-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
@@ -90,16 +89,6 @@ If an opening has caught your eye feel free to contact us at
 * Solid understanding and demonstrated experience using Amazon Web Services and/or other cloud providers
 * Strong working knowledge of Agile development methodologies and best practices
 * Excellent communication and teamwork skills
-
-
-## Senior Front End Engineer 
-🏊
-
-* A strong Front End Engineer with experience optimizing checkout funnels
-* This engineer will be responsible for making HTML/CSS changes to a WordPress site and working with Node.js
-* We are currently using tools like: Google Analytics, Optimizely, FullStory, & Facebook
-* We will be running back-to-back experiments to increase our sales conversion rate
-* This engineer will need to setup analytics, measure, devise an experiment with our team, and then perform any analytics/instrumentations/changes
 
 
 ## Senior Software Engineer
