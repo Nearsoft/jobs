@@ -14,6 +14,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 ## Our openings
 
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
+* [Manual-tester](#manual-tester)
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
@@ -55,6 +56,32 @@ If an opening has caught your eye feel free to contact us at
 *	Excellent communication, organizational and problem-solving skills
 * Enjoy working in collaboration with a team, while also possessing a strong independent work ethic
 * Motivation to continuously improve her/his craft of software development while adhering to best practices and standards
+
+
+## Manual Tester 
+📦
+
+### Responsibilities
+
+* Create detailed, comprehensive and well-structured test cases
+* Ability to follow, modify, and reuse test cases 
+* Estimate, prioritize, plan and coordinate testing activities
+* Designing, developing and executing automation scripts using open source tools 
+* Identify, record, document thoroughly and track bugs 
+* Perform thorough regression testing when bugs are resolved 
+* Develop and apply testing processes for new and existing products to meet client needs 
+* Liaise with internal teams (e.g. developers and product managers) to identify system requirements  
+
+### Requirements
+
+* Proven work experience in software quality assurance
+* Strong knowledge of software QA methodologies, tools and processes 
+* Experience in writing clear, concise and comprehensive test plans and test cases 
+* Hands-on experience with black-box testing, white-box testing is a plus
+* Hands-on experience with automated testing tools 
+* Solid knowledge of SQL 
+* Experience working in an Agile/Scrum development process 
+* Experience with performance and/or security testing is a plus
 
 
 ## iOS Engineer
