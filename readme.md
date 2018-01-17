@@ -14,7 +14,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 ## Our openings
 
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
-* [Manual-tester](#manual-tester)
+* [Manual tester](#manual-tester)
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
