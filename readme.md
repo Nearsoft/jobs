@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
 * [Manual tester](#manual-tester)
+* [Software Engineer in Test](#software-engineer-in-test)
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
@@ -83,6 +84,17 @@ If an opening has caught your eye feel free to contact us at
 * Experience working in an Agile/Scrum development process 
 * Experience with performance and/or security testing is a plus
 
+
+### Software Engineer in Test
+🏥
+
+* You are excited to lead and champion our test automation effort throughout the company.
+* You are an expert in object-oriented design and experience with the Page Object pattern.
+* You have excellent coding skills in Java/Swift/Node.
+* You have at least 3 years of development and/or test automation experience.
+* You are experienced in writing robust, maintainable, and extensible unit, integration, and acceptance tests that assert something use.
+* You have a passion for technology outside the workplace with an interest in the latest open source framework/libraries/tools such as Se2/WebDriver, Selenium Grid, TestNG, JUnit, and Hamcrest.
+ 
 
 ## iOS Engineer
 🔎
