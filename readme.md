@@ -59,42 +59,42 @@ If an opening has caught your eye feel free to contact us at
 * Motivation to continuously improve her/his craft of software development while adhering to best practices and standards
 
 
-## Manual Tester 
+## Manual Tester
 📦
 
 ### Responsibilities
 
 * Create detailed, comprehensive and well-structured test cases
-* Ability to follow, modify, and reuse test cases 
+* Ability to follow, modify, and reuse test cases
 * Estimate, prioritize, plan and coordinate testing activities
-* Designing, developing and executing automation scripts using open source tools 
-* Identify, record, document thoroughly and track bugs 
-* Perform thorough regression testing when bugs are resolved 
-* Develop and apply testing processes for new and existing products to meet client needs 
-* Liaise with internal teams (e.g. developers and product managers) to identify system requirements  
+* Designing, developing and executing automation scripts using open source tools
+* Identify, record, document thoroughly and track bugs
+* Perform thorough regression testing when bugs are resolved
+* Develop and apply testing processes for new and existing products to meet client needs
+* Liaise with internal teams (e.g. developers and product managers) to identify system requirements
 
 ### Requirements
 
 * Proven work experience in software quality assurance
-* Strong knowledge of software QA methodologies, tools and processes 
-* Experience in writing clear, concise and comprehensive test plans and test cases 
+* Strong knowledge of software QA methodologies, tools and processes
+* Experience in writing clear, concise and comprehensive test plans and test cases
 * Hands-on experience with black-box testing, white-box testing is a plus
-* Hands-on experience with automated testing tools 
-* Solid knowledge of SQL 
-* Experience working in an Agile/Scrum development process 
+* Hands-on experience with automated testing tools
+* Solid knowledge of SQL
+* Experience working in an Agile/Scrum development process
 * Experience with performance and/or security testing is a plus
 
 
 ### Software Engineer in Test
 🏥
 
-* You are excited to lead and champion our test automation effort throughout the company.
-* You are an expert in object-oriented design and experience with the Page Object pattern.
-* You have excellent coding skills in Java/Swift/Node.
-* You have at least 3 years of development and/or test automation experience.
-* You are experienced in writing robust, maintainable, and extensible unit, integration, and acceptance tests that assert something use.
-* You have a passion for technology outside the workplace with an interest in the latest open source framework/libraries/tools such as Se2/WebDriver, Selenium Grid, TestNG, JUnit, and Hamcrest.
- 
+* You are excited to lead and champion our test automation effort throughout the company
+* You are an expert in object-oriented design and experience with the Page Object pattern
+* You have excellent coding skills in Java/Swift/Node.js
+* You have at least 3 years of development and/or test automation experience
+* You are experienced in writing robust, maintainable, and extensible unit, integration, and acceptance tests that assert something useful
+* You have a passion for technology outside the workplace with an interest in the latest open source framework/libraries/tools such as Selenium 2/WebDriver, Selenium Grid, TestNG, JUnit, and Hamcrest
+
 
 ## iOS Engineer
 🔎
@@ -183,7 +183,7 @@ If an opening has caught your eye feel free to contact us at
 * Kubernetes
 
 
-## DevOps Engineer 
+## DevOps Engineer
 💳
 
 ### Responsibilities
