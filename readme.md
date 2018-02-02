@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [QA Automation Engineer](#qa-automation-engineer)
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
 * [Manual tester](#manual-tester)
 * [Software Engineer in Test](#software-engineer-in-test)
@@ -25,6 +26,34 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+### QA Automation Engineer
+🍽
+
+* We build core services on the JVM using Java and Spring framework with front end developed in Angular
+4 and Typescript . Web backends and simple middleware services are often made with Spring Boot API.
+* Data is stored in PostgreSQL and in MS SQL Server. We run a Mesos cluster for large-scale, distributed
+applications.
+
+## About You
+
+* You want to be part of a cross-functional team. You’re curious, passionate, and enjoy tackling hard
+problems. You love technology and enjoy finding better ways to do things. You want to share what you
+discover and feel energized when you can learn from people around you. When you build software, you
+consider how people will use it from all angles. You take pride in carefully honing your work until it feels
+reliable and effortless to use.
+* You’ve been a QA Automation Engineer for at least 3 years, have made significant contributions to
+projects you’ve been a part of, and want to engineer at a global scale.
+* 3 years of experience in automated testing of back end service and RESTful API.
+* 3 years of experience in automation framework like BDD(Cucumber, Python/Java) and
+Selenium.
+* Strong working knowledge in Java, Spring framework and JSON.
+* 3 years of working experience with SQL databases like PostgreSQL.
+* 2 years of working experience in Performance testing and its analysis of backend services
+and APIs.
+* Ability to break down use cases into test cases and manage test suite.
+* Working experience with Git and Jenkins/Teamcity is a plus.
 
 
 ## Senior Java Developer
