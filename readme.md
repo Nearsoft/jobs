@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [Senior Frontend Engineer](#senior-frontend-engineer)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
 * [Manual tester](#manual-tester)
@@ -26,6 +27,23 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Senior Frontend Engineer
+🔎
+
+* Excellent communication and teamwork skills
+* 3 years hands-on core JavaScript development
+* 3 years using modern web UI frameworks such as React.js, AngularJS
+* Cloud based development (AWS is a plus)
+* Ability to hand code JavaScript (without a framework)
+* Experience with Go or Java is a plus
+* Familiarity with ES6/ES2015
+* Experience building large, multi-tenant web based and/or client server applications
+* Experience interfacing with RESTful APIs
+* Expert knowledge of OOD, design patterns, data structures and algorithms
+* Experience with role and rule based security and authentication tools and best-practices preferred (LDAP, single sign-on, etc)
+* Working knowledge of Agile/SCRUM development methodologies and best practices
 
 
 ## QA Automation Engineer
