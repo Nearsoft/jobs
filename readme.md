@@ -28,7 +28,7 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-### QA Automation Engineer
+## QA Automation Engineer
 🍽
 
 * We build core services on the JVM using Java and Spring framework with front end developed in Angular
@@ -36,7 +36,7 @@ If an opening has caught your eye feel free to contact us at
 * Data is stored in PostgreSQL and in MS SQL Server. We run a Mesos cluster for large-scale, distributed
 applications.
 
-## About You
+### About You
 
 * You want to be part of a cross-functional team. You’re curious, passionate, and enjoy tackling hard
 problems. You love technology and enjoy finding better ways to do things. You want to share what you
