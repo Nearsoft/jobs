@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [Python Engineer](#python-engineer)
 * [Senior Frontend Engineer](#senior-frontend-engineer)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
@@ -22,11 +23,31 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Android Engineer](#android-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
-* [DevOps Engineer](#devops-engineer-1) <!-- yaspeller ignore -->
+* [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
 
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Python Engineer 
+⭐️
+
+* A  Back-End Engineer is someone special. You’ve got experience, but also wisdom; you’re great technically, but also with people; you take pride in your craft, and also in the success of your teammates. You have high standards. You love to ship. And you’re excited by the prospect of using your talents to meaningfully help other people. 
+
+### Our Ideal Candidate:
+
+* You have a minimum of 4 years professional software experience.
+* You have experience with several programming languages (Java or Ruby), and deep knowledge of at least one object-oriented language.
+* You do (or would) enjoy working in Python (at least 1 year of experience) 
+* Youve got hands-on experience with e-commerce systems (designing, building, maintaining)
+* You have experience with microservices (building, deploying, supporting)
+* You have a willingness and ability to communicate ideas and lead/mentor other developers.
+* You have designed and implemented optimized, scalable architectures.
+* You have built and worked with RESTful APIs.
+* You are great at query optimization on relational (MySQL) and non-relational databases.
+* You have experience with AWS technologies such as Lambda, RedShift, DynamoDB and S3.
+* You have experience with RabbitMQ, Celery, Redis and ElasticSearch.
 
 
 ## Senior Frontend Engineer
