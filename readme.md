@@ -13,12 +13,12 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
-* [DevOps](#devops)
+* [DevOps](#devops) <!-- yaspeller ignore -->
 * [Python Engineer](#python-engineer)
-* [Senior Frontend Engineer](#senior-frontend-engineer)
+* [Senior Front End Engineer](#senior-front-end-engineer)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
-* [Manual tester](#manual-tester)
+* [Manual Tester](#manual-tester)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
@@ -34,19 +34,19 @@ If an opening has caught your eye feel free to contact us at
 ## DevOps
 🏥
 
-### Requirements 
+### Requirements
 
-* Hands on development experience in one or more languages (Python, NodeJS preferred)
-* Reasonable knowledge of Linux administration.
+* Hands on development experience in one or more languages (Python, Node.js preferred)
+* Reasonable knowledge of Linux administration
 * Experience with continuous integration (Jenkins)
-* Proficient in scripting languages (Python, Perl, Bash, etc.) and infrastructure provisioning tools (Saltstack, Terraform, Chef or Puppet)
-* Experience administering application servers, web servers, and databases (Jetty, Nginx, Postgres, etc.)
-* Strong working knowledge of Amazon Web Services.
-* Knowledge of pfSense and OpenVPN.
-* Detail-oriented working style & excellent analytical skills.
-* A quick learner who thrives in an agile environment.
-* Good communication & interpersonal skills.
-* Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication.
+* Proficient in scripting languages (Python, Perl, Bash, etc.) and infrastructure provisioning tools (SaltStack, Terraform, Chef or Puppet)
+* Experience administering application servers, web servers, and databases (Jetty, NGINX, PostgreSQL, etc.)
+* Strong working knowledge of Amazon Web Services
+* Knowledge of pfSense and OpenVPN
+* Detail-oriented working style & excellent analytical skills
+* A quick learner who thrives in an agile environment
+* Good communication & interpersonal skills
+* Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication
 
 ### Infrastructure
 
@@ -54,7 +54,7 @@ If an opening has caught your eye feel free to contact us at
 * Docker
 * Terraform
 * MongoDB, MySQL, PostgreSQL
-* CloudFlare, AWS CloudFrontDDoS mitigation systems
+* Cloudflare, AWS CloudFront DDoS mitigation systems
 * Release engineering: Git
 
 ### Application
@@ -62,29 +62,29 @@ If an opening has caught your eye feel free to contact us at
 * React, Node.js (including server-side rendering)
 
 
-## Python Engineer 
+## Python Engineer
 ⭐️
 
-* We are looking for great engineering talent to help us grow in  2018 and beyond. We have interesting problems and big ambitions. We need outstanding people to help us build awesome stuff. 
-* A  Back-End Engineer is someone special. You’ve got experience, but also wisdom; you’re great technically, but also with people; you take pride in your craft, and also in the success of your teammates. You have high standards. You love to ship. And you’re excited by the prospect of using your talents to meaningfully help other people. 
+* We are looking for great engineering talent to help us grow in 2018 and beyond. We have interesting problems and big ambitions. We need outstanding people to help us build awesome stuff.
+* A Back End Engineer is someone special. You've got experience, but also wisdom; you're great technically, but also with people; you take pride in your craft, and also in the success of your teammates. You have high standards. You love to ship. And you're excited by the prospect of using your talents to meaningfully help other people.
 
 ### Our Ideal Candidate
 
 * You have a minimum of 4 years professional software experience.
 * You have experience with several programming languages (Java or Ruby) and deep knowledge of at least one object-oriented language.
-* You do (or would) enjoy working in Python (at least 1 year of experience) 
-* You have experience with Javascript, NodeJS and Angular (1.4.x)
-* You’ve got hands-on experience with e-commerce systems (designing, building, maintaining)
+* You do (or would) enjoy working in Python (at least 1 year of experience)
+* You have experience with JavaScript, Node.js and Angular (1.4.x)
+* You've got hands-on experience with e-commerce systems (designing, building, maintaining)
 * You have experience with microservices (building, deploying, supporting)
 * You have a willingness and ability to communicate ideas and lead/mentor other developers.
 * You have designed and implemented optimized, scalable architectures.
 * You have built and worked with RESTful APIs.
 * You are great at query optimization on relational (MySQL) and non-relational databases.
-* You have experience with AWS technologies such as Lambda, RedShift, DynamoDB, and S3.
-* You have experience with RabbitMQ, Celery, Redis, and ElasticSearch.
+* You have experience with AWS technologies such as Lambda, Redshift, DynamoDB, and S3.
+* You have experience with RabbitMQ, Celery, Redis, and Elasticsearch.
 
 
-## Senior Frontend Engineer
+## Senior Front End Engineer
 🔎
 
 * Excellent communication and teamwork skills
@@ -104,29 +104,20 @@ If an opening has caught your eye feel free to contact us at
 ## QA Automation Engineer
 🍽
 
-* We build core services on the JVM using Java and Spring framework with front end developed in Angular
-4 and Typescript . Web backends and simple middleware services are often made with Spring Boot API.
-* Data is stored in PostgreSQL and in MS SQL Server. We run a Mesos cluster for large-scale, distributed
-applications.
+* We build core services on the JVM using Java and Spring framework with front end developed in Angular 4 and Typescript. Web back ends and simple middleware services are often made with Spring Boot API
+* Data is stored in PostgreSQL and in MS SQL Server. We run a Mesos cluster for large-scale, distributed applications
 
 ### About You
 
-* You want to be part of a cross-functional team. You’re curious, passionate, and enjoy tackling hard
-problems. You love technology and enjoy finding better ways to do things. You want to share what you
-discover and feel energized when you can learn from people around you. When you build software, you
-consider how people will use it from all angles. You take pride in carefully honing your work until it feels
-reliable and effortless to use.
-* You’ve been a QA Automation Engineer for at least 3 years, have made significant contributions to
-projects you’ve been a part of, and want to engineer at a global scale.
-* 3 years of experience in automated testing of back end service and RESTful API.
-* 3 years of experience in automation framework like BDD(Cucumber, Python/Java) and
-Selenium.
-* Strong working knowledge in Java, Spring framework and JSON.
-* 3 years of working experience with SQL databases like PostgreSQL.
-* 2 years of working experience in Performance testing and its analysis of backend services
-and APIs.
-* Ability to break down use cases into test cases and manage test suite.
-* Working experience with Git and Jenkins/Teamcity is a plus.
+* You want to be part of a cross-functional team. You're curious, passionate, and enjoy tackling hard problems. You love technology and enjoy finding better ways to do things. You want to share what you discover and feel energized when you can learn from people around you. When you build software, you consider how people will use it from all angles. You take pride in carefully honing your work until it feels reliable and effortless to use
+* You've been a QA Automation Engineer for at least 3 years, have made significant contributions to projects you've been a part of, and want to engineer at a global scale
+* 3 years of experience in automated testing of back end service and RESTful API
+* 3 years of experience in automation framework like BDD (Cucumber, Python/Java) and Selenium
+* Strong working knowledge in Java, Spring framework and JSON
+* 3 years of working experience with SQL databases like PostgreSQL
+* 2 years of working experience in Performance testing and its analysis of back end services and APIs
+* Ability to break down use cases into test cases and manage test suite
+* Working experience with Git and Jenkins/TeamCity is a plus
 
 
 ## Senior Java Developer
