@@ -25,6 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
+* [Product Designer](#product-designer)
 
 
 If an opening has caught your eye feel free to contact us at
@@ -307,6 +308,42 @@ If an opening has caught your eye feel free to contact us at
 * Familiarity with time series databases like InfluxDB, Prometheus, Graphite, etc.
 * Experience designing and deploying large scale distributed data processing systems
 * Experience with CI/CD tools preferably Chef Automate
+
+
+## Product Designer 
+🚀
+
+### Role Definition 
+
+* Helping UX team and clients to ensure the project is well defined and running smoothly.
+* Educating Key Stakeholders in the product development process.
+* Able to identify, solve and prevent problems to happen during the product development process.
+* Encourage innovation and technology best practices inside Nearsoft.
+* Elaborate client proposals and project estimates.
+* Continuously implement strategies to improve team and projects performance.
+* Test assumptions and measure success in projects and team strategies.
+* Provide user perspective to development teams to help them redefine their products. 
+* Plan, design, test and measure UX projects.
+* Create user flows, wireframes and prototypes that accurately communicate product functionality.
+* Design high fidelity user interfaces that reflects ux findings and business objectives with feasible implementation for dev teams.
+* Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users’ needs.
+* Collaborate with UX researchers, designers, marketing, developers and stakeholders to produce high quality digital products
+* Create and share product development content in the software industry.
+
+## Requirements 
+
+* At least 5 years of experience leading digital products to successful outcomes.
+* Fluent in written and spoken English.
+* Experience working with startups.
+* Experience with Human Centered Design, Design Thinking and Design Sprint Methodology.
+* Samples of Live digital products. 
+* Experience using Sketch, Invision and Zeplin or similar tools. 
+* Experience with Multidisciplinary collaboration (Engineers, designers, stakeholders, product managers)
+* Proactive and Leadership skills.
+* Strong User Interface Design skills.
+* Experience defining, planning and measuring projects.
+* Indispensable: move to Hermosillo.
+* Availability to travel outside México.
 
 
 ## Credit
