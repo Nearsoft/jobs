@@ -13,6 +13,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+* [Automation Engineer](#automation-engineer)
 * [DevOps](#devops) <!-- yaspeller ignore -->
 * [Python Engineer](#python-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
@@ -30,6 +31,21 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Automation Engineer 
+🏥
+
+### Requirements
+
+* Experience designing and maintaining test automation framework for large scale applications.
+* Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework.
+* Knowledge of current test automation tools and frameworks (ie: TestNG, JUnit, Mocha, WebDriverIO, Selenium).
+* Experience working with cloud architecture, web services, APIs and mobile devices and SDK’s Testing web (Node.js, React.js)and mobile (Android, iOS) applications.
+* Working knowledge of AWS, Docker, Jenkins, continuous delivery, Git.
+* Experience with NoSQL Databases.
+* Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving. 
+* Experience working in an Agile Development environment. 
 
 
 ## DevOps
