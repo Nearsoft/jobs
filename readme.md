@@ -25,6 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
 * [Product Designer](#product-designer)
+* [PHP Engineer](#php-engineer)
 
 
 If an opening has caught your eye feel free to contact us at
@@ -316,7 +317,7 @@ If an opening has caught your eye feel free to contact us at
 * Collaborate with UX researchers, designers, marketing, developers and stakeholders to produce high quality digital products
 * Create and share product development content in the software industry
 
-## Requirements
+### Requirements
 
 * At least 5 years of experience leading digital products to successful outcomes
 * Fluent in written and spoken English
@@ -331,6 +332,28 @@ If an opening has caught your eye feel free to contact us at
 * Indispensable: move to Hermosillo
 * Availability to travel outside of Mexico
 
+
+## PHP Engineer
+⁉️
+
+### Requirements
+
+* PHP expertise or another language.
+* Very strong on engineering concepts such as OOP/OOD (Object-Oriented Programming/Object-Oriented Design)
+* Knowledge and experience on Design Patterns.
+* Have used Unit Testing and understand the Software Development Life Cycle.
+* Knowledge of Selenium, Maven or CruiseControl will be a plus.
+* Knowledge of Laravel.
+* Like to do high quality software.
+* Like to implement new practices in an established team.
+
+### Nice to Have
+
+* CodeIgniter Experience.
+* JavaScript.
+* AngularJS.
+* Bootstrap.
+* Familiarity with PaaS or Amazon Web Services.
 
 ## Credit
 
