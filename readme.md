@@ -16,11 +16,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Automation Engineer](#automation-engineer)
 * [DevOps](#devops) <!-- yaspeller ignore -->
 * [Python Engineer](#python-engineer)
-* [Senior Front End Engineer](#senior-front-end-engineer)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
 * [Manual Tester](#manual-tester)
-* [Software Engineer in Test](#software-engineer-in-test)
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
@@ -101,23 +99,6 @@ If an opening has caught your eye feel free to contact us at
 * You have experience with RabbitMQ, Celery, Redis, and Elasticsearch.
 
 
-## Senior Front End Engineer
-🔎
-
-* Excellent communication and teamwork skills
-* 3 years hands-on core JavaScript development
-* 3 years using modern web UI frameworks such as React.js, AngularJS
-* Cloud based development (AWS is a plus)
-* Ability to hand code JavaScript (without a framework)
-* Experience with Go or Java is a plus
-* Familiarity with ES6/ES2015
-* Experience building large, multi-tenant web based and/or client server applications
-* Experience interfacing with RESTful APIs
-* Expert knowledge of OOD, design patterns, data structures and algorithms
-* Experience with role and rule based security and authentication tools and best-practices preferred (LDAP, single sign-on, etc)
-* Working knowledge of Agile/SCRUM development methodologies and best practices
-
-
 ## QA Automation Engineer
 🍽
 
@@ -193,17 +174,6 @@ If an opening has caught your eye feel free to contact us at
 * Solid knowledge of SQL
 * Experience working in an Agile/Scrum development process
 * Experience with performance and/or security testing is a plus
-
-
-### Software Engineer in Test
-🏥
-
-* You are excited to lead and champion our test automation effort throughout the company
-* You are an expert in object-oriented design and experience with the Page Object pattern
-* You have excellent coding skills in Java/Swift/Node.js
-* You have at least 3 years of development and/or test automation experience
-* You are experienced in writing robust, maintainable, and extensible unit, integration, and acceptance tests that assert something useful
-* You have a passion for technology outside the workplace with an interest in the latest open source framework/libraries/tools such as Selenium 2/WebDriver, Selenium Grid, TestNG, JUnit, and Hamcrest
 
 
 ## iOS Engineer
