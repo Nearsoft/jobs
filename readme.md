@@ -25,7 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
 * [Product Designer](#product-designer)
-* [UX/UI Designer](#ux-ui-designer)
+* [UX Designer](#ux-designer)
 * [PHP Engineer](#php-engineer)
 
 
@@ -334,7 +334,7 @@ If an opening has caught your eye feel free to contact us at
 * Availability to travel outside of Mexico
 
 
-## UX/UI Designer
+## UX Designer
 🚀
 
 ### Role Definition 
