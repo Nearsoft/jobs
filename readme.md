@@ -25,7 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
 * [Product Designer](#product-designer)
-* [UX/UI Designer](#ux/ui-designer)
+* [UX/UI Designer](#ux-ui-designer)
 * [PHP Engineer](#php-engineer)
 
 
