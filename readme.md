@@ -25,6 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
 * [Product Designer](#product-designer)
+* [UX/UI Designer](#ux/ui-designer)
 * [PHP Engineer](#php-engineer)
 
 
@@ -331,6 +332,45 @@ If an opening has caught your eye feel free to contact us at
 * Experience defining, planning and measuring projects
 * Indispensable: move to Hermosillo
 * Availability to travel outside of Mexico
+
+
+## UX/UI Designer
+🚀
+
+### Role Definition 
+
+* Conduct quantitative and qualitative user research
+* Implement UX methods to discover user insights and interpret data
+* Build dynamic style guides with assets ready for responsive iOS, Android devices
+* Plan, design, test and measure UX projects
+* Create user flows, wireframes and prototypes that accurately communicate product functionality 
+* Design high fidelity user interfaces that reflects ux findings and business objectives with feasible implementation for dev teams
+* Communicate design intent to both internal and external teams, and justify design work and advocate for users’ needs.
+* Continuously elaborate strategies to improve team and projects performance
+* Elaborate client proposals and project estimates
+* Collaborate with UX researchers, marketers, developers, product managers to build high quality digital products
+* Create and share UX content in the software industry
+
+### Requirements 
+
+* At least 5 years of experience designing digital products
+* Experience leading digital projects 
+* Fluent in written and spoken English
+* Experience with Human Centered Design, Design Thinking and Design Sprint Methodology
+* Samples of Live digital projects
+* Experience using Sketch, Invision and Zeplin or similar tools.
+* Experience with Multidisciplinary collaboration (Engineers, designers, marketers, stakeholders, product managers)
+* Proactive and Leadership skills
+* Strong Visual Design skills
+* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience.
+* Location: Hermosillo
+* Availability to travel outside México
+
+### Nice to have 
+
+* SEO and Google analytics skills
+* Conference speaker
+* Front-end knowledge
 
 
 ## PHP Engineer
