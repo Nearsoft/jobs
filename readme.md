@@ -387,7 +387,7 @@ If an opening has caught your eye feel free to contact us at
 * Like to do high quality software
 * Like to implement new practices in an established team
 
-### Nice to Have
+### Nice to have
 
 * CodeIgniter experience
 * JavaScript
