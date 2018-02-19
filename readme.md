@@ -25,7 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
 * [Product Designer](#product-designer)
-* [UX Designer](#ux-designer)
+* [UX Designer](#ux-designer) <!-- yaspeller ignore -->
 * [PHP Engineer](#php-engineer)
 
 
@@ -33,19 +33,19 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## Automation Engineer 
+## Automation Engineer
 🏥
 
 ### Requirements
 
-* Experience designing and maintaining test automation framework for large scale applications.
-* Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework.
-* Knowledge of current test automation tools and frameworks (ie: TestNG, JUnit, Mocha, WebDriverIO, Selenium).
-* Experience working with cloud architecture, web services, APIs and mobile devices and SDK’s Testing web (Node.js, React.js)and mobile (Android, iOS) applications.
-* Working knowledge of AWS, Docker, Jenkins, continuous delivery, Git.
+* Experience designing and maintaining test automation framework for large scale applications
+* Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework
+* Knowledge of current test automation tools and frameworks (i.e. TestNG, JUnit, Mocha, WebDriverIO, Selenium)
+* Experience working with Cloud architecture, Web services, APIs and mobile devices and SDK’s Testing web (Node.js, React.js) and mobile (Android, iOS) applications
+* Working knowledge of AWS, Docker, Jenkins, Continuous Delivery, Git
 * Experience with NoSQL Databases.
-* Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving. 
-* Experience working in an Agile Development environment. 
+* Computer science fundamentals in Object-oriented design, data structures, algorithms, and problem solving
+* Experience working in an Agile Development environment
 
 
 ## DevOps
@@ -149,7 +149,7 @@ If an opening has caught your eye feel free to contact us at
 * Understanding of established software development life cycles
 *	Excellent communication, organizational and problem-solving skills
 * Enjoy working in collaboration with a team, while also possessing a strong independent work ethic
-* Motivation to continuously improve her/his craft of software development while adhering to best practices and standards
+* Motivation to continuously improve their craft of software development while adhering to best practices and standards
 
 
 ## Manual Tester
@@ -337,36 +337,36 @@ If an opening has caught your eye feel free to contact us at
 ## UX Designer
 🚀
 
-### Role Definition 
+### Role Definition
 
 * Conduct quantitative and qualitative user research
 * Implement UX methods to discover user insights and interpret data
 * Build dynamic style guides with assets ready for responsive iOS, Android devices
 * Plan, design, test and measure UX projects
-* Create user flows, wireframes and prototypes that accurately communicate product functionality 
-* Design high fidelity user interfaces that reflects ux findings and business objectives with feasible implementation for dev teams
-* Communicate design intent to both internal and external teams, and justify design work and advocate for users’ needs.
+* Create user flows, wireframes and prototypes that accurately communicate product functionality
+* Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
+* Communicate design intent to both internal and external teams, and justify design work and advocate for users' needs.
 * Continuously elaborate strategies to improve team and projects performance
 * Elaborate client proposals and project estimates
 * Collaborate with UX researchers, marketers, developers, product managers to build high quality digital products
 * Create and share UX content in the software industry
 
-### Requirements 
+### Requirements
 
 * At least 5 years of experience designing digital products
-* Experience leading digital projects 
+* Experience leading digital projects
 * Fluent in written and spoken English
 * Experience with Human Centered Design, Design Thinking and Design Sprint Methodology
 * Samples of Live digital projects
-* Experience using Sketch, Invision and Zeplin or similar tools.
+* Experience using Sketch, InVision and Zeplin or similar tools
 * Experience with Multidisciplinary collaboration (Engineers, designers, marketers, stakeholders, product managers)
 * Proactive and Leadership skills
 * Strong Visual Design skills
-* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience.
+* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
 * Location: Hermosillo
-* Availability to travel outside México
+* Availability to travel outside Mexico
 
-### Nice to have 
+### Nice to have
 
 * SEO and Google analytics skills
 * Conference speaker
@@ -378,22 +378,22 @@ If an opening has caught your eye feel free to contact us at
 
 ### Requirements
 
-* PHP expertise or another language.
+* PHP expertise or another language
 * Very strong on engineering concepts such as OOP/OOD (Object-Oriented Programming/Object-Oriented Design)
-* Knowledge and experience on Design Patterns.
-* Have used Unit Testing and understand the Software Development Life Cycle.
-* Knowledge of Selenium, Maven or CruiseControl will be a plus.
-* Knowledge of Laravel.
-* Like to do high quality software.
-* Like to implement new practices in an established team.
+* Knowledge and experience on Design Patterns
+* Have used Unit Testing and understand the Software Development Life Cycle
+* Knowledge of Selenium, Maven or CruiseControl will be a plus
+* Knowledge of Laravel
+* Like to do high quality software
+* Like to implement new practices in an established team
 
 ### Nice to Have
 
-* CodeIgniter Experience.
-* JavaScript.
-* AngularJS.
-* Bootstrap.
-* Familiarity with PaaS or Amazon Web Services.
+* CodeIgniter experience
+* JavaScript
+* AngularJS
+* Bootstrap
+* Familiarity with PaaS or Amazon Web Services
 
 ## Credit
 
