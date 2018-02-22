@@ -24,6 +24,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
+* [iOS Developer](#ios-developer)
 * [Product Designer](#product-designer)
 * [UX Designer](#ux-designer) <!-- yaspeller ignore -->
 * [PHP Engineer](#php-engineer)
@@ -296,6 +297,21 @@ If an opening has caught your eye feel free to contact us at
 * Familiarity with time series databases like InfluxDB, Prometheus, Graphite, etc.
 * Experience designing and deploying large scale distributed data processing systems
 * Experience with CI/CD tools preferably Chef Automate
+
+
+## iOS Developer 
+🚑
+
+* You are a strong mobile enthusiast: you have strong interest and opinions about mobile technology
+* You have shipped at least 1 mobile app (native iOS), either personally or with a company
+* 5+ years experience developing web, software, or mobile applications
+* Strong experience with Objective-C
+* Experience with the entire Software Development Life Cycle (SDLC)
+* Familiarity with iOS UI design principles and accessibility best practices
+* Solid communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences
+* Strong understanding of the Software design/architecture process
+* Experience with unit testing & Test Driven Development (TDD)
+* BS/MS in computer science a plus but not required
 
 
 ## Product Designer
