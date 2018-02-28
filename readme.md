@@ -22,7 +22,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
 * [Android Engineer](#android-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
-* [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
 * [iOS Developer](#ios-developer) <!-- yaspeller ignore -->
 * [Product Designer](#product-designer)
@@ -228,42 +227,6 @@ If an opening has caught your eye feel free to contact us at
 * Working knowledge of Agile/SCRUM development methodologies and best practices
 * Experience using Ruby a plus
 * Financial systems experience (accounting, payroll, etc.) a plus
-
-
-## Full-Stack Software Engineer
-🌎
-
-### Programming Languages
-
-* C# and .NET ecosystem
-* Node.js (specifically the Express framework)
-
-### Also
-
-* Powershell scripting
-* Bash shell scripting
-* Python scripting
-
-### Operating Systems
-
-* Microsoft Windows Server 2008 and above
-* CentOS
-* Ubuntu
-
-### Data/Persistence
-
-* Microsoft SQL Server
-* PostgreSQL
-* MongoDB
-* Redis
-* Messaging
-* AMQP/RabbitMQ
-
-### Platform Automation
-
-* SaltStack
-* Docker
-* Kubernetes
 
 
 ## DevOps Engineer
