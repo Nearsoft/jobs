@@ -24,7 +24,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Software Engineer](#senior-software-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
-* [iOS Developer](#ios-developer)
+* [iOS Developer](#ios-developer) <!-- yaspeller ignore -->
 * [Product Designer](#product-designer)
 * [UX Designer](#ux-designer) <!-- yaspeller ignore -->
 * [PHP Engineer](#php-engineer)
@@ -299,7 +299,7 @@ If an opening has caught your eye feel free to contact us at
 * Experience with CI/CD tools preferably Chef Automate
 
 
-## iOS Developer 
+## iOS Developer
 🚑
 
 * You are a strong mobile enthusiast: you have strong interest and opinions about mobile technology
@@ -309,9 +309,9 @@ If an opening has caught your eye feel free to contact us at
 * Experience with the entire Software Development Life Cycle (SDLC)
 * Familiarity with iOS UI design principles and accessibility best practices
 * Solid communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences
-* Strong understanding of the Software design/architecture process
+* Strong understanding of the Software Design/Architecture process
 * Experience with unit testing & Test Driven Development (TDD)
-* BS/MS in computer science a plus but not required
+* B.S./M.S. in computer science a plus but not required
 
 
 ## Product Designer
