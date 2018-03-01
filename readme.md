@@ -38,14 +38,10 @@ If an opening has caught your eye feel free to contact us at
 
 ### Requirements
 
-* Experience designing and maintaining test automation framework for large scale applications
-* Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework
-* Knowledge of current test automation tools and frameworks (i.e. TestNG, JUnit, Mocha, WebDriverIO, Selenium)
-* Experience working with Cloud architecture, Web services, APIs and mobile devices and SDK’s Testing web (Node.js, React.js) and mobile (Android, iOS) applications
-* Working knowledge of AWS, Docker, Jenkins, Continuous Delivery, Git
-* Experience with NoSQL Databases.
-* Computer science fundamentals in Object-oriented design, data structures, algorithms, and problem solving
-* Experience working in an Agile Development environment
+* Experience designing and maintaining test automation framework for large scale applications.
+* Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework.
+* Knowledge of current test automation tools and frameworks (ie: TestNG, JUnit, Mocha, WebDriverIO, Selenium).
+* Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving.
 
 
 ## DevOps
