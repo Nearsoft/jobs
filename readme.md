@@ -13,21 +13,24 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+<!-- yaspeller ignore:start -->
+
 * [Automation Engineer](#automation-engineer)
-* [DevOps](#devops) <!-- yaspeller ignore -->
+* [DevOps](#devops)
 * [Python Engineer](#python-engineer)
 * [QA Automation Engineer](#qa-automation-engineer)
-* [Senior Java Developer](#senior-java-developer) <!-- yaspeller ignore -->
+* [Senior Java Developer](#senior-java-developer)
 * [Manual Tester](#manual-tester)
-* [iOS Engineer](#ios-engineer) <!-- yaspeller ignore -->
+* [iOS Engineer](#ios-engineer)
 * [Android Engineer](#android-engineer)
 * [Senior Software Engineer](#senior-software-engineer)
-* [DevOps Engineer](#devops-engineer) <!-- yaspeller ignore -->
-* [iOS Developer](#ios-developer) <!-- yaspeller ignore -->
+* [DevOps Engineer](#devops-engineer)
+* [iOS Developer](#ios-developer)
 * [Product Designer](#product-designer)
-* [UX Designer](#ux-designer) <!-- yaspeller ignore -->
+* [UX Designer](#ux-designer)
 * [PHP Engineer](#php-engineer)
 
+<!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
@@ -38,10 +41,10 @@ If an opening has caught your eye feel free to contact us at
 
 ### Requirements
 
-* Experience designing and maintaining test automation framework for large scale applications.
-* Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework.
-* Knowledge of current test automation tools and frameworks (ie: TestNG, JUnit, Mocha, WebDriverIO, Selenium).
-* Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving.
+* Experience designing and maintaining test automation framework for large scale applications
+* Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework
+* Knowledge of current test automation tools and frameworks (i.e. TestNG, JUnit, Mocha, WebDriverIO, Selenium)
+* Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving
 
 
 ## DevOps
@@ -78,23 +81,23 @@ If an opening has caught your eye feel free to contact us at
 ## Python Engineer
 ⭐️
 
-* We are looking for great engineering talent to help us grow in 2018 and beyond. We have interesting problems and big ambitions. We need outstanding people to help us build awesome stuff.
-* A Back End Engineer is someone special. You've got experience, but also wisdom; you're great technically, but also with people; you take pride in your craft, and also in the success of your teammates. You have high standards. You love to ship. And you're excited by the prospect of using your talents to meaningfully help other people.
+* We are looking for great engineering talent to help us grow in 2018 and beyond. We have interesting problems and big ambitions. We need outstanding people to help us build awesome stuff
+* A Back End Engineer is someone special. You've got experience, but also wisdom; you're great technically, but also with people; you take pride in your craft, and also in the success of your teammates. You have high standards. You love to ship. And you're excited by the prospect of using your talents to meaningfully help other people
 
 ### Our Ideal Candidate
 
-* You have a minimum of 4 years professional software experience.
-* You have experience with several programming languages (Java or Ruby) and deep knowledge of at least one object-oriented language.
+* You have a minimum of 4 years professional software experience
+* You have experience with several programming languages (Java or Ruby) and deep knowledge of at least one object-oriented language
 * You do (or would) enjoy working in Python (at least 1 year of experience)
 * You have experience with JavaScript, Node.js and Angular (1.4.x)
 * You've got hands-on experience with e-commerce systems (designing, building, maintaining)
 * You have experience with microservices (building, deploying, supporting)
-* You have a willingness and ability to communicate ideas and lead/mentor other developers.
-* You have designed and implemented optimized, scalable architectures.
-* You have built and worked with RESTful APIs.
-* You are great at query optimization on relational (MySQL) and non-relational databases.
-* You have experience with AWS technologies such as Lambda, Redshift, DynamoDB, and S3.
-* You have experience with RabbitMQ, Celery, Redis, and Elasticsearch.
+* You have a willingness and ability to communicate ideas and lead/mentor other developers
+* You have designed and implemented optimized, scalable architectures
+* You have built and worked with RESTful APIs
+* You are great at query optimization on relational (MySQL) and non-relational databases
+* You have experience with AWS technologies such as Lambda, Redshift, DynamoDB, and S3
+* You have experience with RabbitMQ, Celery, Redis, and Elasticsearch
 
 
 ## QA Automation Engineer
@@ -320,7 +323,7 @@ If an opening has caught your eye feel free to contact us at
 * Plan, design, test and measure UX projects
 * Create user flows, wireframes and prototypes that accurately communicate product functionality
 * Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
-* Communicate design intent to both internal and external teams, and justify design work and advocate for users' needs.
+* Communicate design intent to both internal and external teams, and justify design work and advocate for users' needs
 * Continuously elaborate strategies to improve team and projects performance
 * Elaborate client proposals and project estimates
 * Collaborate with UX researchers, marketers, developers, product managers to build high quality digital products
