@@ -39,39 +39,38 @@ If an opening has caught your eye feel free to contact us at
 ## DevOps Software Engineer
 🌱
 
-## The Ideal Candidate
+### The Ideal Candidate
 
 The ideal candidate has an extensive experience with SaaS platforms, primarily hosted on AWS infrastructure. You are able to strike the right balance between appropriate levels of process and security while still supporting an agile and fast paced development environment. You are used to working closely with application developers and enjoy participating in the architectural discussions. While you don't enjoy it, you know that you are occasionally going to be summoned to respond to an after hours emergency. You are equally determined to ensure it does not happen often.
 
-## Primary Responsibilities
+### Primary Responsibilities
 
 * Support of production infrastructure and services, including our AWS Infrastructure such as EC2, S3, IAM, Route 53, ElastiCache, ALBs, CloudWatch, CloudFormation, etc.
 * Java and Rails applications
 * Docker and Kubernetes
 * PostgreSQL and Redis databases
-* Provide leadership to the team in mastering technologies, identifying and implementing worthwhile new technologies and improving our process.
-* Continuous delivery (CI/CD) using Jenkins, Maven, Artifactory, Docker, Chef/Ansible, Git.
-* Site reliability and availability, including end-to-end performance, service monitoring, alerting, capacity sizing and planning.
-* 24/7 on-call rotation for production support, troubleshooting production and development issues.
-* Business continuity planning & testing.
-* Skills and Experience:
+* Provide leadership to the team in mastering technologies, identifying and implementing worthwhile new technologies and improving our process
+* Continuous delivery (CI/CD) using Jenkins, Maven, Artifactory, Docker, Chef/Ansible, Git
+* Site reliability and availability, including end-to-end performance, service monitoring, alerting, capacity sizing and planning
+* 24/7 on-call rotation for production support, troubleshooting production and development issues
+* Business continuity planning & testing
 
-## You must have
+### You must have
 
 * DevOps and system administration experience
-* At least 3 years in managing AWS cloud infrastructure.
-* Experience configuring and supporting SaaS environments, provisioning resources, monitoring utilization and making adjustments in accordance with standard operating procedures.
-* Expertise in Docker and Kubernetes.
-* Hands-on experience with monitoring/APM tools such as New Relic, CloudWatch, Papertrail and Rollbar.
-* Strong Linux administration (e.g. Ubuntu) and scripting (e.g. shell script, Python).
-* Soft skills, e.g. team player, clear and concise communication, problem solving, sense of humor.
+* At least 3 years in managing AWS cloud infrastructure
+* Experience configuring and supporting SaaS environments, provisioning resources, monitoring utilization and making adjustments in accordance with standard operating procedures
+* Expertise in Docker and Kubernetes
+* Hands-on experience with monitoring/APM tools such as New Relic, CloudWatch, Papertrail and Rollbar
+* Strong Linux administration (e.g. Ubuntu) and scripting (e.g. Shell scripting, Python)
+* Soft skills, e.g. team player, clear and concise communication, problem solving, sense of humor
 * Desired skills, but not mandatory:
-* Expertise in database scalability, availability and performance tuning, preferably with PostgreSQL and Redis.
-* Building hybrid cloud using VMWare, Cloud Foundry.
-* Experience in building and supporting PaaS (e.g. Heroku, RedisGreen, Deis).
-* Data protection and secret handling technology such as Vault.
-* Logging (e.g. Splunk, Graylog) and Elastic Search (ELK).
-* Building micro-services and real-time event processing is a big plus.
+    * Expertise in database scalability, availability and performance tuning, preferably with PostgreSQL and Redis
+    * Building hybrid cloud using VMWare, Cloud Foundry
+    * Experience in building and supporting PaaS (e.g. Heroku, RedisGreen, Deis)
+    * Data protection and secret handling technology such as Vault
+    * Logging (e.g. Splunk, Graylog) and Elastic Search (ELK)
+    * Building micro-services and real-time event processing is a big plus
 
 
 ## Automation Engineer
