@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Fullstack Javascript-Java Developer](#fullstack-javascript-java-developer)
+* [Magento-Developer](#magento-developer)
 * [DevOps Software Engineer](#devops-software-engineer)
 * [Automation Engineer](#automation-engineer)
 * [DevOps](#devops)
@@ -36,6 +38,53 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
+## Fullstack Javascript-Java Developer 
+🌆
+
+* Core Java Development
+* JEE Api
+* JavaBeans
+* Spring
+* JSP
+* JavaScript
+* SQL
+* PL-SQL
+* WEB Services development
+
+
+## Magento Developer 
+🚀
+
+### POSITION DESCRIPTION
+
+Our need, a certified Magento Developer who will be responsible for providing quality solutions that meet development requirements in support of our eCommerce platform projects on Magento 1 and Magento 2.  
+
+### Essential Functions
+
+* Creatively solve complex problems
+* Develop on the Magento 1 and 2 platform
+* Contribute to our client’s code base using an open source model in Git
+* Develop custom extensions to be released as to customer environments
+* Contribute to internal initiatives such as improving our development processes
+
+### Competencies
+
+* Magento Certified Developer
+* Prefer experience developing on the Magento 2 platform
+* Prefer 2+ years experience in web development; maintenance programs, integrations, servers
+* Very comfortable in HTML/CSS, Javascript & JQuery, XML, SQL, PHP, Git, Node
+* Good written and oral communication skills with team members and clients, english and spanish
+* Accountability/Self-Confidence to Execute
+* Analytic/Critical Thinking
+* Attention to Detail
+* Collaboration/Working with Others
+* Communication/Listening Skills
+* Customer Focus
+* Goals/Metrics-Driven
+* Priority Setting/Time Management
+* Organization / Prioritization
+  
+  
 ## DevOps Software Engineer
 🌱
 
