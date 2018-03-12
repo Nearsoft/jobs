@@ -15,8 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Fullstack Javascript-Java Developer](#fullstack-javascript-java-developer)
-* [Magento-Developer](#magento-developer)
+* [Full-stack JavaScript-Java Developer](#full-stack-javascript-java-developer)
+* [Magento Developer](#magento-developer)
 * [DevOps Software Engineer](#devops-software-engineer)
 * [Automation Engineer](#automation-engineer)
 * [DevOps](#devops)
@@ -38,32 +38,32 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## Fullstack Javascript-Java Developer 
+## Full-stack JavaScript-Java Developer
 🌆
 
 * Core Java Development
-* JEE Api
+* JavaEE APIs
 * JavaBeans
 * Spring
 * JSP
 * JavaScript
 * SQL
 * PL-SQL
-* WEB Services development
+* Web Services development
 
 
-## Magento Developer 
+## Magento Developer
 🚀
 
-### POSITION DESCRIPTION
+### Position description
 
-Our need, a certified Magento Developer who will be responsible for providing quality solutions that meet development requirements in support of our eCommerce platform projects on Magento 1 and Magento 2.  
+Our need, a certified Magento Developer who will be responsible for providing quality solutions that meet development requirements in support of our eCommerce platform projects on Magento 1 and Magento 2.
 
 ### Essential Functions
 
 * Creatively solve complex problems
 * Develop on the Magento 1 and 2 platform
-* Contribute to our client’s code base using an open source model in Git
+* Contribute to our client's code base using an open source model in Git
 * Develop custom extensions to be released as to customer environments
 * Contribute to internal initiatives such as improving our development processes
 
@@ -72,19 +72,19 @@ Our need, a certified Magento Developer who will be responsible for providing qu
 * Magento Certified Developer
 * Prefer experience developing on the Magento 2 platform
 * Prefer 2+ years experience in web development; maintenance programs, integrations, servers
-* Very comfortable in HTML/CSS, Javascript & JQuery, XML, SQL, PHP, Git, Node
-* Good written and oral communication skills with team members and clients, english and spanish
-* Accountability/Self-Confidence to Execute
-* Analytic/Critical Thinking
-* Attention to Detail
-* Collaboration/Working with Others
-* Communication/Listening Skills
-* Customer Focus
-* Goals/Metrics-Driven
-* Priority Setting/Time Management
-* Organization / Prioritization
-  
-  
+* Very comfortable in HTML/CSS, JavaScript & jQuery, XML, SQL, PHP, Git, Node.js
+* Good written and verbal communication skills with team members and clients, English and Spanish
+* Accountability/Self-confidence to deliver
+* Analytic/Critical thinking
+* Attention to detail
+* Collaboration/Working with others
+* Communication/Listening skills
+* Customer focus
+* Goals/Metrics-driven
+* Priority setting/Time management
+* Organization/Prioritization
+
+
 ## DevOps Software Engineer
 🌱
 
@@ -245,7 +245,7 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 * Create detailed, comprehensive and well-structured test cases
 * Ability to follow, modify, and reuse test cases
 * Estimate, prioritize, plan and coordinate testing activities
-* Designing, developing and executing automation scripts using open source tools
+* Designing, developing and delivering automation scripts using open source tools
 * Identify, record, document thoroughly and track bugs
 * Perform thorough regression testing when bugs are resolved
 * Develop and apply testing processes for new and existing products to meet client needs
