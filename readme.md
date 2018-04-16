@@ -19,7 +19,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Magento Developer](#magento-developer)
 * [DevOps Software Engineer](#devops-software-engineer)
 * [Automation Engineer](#automation-engineer)
-* [DevOps](#devops)
 * [Python Engineer](#python-engineer)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Senior Java Developer](#senior-java-developer)
@@ -130,37 +129,6 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 * Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework
 * Knowledge of current test automation tools and frameworks (i.e. TestNG, JUnit, Mocha, WebDriverIO, Selenium)
 * Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving
-
-
-## DevOps
-🏥
-
-### Requirements
-
-* Hands on development experience in one or more languages (Python, Node.js preferred)
-* Reasonable knowledge of Linux administration
-* Experience with continuous integration (Jenkins)
-* Proficient in scripting languages (Python, Perl, Bash, etc.) and infrastructure provisioning tools (SaltStack, Terraform, Chef or Puppet)
-* Experience administering application servers, web servers, and databases (Jetty, NGINX, PostgreSQL, etc.)
-* Strong working knowledge of Amazon Web Services
-* Knowledge of pfSense and OpenVPN
-* Detail-oriented working style & excellent analytical skills
-* A quick learner who thrives in an agile environment
-* Good communication & interpersonal skills
-* Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication
-
-### Infrastructure
-
-* AWS
-* Docker
-* Terraform
-* MongoDB, MySQL, PostgreSQL
-* Cloudflare, AWS CloudFront DDoS mitigation systems
-* Release engineering: Git
-
-### Application
-
-* React, Node.js (including server-side rendering)
 
 
 ## Python Engineer
