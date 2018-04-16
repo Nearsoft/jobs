@@ -16,6 +16,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Full Stack Engineer](#full-stack-engineer)
+* [Sr Full Stack Engineer](#sr-full-stack-engineer)
 * [Ruby on Rails Developer](#ruby-on-rails-developer)
 * [Full-stack JavaScript-Java Developer](#full-stack-javascript-java-developer)
 * [Magento Developer](#magento-developer)
@@ -36,6 +38,46 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Full Stack Engineer
+🦁
+
+This position will be responsible for implementing complex, multi-tier distributed
+software systems throughout all phases of the software development life cycle while collaborating effectively with other team members.
+
+### Skills
+
+* Understanding of object-oriented design methodologies and application development in Java, Spring and Spring Boot.
+* Understanding of web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and Angular
+2+.
+* Basic knowledge of Agile/Scrum methodologies, continuous integration and deployment.
+* 2+ years of Full stack software development experience in an enterprise environment.
+* 2+ years experience designing, and developing object oriented software utilizing Java, Spring,
+Angular and JavaScript.
+* Experience working with Relational Database Management Systems such as PostgreSQL
+* Experience in building modern distributed applications using a micro services framework.
+* Experience with various UI architectures
+
+
+## Sr Full Stack Engineer
+🦁
+
+This position will be responsible for defining, designing, and implementing complex,
+multi-tier distributed software systems throughout all phases of the software development life cycle while providing technical oversight and guidance to team members.
+
+### Skills
+
+* Develop clear, well-communicated, thoroughly tested, complete code for complex product features or sub-systems.
+* Advanced understanding of object-oriented design methodology and application development in Java, Spring and Spring Boot.
+* Advanced understanding of web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and Angular 2+.
+* Strong knowledge of Agile/Scrum methodologies, continuous integration and deployment.
+* Possess creative problem solving skills and excellent troubleshooting/debugging skills.
+* 5+ years of Full stack software development experience in an enterprise environment.
+* Extensive experience designing, and developing object oriented software utilizing Java, Spring, Angular and JavaScript.
+* Experience working with Relational Database Management Systems such as PostgreSQL.
+* Experience in building modern distributed applications using a micro services framework.
+* Broad experience with various UI architectures with the skills to extend a framework beyond what’s provided out of the box.
 
 
 ## Ruby on Rails Developer
