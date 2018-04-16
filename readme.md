@@ -22,9 +22,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-stack JavaScript-Java Developer](#full-stack-javascript-java-developer)
 * [Magento Developer](#magento-developer)
 * [DevOps Software Engineer](#devops-software-engineer)
-* [Automation Engineer](#automation-engineer)
+* [Software Test Engineer 1](#software-test-engineer-1)
 * [Python Engineer](#python-engineer)
-* [QA Automation Engineer](#qa-automation-engineer)
+* [Software Test Engineer 2](#software-test-engineer-2)
 * [Senior Java Developer](#senior-java-developer)
 * [Manual Tester](#manual-tester)
 * [iOS Engineer](#ios-engineer)
@@ -198,7 +198,7 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
     * Building micro-services and real-time event processing is a big plus
 
 
-## Automation Engineer
+## Software Test Engineer 1
 🏥
 
 ### Requirements
@@ -231,7 +231,7 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 * You have experience with RabbitMQ, Celery, Redis, and Elasticsearch
 
 
-## QA Automation Engineer
+## Software Test Engineer 2
 🍽
 
 * We build core services on the JVM using Java and Spring framework with front end developed in Angular 4 and Typescript. Web back ends and simple middleware services are often made with Spring Boot API
