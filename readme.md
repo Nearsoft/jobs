@@ -20,7 +20,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Sr Full Stack Engineer](#sr-full-stack-engineer)
 * [Ruby on Rails Developer](#ruby-on-rails-developer)
 * [Full-stack JavaScript-Java Developer](#full-stack-javascript-java-developer)
-* [Magento Developer](#magento-developer)
 * [DevOps Software Engineer](#devops-software-engineer)
 * [Software Test Engineer 1](#software-test-engineer-1)
 * [Python Engineer](#python-engineer)
@@ -32,7 +31,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps Engineer](#devops-engineer)
 * [Product Designer](#product-designer)
 * [UX Designer](#ux-designer)
-* [PHP Engineer](#php-engineer)
 
 <!-- yaspeller ignore:end -->
 
@@ -126,39 +124,6 @@ As a Ruby on Rails Developer you will be a key member of our Technology team dri
 * SQL
 * PL-SQL
 * Web Services development
-
-
-## Magento Developer
-🚀
-
-### Position description
-
-Our need, a certified Magento Developer who will be responsible for providing quality solutions that meet development requirements in support of our eCommerce platform projects on Magento 1 and Magento 2.
-
-### Essential Functions
-
-* Creatively solve complex problems
-* Develop on the Magento 1 and 2 platform
-* Contribute to our client's code base using an open source model in Git
-* Develop custom extensions to be released as to customer environments
-* Contribute to internal initiatives such as improving our development processes
-
-### Competencies
-
-* Magento Certified Developer
-* Prefer experience developing on the Magento 2 platform
-* Prefer 2+ years experience in web development; maintenance programs, integrations, servers
-* Very comfortable in HTML/CSS, JavaScript & jQuery, XML, SQL, PHP, Git, Node.js
-* Good written and verbal communication skills with team members and clients, English and Spanish
-* Accountability/Self-confidence to deliver
-* Analytic/Critical thinking
-* Attention to detail
-* Collaboration/Working with others
-* Communication/Listening skills
-* Customer focus
-* Goals/Metrics-driven
-* Priority setting/Time management
-* Organization/Prioritization
 
 
 ## DevOps Software Engineer
@@ -446,28 +411,6 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 * Conference speaker
 * Front-end knowledge
 
-
-## PHP Engineer
-⁉️
-
-### Requirements
-
-* PHP expertise or another language
-* Very strong on engineering concepts such as OOP/OOD (Object-Oriented Programming/Object-Oriented Design)
-* Knowledge and experience on Design Patterns
-* Have used Unit Testing and understand the Software Development Life Cycle
-* Knowledge of Selenium, Maven or CruiseControl will be a plus
-* Knowledge of Laravel
-* Like to do high quality software
-* Like to implement new practices in an established team
-
-### Nice to have
-
-* CodeIgniter experience
-* JavaScript
-* AngularJS
-* Bootstrap
-* Familiarity with PaaS or Amazon Web Services
 
 ## Credit
 
