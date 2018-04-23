@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Ruby Engineer](#ruby-engineer)
 * [Full Stack Engineer](#full-stack-engineer)
 * [Sr Full Stack Engineer](#sr-full-stack-engineer)
 * [Ruby on Rails Developer](#ruby-on-rails-developer)
@@ -36,6 +37,26 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Ruby Engineer
+🚀
+
+### Job Description:
+
+In addition to standard development skills, we're looking for you to have a super analytical/engineering type mind and enjoy solving complex packaging and shipping problems.  For example: say you have a bunch of boxes of different sizes.  You'll have to determine whether the boxes can fit on a pallet, and what the best way is to arrange them.  If you say: no problem, give me multiple pallets and a weight and orientation constraint, then we want to talk to you! In addition we need the usual skill set: efficient, organized and follows through on commitments. You're intelligent, have great analytical skills and pay attention to detail. We hope you're calm under pressure, have a great work ethic and communicate well.
+
+### Desired Skills & Experience:
+
+We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable backend services and an agile approach to problem solving.
+
+### You have:
+
+* 2+ Years of Ruby on Rails Development and 2+ years developing software in a commercial environment
+* Solid experience in building high-performance, reliable and scalable services
+* Experience with Ajax based user interfaces
+* Experience with our current technology stack is a bonus: Ruby on Rails, ReactJS, Git, Postgres
+* Shipping/transportation industry experience is a bonus
 
 
 ## Full Stack Engineer
