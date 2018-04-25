@@ -15,17 +15,16 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
 * [Ruby Engineer](#ruby-engineer)
-* [Full Stack Engineer](#full-stack-engineer)
-* [Sr Full Stack Engineer](#sr-full-stack-engineer)
-* [Ruby on Rails Developer](#ruby-on-rails-developer)
-* [Full-stack JavaScript-Java Developer](#full-stack-javascript-java-developer)
+* [Full-Stack Engineer](#full-stack-engineer)
+* [Senior Full-Stack Engineer](#senior-full-stack-engineer)
+* [Ruby on Rails Engineer](#ruby-on-rails-Engineer)
+* [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
 * [DevOps Software Engineer](#devops-software-engineer)
 * [Software Test Engineer 1](#software-test-engineer-1)
-* [Python Engineer](#python-engineer)
 * [Software Test Engineer 2](#software-test-engineer-2)
-* [Senior Java Developer](#senior-java-developer)
+* [Python Engineer](#python-engineer)
+* [Senior Java Engineer](#senior-java-engineer)
 * [Manual Tester](#manual-tester)
 * [iOS Engineer](#ios-engineer)
 * [Android Engineer](#android-engineer)
@@ -42,24 +41,29 @@ If an opening has caught your eye feel free to contact us at
 ## Ruby Engineer
 📜
 
-### Job Description:
+### Job description
 
-In addition to standard development skills, we're looking for you to have a super analytical/engineering type mind and enjoy solving complex packaging and shipping problems.  For example: say you have a bunch of boxes of different sizes.  You'll have to determine whether the boxes can fit on a pallet, and what the best way is to arrange them.  If you say: no problem, give me multiple pallets and a weight and orientation constraint, then we want to talk to you! In addition we need the usual skill set: efficient, organized and follows through on commitments. You're intelligent, have great analytical skills and pay attention to detail. We hope you're calm under pressure, have a great work ethic and communicate well.
+In addition to standard development skills, we're looking for you to have a super analytical/engineering-type mind and enjoy solving complex packaging and shipping problems.
+For example: say you have a bunch of boxes of different sizes. You'll have to determine whether the boxes can fit on a pallet, and what the best way is to arrange them.
+If you say: no problem, give me multiple pallets and a weight and orientation constraint, then we want to talk to you!
+In addition we need the usual skill set: efficient, organized and follows through on commitments.
+You're intelligent, have great analytical skills and pay attention to detail.
+We hope you're calm under pressure, have a great work ethic and communicate well.
 
-### Desired Skills & Experience:
+### Desired skills & experience
 
-We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable backend services and an agile approach to problem solving.
+We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable Back End services and an agile approach to problem solving.
 
-### You have:
+### You have
 
-* 2+ Years of Ruby on Rails Development and 2+ years developing software in a commercial environment
+* 2+ Years of Ruby on Rails development and 2+ years developing software in a commercial environment
 * Solid experience in building high-performance, reliable and scalable services
-* Experience with Ajax based user interfaces
-* Experience with our current technology stack is a bonus: Ruby on Rails, ReactJS, Git, Postgres
+* Experience with Ajax-based user interfaces
+* Experience with our current technology stack is a bonus: Ruby on Rails, React.js, Git, PostgreSQL
 * Shipping/transportation industry experience is a bonus
 
 
-## Full Stack Engineer
+## Full-Stack Engineer
 🦁
 
 This position will be responsible for implementing complex, multi-tier distributed
@@ -67,73 +71,74 @@ software systems throughout all phases of the software development life cycle wh
 
 ### Skills
 
-* Understanding of object-oriented design methodologies and application development in Java, Spring and Spring Boot.
-* Understanding of web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and Angular
-2+.
-* Basic knowledge of Agile/Scrum methodologies, continuous integration and deployment.
-* 2+ years of Full stack software development experience in an enterprise environment.
-* 2+ years experience designing, and developing object oriented software utilizing Java, Spring,
-Angular and JavaScript.
+* Understanding of object-oriented design methodologies and application development in Java, Spring and Spring Boot
+* Understanding of Web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and AngularJS 2+
+* Basic knowledge of Agile/Scrum methodologies, continuous integration and deployment
+* 2+ years of Full-Stack software development experience in an enterprise environment
+* 2+ years experience designing, and developing object oriented software utilizing Java, Spring, AngularJS and JavaScript
 * Experience working with Relational Database Management Systems such as PostgreSQL
-* Experience in building modern distributed applications using a micro services framework.
+* Experience in building modern distributed applications using a micro services framework
 * Experience with various UI architectures
 
 
-## Sr Full Stack Engineer
+## Senior Full-Stack Engineer
 🦁
 
-This position will be responsible for defining, designing, and implementing complex,
-multi-tier distributed software systems throughout all phases of the software development life cycle while providing technical oversight and guidance to team members.
+This position will be responsible for defining, designing, and implementing complex, multi-tier distributed software systems throughout all phases of the software development life-cycle while providing technical oversight and guidance to team members.
 
 ### Skills
 
-* Develop clear, well-communicated, thoroughly tested, complete code for complex product features or sub-systems.
-* Advanced understanding of object-oriented design methodology and application development in Java, Spring and Spring Boot.
-* Advanced understanding of web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and Angular 2+.
-* Strong knowledge of Agile/Scrum methodologies, continuous integration and deployment.
-* Possess creative problem solving skills and excellent troubleshooting/debugging skills.
-* 5+ years of Full stack software development experience in an enterprise environment.
-* Extensive experience designing, and developing object oriented software utilizing Java, Spring, Angular and JavaScript.
-* Experience working with Relational Database Management Systems such as PostgreSQL.
-* Experience in building modern distributed applications using a micro services framework.
-* Broad experience with various UI architectures with the skills to extend a framework beyond what’s provided out of the box.
+* Develop clear, well-communicated, thoroughly tested, complete code for complex product features or sub-systems
+* Advanced understanding of object-oriented design methodology and application development in Java, Spring and Spring Boot
+* Advanced understanding of web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and AngularJS 2+
+* Strong knowledge of Agile/Scrum methodologies, continuous integration and deployment
+* Possess creative problem solving skills and excellent troubleshooting/debugging skills
+* 5+ years of Full-Stack software development experience in an enterprise environment
+* Extensive experience designing, and developing object oriented software utilizing Java, Spring, AngularJS and JavaScript
+* Experience working with Relational Database Management Systems such as PostgreSQL
+* Experience in building modern distributed applications using a micro services framework
+* Broad experience with various UI architectures with the skills to extend a framework beyond what's provided out of the box
 
 
-## Ruby on Rails Developer
+## Ruby on Rails Engineer
 💐
- 
-As a Ruby on Rails Developer you will be a key member of our Technology team driving a rapidly growing e-commerce platform. You will be instrumental in developing our next generation platform and participate in efforts that enable our business to scale and significantly influence its growth trajectory. You will work directly with business stakeholders to understand functional requirements and be responsible for feature implementations, and quality releases on a Ruby on Rails platform on AWS. You will be empowered with and have ownership of pragmatic technology choices to achieve your goals. You will be challenged with all of this while maintaining a zero-downtime continuous deployment environment.
 
-### Who Are You?
+As a Ruby on Rails Engineer you will be a key member of our technology team driving a rapidly growing e-commerce platform.
+You will be instrumental in developing our next generation platform and participate in efforts that enable our business to scale and significantly influence its growth trajectory.
+You will work directly with business stakeholders to understand functional requirements and be responsible for feature implementations, and quality releases on a Ruby on Rails platform on AWS.
+You will be empowered with and have ownership of pragmatic technology choices to achieve your goals.
+You will be challenged with all of this while maintaining a zero-downtime continuous deployment environment.
 
-* You have worked on full lifecycle including design, architecture, implementation, production and post production.  
-* You are someone who can make smart technical decisions, understands tradeoffs and can come up with different solutions. 
- 
-### What You Will Do:
+### Who are you?
 
-* Partnering with business stakeholders in self organizing teams to design, develop and launch new features while supporting existing applications.
-* Defining best practices, tools, and techniques to enable standardization, and to raise quality and maintainability of web-application and ecosystem components.
-* Work independently as well as collaborate with on-site and remote teams as necessary to drive results.
-* Performing platform performance reviews and performance optimization on all tiers as needed.
-* Conducting peer review of code and technical designs.
- 
- ### What You Will Need:
- 
-* 3-4 years of relevant experience.
-* Strong experience with Rails (5.0) and functional programming with Ruby.
-* Strong experience with MongoDB, Redis, AWS, OpsWorks.
+* You have worked on full life-cycle including design, architecture, implementation, production and post production
+* You are someone who can make smart technical decisions, understands trade-offs and can come up with different solutions
+
+### What you will do
+
+* Partnering with business stakeholders in self organizing teams to design, develop and launch new features while supporting existing applications
+* Defining best practices, tools, and techniques to enable standardization, and to raise quality and maintainability of web-application and ecosystem components
+* Work independently as well as collaborate with on-site and remote teams as necessary to drive results
+* Performing platform performance reviews and performance optimization on all tiers as needed
+* Conducting peer review of code and technical designs
+
+ ### What you will need
+
+* 3-4 years of relevant experience
+* Strong experience with Rails (5.0) and functional programming with Ruby
+* Strong experience with MongoDB, Redis, AWS, OpsWorks
 * Strong experience with Pub/Sub (Sidekiq preferred)
-* Strong experience with Search technologies (ElasticSearch preferred)
-* Strong experience with Git and team based development concepts.
-* Strong experience developing on e­commerce platforms such as WebLinc is a major plus.
-* Familiarity with frontend concerns (DOM, HTML5/CSS3, Ajax)
+* Strong experience with Search technologies (Elasticsearch preferred)
+* Strong experience with Git and team based development concepts
+* Strong experience developing on e­-commerce platforms such as WebLinc is a major plus
+* Familiarity with front end concerns (DOM, HTML5/CSS3, Ajax)
 * Experience scaling high traffic websites (architecture/database)
-* Pride in your work, and a drive for quality and results.
-* A Bachelor’s Degree or equivalent experience.
-* You will be working with an online flower retailer that delivers flowers fresh from eco-friendly, sustainable farms to doorsteps nationwide founded in November 2012 to radically disrupt the global floral industry through a modern brand, responsibly-sourced flowers and a vertically-integrated supply chain. This company connects farms and a curated network of artisan florists directly to consumers, and disrupts the traditional supply chain by eliminating overhead costs like warehouses, importers, distributors, auctioneers and more. 
+* Pride in your work, and a drive for quality and results
+* B.S. or equivalent experience
+* You will be working with an online flower retailer that delivers flowers fresh from environmentally friendly and sustainable farms to doorsteps nationwide founded in November 2012 to radically disrupt the global floral industry through a modern brand, responsibly obtained flowers and a vertically-integrated supply chain. This company connects farms and a curated network of artisan florists directly to consumers, and disrupts the traditional supply chain by eliminating overhead costs like warehouses, importers, distributors, auctioneers and more
 
 
-## Full-stack JavaScript-Java Developer
+## Full-Stack JavaScript-Java Engineer
 🌆
 
 * Core Java Development
@@ -150,11 +155,11 @@ As a Ruby on Rails Developer you will be a key member of our Technology team dri
 ## DevOps Software Engineer
 🌱
 
-### The Ideal Candidate
+### The ideal candidate
 
 The ideal candidate has an extensive experience with SaaS platforms, primarily hosted on AWS infrastructure. You are able to strike the right balance between appropriate levels of process and security while still supporting an agile and fast paced development environment. You are used to working closely with application developers and enjoy participating in the architectural discussions. While you don't enjoy it, you know that you are occasionally going to be summoned to respond to an after hours emergency. You are equally determined to ensure it does not happen often.
 
-### Primary Responsibilities
+### Primary responsibilities
 
 * Support of production infrastructure and services, including our AWS Infrastructure such as EC2, S3, IAM, Route 53, ElastiCache, ALBs, CloudWatch, CloudFormation, etc.
 * Java and Rails applications
@@ -195,35 +200,13 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 * Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving
 
 
-## Python Engineer
-⭐️
-
-* We are looking for great engineering talent to help us grow in 2018 and beyond. We have interesting problems and big ambitions. We need outstanding people to help us build awesome stuff
-* A Back End Engineer is someone special. You've got experience, but also wisdom; you're great technically, but also with people; you take pride in your craft, and also in the success of your teammates. You have high standards. You love to ship. And you're excited by the prospect of using your talents to meaningfully help other people
-
-### Our Ideal Candidate
-
-* You have a minimum of 4 years professional software experience
-* You have experience with several programming languages (Java or Ruby) and deep knowledge of at least one object-oriented language
-* You do (or would) enjoy working in Python (at least 1 year of experience)
-* You have experience with JavaScript, Node.js and Angular (1.4.x)
-* You've got hands-on experience with e-commerce systems (designing, building, maintaining)
-* You have experience with microservices (building, deploying, supporting)
-* You have a willingness and ability to communicate ideas and lead/mentor other developers
-* You have designed and implemented optimized, scalable architectures
-* You have built and worked with RESTful APIs
-* You are great at query optimization on relational (MySQL) and non-relational databases
-* You have experience with AWS technologies such as Lambda, Redshift, DynamoDB, and S3
-* You have experience with RabbitMQ, Celery, Redis, and Elasticsearch
-
-
 ## Software Test Engineer 2
 🍽
 
-* We build core services on the JVM using Java and Spring framework with front end developed in Angular 4 and Typescript. Web back ends and simple middleware services are often made with Spring Boot API
+* We build core services on the JVM using Java and Spring framework with Front End developed in AngularJS 4 and Typescript. Web Back Ends and simple middleware services are often made with Spring Boot API
 * Data is stored in PostgreSQL and in MS SQL Server. We run a Mesos cluster for large-scale, distributed applications
 
-### About You
+### About you
 
 * You want to be part of a cross-functional team. You're curious, passionate, and enjoy tackling hard problems. You love technology and enjoy finding better ways to do things. You want to share what you discover and feel energized when you can learn from people around you. When you build software, you consider how people will use it from all angles. You take pride in carefully honing your work until it feels reliable and effortless to use
 * You've been a QA Automation Engineer for at least 3 years, have made significant contributions to projects you've been a part of, and want to engineer at a global scale
@@ -236,7 +219,29 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 * Working experience with Git and Jenkins/TeamCity is a plus
 
 
-## Senior Java Developer
+## Python Engineer
+⭐️
+
+* We are looking for great engineering talent to help us grow in 2018 and beyond. We have interesting problems and big ambitions. We need outstanding people to help us build awesome stuff
+* A Back End Engineer is someone special. You've got experience, but also wisdom; you're great technically, but also with people; you take pride in your craft, and also in the success of your teammates. You have high standards. You love to ship. And you're excited by the prospect of using your talents to meaningfully help other people
+
+### Our ideal candidate
+
+* You have a minimum of 4 years professional software experience
+* You have experience with several programming languages (Java or Ruby) and deep knowledge of at least one object-oriented language
+* You do (or would) enjoy working in Python (at least 1 year of experience)
+* You have experience with JavaScript, Node.js and AngularJS (1.4)
+* You've got hands-on experience with e-commerce systems (designing, building, maintaining)
+* You have experience with microservices (building, deploying, supporting)
+* You have a willingness and ability to communicate ideas and lead/mentor other developers
+* You have designed and implemented optimized, scalable architectures
+* You have built and worked with RESTful APIs
+* You are great at query optimization on relational (MySQL) and non-relational databases
+* You have experience with AWS technologies such as Lambda, Redshift, DynamoDB, and S3
+* You have experience with RabbitMQ, Celery, Redis, and Elasticsearch
+
+
+## Senior Java Engineer
 📦
 
 * Be a trusted advisor: Understand and effectively communicate Java features and limitations in the context of design and development
@@ -361,7 +366,7 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 ## Product Designer
 🚀
 
-### Role Definition
+### Role definition
 
 * Helping UX team and clients to ensure the project is well defined and running smoothly
 * Educating Key Stakeholders in the product development process
@@ -397,7 +402,7 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 ## UX Designer
 🚀
 
-### Role Definition
+### Role definition
 
 * Conduct quantitative and qualitative user research
 * Implement UX methods to discover user insights and interpret data
@@ -430,7 +435,7 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 
 * SEO and Google analytics skills
 * Conference speaker
-* Front-end knowledge
+* Front End knowledge
 
 
 ## Credit
