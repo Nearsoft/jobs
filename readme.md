@@ -18,7 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Ruby Engineer](#ruby-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
-* [Ruby on Rails Engineer](#ruby-on-rails-Engineer)
+* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
 * [DevOps Software Engineer](#devops-software-engineer)
 * [Software Test Engineer 1](#software-test-engineer-1)
