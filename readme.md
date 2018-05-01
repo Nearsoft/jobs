@@ -15,7 +15,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
@@ -42,41 +41,46 @@ If an opening has caught your eye feel free to contact us at
 
 ## Senior Front End Engineer
 💐
- 
- ## General
-* 5+ Years of Experience.
-* Ability to communicate effectively and clearly with all stakeholders.
-* Ability to work effectively with a team and collaborate.
-* Git.
-* Experience with ticketing systems and wikis such as JIRA and Confluence.
-* Strong troubleshooting skills. 
- ## Front End
-* 2+ Years of React experience and advanced knowledge of the React render lifecycle.
-* Solid Redux, including Redux Middleware and best practices.
-* Experience creating Higher Order Components.
-* You've experience with Form Libraries and the intricate needs of a great form.
-* You have experience with FE dependency management and build processes using Webpack.
-* You have strong experience with optimizing React, dealing with SEO, routing, and  
-other SPA peculiarities.
-* Strong experience with CSS3, and responsive design for mobile.
- ## Back End
-* Strong node.js experience with ES2016+.
-* Solid understanding of functional and asynchronous development, Promises and async.
-* RESTful API construction and best practices using Express.
-* Experience using MySQL or other RDBMS, along with node library or ORM to access
-them. (SQLize)
-* Experience with Auth - JWT, OAuth, ACLs.
-* Experience with functional and unit testing (Mocha, Jasmine).
-* Experience with production operational needs of an application including monitoring and reporting.
-* Experience with AWS.
-* Linux knowledge.
- ## Bonus
-* Experience with Loopback.
-* Experience with Jenkins or other CI/CD.
-* Experience with code generation strategies.
-* Experience with performance testing.
-* Message Queues, Redis, Elasticache
-* Advanced AWS/Devops
+
+### General
+
+* 5+ years of experience
+* Ability to communicate effectively and clearly with all stakeholders
+* Ability to work effectively with a team and collaborate
+* Git
+* Experience with ticketing systems and team collaboration software such as JIRA and Confluence
+* Strong troubleshooting skills
+
+### Front End
+
+* 2+ Years of React.js experience and advanced knowledge of the React.js render life-cycle
+* Solid Redux, including Redux middleware and best practices
+* Experience creating Higher Order Components
+* You've experience with Form Libraries and the intricate needs of a great form
+* You have experience with Front End dependency management and build processes using webpack
+* You have strong experience with optimizing React.js, dealing with SEO, routing, and other Single-page application peculiarities
+* Strong experience with CSS3, and responsive design for mobile
+
+### Back End
+
+* Strong Node.js experience with ES2016+
+* Solid understanding of functional and asynchronous development, promises and async
+* RESTful API construction and best practices using Express
+* Experience using MySQL or other RDBMS, along with Node.js library or ORM to access them (Sequelize)
+* Experience with authentication (JWT, OAuth, access lists)
+* Experience with functional and unit testing (Mocha, Jasmine)
+* Experience with production operational needs of an application including monitoring and reporting
+* Experience with AWS
+* Linux knowledge
+
+### Bonus
+
+* Experience with LoopBack
+* Experience with Jenkins or other CI/CD
+* Experience with code generation strategies
+* Experience with performance testing
+* Message queues, Redis, ElastiCache
+* Advanced AWS/DevOps
 * Docker/ECS
 
 
