@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [C# Engineer](#C#-engineer)
+* [C# Engineer](#C-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
