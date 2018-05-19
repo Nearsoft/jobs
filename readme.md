@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 * [C# Engineer](#c-engineer)
-* [Senior Front End Engineer](#senior-front-end-engineer)
+* [Front End Engineer](#front-end-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
@@ -69,49 +69,26 @@ As a Senior C# Developer, you will enhance our advisor technology using C#, HTML
 * Work with some of the best and brightest in the WealthTech space, and enjoy these perks
 
 
-## Senior Front End Engineer
-💐
+## Front End Engineer
+🏋🏻
 
-### General
+We build the frontend components of our web app and use established practices to ensure high quality code. We make the most of modern tools like React, Redux, and SASS, and we ensure our UIs work well on all screen sizes. Some of us specialize in CSS, some in front-end infrastructure, but all of us are JavaScript pros and full-stack engineers.  
 
-* 5+ years of experience
-* Ability to communicate effectively and clearly with all stakeholders
-* Ability to work effectively with a team and collaborate
-* Git
-* Experience with ticketing systems and team collaboration software such as JIRA and Confluence
-* Strong troubleshooting skills
+### Responsabilities
 
-### Front End
+* Collaborate with Product Managers to iterate on the design and implementation of our product
+* Build efficient and reusable front-end systems and abstractions
+* Find and address performance issues
+* Participate in design and code reviews
+* Maintain high code coverage via unit tests and acceptance tests
 
-* 2+ Years of React.js experience and advanced knowledge of the React.js render life-cycle
-* Solid Redux, including Redux middleware and best practices
-* Experience creating Higher Order Components
-* You've experience with Form Libraries and the intricate needs of a great form
-* You have experience with Front End dependency management and build processes using webpack
-* You have strong experience with optimizing React.js, dealing with SEO, routing, and other Single-page application peculiarities
-* Strong experience with CSS3, and responsive design for mobile
+### Skills
 
-### Back End
-
-* Strong Node.js experience with ES2016+
-* Solid understanding of functional and asynchronous development, promises and async
-* RESTful API construction and best practices using Express
-* Experience using MySQL or other RDBMS, along with Node.js library or ORM to access them (Sequelize)
-* Experience with authentication (JWT, OAuth, access lists)
-* Experience with functional and unit testing (Mocha, Jasmine)
-* Experience with production operational needs of an application including monitoring and reporting
-* Experience with AWS
-* Linux knowledge
-
-### Bonus
-
-* Experience with LoopBack
-* Experience with Jenkins or other CI/CD
-* Experience with code generation strategies
-* Experience with performance testing
-* Message queues, Redis, ElastiCache
-* Advanced AWS/DevOps
-* Docker/ECS
+* Strong knowledge of JavaScript
+* Experience with modern JavaScript libraries and tooling
+* Knowledge of HTML, CSS, and related web technologies
+* Strong Computer Science fundamentals
+* Awareness of cross-browser compatibility issues and client-side performance considerations
 
 
 ## Ruby Engineer
