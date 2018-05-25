@@ -43,23 +43,25 @@ If an opening has caught your eye feel free to contact us at
 ## C# Engineer
 📊
 
-As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
+As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3.
+Embrace code quality by using modern testing tools like Cucumber.
+Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
 
 ### Responsibilities
 
-* Work with a team of software engineers delivering projects as the “go to guy”
-* Develop & maintain customer facing web products and backend services
+* Work with a team of software engineers delivering projects as the "go to person"
+* Develop & maintain customer facing Web products and Back End services
 * Writing unit tests and integration tests for max coverage
 * Improve the design of the code as the product evolves
 * Deploy and test code to ensure no defects
-* Build out restful apis and consume 3rd party apis
+* Build out RESTful APIs and consume third-party APIs
 * Work with business operations to turn requirements into technical solutions
 
 ### Experience
 
-* 5+ years of professional experience using C# and DotNet framework
-* 5+ years experience with WPF and Winforms
-* 2+ years basic knowledge of JavaScript frameworks like, React, or JQuery
+* 5+ years of professional experience using C# and .NET framework
+* 5+ years experience with WPF and Windows Forms
+* 2+ years basic knowledge of JavaScript frameworks like, React.js, or jQuery
 * HTML5 CSS, DOM traversal/manipulation, event capturing
 * Familiarity with Ajax, partial page updates, and async request handling
 * Experience working in an agile scrum development team
@@ -72,9 +74,11 @@ As a Senior C# Developer, you will enhance our advisor technology using C#, HTML
 ## Front End Engineer
 🏋🏻
 
-We build the frontend components of our web app and use established practices to ensure high quality code. We make the most of modern tools like React, Redux, and SASS, and we ensure our UIs work well on all screen sizes. Some of us specialize in CSS, some in front-end infrastructure, but all of us are JavaScript pros and full-stack engineers.  
+We build the front end components of our Web app and use established practices to ensure high quality code.
+We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
+Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript proficient and Full-Stack engineers.
 
-### Responsabilities
+### Responsibilities
 
 * Collaborate with Product Managers to iterate on the design and implementation of our product
 * Build efficient and reusable front-end systems and abstractions
@@ -91,16 +95,19 @@ We build the frontend components of our web app and use established practices to
 * Awareness of cross-browser compatibility issues and client-side performance considerations
 
 
-## Back End Engineer 
+## Back End Engineer
 🏋
 
-We are transitioning to a microservices based architecture from a single API. Our new architecture Python and Java on the backend.
+We are converting to a microservices based architecture from a single API. Our new architecture Python and Java on the Back End.
 
-As a backend engineer you will craft new functionality with a dedicated team of coworkers that will enrich our members and our partners. As our business continues its rapid growth, you will help ensure our software is positioned to harness and accelerate our marketplace. You will help design APIs and architecture that your colleagues will be delighted to use. You will be involved in the planning of features at the beginning and own them through deployment and monitoring.
+As a Back End engineer you will craft new functionality with a dedicated team of co-workers that will enrich our members and our partners.
+As our business continues its rapid growth, you will help ensure our software is positioned to harness and accelerate our marketplace.
+You will help design APIs and architecture that your colleagues will be delighted to use.
+You will be involved in the planning of features at the beginning and own them through deployment and monitoring.
 
 ### About You
 
-* You are passionate about your craft and want to be surrounded by likeminded individuals
+* You are passionate about your craft and want to be surrounded by like-minded individuals
 * You like to ship software early and often
 * You care about selecting the right tool for the right job
 * You design APIs and services that make difficult problems seem easy
@@ -190,7 +197,11 @@ This position will be responsible for defining, designing, and implementing comp
 
 ### The ideal candidate
 
-The ideal candidate has an extensive experience with SaaS platforms, primarily hosted on AWS infrastructure. You are able to strike the right balance between appropriate levels of process and security while still supporting an agile and fast paced development environment. You are used to working closely with application developers and enjoy participating in the architectural discussions. While you don't enjoy it, you know that you are occasionally going to be summoned to respond to an after hours emergency. You are equally determined to ensure it does not happen often.
+The ideal candidate has an extensive experience with SaaS platforms, primarily hosted on AWS infrastructure.
+You are able to strike the right balance between appropriate levels of process and security while still supporting an agile and fast paced development environment.
+You are used to working closely with application developers and enjoy participating in the architectural discussions.
+While you don't enjoy it, you know that you are occasionally going to be summoned to respond to an after hours emergency.
+You are equally determined to ensure it does not happen often.
 
 ### Primary responsibilities
 
@@ -219,7 +230,7 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
     * Experience in building and supporting PaaS (e.g. Heroku, RedisGreen, Deis)
     * Data protection and secret handling technology such as Vault
     * Logging (e.g. Splunk, Graylog) and Elastic Search (ELK)
-    * Building micro-services and real-time event processing is a big plus
+    * Building microservices and real-time event processing is a big plus
 
 
 ## Software Test Engineer 1
@@ -257,15 +268,15 @@ The ideal candidate has an extensive experience with SaaS platforms, primarily h
 
 ### Our ideal candidate
 
-* You have a minimum of 2 years professional software experience.
-* Experience with Python and Django.
-* You have experience with AWS technologies.
-* Experience with numeric computation as Scipy.
-* Data analysis with PANDAS. 
-* Deep learning framework with PyTorch.
-* Experience with continous integration (Jenkins)
-* QA tools techniques and bug tracking system.
-* Flawless communication skills. 
+* You have a minimum of 2 years professional software experience
+* Experience with Python and Django
+* You have experience with AWS technologies
+* Experience with numeric computation as SciPy
+* Data analysis with PANDAS
+* Deep learning framework with PyTorch
+* Experience with continuous integration (Jenkins)
+* QA tools techniques and bug tracking system
+* Flawless communication skills
 
 
 ## Senior Java Engineer
