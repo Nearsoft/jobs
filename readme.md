@@ -21,7 +21,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Ruby Engineer](#ruby-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
-* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
 * [DevOps Software Engineer](#devops-software-engineer)
 * [Software Test Engineer 1](#software-test-engineer-1)
@@ -170,44 +169,6 @@ This position will be responsible for defining, designing, and implementing comp
 * Experience working with Relational Database Management Systems such as PostgreSQL
 * Experience in building modern distributed applications using a micro services framework
 * Broad experience with various UI architectures with the skills to extend a framework beyond what's provided out of the box
-
-
-## Ruby on Rails Engineer
-💐
-
-As a Ruby on Rails Engineer you will be a key member of our technology team driving a rapidly growing e-commerce platform.
-You will be instrumental in developing our next generation platform and participate in efforts that enable our business to scale and significantly influence its growth trajectory.
-You will work directly with business stakeholders to understand functional requirements and be responsible for feature implementations, and quality releases on a Ruby on Rails platform on AWS.
-You will be empowered with and have ownership of pragmatic technology choices to achieve your goals.
-You will be challenged with all of this while maintaining a zero-downtime continuous deployment environment.
-
-### Who are you?
-
-* You have worked on full life-cycle including design, architecture, implementation, production and post production
-* You are someone who can make smart technical decisions, understands trade-offs and can come up with different solutions
-
-### What you will do
-
-* Partnering with business stakeholders in self organizing teams to design, develop and launch new features while supporting existing applications
-* Defining best practices, tools, and techniques to enable standardization, and to raise quality and maintainability of web-application and ecosystem components
-* Work independently as well as collaborate with on-site and remote teams as necessary to drive results
-* Performing platform performance reviews and performance optimization on all tiers as needed
-* Conducting peer review of code and technical designs
-
- ### What you will need
-
-* 3-4 years of relevant experience
-* Strong experience with Rails (5.0) and functional programming with Ruby
-* Strong experience with MongoDB, Redis, AWS, OpsWorks
-* Strong experience with Pub/Sub (Sidekiq preferred)
-* Strong experience with Search technologies (Elasticsearch preferred)
-* Strong experience with Git and team based development concepts
-* Strong experience developing on e­-commerce platforms such as WebLinc is a major plus
-* Familiarity with front end concerns (DOM, HTML5/CSS3, Ajax)
-* Experience scaling high traffic websites (architecture/database)
-* Pride in your work, and a drive for quality and results
-* B.S. or equivalent experience
-* You will be working with an online flower retailer that delivers flowers fresh from environmentally friendly and sustainable farms to doorsteps nationwide founded in November 2012 to radically disrupt the global floral industry through a modern brand, responsibly obtained flowers and a vertically-integrated supply chain. This company connects farms and a curated network of artisan florists directly to consumers, and disrupts the traditional supply chain by eliminating overhead costs like warehouses, importers, distributors, auctioneers and more
 
 
 ## Full-Stack JavaScript-Java Engineer
