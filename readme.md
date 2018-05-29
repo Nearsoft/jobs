@@ -15,6 +15,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [DevOps Software Engineer 1](#devops-software-engineer-1)
+* [DevOps Software Engineer 2](#devops-software-engineer-2)
+* [DevOps Software Engineer 3](#devops-software-engineer-3)
 * [C# Engineer](#c-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
@@ -22,7 +25,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 * [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
-* [DevOps Software Engineer](#devops-software-engineer)
 * [Software Test Engineer 1](#software-test-engineer-1)
 * [Software Test Engineer 2](#software-test-engineer-2)
 * [Python Engineer](#python-engineer)
@@ -30,7 +32,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Manual Tester](#manual-tester)
 * [iOS Engineer](#ios-engineer)
 * [Android Engineer](#android-engineer)
-* [DevOps Engineer](#devops-engineer)
 * [Product Designer](#product-designer)
 * [UX Designer](#ux-designer)
 
@@ -40,6 +41,98 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
+## DevOps Software Engineer 1
+👶
+
+* Minimum of 3 years of professional experience developing in the Javascript ecosystem (Node, Express) 
+* Experience as a full-stack developer, with a back-end + dev ops specialty (SQL/NoSQL/Elasticsearch => Node => React[ideal, not required]) 
+* Dev Ops experience (docker, AWS, microservices), must be able to launch and maintain new services 
+* Senior-level application knowledge, with an experience building, growing and maintaining a variety of different products
+* Ability and interest in learning new technologies quickly
+* Broad experience developing a range of several professional products that solve different problems, not just many years on product or concentrated in one problem space
+* Self-motivated and able to effectively execute on loose requirements, and flexible with changing requirements 
+* Strong communication skills, to work effectively on a remote team
+* Collaborative and responsive to constructive feedback Nice to Haves 
+* TypeScript experience 
+* Machine Learning experience 
+* Terraform/Packer/Nomad experience 
+* React (or comparable SPA framework) experience
+
+
+## DevOps Software Engineer 2
+💳
+
+### Responsibilities
+
+* Day to day maintenance and ability to work closely with development team
+* Good knowledge of security best practices, preferably PCI requirements
+* Dealing with issues that may come up
+* Participating in on call rotation
+* Helping in launching and maintaining new Microservices in Rails 5 and Elixir
+* Managing security patching and deployments
+* Familiarity with monitoring systems like Grafana, Datadog, Nagios
+
+### Requirements
+
+* High degree of proficiency in Linux systems administration, mainly Ubuntu flavor
+* Helping in automation that requires a lot of scripting in Bash, Ruby or Python
+* Strong understanding of AWS Cloud Infrastructure and its services, including but not limited to EC2, ElastiCache, RDS, Redshift, S3, IAM, EFS
+* Understanding of the Ruby on Rails ecosystem, its benefits and its deficiencies
+* Streamlined deployment for a continuous integration based team
+* Work experience with relational databases and SQL
+* Experience with agile development process in collaborative environment
+* Good understanding of performance trade-offs
+* Good communications skills
+
+### Bonus qualifications
+
+* Experience developing cookbooks with Chef
+* Familiarity with time series databases like InfluxDB, Prometheus, Graphite, etc.
+* Experience designing and deploying large scale distributed data processing systems
+* Experience with CI/CD tools preferably Chef Automate
+
+
+## DevOps Software Engineer 3
+🌱
+
+### The ideal candidate
+
+The ideal candidate has an extensive experience with SaaS platforms, primarily hosted on AWS infrastructure.
+You are able to strike the right balance between appropriate levels of process and security while still supporting an agile and fast paced development environment.
+You are used to working closely with application developers and enjoy participating in the architectural discussions.
+While you don't enjoy it, you know that you are occasionally going to be summoned to respond to an after hours emergency.
+You are equally determined to ensure it does not happen often.
+
+### Primary responsibilities
+
+* Support of production infrastructure and services, including our AWS Infrastructure such as EC2, S3, IAM, Route 53, ElastiCache, ALBs, CloudWatch, CloudFormation, etc.
+* Java and Rails applications
+* Docker and Kubernetes
+* PostgreSQL and Redis databases
+* Provide leadership to the team in mastering technologies, identifying and implementing worthwhile new technologies and improving our process
+* Continuous delivery (CI/CD) using Jenkins, Maven, Artifactory, Docker, Chef/Ansible, Git
+* Site reliability and availability, including end-to-end performance, service monitoring, alerting, capacity sizing and planning
+* 24/7 on-call rotation for production support, troubleshooting production and development issues
+* Business continuity planning & testing
+
+### You must have
+
+* DevOps and system administration experience
+* At least 3 years in managing AWS cloud infrastructure
+* Experience configuring and supporting SaaS environments, provisioning resources, monitoring utilization and making adjustments in accordance with standard operating procedures
+* Expertise in Docker and Kubernetes
+* Hands-on experience with monitoring/APM tools such as New Relic, CloudWatch, Papertrail and Rollbar
+* Strong Linux administration (e.g. Ubuntu) and scripting (e.g. Shell scripting, Python)
+* Soft skills, e.g. team player, clear and concise communication, problem solving, sense of humor
+* Desired skills, but not mandatory:
+    * Expertise in database scalability, availability and performance tuning, preferably with PostgreSQL and Redis
+    * Building hybrid cloud using VMWare, Cloud Foundry
+    * Experience in building and supporting PaaS (e.g. Heroku, RedisGreen, Deis)
+    * Data protection and secret handling technology such as Vault
+    * Logging (e.g. Splunk, Graylog) and Elastic Search (ELK)
+    * Building microservices and real-time event processing is a big plus
+    
+    
 ## C# Engineer
 📊
 
@@ -192,47 +285,6 @@ This position will be responsible for defining, designing, and implementing comp
 * Web Services development
 
 
-## DevOps Software Engineer
-🌱
-
-### The ideal candidate
-
-The ideal candidate has an extensive experience with SaaS platforms, primarily hosted on AWS infrastructure.
-You are able to strike the right balance between appropriate levels of process and security while still supporting an agile and fast paced development environment.
-You are used to working closely with application developers and enjoy participating in the architectural discussions.
-While you don't enjoy it, you know that you are occasionally going to be summoned to respond to an after hours emergency.
-You are equally determined to ensure it does not happen often.
-
-### Primary responsibilities
-
-* Support of production infrastructure and services, including our AWS Infrastructure such as EC2, S3, IAM, Route 53, ElastiCache, ALBs, CloudWatch, CloudFormation, etc.
-* Java and Rails applications
-* Docker and Kubernetes
-* PostgreSQL and Redis databases
-* Provide leadership to the team in mastering technologies, identifying and implementing worthwhile new technologies and improving our process
-* Continuous delivery (CI/CD) using Jenkins, Maven, Artifactory, Docker, Chef/Ansible, Git
-* Site reliability and availability, including end-to-end performance, service monitoring, alerting, capacity sizing and planning
-* 24/7 on-call rotation for production support, troubleshooting production and development issues
-* Business continuity planning & testing
-
-### You must have
-
-* DevOps and system administration experience
-* At least 3 years in managing AWS cloud infrastructure
-* Experience configuring and supporting SaaS environments, provisioning resources, monitoring utilization and making adjustments in accordance with standard operating procedures
-* Expertise in Docker and Kubernetes
-* Hands-on experience with monitoring/APM tools such as New Relic, CloudWatch, Papertrail and Rollbar
-* Strong Linux administration (e.g. Ubuntu) and scripting (e.g. Shell scripting, Python)
-* Soft skills, e.g. team player, clear and concise communication, problem solving, sense of humor
-* Desired skills, but not mandatory:
-    * Expertise in database scalability, availability and performance tuning, preferably with PostgreSQL and Redis
-    * Building hybrid cloud using VMWare, Cloud Foundry
-    * Experience in building and supporting PaaS (e.g. Heroku, RedisGreen, Deis)
-    * Data protection and secret handling technology such as Vault
-    * Logging (e.g. Splunk, Graylog) and Elastic Search (ELK)
-    * Building microservices and real-time event processing is a big plus
-
-
 ## Software Test Engineer 1
 🏥
 
@@ -366,39 +418,6 @@ You are equally determined to ensure it does not happen often.
 * Solid understanding and demonstrated experience using Amazon Web Services and/or other cloud providers
 * Strong working knowledge of Agile development methodologies and best practices
 * Excellent communication and teamwork skills
-
-
-## DevOps Engineer
-💳
-
-### Responsibilities
-
-* Day to day maintenance and ability to work closely with development team
-* Good knowledge of security best practices, preferably PCI requirements
-* Dealing with issues that may come up
-* Participating in on call rotation
-* Helping in launching and maintaining new Microservices in Rails 5 and Elixir
-* Managing security patching and deployments
-* Familiarity with monitoring systems like Grafana, Datadog, Nagios
-
-### Requirements
-
-* High degree of proficiency in Linux systems administration, mainly Ubuntu flavor
-* Helping in automation that requires a lot of scripting in Bash, Ruby or Python
-* Strong understanding of AWS Cloud Infrastructure and its services, including but not limited to EC2, ElastiCache, RDS, Redshift, S3, IAM, EFS
-* Understanding of the Ruby on Rails ecosystem, its benefits and its deficiencies
-* Streamlined deployment for a continuous integration based team
-* Work experience with relational databases and SQL
-* Experience with agile development process in collaborative environment
-* Good understanding of performance trade-offs
-* Good communications skills
-
-### Bonus qualifications
-
-* Experience developing cookbooks with Chef
-* Familiarity with time series databases like InfluxDB, Prometheus, Graphite, etc.
-* Experience designing and deploying large scale distributed data processing systems
-* Experience with CI/CD tools preferably Chef Automate
 
 
 ## Product Designer
