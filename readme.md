@@ -21,7 +21,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [C# Engineer](#c-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
-* [Ruby Engineer](#ruby-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 * [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
@@ -207,31 +206,6 @@ You will be involved in the planning of features at the beginning and own them t
 * You collaborate well with others but are excited to own a big feature
 * You value simplicity and strive to eliminate unnecessary complexity
 * You have at least 5 years of professional programming experience
-
-
-## Ruby Engineer
-📜
-
-### Job description
-
-In addition to standard development skills, we're looking for you to have a super analytical/engineering-type mind and enjoy solving complex packaging and shipping problems.
-For example: say you have a bunch of boxes of different sizes. You'll have to determine whether the boxes can fit on a pallet, and what the best way is to arrange them.
-If you say: no problem, give me multiple pallets and a weight and orientation constraint, then we want to talk to you!
-In addition we need the usual skill set: efficient, organized and follows through on commitments.
-You're intelligent, have great analytical skills and pay attention to detail.
-We hope you're calm under pressure, have a great work ethic and communicate well.
-
-### Desired skills & experience
-
-We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable Back End services and an agile approach to problem solving.
-
-### You have
-
-* 2+ Years of Ruby on Rails development and 2+ years developing software in a commercial environment
-* Solid experience in building high-performance, reliable and scalable services
-* Experience with Ajax-based user interfaces
-* Experience with our current technology stack is a bonus: Ruby on Rails, React.js, Git, PostgreSQL
-* Shipping/transportation industry experience is a bonus
 
 
 ## Full-Stack Engineer
