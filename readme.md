@@ -43,19 +43,19 @@ If an opening has caught your eye feel free to contact us at
 ## DevOps Software Engineer 1
 👶
 
-* Minimum of 3 years of professional experience developing in the Javascript ecosystem (Node, Express) 
-* Experience as a full-stack developer, with a back-end + dev ops specialty (SQL/NoSQL/Elasticsearch => Node => React[ideal, not required]) 
-* Dev Ops experience (docker, AWS, microservices), must be able to launch and maintain new services 
-* Senior-level application knowledge, with an experience building, growing and maintaining a variety of different products
+* Minimum of 3 years of professional experience developing in the JavaScript ecosystem (Node.js, Express)
+* Experience as a Full-Stack Developer, with a Back End + DevOps specialty (SQL/NoSQL/Elasticsearch => Node => React.js[ideal, not required])
+* DevOps experience (Docker, AWS, Microservices) must be able to launch and maintain new services
+* Senior level application knowledge, with an experience building, growing and maintaining a variety of different products
 * Ability and interest in learning new technologies quickly
 * Broad experience developing a range of several professional products that solve different problems, not just many years on product or concentrated in one problem space
-* Self-motivated and able to effectively execute on loose requirements, and flexible with changing requirements 
+* Self-motivated and able to effectively deliver on loose requirements, and flexible with changing requirements
 * Strong communication skills, to work effectively on a remote team
-* Collaborative and responsive to constructive feedback Nice to Haves 
-* TypeScript experience 
-* Machine Learning experience 
-* Terraform/Packer/Nomad experience 
-* React (or comparable SPA framework) experience
+* Collaborative and responsive to constructive feedback Nice to Haves
+* TypeScript experience
+* Machine Learning experience
+* Terraform/Packer/Nomad experience
+* React.js (or comparable Single-Page application framework) experience
 
 
 ## DevOps Software Engineer 2
@@ -130,8 +130,8 @@ You are equally determined to ensure it does not happen often.
     * Data protection and secret handling technology such as Vault
     * Logging (e.g. Splunk, Graylog) and Elastic Search (ELK)
     * Building microservices and real-time event processing is a big plus
-    
-    
+
+
 ## C# Engineer
 📊
 
