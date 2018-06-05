@@ -329,6 +329,7 @@ This position will be responsible for defining, designing, and implementing comp
 
 
 ## Python Engineer 2
+👛
 
 We’re looking for software engineers to help us make our already awesome platform even better. You will join our backend development team building new features into our RESTful API written in Python 2.7. This API is used by our own internal React websites as well as serving as the primary interface for our customer’s own integrations.
 
