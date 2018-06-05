@@ -27,7 +27,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
 * [Software Test Engineer 1](#software-test-engineer-1)
 * [Software Test Engineer 2](#software-test-engineer-2)
-* [Python Engineer](#python-engineer)
+* [Python Engineer 1](#python-engineer-1)
+* [Python Engineer 2](#python-engineer-2)
 * [Senior Java Engineer](#senior-java-engineer)
 * [Manual Tester](#manual-tester)
 * [iOS Engineer](#ios-engineer)
@@ -311,7 +312,7 @@ This position will be responsible for defining, designing, and implementing comp
 * Working experience with Git and Jenkins/TeamCity is a plus
 
 
-## Python Engineer
+## Python Engineer 1
 💡
 
 ### Our ideal candidate
@@ -325,6 +326,23 @@ This position will be responsible for defining, designing, and implementing comp
 * Experience with continuous integration (Jenkins)
 * QA tools techniques and bug tracking system
 * Flawless communication skills
+
+
+## Python Engineer 2
+
+We’re looking for software engineers to help us make our already awesome platform even better. You will join our backend development team building new features into our RESTful API written in Python 2.7. This API is used by our own internal React websites as well as serving as the primary interface for our customer’s own integrations.
+
+### Your skills
+
+* Software Developer (3 - 6 years preferred)
+* Critical Thinking
+* Motivation to write and maintain quality code
+* Strong Communication skills
+* Python, Django, MySQL, Git
+* Familiarity working on distributed applications
+* Familiarity with RESTful API design
+* e-Commerce experience
+* Experience working on SaaS products
 
 
 ## Senior Java Engineer
