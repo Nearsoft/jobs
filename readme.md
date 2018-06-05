@@ -18,6 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps Software Engineer 1](#devops-software-engineer-1)
 * [DevOps Software Engineer 2](#devops-software-engineer-2)
 * [DevOps Software Engineer 3](#devops-software-engineer-3)
+* [DevOps Software Engineer 4](#devops-software-engineer-4)
 * [C# Engineer](#c-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
@@ -130,6 +131,27 @@ You are equally determined to ensure it does not happen often.
     * Data protection and secret handling technology such as Vault
     * Logging (e.g. Splunk, Graylog) and Elastic Search (ELK)
     * Building microservices and real-time event processing is a big plus
+    
+     
+## DevOps Software Engineer 3
+💻
+
+### Skills 
+
+* Excellent Linux administration skills.
+* PHP Web server experience (NGINX preferable, Apache useful).
+* Some DB admin experience (MySQL or equivalent).
+* Experience with cloud technologies AWS/Open stack.
+* Networking (DNS, TCP/IP, SSL, DHCP, Load Balancing).
+* Programming / scripting (Java, Perl, Ruby, C#, and/or PHP).
+* Developing and Deploying applications on Docker and/or other container based platforms.
+* Experience managing container systems with Kubernetes and/or other container control planes.
+* Previous experience with CI/DevOps tools platforms (i.e. Jenkins, Chef, Puppet, Ansible).
+* Good Git skills (comfortable preparing release branches).
+* Previous PHP deployment automation desirable.
+* Some experience/Knowledge in monitoring tools.
+* Strong collaboration, written and verbal skills.
+* Strong ability to communicate effectively in an international environment.
 
 
 ## C# Engineer
