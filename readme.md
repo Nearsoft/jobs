@@ -31,8 +31,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Python Engineer 2](#python-engineer-2)
 * [Senior Java Engineer](#senior-java-engineer)
 * [Manual Tester](#manual-tester)
-* [iOS Engineer](#ios-engineer)
-* [Android Engineer](#android-engineer)
 * [Product Designer](#product-designer)
 * [UX Designer](#ux-designer)
 
@@ -402,37 +400,6 @@ We’re looking for software engineers to help us make our already awesome platf
 * Solid knowledge of SQL
 * Experience working in an Agile/Scrum development process
 * Experience with performance and/or security testing is a plus
-
-
-## iOS Engineer
-🔎
-
-* Proficient Swift knowledge
-* Strong Objective-C knowledge
-* Strong knowledge of iOS UI principles, patterns, and best practices
-* Familiar with Bluetooth Framework
-* Experience with Auto Layout
-* Proficient understanding of version control tools and branching model (Git/GitFlow)
-* Experience creating reusable views only with code (without .xib or storyboards)
-* In general, strong iOS SDK knowledge
-* Experience with Agile Methodologies
-
-
-## Android Engineer
-🔎
-
-* Minimum 5-7 years of Android Development Experience using Android framework and Android Studio
-* Strong understanding of RESTful APIs
-* Delivered multiple Android apps to Google Play Store
-* Expert knowledge of object-oriented design patterns, data structures and algorithms
-* Hardware integration experience (Bluetooth, IoT, etc.)
-* Familiarity with version control systems including GitHub
-* Understanding of mobile databases such as Realm
-* Understanding of back end development technologies and languages such as Java, Go, PostgreSQL, MySQL, DynamoDB is a plus
-* Follow best practices related to coding, testing, and building software in a continuous integration environment
-* Solid understanding and demonstrated experience using Amazon Web Services and/or other cloud providers
-* Strong working knowledge of Agile development methodologies and best practices
-* Excellent communication and teamwork skills
 
 
 ## Product Designer
