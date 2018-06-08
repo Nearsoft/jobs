@@ -130,27 +130,27 @@ You are equally determined to ensure it does not happen often.
     * Data protection and secret handling technology such as Vault
     * Logging (e.g. Splunk, Graylog) and Elastic Search (ELK)
     * Building microservices and real-time event processing is a big plus
-    
-     
+
+
 ## DevOps Software Engineer 4
 💻
 
-### Skills 
+### Skills
 
-* Excellent Linux administration skills.
-* PHP Web server experience (NGINX preferable, Apache useful).
-* Some DB admin experience (MySQL or equivalent).
-* Experience with cloud technologies AWS/Open stack.
-* Networking (DNS, TCP/IP, SSL, DHCP, Load Balancing).
-* Programming / scripting (Java, Perl, Ruby, C#, and/or PHP).
-* Developing and Deploying applications on Docker and/or other container based platforms.
-* Experience managing container systems with Kubernetes and/or other container control planes.
-* Previous experience with CI/DevOps tools platforms (i.e. Jenkins, Chef, Puppet, Ansible).
-* Good Git skills (comfortable preparing release branches).
-* Previous PHP deployment automation desirable.
-* Some experience/Knowledge in monitoring tools.
-* Strong collaboration, written and verbal skills.
-* Strong ability to communicate effectively in an international environment.
+* Excellent Linux administration skills
+* PHP Web server experience (NGINX preferable, Apache useful)
+* Some database admin experience (MySQL or equivalent)
+* Experience with cloud technologies AWS/Open stack
+* Networking (DNS, TCP/IP, SSL, DHCP, Load balancing)
+* Programming/scripting (Java, Perl, Ruby, C#, and/or PHP)
+* Developing and deploying applications on Docker and/or other container based platforms
+* Experience managing container systems with Kubernetes and/or other container control planes
+* Previous experience with CI/DevOps tools platforms (i.e. Jenkins, Chef, Puppet, Ansible)
+* Good Git skills (comfortable preparing release branches)
+* Previous PHP deployment automation desirable
+* Some experience/knowledge in monitoring tools
+* Strong collaboration, written and verbal skills
+* Strong ability to communicate effectively in an international environment
 
 
 ## C# Engineer
@@ -329,14 +329,16 @@ This position will be responsible for defining, designing, and implementing comp
 ## Python Engineer 2
 👛
 
-We’re looking for software engineers to help us make our already awesome platform even better. You will join our backend development team building new features into our RESTful API written in Python 2.7. This API is used by our own internal React websites as well as serving as the primary interface for our customer’s own integrations.
+We're looking for Software Engineers to help us make our already awesome platform even better.
+You will join our Back End Development team building new features into our RESTful API written in Python 2.7.
+This API is used by our own internal React.js websites as well as serving as the primary interface for our customer's own integrations.
 
 ### Your skills
 
 * Software Developer (3 - 6 years preferred)
-* Critical Thinking
+* Critical thinking
 * Motivation to write and maintain quality code
-* Strong Communication skills
+* Strong communication skills
 * Python, Django, MySQL, Git
 * Familiarity working on distributed applications
 * Familiarity with RESTful API design
