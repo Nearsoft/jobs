@@ -169,7 +169,7 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 * Awareness of cross-browser compatibility issues and client-side performance considerations
 
 
-## Front End Engineer
+## Front End Developer
 👶🏼
 
 ### Responsibilities 
