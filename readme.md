@@ -18,7 +18,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps Software Engineer 1](#devops-software-engineer-1)
 * [DevOps Software Engineer 2](#devops-software-engineer-2)
 * [DevOps Software Engineer 3](#devops-software-engineer-3)
-* [C# Engineer](#c-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Front End Developer](#front-end-developer)
 * [Back End Engineer](#back-end-engineer)
@@ -112,37 +111,6 @@ If an opening has caught your eye feel free to contact us at
 * Some experience/knowledge in monitoring tools
 * Strong collaboration, written and verbal skills
 * Strong ability to communicate effectively in an international environment
-
-
-## C# Engineer
-📊
-
-As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3.
-Embrace code quality by using modern testing tools like Cucumber.
-Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
-
-### Responsibilities
-
-* Work with a team of software engineers delivering projects as the "go to person"
-* Develop & maintain customer facing Web products and Back End services
-* Writing unit tests and integration tests for max coverage
-* Improve the design of the code as the product evolves
-* Deploy and test code to ensure no defects
-* Build out RESTful APIs and consume third-party APIs
-* Work with business operations to turn requirements into technical solutions
-
-### Experience
-
-* 5+ years of professional experience using C# and .NET framework
-* 5+ years experience with WPF and Windows Forms
-* 2+ years basic knowledge of JavaScript frameworks like, React.js, or jQuery
-* HTML5 CSS, DOM traversal/manipulation, event capturing
-* Familiarity with Ajax, partial page updates, and async request handling
-* Experience working in an agile scrum development team
-* Excellent communicator, amazing at documentation
-* Knowledge of SQL Server is a plus
-* Knowledge of AWS Elastic Beanstalk is a plus
-* Work with some of the best and brightest in the WealthTech space, and enjoy these perks
 
 
 ## Front End Engineer
