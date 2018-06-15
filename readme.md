@@ -18,8 +18,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [DevOps Software Engineer 1](#devops-software-engineer-1)
 * [DevOps Software Engineer 2](#devops-software-engineer-2)
 * [DevOps Software Engineer 3](#devops-software-engineer-3)
-* [Front End Engineer](#front-end-engineer)
-* [Front End Developer](#front-end-developer)
+* [Front End Engineer 1](#front-end-engineer-1)
+* [Front End Engineer 2](#front-end-engineer-2)
 * [Back End Engineer](#back-end-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
@@ -29,7 +29,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Software Test Engineer 3](#software-test-engineer-3)
 * [Python Engineer 1](#python-engineer-1)
 * [Python Engineer 2](#python-engineer-2)
-* [Java Developer](#java-developer)
+* [Java Engineer](#java-engineer)
 * [Senior Java Engineer](#senior-java-engineer)
 * [Manual Tester](#manual-tester)
 * [Product Designer](#product-designer)
@@ -113,7 +113,7 @@ If an opening has caught your eye feel free to contact us at
 * Strong ability to communicate effectively in an international environment
 
 
-## Front End Engineer
+## Front End Engineer 1
 🏋🏻
 
 We build the front end components of our Web app and use established practices to ensure high quality code.
@@ -137,28 +137,28 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 * Awareness of cross-browser compatibility issues and client-side performance considerations
 
 
-## Front End Developer
+## Front End Engineer 2
 👶🏼
 
-### Responsibilities 
+### Responsibilities
 
-* Develop common styling framework.  Work closely with designers, define reusable UI components and keep styles consistent.
-* Our stack features Angular, React, NodeJs, Java, PostgreSQL.
-* Design front-end code style policies.
+* Develop common styling framework. Work closely with designers, define reusable UI components and keep styles consistent
+* Our stack features AngularJS, React.js, Node.js, Java, PostgreSQL
+* Design Front End code style policies
 
 ### Daily
 
-* Work closely with back-end engineers to deliver most optimal solutions possible.
-* Implementing the UI and client-side experience across our application.
-* Experience building, shipping and maintaining a framework-based Javascript single page application (Angular, React, etc.) of reasonable complexity.
-* Experience producing high-quality HTML, CSS and JavaScript in a team environment.
+* Work closely with back-end engineers to deliver most optimal solutions possible
+* Implementing the UI and client-side experience across our application
+* Experience building, shipping and maintaining a framework-based JavaScript single page application (AngularJS, React.js, etc.) of reasonable complexity
+* Experience producing high-quality HTML, CSS and JavaScript in a team environment
 
 ### Must
 
-* 3+ years of web application, development experience.
-* Solid knowledge of Javascript, HTML, CSS and restful APIs.
-* Familiarity with modern front-end tooling.
-* Experience with Angular, React, Node.js
+* 3+ years of Web application development experience
+* Solid knowledge of JavaScript, HTML, CSS and RESTful APIs
+* Familiarity with modern Front End tooling
+* Experience with AngularJS, React.js, Node.js
 
 
 ## Back End Engineer
@@ -268,26 +268,33 @@ This position will be responsible for defining, designing, and implementing comp
 
 ### Responsibilities
 
-* Responsible for organizing and overseeing testing for custom lending solutions. 
-* Specific duties include: evaluating project specifications and requirements; gaining SME level knowledge of solutions; 
-identifying gaps between implementation and the customer system; providing QA deliverables; supporting QA testing team during test execution phases; 
-* reviewing and reporting on test execution status; reviewing and managing bug status reports; 
-* Directing integration testing across front-end clients, Web App servers, Core servers, databases, third-party connectors,  Web-services, and SMS messaging and Aggregators as needed. 
-* Duties also include identifying and validating security and planning and performing data migration testing; performing tests on reporting and data extract consoles; 
-* Complying and executing complex SQL queries in order to perform database testing; Understanding, and where needed, coding testing components in Python/Perl/Java; 
-* Leading, managing and prioritizing multiple projects in QA; 
-* Performing deployments to QA and validating deployments to production environments; and supporting continuous improvement through the use of tools and improved process.
+* Responsible for organizing and overseeing testing for custom lending solutions
+* Specific duties include:
+  * Evaluating project specifications and requirements
+  * Gaining SME level knowledge of solutions
+  * Identifying gaps between implementation and the customer system
+  * Providing QA deliverables
+  * Supporting QA testing team during testing phases
+* Reviewing and reporting on testing status
+* Reviewing and managing bug status reports
+* Directing integration testing across Front End clients, Web app servers, core servers, databases, third-party connectors, Web services, and SMS messaging and aggregators as needed
+* Duties also include identifying and validating security and planning and performing data migration testing
+* Performing tests on reporting and data extract consoles
+* Complying and running complex SQL queries in order to perform database testing
+* Understanding, and where needed, coding testing components in Python/Perl/Java
+* Leading, managing and prioritizing multiple projects in QA
+* Performing deployments to QA and validating deployments to production environments and supporting continuous improvement through the use of tools and improved process
 
-### Skills 
+### Skills
 
-* Minimum of 4 years of progressive responsibility 
+* Minimum of 4 years of progressive responsibility
 * Proficiency working with client-server layered architecture environment involving front-end consumer clients
-* Experience working with Web App servers, Core servers, back-end databases, third party and financial back-end system integration coordinators, and REST and SOAP based web services API’s.
-* Proficiency working with real-time, high availability applications and Automation experience using SoapUI or other industry tools are also required.
-* Great communicator, self-starter and eager to learn in the fast-paced environment,
-* Java, REST API, UI Test Automation- web, hybrid apps, API Test Automation; 
-* Jmeter, Selenium Webdriver, Appium, TestNG, Performance testing, Gray box testing, Continuous Integration(CI/CD); 
-* Database testing, Mobile testing, Javascript, Ansible
+* Experience working with Web app servers, core servers, Back End databases, third party and financial back-end system integration coordinators, and REST and SOAP based web services APIs
+* Proficiency working with real-time, high availability applications and Automation experience using SoapUI or other industry tools are also required
+* Great communicator, self-starter and eager to learn in the fast-paced environment
+* Java, REST API, UI Test Automation- web, hybrid apps, API Test Automation
+* JMeter, Selenium, Appium, TestNG, performance testing, gray box testing, continuous integration (CI/CD)
+* Database testing, Mobile testing, JavaScript, Ansible
 
 
 ## Python Engineer 1
@@ -325,33 +332,33 @@ This API is used by our own internal React.js websites as well as serving as the
 * e-Commerce experience
 * Experience working on SaaS products
 
-## Java Developer
+## Java Engineer
 👶🏼
 
-### What we are looking for 
+### What we are looking for
 
-* You are a great programmer, you leave the code in substantially better state than you found it.
-Y* ou believe in teams. You know that the whole is greater than the sum of its parts. You rely on others’ candid feedback for continuous improvement.
-* You have an architectural perspective, you can lead the design of medium to large projects with feedback from other engineers.
-* You would like to do things the right way, you know what works and what doesn’t and you can elaborate on the why and how.
+* You are a great programmer, you leave the code in substantially better state than you found it
+* You believe in teams. You know that the whole is greater than the sum of its parts. You rely on others' candid feedback for continuous improvement
+* You have an architectural perspective, you can lead the design of medium to large projects with feedback from other engineers
+* You would like to do things the right way, you know what works and what doesn't and you can elaborate on the why and how
 
 ### Daily
 
-* Build robust, highly scalable and visible user-facing features.
-* Design and develop large scale web applications.
-* Collaborate with other engineers to discuss design and development.
-* Champion best practices for building reliable software.
+* Build robust, highly scalable and visible user-facing features
+* Design and develop large scale Web applications
+* Collaborate with other engineers to discuss design and development
+* Champion best practices for building reliable software
 
 ### Must
 
-* 10+ years of experience. 
-* Exceptional proficiency in at least one statically-typed language.
-* Ability to write modular and maintainable code.
-* Ability to write automated tests, and produce testable code.
-* Experience writing and consuming RESTful web services.
-* Deep understanding of relational and non-relational databases.
-* Experience with Git.
-* Familiar with distributed systems.
+* 10+ years of experience
+* Exceptional proficiency in at least one statically-typed language
+* Ability to write modular and maintainable code
+* Ability to write automated tests, and produce testable code
+* Experience writing and consuming RESTful web services
+* Deep understanding of relational and non-relational databases
+* Experience with Git
+* Familiar with distributed systems
 
 
 ## Senior Java Engineer
