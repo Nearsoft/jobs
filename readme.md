@@ -17,6 +17,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 * [DevOps Software Engineer 1](#devops-software-engineer-1)
 * [DevOps Software Engineer 2](#devops-software-engineer-2)
+* [PHP Engineer](#php-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
@@ -89,6 +90,33 @@ If an opening has caught your eye feel free to contact us at
 * Some experience/knowledge in monitoring tools
 * Strong collaboration, written and verbal skills
 * Strong ability to communicate effectively in an international environment
+
+
+## PHP Engineer 
+🦁
+
+### Candidates should have the following 
+
+* Proven experience working with PHP.
+* Experience using command line to perform various tasks.
+* Experience designing and developing object-oriented software using front end
+technologies.
+* Experience working with Relationship Database Management Systems (RDBMS)
+such as Postgres.
+* Experience working with web technologies such as HTML and JavaScript as well
+as JSON and XML.
+* Experience working in an Agile environment with SCRUM Masters.
+* Ability to evaluate, learn, and improve product efficiency and are detail oriented.
+
+### Preferred qualifications
+
+* Strong verbal and written communication skills. Must be able to communicate
+complex information to team, product management and other stakeholders in the
+company.
+* Knowledge of tools and technologies that successful teams are using to help
+maintain and make teams more efficient.
+* Passion for collaboration and team unity.
+* Passion for continuous learning.
 
 
 ## Front End Engineer 
