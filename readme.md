@@ -23,8 +23,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 * [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
-* [Software Test Engineer 1](#software-test-engineer-1)
-* [Software Test Engineer 2](#software-test-engineer-2)
+* [Software Test Engineer](#software-test-engineer)
 * [Python Engineer 1](#python-engineer-1)
 * [Python Engineer 2](#python-engineer-2)
 * [Senior Java Engineer](#senior-java-engineer)
@@ -215,18 +214,7 @@ This position will be responsible for defining, designing, and implementing comp
 * Web Services development
 
 
-## Software Test Engineer 1
-🏥
-
-### Requirements
-
-* Experience designing and maintaining test automation framework for large scale applications
-* Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework
-* Knowledge of current test automation tools and frameworks (i.e. TestNG, JUnit, Mocha, WebDriverIO, Selenium)
-* Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving
-
-
-## Software Test Engineer 2
+## Software Test Engineer 
 🍽
 
 * We build core services on the JVM using Java and Spring framework with Front End developed in AngularJS 4 and Typescript. Web Back Ends and simple middleware services are often made with Spring Boot API
