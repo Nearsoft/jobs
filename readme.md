@@ -91,34 +91,28 @@ If an opening has caught your eye feel free to contact us at
 * Strong ability to communicate effectively in an international environment
 
 
-## PHP Engineer 
+## PHP Engineer
 🦁
 
-### Candidates should have the following 
+### Candidates should have the following
 
-* Proven experience working with PHP.
-* Experience using command line to perform various tasks.
-* Experience designing and developing object-oriented software using front end
-technologies.
-* Experience working with Relationship Database Management Systems (RDBMS)
-such as Postgres.
-* Experience working with web technologies such as HTML and JavaScript as well
-as JSON and XML.
-* Experience working in an Agile environment with SCRUM Masters.
-* Ability to evaluate, learn, and improve product efficiency and are detail oriented.
+* Proven experience working with PHP
+* Experience using command line to perform various tasks
+* Experience designing and developing object-oriented software using Front End technologies
+* Experience working with Relational Database Management Systems (RDBMS) such as PostgreSQL
+* Experience working with Web technologies such as HTML and JavaScript, as well as JSON and XML
+* Experience working in an Agile environment with Scrum Masters
+* Ability to evaluate, learn, and improve product efficiency and are detail-oriented
 
 ### Preferred qualifications
 
-* Strong verbal and written communication skills. Must be able to communicate
-complex information to team, product management and other stakeholders in the
-company.
-* Knowledge of tools and technologies that successful teams are using to help
-maintain and make teams more efficient.
-* Passion for collaboration and team unity.
-* Passion for continuous learning.
+* Strong verbal and written communication skills. Must be able to communicate complex information to team, product management and other stakeholders in the company
+* Knowledge of tools and technologies that successful teams are using to help maintain and make teams more efficient
+* Passion for collaboration and team unity
+* Passion for continuous learning
 
 
-## Front End Engineer 
+## Front End Engineer
 🏋🏻
 
 We build the front end components of our Web app and use established practices to ensure high quality code.
@@ -214,7 +208,7 @@ This position will be responsible for defining, designing, and implementing comp
 * Web Services development
 
 
-## Software Test Engineer 
+## Software Test Engineer
 🍽
 
 * We build core services on the JVM using Java and Spring framework with Front End developed in AngularJS 4 and Typescript. Web Back Ends and simple middleware services are often made with Spring Boot API
