@@ -355,12 +355,11 @@ This API is used by our own internal React.js websites as well as serving as the
 * Experience defining, planning and measuring projects
 * Indispensable: move to Hermosillo
 * Availability to travel outside of Mexico
-* Portafolio must contain at least 5 main projects focused in UI Design (web or mobile). Including six screens per project or one complete user flow. Make sure you send your screens in high resolution ⭐️ File type: jpgs, pngs or prototypes in invision⭐️
+* Portfolio must contain at least 5 main projects focused in UI Design (Web or Mobile). Including six screens per project or one complete user flow. Make sure you send your screens in high resolution ⭐️ File type: `jpg`, `png` or prototypes in InVision ⭐️
 
 ### Nice to have
 
-* Include a brief description of the project, design and ux process
-
+* Include a brief description of the project, design and UX process
 
 ## UX Designer
 🚀
@@ -393,14 +392,14 @@ This API is used by our own internal React.js websites as well as serving as the
 * Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
 * Location: Hermosillo
 * Availability to travel outside Mexico
-* Portafolio must contain at least 5 main projects focused in UI Design (web or mobile). Including six screens per project or one complete user flow. Make sure you send your screens in high resolution ⭐️ File type: jpgs, pngs or prototypes in invision⭐️
+* Portfolio must contain at least 5 main projects focused in UI Design (Web or Mobile). Including six screens per project or one complete user flow. Make sure you send your screens in high resolution ⭐️ File type: `jpg`, `png` or prototypes in InVision ⭐️
 
 ### Nice to have
 
 * SEO and Google analytics skills
 * Conference speaker
 * Front End knowledge
-* Include a brief description of the project, design and ux process
+* Include a brief description of the project, design and UX process
 
 
 ## Credit
