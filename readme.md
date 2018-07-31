@@ -15,8 +15,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [DevOps Software Engineer 1](#devops-software-engineer-1)
-* [DevOps Software Engineer 2](#devops-software-engineer-2)
 * [PHP Engineer](#php-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
@@ -35,60 +33,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
-
-
-## DevOps Software Engineer 1
-💳
-
-### Responsibilities
-
-* Day to day maintenance and ability to work closely with development team
-* Good knowledge of security best practices, preferably PCI requirements
-* Dealing with issues that may come up
-* Participating in on call rotation
-* Helping in launching and maintaining new Microservices in Rails 5 and Elixir
-* Managing security patching and deployments
-* Familiarity with monitoring systems like Grafana, Datadog, Nagios
-
-### Requirements
-
-* High degree of proficiency in Linux systems administration, mainly Ubuntu flavor
-* Helping in automation that requires a lot of scripting in Bash, Ruby or Python
-* Strong understanding of AWS Cloud Infrastructure and its services, including but not limited to EC2, ElastiCache, RDS, Redshift, S3, IAM, EFS
-* Understanding of the Ruby on Rails ecosystem, its benefits and its deficiencies
-* Streamlined deployment for a continuous integration based team
-* Work experience with relational databases and SQL
-* Experience with agile development process in collaborative environment
-* Good understanding of performance trade-offs
-* Good communications skills
-
-### Bonus qualifications
-
-* Experience developing cookbooks with Chef
-* Familiarity with time series databases like InfluxDB, Prometheus, Graphite, etc.
-* Experience designing and deploying large scale distributed data processing systems
-* Experience with CI/CD tools preferably Chef Automate
-
-
-## DevOps Software Engineer 2
-💻
-
-### Skills
-
-* Excellent Linux administration skills
-* PHP Web server experience (NGINX preferable, Apache useful)
-* Some database admin experience (MySQL or equivalent)
-* Experience with cloud technologies AWS/Open stack
-* Networking (DNS, TCP/IP, SSL, DHCP, Load balancing)
-* Programming/scripting (Java, Perl, Ruby, C#, and/or PHP)
-* Developing and deploying applications on Docker and/or other container based platforms
-* Experience managing container systems with Kubernetes and/or other container control planes
-* Previous experience with CI/DevOps tools platforms (i.e. Jenkins, Chef, Puppet, Ansible)
-* Good Git skills (comfortable preparing release branches)
-* Previous PHP deployment automation desirable
-* Some experience/knowledge in monitoring tools
-* Strong collaboration, written and verbal skills
-* Strong ability to communicate effectively in an international environment
 
 
 ## PHP Engineer
