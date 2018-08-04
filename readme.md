@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [ETL Engineer](#etl-engineer)
 * [PHP Engineer](#php-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
@@ -33,6 +34,31 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## ETL Engineer 
+⭐️
+
+### Responsibilities
+
+* Create ETL process to extract data from relational database (SQL Server primarily) 
+* Load and transform data into Vertica
+* Develop process to extract change records from source systems
+* Experience working with and parsing JSON and XML 
+
+### Required Skills 
+
+* Strong ETL experience
+* Strong SQL experience
+* Strong relational database experience
+* Strong oral and written communication skills
+* AWS experience
+
+### Desired Skills 
+
+* SQL Server T-SQL
+* SQL Server SSIS 
+* Vertica/PostgreSQL
 
 
 ## PHP Engineer
