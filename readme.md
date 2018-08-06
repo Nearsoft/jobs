@@ -36,28 +36,28 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## ETL Engineer 
+## ETL Engineer
 ⭐️
 
 ### Responsibilities
 
-* Create ETL process to extract data from relational database (SQL Server primarily) 
+* Create ETL process to extract data from relational database (SQL Server primarily)
 * Load and transform data into Vertica
 * Develop process to extract change records from source systems
-* Experience working with and parsing JSON and XML 
+* Experience working with and parsing JSON and XML
 
-### Required Skills 
+### Required Skills
 
 * Strong ETL experience
 * Strong SQL experience
 * Strong relational database experience
-* Strong oral and written communication skills
+* Strong verbal and written communication skills
 * AWS experience
 
-### Desired Skills 
+### Desired Skills
 
 * SQL Server T-SQL
-* SQL Server SSIS 
+* SQL Server Integration Services
 * Vertica/PostgreSQL
 
 
