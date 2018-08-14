@@ -344,20 +344,20 @@ Nearsofts’ UX Team is focused on digital product design, and we are looking fo
 
 ### Role definition
 
-Helping UX team and clients to ensure the project is well defined and running smoothly
-Educating Key Stakeholders in the product development process
-Able to identify, solve and prevent problems to happen during the product development process
-Encourage innovation and technology best practices inside Nearsoft
-Elaborate client proposals and project estimates
-Continuously implement strategies to improve team and projects performance
-Test assumptions and measure success in projects and team strategies
-Provide user perspective to development teams to help them redefine their products
-Plan, design, test and measure UX projects
-Create user flows, wireframes and prototypes that accurately communicate product functionality
-Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
-Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users' needs
-Collaborate with UX researchers, designers, marketing, developers and stakeholders to produce high quality digital products
-Create and share product development content in the software industry
+* Helping UX team and clients to ensure the project is well defined and running smoothly
+* Educating Key Stakeholders in the product development process
+* Able to identify, solve and prevent problems to happen during the product development process
+* Encourage innovation and technology best practices inside Nearsoft
+* Elaborate client proposals and project estimates
+* Continuously implement strategies to improve team and projects performance
+* Test assumptions and measure success in projects and team strategies
+* Provide user perspective to development teams to help them redefine their products
+* Plan, design, test and measure UX projects
+* Create user flows, wireframes and prototypes that accurately communicate product functionality
+* Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
+* Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users' needs
+* Collaborate with UX researchers, designers, marketing, developers and stakeholders to produce high quality digital products
+* Create and share product development content in the software industry
 
 ### Requirements
 
