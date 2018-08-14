@@ -294,6 +294,8 @@ This API is used by our own internal React.js websites as well as serving as the
 ## Product Designer
 🚀
 
+Nearsofts' UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
+
 ### Role definition
 
 * Helping UX team and clients to ensure the project is well defined and running smoothly
@@ -327,6 +329,10 @@ This API is used by our own internal React.js websites as well as serving as the
 * Availability to travel outside of Mexico
 * Portfolio must contain at least 5 main projects focused in UI Design (Web or Mobile). Including six screens per project or one complete user flow. Make sure you send your screens in high resolution ⭐️ File type: `jpg`, `png` or prototypes in InVision ⭐️
 
+### Portfolio
+
+Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
+
 ### Nice to have
 
 * Include a brief description of the project, design and UX process
@@ -334,19 +340,24 @@ This API is used by our own internal React.js websites as well as serving as the
 ## UX Designer
 🚀
 
+Nearsofts’ UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
+
 ### Role definition
 
-* Conduct quantitative and qualitative user research
-* Implement UX methods to discover user insights and interpret data
-* Build dynamic style guides with assets ready for responsive iOS, Android devices
-* Plan, design, test and measure UX projects
-* Create user flows, wireframes and prototypes that accurately communicate product functionality
-* Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
-* Communicate design intent to both internal and external teams, and justify design work and advocate for users' needs
-* Continuously elaborate strategies to improve team and projects performance
-* Elaborate client proposals and project estimates
-* Collaborate with UX researchers, marketers, developers, product managers to build high quality digital products
-* Create and share UX content in the software industry
+Helping UX team and clients to ensure the project is well defined and running smoothly
+Educating Key Stakeholders in the product development process
+Able to identify, solve and prevent problems to happen during the product development process
+Encourage innovation and technology best practices inside Nearsoft
+Elaborate client proposals and project estimates
+Continuously implement strategies to improve team and projects performance
+Test assumptions and measure success in projects and team strategies
+Provide user perspective to development teams to help them redefine their products
+Plan, design, test and measure UX projects
+Create user flows, wireframes and prototypes that accurately communicate product functionality
+Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
+Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users' needs
+Collaborate with UX researchers, designers, marketing, developers and stakeholders to produce high quality digital products
+Create and share product development content in the software industry
 
 ### Requirements
 
@@ -364,13 +375,18 @@ This API is used by our own internal React.js websites as well as serving as the
 * Availability to travel outside Mexico
 * Portfolio must contain at least 5 main projects focused in UI Design (Web or Mobile). Including six screens per project or one complete user flow. Make sure you send your screens in high resolution ⭐️ File type: `jpg`, `png` or prototypes in InVision ⭐️
 
+Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
+
+### Portfolio
+
+Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
+
 ### Nice to have
 
 * SEO and Google analytics skills
 * Conference speaker
 * Front End knowledge
 * Include a brief description of the project, design and UX process
-
 
 ## Credit
 
