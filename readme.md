@@ -334,7 +334,7 @@ Your portfolio should contain your 5 best UI/UX projects, complemented with a sh
 
 Send your cv and portfolio to aquijada@nearsoft.com
 
-## UX Designer
+## UX/UI Designer
 🌵⚡️
 
 Nearsofts’ UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
