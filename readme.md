@@ -328,10 +328,6 @@ Nearsofts' UX Team is focused on digital product design, and we are looking for 
 * Indispensable: move to Hermosillo
 * Availability to travel outside of Mexico
 
-### Nice to have
-
-* Include a brief description of the project, design and UX process
-
 ### Portfolio
 
 Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
@@ -386,6 +382,45 @@ Nearsofts’ UX Team is focused on digital product design, and we are looking fo
 
 Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
 
+Send your cv and portfolio to aquijada@nearsoft.com
+
+## UI/UX Intern
+🌵⚡️
+
+Nearsofts’ UX Team is focused on digital product design, and we are looking for a passionate, energetic design intern to join us in a long-term engagement.
+
+### Role Definition
+* Recruiting users and researching how they interact with their products 
+* Conducting user testing for in-progress projects so we can have data that informs our design strategy for those initiatives
+* Helping us to organize our design documentation, artifacts, and processes and socializing that to the wider community at Dolby
+* Working on the visual design for one or more of our applications—which could be anything from a simple consumer app to a complex professional content creation tool
+* Implementing aspects of our UI style guide in one or more of our existing products
+* Helping to shape our team by injecting new and interesting ideas, methodologies and processes for us to discuss and possibly adopt.
+
+### Requirements
+* Pursuing or a recent graduate with Bachelor’s and/or Master’s Degree in  Graphic Design, Digital Design, Product Application Design or related field.
+* Fluent in English (Writing and speaking)
+* Researching users and designing meaningful experiences for them on any platforms
+* Written, verbal and storytelling skills are outstanding and a natural communicator.
+* Quick-witted, efficient and flexible in the way that you work and can turn on a dime as projects change and pivot.
+* Your career may just be starting, but a compelling and varied portfolio is important for us to see.
+Show us beautiful, contemporary visual design; detailed and thoughtful wireframes; careful and thorough research; novel and varied ways of telling stories.
+* Experience with Adobe CC, Sketch, Zeplin, InVision
+* Location: Hermosillo
+
+### Minimum Skills Required:
+* Currently enrolled in a Bachelor’s degree, preferably in a design-related field (0-2 years)
+* Fluent in English (Writing and speaking)
+* Demonstrated proficiency in the Adobe Suite of software (Sketch in particular)
+* Quickly visualize and prototype ideas to communicate designs
+* Quick learner, excellent problem-solving skills, visionary
+* Please submit a portfolio that demonstrates designs for web/mobile.
+
+### Nice to have
+* Familiarity with HTML, CSS
+
+### Portfolio
+Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
 Send your cv and portfolio to aquijada@nearsoft.com
 
 ## Credit
