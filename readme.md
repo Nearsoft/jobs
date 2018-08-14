@@ -384,7 +384,7 @@ Your portfolio should contain your 5 best UI/UX projects, complemented with a sh
 
 Send your cv and portfolio to aquijada@nearsoft.com
 
-## UI/UX Intern
+## UX/UI Intern
 🌵⚡️
 
 Nearsofts’ UX Team is focused on digital product design, and we are looking for a passionate, energetic design intern to join us in a long-term engagement.
