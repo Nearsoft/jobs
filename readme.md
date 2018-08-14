@@ -292,7 +292,7 @@ This API is used by our own internal React.js websites as well as serving as the
 
 
 ## Product Designer
-🚀
+🌵⚡️
 
 Nearsofts' UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
 
@@ -327,18 +327,19 @@ Nearsofts' UX Team is focused on digital product design, and we are looking for 
 * Experience defining, planning and measuring projects
 * Indispensable: move to Hermosillo
 * Availability to travel outside of Mexico
-* Portfolio must contain at least 5 main projects focused in UI Design (Web or Mobile). Including six screens per project or one complete user flow. Make sure you send your screens in high resolution ⭐️ File type: `jpg`, `png` or prototypes in InVision ⭐️
-
-### Portfolio
-
-Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
 
 ### Nice to have
 
 * Include a brief description of the project, design and UX process
 
+### Portfolio
+
+Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
+
+Send your cv and portfolio to aquijada@nearsoft.com
+
 ## UX Designer
-🚀
+🌵⚡️
 
 Nearsofts’ UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
 
@@ -373,13 +374,6 @@ Nearsofts’ UX Team is focused on digital product design, and we are looking fo
 * Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
 * Location: Hermosillo
 * Availability to travel outside Mexico
-* Portfolio must contain at least 5 main projects focused in UI Design (Web or Mobile). Including six screens per project or one complete user flow. Make sure you send your screens in high resolution ⭐️ File type: `jpg`, `png` or prototypes in InVision ⭐️
-
-Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
-
-### Portfolio
-
-Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
 
 ### Nice to have
 
@@ -387,6 +381,12 @@ Your portfolio should contain your 5 best UI/UX projects, complemented with a sh
 * Conference speaker
 * Front End knowledge
 * Include a brief description of the project, design and UX process
+
+### Portfolio
+
+Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
+
+Send your cv and portfolio to aquijada@nearsoft.com
 
 ## Credit
 
