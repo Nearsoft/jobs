@@ -398,8 +398,8 @@ Nearsoft's UX Team is focused on digital product design, and we are looking for 
 
 * Recruiting users and researching how they interact with their products
 * Conducting user testing for in-progress projects so we can have data that informs our design strategy for those initiatives
-* Working on the visual design for one or more of our applications which could be anything from a simple consumer app to a complex professional content creation tool
-* Implementing aspects of our UI style guide for one or more of our existing products
+* Working on the visual design for applications which could be anything from a simple consumer app to a complex professional content creation tool
+* Implementing aspects of our UI style guide for one or more of our client products
 * Helping to shape our team by injecting new and interesting ideas, methodologies, and processes for us to discuss and possibly adopt
 
 ### Requirements
