@@ -431,6 +431,7 @@ Show us beautiful, contemporary visual design; detailed and thoughtful wireframe
 
 Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it.
 Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: `jpg`, `png` or prototypes in InVision.
+
 Send your CV and portfolio to aquijada@nearsoft.com
 
 ## Credit
