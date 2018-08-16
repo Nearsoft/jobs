@@ -28,7 +28,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Java Engineer](#senior-java-engineer)
 * [Manual Tester](#manual-tester)
 * [Product Designer](#product-designer)
-* [UX/UI Designer](#uxui-designer) 
+* [UX/UI Designer](#uxui-designer)
 * [UX/UI Intern](#uxui-intern)
 
 <!-- yaspeller ignore:end -->
@@ -295,12 +295,12 @@ This API is used by our own internal React.js websites as well as serving as the
 ## Product Designer
 🌵⚡️
 
-Nearsofts' UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
+Nearsoft's UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
 
 ### Role definition
 
-* Helping UX team and clients to ensure the project is well defined and running smoothly
-* Educating Key Stakeholders in the product development process
+* Helping the UX team and clients to ensure the project is well defined and running smoothly
+* Educating key stakeholders in the product development process
 * Able to identify, solve and prevent problems to happen during the product development process
 * Encourage innovation and technology best practices inside Nearsoft
 * Elaborate client proposals and project estimates
@@ -321,24 +321,26 @@ Nearsofts' UX Team is focused on digital product design, and we are looking for 
 * Experience working with startups
 * Experience with Human Centered Design, Design Thinking and Design Sprint Methodology
 * Samples of live digital products
-* Experience using Sketch, InVision and Zeplin or similar tools
+* Experience using Sketch, InVision and Zeplin, or similar tools
 * Experience with Multidisciplinary collaboration (engineers, designers, stakeholders, product managers)
-* Proactive and Leadership skills
-* Strong User Interface Design skills
+* Proactive and with leadership skills
+* Strong user interface design skills
 * Experience defining, planning and measuring projects
 * Indispensable: move to Hermosillo
 * Availability to travel outside of Mexico
 
 ### Portfolio
 
-Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
+Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it.
+Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: `jpg`, `png` or prototypes in InVision.
 
-Send your cv and portfolio to aquijada@nearsoft.com
+Send your CV and portfolio to aquijada@nearsoft.com
+
 
 ## UX/UI Designer
 🌵⚡️
 
-Nearsofts’ UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
+Nearsoft's UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
 
 ### Role definition
 
@@ -381,48 +383,55 @@ Nearsofts’ UX Team is focused on digital product design, and we are looking fo
 
 ### Portfolio
 
-Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
+Your portfolio should have your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it.
+Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: `jpg`, `png` or prototypes in InVision.
 
-Send your cv and portfolio to aquijada@nearsoft.com
+Send your CV and portfolio to aquijada@nearsoft.com
+
 
 ## UX/UI Intern
 🌵⚡️
 
-Nearsofts’ UX Team is focused on digital product design, and we are looking for a passionate, energetic design intern to join us in a long-term engagement.
+Nearsoft's UX Team is focused on digital product design, and we are looking for a passionate, energetic design intern to join us in a long-term engagement.
 
-### Role Definition
-* Recruiting users and researching how they interact with their products 
+### Role definition
+
+* Recruiting users and researching how they interact with their products
 * Conducting user testing for in-progress projects so we can have data that informs our design strategy for those initiatives
-* Helping us to organize our design documentation, artifacts, and processes and socializing that to the wider community at Dolby
-* Working on the visual design for one or more of our applications—which could be anything from a simple consumer app to a complex professional content creation tool
-* Implementing aspects of our UI style guide in one or more of our existing products
-* Helping to shape our team by injecting new and interesting ideas, methodologies and processes for us to discuss and possibly adopt.
+* Working on the visual design for one or more of our applications which could be anything from a simple consumer app to a complex professional content creation tool
+* Implementing aspects of our UI style guide for one or more of our existing products
+* Helping to shape our team by injecting new and interesting ideas, methodologies, and processes for us to discuss and possibly adopt
 
 ### Requirements
-* Pursuing or a recent graduate with Bachelor’s and/or Master’s Degree in  Graphic Design, Digital Design, Product Application Design or related field.
-* Fluent in English (Writing and speaking)
+
+* Pursuing or a recent graduate with Bachelor's and/or Master's Degree in Graphic Design, Digital Design, Product Application Design or related field
+* Fluent in English (writing and speaking)
 * Researching users and designing meaningful experiences for them on any platforms
-* Written, verbal and storytelling skills are outstanding and a natural communicator.
-* Quick-witted, efficient and flexible in the way that you work and can turn on a dime as projects change and pivot.
+* Storytelling skills and a natural communicator
+* Quick-witted, efficient and flexible in the way that you work and can turn on a dime as projects change and pivot
 * Your career may just be starting, but a compelling and varied portfolio is important for us to see.
-Show us beautiful, contemporary visual design; detailed and thoughtful wireframes; careful and thorough research; novel and varied ways of telling stories.
-* Experience with Adobe CC, Sketch, Zeplin, InVision
+Show us beautiful, contemporary visual design; detailed and thoughtful wireframes; careful and thorough research; novel and varied ways of telling stories
+* Experience with Adobe Creative Cloud, Sketch, Zeplin, InVision
 * Location: Hermosillo
 
-### Minimum Skills Required:
-* Currently enrolled in a Bachelor’s degree, preferably in a design-related field (0-2 years)
-* Fluent in English (Writing and speaking)
-* Demonstrated proficiency in the Adobe Suite of software (Sketch in particular)
+### Minimum skills required
+
+* Currently enrolled in a Bachelor's degree, preferably in a design-related field (0-2 years)
+* Fluent in English (writing and speaking)
+* Demonstrated proficiency with Sketch and/or the Adobe Suite
 * Quickly visualize and prototype ideas to communicate designs
 * Quick learner, excellent problem-solving skills, visionary
-* Please submit a portfolio that demonstrates designs for web/mobile.
+* Please submit a portfolio that demonstrates designs for web/mobile
 
 ### Nice to have
-* Familiarity with HTML, CSS
+
+* Familiarity with HTML and CSS
 
 ### Portfolio
-Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: jpg, png or prototypes in InVision.
-Send your cv and portfolio to aquijada@nearsoft.com
+
+Your portfolio should contain your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it.
+Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: `jpg`, `png` or prototypes in InVision.
+Send your CV and portfolio to aquijada@nearsoft.com
 
 ## Credit
 
