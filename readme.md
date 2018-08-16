@@ -28,7 +28,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Java Engineer](#senior-java-engineer)
 * [Manual Tester](#manual-tester)
 * [Product Designer](#product-designer)
-* [UX Designer](#ux-designer)
+* [UX Designer](#ux/ui-designer) 
+* [UX/UI Intern](#ux/ui-intern)
 
 <!-- yaspeller ignore:end -->
 
