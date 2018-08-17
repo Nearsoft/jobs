@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [JavaScritp Developer](#javascript-developer)
+* [JavaScript Developer](#javascript-developer)
 * [iOS Developer](#ios-developer)
 * [ETL Engineer](#etl-engineer)
 * [PHP Engineer](#php-engineer)
