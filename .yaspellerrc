@@ -173,6 +173,7 @@
     "scalability",
     "SciPy",
     "SCORM",
+    "screencast",
     "SDLC",
     "Sequelize",
     "Sidekiq",
@@ -200,6 +201,7 @@
     "webpack",
     "WPF",
     "XAML",
+    "Xcode",
     "xib",
     "XHTML",
     "Zeplin"
