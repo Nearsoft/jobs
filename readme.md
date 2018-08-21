@@ -51,7 +51,7 @@ Sound appealing? Learn more about us.
 
 ### As a JavaScript developer, you will...
 
-* Deliver best-in-class Front-End solutions for clients using JavaScript frameworks
+* Deliver best-in-class front-end solutions for clients using JavaScript frameworks
 * Write stories (use cases, technical and functional requirements), tests and code
 * Help guide clients towards effective solutions that balance technical requirements and business needs
 * Participate in tech sales by providing estimates, risks, assumptions, requirements for future opportunities and participating in sales meetings
@@ -60,7 +60,7 @@ Sound appealing? Learn more about us.
 
 ### As a candidate, you...
 
-* Possess strong JavaScript development and debugging skills with a deep understanding of the language behavior in Front-End and Back-End contexts
+* Possess strong JavaScript development and debugging skills with a deep understanding of the language behavior in front-end and back-end contexts
 * Are proficient in a JavaScript UI framework (e.g., React.js, Vue.js, or AngularJS) as well as supplemental libraries for testing, routing, data management, API communication, authentication, bundling, and deployment
 * Take ownership of tasks to raise questions and risks early, find creative solutions, and bring them to completion
 * Have a passion for mentoring others and have the ability to communicate with a wide range of people
