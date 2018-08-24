@@ -32,6 +32,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Product Designer](#product-designer)
 * [UX/UI Designer](#uxui-designer)
 * [UX/UI Intern](#uxui-intern)
+* [IT Recruiter](#it-recruiter)
 
 <!-- yaspeller ignore:end -->
 
@@ -505,6 +506,25 @@ Your portfolio should contain your 5 best UI/UX projects, complemented with a sh
 Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: `jpg`, `png` or prototypes in InVision.
 
 Send your CV and portfolio to aquijada@nearsoft.com
+
+
+## IT Recruiter 
+🚀
+
+### Must Have 
+
+* 2+ years experience as IT Recruiter.
+* A basic understanding of software development platforms and skills.
+* Customer service and time management skills.
+* Previous experience recruiting for Information Technology positions.
+* Excellent oral and written communication skills, be articulate and have the ability to interact professionally with various levels of personnel, clients, and candidates.
+* Ability to develop recruiting strategies, as well execute on them.
+* Skilled in the use of proactive sourcing strategies and direct sourcing methods utilizing tools such as job boards, social networking tools (LinkedIn Recruiter, etc.), and recruiting research tools.
+* Ability to interview job candidates effectively and assess candidates accurately.
+* Strong work ethic.
+* You have to be resilient and also willing to continuously learn with us. 
+
+Send your CV to lbaray@nearsoft.com
 
 ## Credit
 
