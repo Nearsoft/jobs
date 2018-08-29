@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Database Reporting Engineer](#database-reporting-engineer)
 * [Fullstack NET Engineer](#fullstack-net-engineer)
 * [JavaScript Developer](#javascript-developer)
 * [iOS Developer](#ios-developer)
@@ -39,6 +40,21 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Database Reporting Engineer
+⛷
+
+### Skills
+
+* MongoDB Aggregation framework
+* SQL Queries
+* Views
+* Stored Procedures
+* SSIS packages
+* cData tools optional but a plus
+* SQL Reporting is optional as well
+* Javascript for the UI 
 
 
 ## Fullstack NET Engineer 
