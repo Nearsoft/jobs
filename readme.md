@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Fullstack NET Engineer](#fullstack-net-developer)
+* [Fullstack NET Engineer](#fullstack-net-engineer)
 * [JavaScript Developer](#javascript-developer)
 * [iOS Developer](#ios-developer)
 * [ETL Engineer](#etl-engineer)
