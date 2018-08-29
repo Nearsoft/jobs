@@ -25,8 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 * [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
 * [Software Test Engineer](#software-test-engineer)
-* [Python Engineer 1](#python-engineer-1)
-* [Python Engineer 2](#python-engineer-2)
+* [Python Engineer](#python-engineer)
 * [Senior Java Engineer](#senior-java-engineer)
 * [Manual Tester](#manual-tester)
 * [Product Designer](#product-designer)
@@ -265,23 +264,7 @@ This position will be responsible for defining, designing, and implementing comp
 * Working experience with Git and Jenkins/TeamCity is a plus
 
 
-## Python Engineer 1
-💡
-
-### Our ideal candidate
-
-* You have a minimum of 2 years professional software experience
-* Experience with Python and Django
-* You have experience with AWS technologies
-* Experience with numeric computation as SciPy
-* Data analysis with PANDAS
-* Deep learning framework with PyTorch
-* Experience with continuous integration (Jenkins)
-* QA tools techniques and bug tracking system
-* Flawless communication skills
-
-
-## Python Engineer 2
+## Python Engineer 
 👛
 
 We're looking for Software Engineers to help us make our already awesome platform even better.
