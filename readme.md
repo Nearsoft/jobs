@@ -20,10 +20,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [JavaScript Developer](#javascript-developer)
 * [iOS Developer](#ios-developer)
 * [ETL Engineer](#etl-engineer)
-* [PHP Engineer](#php-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
-* [Full-Stack Engineer](#full-stack-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 * [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
 * [Software Test Engineer](#software-test-engineer)
@@ -170,27 +168,6 @@ Sound appealing? Learn more about us.
 * Vertica/PostgreSQL
 
 
-## PHP Engineer
-🦁
-
-### Candidates should have the following
-
-* Proven experience working with PHP
-* Experience using command line to perform various tasks
-* Experience designing and developing object-oriented software using Front End technologies
-* Experience working with Relational Database Management Systems (RDBMS) such as PostgreSQL
-* Experience working with Web technologies such as HTML and JavaScript, as well as JSON and XML
-* Experience working in an Agile environment with Scrum Masters
-* Ability to evaluate, learn, and improve product efficiency and are detail-oriented
-
-### Preferred qualifications
-
-* Strong verbal and written communication skills. Must be able to communicate complex information to team, product management and other stakeholders in the company
-* Knowledge of tools and technologies that successful teams are using to help maintain and make teams more efficient
-* Passion for collaboration and team unity
-* Passion for continuous learning
-
-
 ## Front End Engineer
 🏋🏻
 
@@ -234,24 +211,6 @@ You will be involved in the planning of features at the beginning and own them t
 * You collaborate well with others but are excited to own a big feature
 * You value simplicity and strive to eliminate unnecessary complexity
 * You have at least 5 years of professional programming experience
-
-
-## Full-Stack Engineer
-🦁
-
-This position will be responsible for implementing complex, multi-tier distributed
-software systems throughout all phases of the software development life cycle while collaborating effectively with other team members.
-
-### Skills
-
-* Understanding of object-oriented design methodologies and application development in Java, Spring and Spring Boot
-* Understanding of Web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and AngularJS 2+
-* Basic knowledge of Agile/Scrum methodologies, continuous integration and deployment
-* 2+ years of Full-Stack software development experience in an enterprise environment
-* 2+ years experience designing, and developing object oriented software utilizing Java, Spring, AngularJS and JavaScript
-* Experience working with Relational Database Management Systems such as PostgreSQL
-* Experience in building modern distributed applications using a micro services framework
-* Experience with various UI architectures
 
 
 ## Senior Full-Stack Engineer
