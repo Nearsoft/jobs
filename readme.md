@@ -19,7 +19,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Fullstack NET Engineer](#fullstack-net-engineer)
 * [JavaScript Developer](#javascript-developer)
 * [iOS Developer](#ios-developer)
-* [ETL Engineer](#etl-engineer)
+* [SQL Engineer](#sql-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
@@ -142,7 +142,7 @@ Sound appealing? Learn more about us.
 * Have a passion for speaking publicly or blogging regularly
 
 
-## ETL Engineer
+## SQL Engineer
 ⭐️
 
 ### Responsibilities
