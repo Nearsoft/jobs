@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Fullstack .NET Engineer](#fullstack-.net-developer)
 * [JavaScript Developer](#javascript-developer)
 * [iOS Developer](#ios-developer)
 * [ETL Engineer](#etl-engineer)
@@ -38,6 +39,24 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Fullstack .NET Engineer 
+⛷
+
+### Skills 
+
+* C# and .NET ecosystem
+* Node 8
+* ES6
+* Inferno JS
+* Bootstrap
+* Express 4
+* Mongo DB
+* jQuery, HTML y CSS 
+* Great knowledge and experience in JavaScript
+* Experience with Git
+* Microservices Architecture
 
 
 ## JavaScript Developer
