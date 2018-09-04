@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 * [Database Reporting Engineer](#database-reporting-engineer)
-* [Fullstack NET Engineer](#fullstack-net-engineer)
+* [Full-Stack .NET Engineer](#full-stack-net-engineer)
 * [JavaScript Developer](#javascript-developer)
 * [iOS Developer](#ios-developer)
 * [SQL Engineer](#sql-engineer)
@@ -48,28 +48,28 @@ If an opening has caught your eye feel free to contact us at
 * SQL Queries
 * Views
 * Stored Procedures
-* SSIS packages
-* cData tools optional but a plus
+* SQL Server Integration Services packages
+* CDATA tools optional but a plus
 * SQL Reporting is optional as well
-* Javascript for the UI 
+* JavaScript for the UI
 
 
-## Fullstack NET Engineer 
+## Full-Stack .NET Engineer
 ⛷
 
-### Skills 
+### Skills
 
 * C# and .NET ecosystem
-* Node 8
+* Node.js 8
 * ES6
-* Inferno JS
+* Inferno.js
 * Bootstrap
 * Express 4
-* Mongo DB
-* jQuery, HTML y CSS 
+* MongoDB
+* jQuery, HTML and CSS
 * Great knowledge and experience in JavaScript
 * Experience with Git
-* Microservices Architecture
+* Microservices architecture
 
 
 ## JavaScript Developer
@@ -227,7 +227,7 @@ This position will be responsible for defining, designing, and implementing comp
 * 5+ years of Full-Stack software development experience in an enterprise environment
 * Extensive experience designing, and developing object oriented software utilizing Java, Spring, AngularJS and JavaScript
 * Experience working with Relational Database Management Systems such as PostgreSQL
-* Experience in building modern distributed applications using a micro services framework
+* Experience in building modern distributed applications using a microservices framework
 * Broad experience with various UI architectures with the skills to extend a framework beyond what's provided out of the box
 
 
@@ -264,7 +264,7 @@ This position will be responsible for defining, designing, and implementing comp
 * Working experience with Git and Jenkins/TeamCity is a plus
 
 
-## Python Engineer 
+## Python Engineer
 👛
 
 We're looking for Software Engineers to help us make our already awesome platform even better.
