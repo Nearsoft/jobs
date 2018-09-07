@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Java Engineer](#java-engineer)
+* [Rails Engineer](#rails-engineer)
 * [Database Reporting Engineer](#database-reporting-engineer)
 * [Full-Stack .NET Engineer](#full-stack-net-engineer)
 * [JavaScript Developer](#javascript-developer)
@@ -37,6 +39,40 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Rails Engineer
+📚
+
+* BS in Computer Science or related discipline, or equivalent education plus work experience
+* Strong object-oriented programmer (e.g., Ruby, Python, Java) experience
+* 3+ years building Rails-based web applications
+* Experience developing RESTful web services
+* Grasp and enthusiasm for Agile/XP development practices (e.g. TDD, pair programming)
+* Knowledge of Javascript client-side application development (e.g. Ember, Backbone)
+* Excellent communication skills, both verbal and written
+
+### Nice to haves
+
+* Ember, Backbone, Redis, PostgreSQL, Coffeescript, jQuery, Sass, RSpec, Cucumber, HTML5, Linux/Unix familiarity
+
+
+## Java Engineer 
+📚
+
+* Strong experience with Spring
+* Experience with Hibernate, RDBMS design, query optimization
+* Experience with caching methods like Redis, memcached, EHCache
+* Experience with CI/CD tools like Jenkins, CircleCI, Travis CI etc., setting up pipelines and managing your build procs
+* Skilled in analysis and design for implementation, sizing, performance tuning, and scalability
+* Familiarity with Rails, Django or similar web app framework will be an added advantage
+
+### Preferred
+
+* Other keywords: Linux, Tomcat, Dropwizard, Github, Postgres, Ansible, Maven, Gradle...and more :-)
+* Focused written communication skills for subsystem planning and designs
+* Team spirit!  Making the effort and taking pride in helping others.  Supporting your work in production with our DevOps team.
+ * Able to listen and evaluate ideas and opinions without bias and contribute to a common culture of excellence!
 
 
 ## Database Reporting Engineer
