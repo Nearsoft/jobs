@@ -44,35 +44,45 @@ If an opening has caught your eye feel free to contact us at
 ## Rails Engineer
 📚
 
-* BS in Computer Science or related discipline, or equivalent education plus work experience
-* Strong object-oriented programmer (e.g., Ruby, Python, Java) experience
-* 3+ years building Rails-based web applications
-* Experience developing RESTful web services
-* Grasp and enthusiasm for Agile/XP development practices (e.g. TDD, pair programming)
-* Knowledge of Javascript client-side application development (e.g. Ember, Backbone)
+* B.S. in Computer Science or related discipline, or equivalent education plus work experience
+* Strong Object-oriented programmer (e.g. Ruby, Python, Java) experience
+* 3+ years building Rails-based Web applications
+* Experience developing RESTful Web services
+* Grasp and enthusiasm for Agile/XP development practices (e.g. TDD, Pair programming)
+* Knowledge of JavaScript client-side application development (e.g. Ember.js, Backbone.js)
 * Excellent communication skills, both verbal and written
 
-### Nice to haves
+### Nice to have
 
-* Ember, Backbone, Redis, PostgreSQL, Coffeescript, jQuery, Sass, RSpec, Cucumber, HTML5, Linux/Unix familiarity
+* Ember.js
+* Backbone.js
+* Redis
+* PostgreSQL
+* CoffeeScript
+* jQuery
+* Sass
+* RSpec
+* Cucumber
+* HTML5
+* Linux/Unix familiarity
 
 
-## Java Engineer 
+## Java Engineer
 📚
 
 * Strong experience with Spring
 * Experience with Hibernate, RDBMS design, query optimization
-* Experience with caching methods like Redis, memcached, EHCache
-* Experience with CI/CD tools like Jenkins, CircleCI, Travis CI etc., setting up pipelines and managing your build procs
+* Experience with caching methods like Redis, Memcached, Ehcache
+* Experience with CI/CD tools like Jenkins, CircleCI, Travis CI, etc. Setting up pipelines and managing your build process
 * Skilled in analysis and design for implementation, sizing, performance tuning, and scalability
 * Familiarity with Rails, Django or similar web app framework will be an added advantage
 
 ### Preferred
 
-* Other keywords: Linux, Tomcat, Dropwizard, Github, Postgres, Ansible, Maven, Gradle...and more :-)
+* Linux, Tomcat, Dropwizard, GitHub, PostgreSQL, Ansible, Maven, Gradle
 * Focused written communication skills for subsystem planning and designs
-* Team spirit!  Making the effort and taking pride in helping others.  Supporting your work in production with our DevOps team.
- * Able to listen and evaluate ideas and opinions without bias and contribute to a common culture of excellence!
+* Team spirit! Making the effort and taking pride in helping others. Supporting your work in production with our DevOps team
+* Able to listen and evaluate ideas and opinions without bias and contribute to a common culture of excellence
 
 
 ## Database Reporting Engineer

@@ -58,9 +58,11 @@
     "DevOps",
     "Django",
     "Dokku",
+    "Dropwizard",
     "DynamoDB",
     "EC2",
     "EFS",
+    "Ehcache",
     "ElastiCache",
     "Elasticsearch",
     "Ember.js",
@@ -76,6 +78,7 @@
     "FullStory",
     "GitFlow",
     "GitHub",
+    "Gradle",
     "Grafana",
     "Graphite",
     "GraphQL",
@@ -191,6 +194,7 @@
     "TestNG",
     "TeamCity",
     "TFS",
+    "Travis",
     "TypeScript",
     "UI",
     "UX",
@@ -207,6 +211,7 @@
     "Xcode",
     "xib",
     "XHTML",
+    "XP",
     "Zeplin"
   ]
 }
