@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
-* [Full stack developer](#full stack-developer)
+* [Fullstack developer](#fullstack-developer)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
 * [Database Reporting Engineer](#database-reporting-engineer)
@@ -43,7 +43,7 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## Full Stack Developer
+## Fullstack Developer
 📚
 
 ### Job Description
