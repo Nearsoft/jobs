@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+
+* [Full stack developer](#full stack-developer)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
 * [Database Reporting Engineer](#database-reporting-engineer)
@@ -39,6 +41,37 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Full Stack Developer
+📚
+
+### Job Description
+
+We are looking for an experienced full stack Angular/Rails developer to work on our digital platform. The ideal candidate needs to be able to hit the ground running in our fast-paced environment, and be comfortable to iterate quickly and
+push new code every day.
+
+### Responsibilities
+
+* Design, develop, test, deploy, maintain and improve software and processes
+* Write high quality, high-performing and well-tested code
+* Turn design requirements and prototypes into working applications
+* Design for and deploy to cloud infrastructure
+* Analyze and improve efficiency, stability, scalability and security
+* Work closely with the technology and design teams
+* 3+ years of work experience deploying Rails applications
+* 1+ years of work experience deploying AngularJS applications
+
+### Skills
+* Proficiency with Ruby/Rails, JavaScript/AngularJS/jQuery, HTML5, CSS/SASS, SQL/PSQL, AWS/Heroku, Git, Rake/Gulp/Grunt
+* Deep knowledge of OO, data modeling, design patterns, TDD/BDD, APIs, clean code and UX
+* Analysis, profiling and optimization techniques
+* Agile methodology
+* Excellent communication, collaboration and documentation
+* Highly motivated, adaptable and passionate learner with a strong work ethic
+* Worked on medium-to-large enterprise web applications
+* NoSQL, Big Data, iOS/Android
+* Open-source contributions, side projects, and participation in the tech community
 
 
 ## Rails Engineer
