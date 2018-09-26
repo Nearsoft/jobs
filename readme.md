@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [C# Engineer](#c#-engineer)
 * [Fullstack developer](#fullstack-developer)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
@@ -31,7 +32,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Software Test Engineer](#software-test-engineer)
 * [Python Engineer](#python-engineer)
 * [Senior Java Engineer](#senior-java-engineer)
-* [Manual Tester](#manual-tester)
 * [Product Designer](#product-designer)
 * [UX/UI Designer](#uxui-designer)
 * [UX/UI Intern](#uxui-intern)
@@ -41,6 +41,36 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## C# Engineer 
+📈
+
+As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber.
+Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
+
+### Responsibilities
+
+* Work with a team of software engineers delivering projects as the "go to person"
+* Develop & maintain customer facing Web products and Back End services
+* Writing unit tests and integration tests for max coverage
+* Improve the design of the code as the product evolves
+* Deploy and test code to ensure no defects
+* Build out RESTful APIs and consume third-party APIs
+* Work with business operations to turn requirements into technical solutions
+
+### Experience
+
+* 3+ years of professional experience using C# and .NET framework
+* 3+ years experience with WPF and Windows Forms
+* 2+ years basic knowledge of JavaScript frameworks like, React.js, or jQuery
+* HTML5 CSS, DOM traversal/manipulation, event capturing
+* Familiarity with Ajax, partial page updates, and async request handling
+* Experience working in an agile scrum development team
+* Excellent communicator, amazing at documentation
+* Knowledge of SQL Server is a plus
+* Knowledge of AWS Elastic Beanstalk is a plus
+* Work with some of the best and brightest in the WealthTech space, and enjoy these perks
 
 
 ## Fullstack Developer
@@ -393,32 +423,6 @@ This API is used by our own internal React.js websites as well as serving as the
 *	Excellent communication, organizational and problem-solving skills
 * Enjoy working in collaboration with a team, while also possessing a strong independent work ethic
 * Motivation to continuously improve their craft of software development while adhering to best practices and standards
-
-
-## Manual Tester
-📦
-
-### Responsibilities
-
-* Create detailed, comprehensive and well-structured test cases
-* Ability to follow, modify, and reuse test cases
-* Estimate, prioritize, plan and coordinate testing activities
-* Designing, developing and delivering automation scripts using open source tools
-* Identify, record, document thoroughly and track bugs
-* Perform thorough regression testing when bugs are resolved
-* Develop and apply testing processes for new and existing products to meet client needs
-* Liaise with internal teams (e.g. developers and product managers) to identify system requirements
-
-### Requirements
-
-* Proven work experience in software quality assurance
-* Strong knowledge of software QA methodologies, tools and processes
-* Experience in writing clear, concise and comprehensive test plans and test cases
-* Hands-on experience with black-box testing, white-box testing is a plus
-* Hands-on experience with automated testing tools
-* Solid knowledge of SQL
-* Experience working in an Agile/Scrum development process
-* Experience with performance and/or security testing is a plus
 
 
 ## Product Designer
