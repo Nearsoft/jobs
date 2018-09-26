@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
-* [C# Engineer](# c#-engineer)
+* [C# Engineer](#c#-engineer)
 * [Fullstack developer](#fullstack-developer)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
