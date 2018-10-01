@@ -15,9 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
-* [C# Engineer](#c#-engineer)
-* [Fullstack developer](#fullstack-developer)
+* [C# Engineer](#c-engineer)
+* [Full-Stack Engineer](#full-stack-engineer)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
 * [Database Reporting Engineer](#database-reporting-engineer)
@@ -43,10 +42,11 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## C# Engineer 
+## C# Engineer
 📈
 
-As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber.
+As a Senior C# Engineer, you will enhance our advisor technology using C#, HTML5, and CSS3.
+Embrace code quality by using modern testing tools like Cucumber.
 Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
 
 ### Responsibilities
@@ -73,18 +73,18 @@ Experience the power of the cloud while using Amazon Web Services (AWS) to build
 * Work with some of the best and brightest in the WealthTech space, and enjoy these perks
 
 
-## Fullstack Developer
+## Full-Stack Engineer
 📚
 
 ### Job Description
 
-We are looking for an experienced full stack Angular/Rails developer to work on our digital platform. The ideal candidate needs to be able to hit the ground running in our fast-paced environment, and be comfortable to iterate quickly and
-push new code every day.
+We are looking for an experienced Full-Stack Angular/Rails engineer to work on our digital platform.
+The ideal candidate needs to be able to hit the ground running in our fast-paced environment, and be comfortable to iterate quickly and push new code every day.
 
 ### Responsibilities
 
 * Design, develop, test, deploy, maintain and improve software and processes
-* Write high quality, high-performing and well-tested code
+* Write high quality, high-performing and well tested code
 * Turn design requirements and prototypes into working applications
 * Design for and deploy to cloud infrastructure
 * Analyze and improve efficiency, stability, scalability and security
@@ -93,8 +93,9 @@ push new code every day.
 * 1+ years of work experience deploying AngularJS applications
 
 ### Skills
-* Proficiency with Ruby/Rails, JavaScript/AngularJS/jQuery, HTML5, CSS/SASS, SQL/PSQL, AWS/Heroku, Git, Rake/Gulp/Grunt
-* Deep knowledge of OO, data modeling, design patterns, TDD/BDD, APIs, clean code and UX
+
+* Proficiency with Ruby/Rails, JavaScript/AngularJS/jQuery, HTML5, CSS/Sass, SQL/psql, AWS/Heroku, Git, Rake/Gulp/Grunt
+* Deep knowledge of object-orientation, data modeling, design patterns, TDD/BDD, APIs, clean code and UX
 * Analysis, profiling and optimization techniques
 * Agile methodology
 * Excellent communication, collaboration and documentation
