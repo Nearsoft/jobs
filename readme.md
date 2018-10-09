@@ -34,6 +34,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Product Designer](#product-designer)
 * [UX/UI Designer](#uxui-designer)
 * [UX/UI Intern](#uxui-intern)
+* [Marketing Intern](#marketing-intern)
 * [IT Recruiter](#it-recruiter)
 
 <!-- yaspeller ignore:end -->
@@ -643,6 +644,34 @@ Make sure to include a minimum of six screens per project or one complete user f
 Send your CV and portfolio to aquijada@nearsoft.com
 
 </details>
+
+### Marketing intern
+
+<details><summary>Read more</summary>
+
+🌵⚡️
+
+Join the Business Development team at Nearsoft and gain hands-on marketing experience. Nearsoft is a software development company. We help our clients grow their development teams and power up the user experience of their products. We are looking for a passionate and energetic marketing intern to join the Business Development team in a long-term engagement. 
+
+
+#### Your tasks as a Marketing intern may include
+
+Works closely with the marketing team on developing, implementing, and executing marketing initiatives and activities for the company,
+Designing and executing marketing campaigns 
+Collecting quantitative and qualitative data from marketing campaigns
+Performing market analysis and research on competition
+Assist in the creation, and distribution of content marketing strategy
+Support the marketing team build a pipeline for prospective clients
+
+#### Qualifications 
+
+Currently enrolled in a Bachelor’s degree, preferably Marketing, Business Administration or International Business. 
+Fluent in English (Writing and speaking)
+
+Send your CV to aquijada@nearsoft.com
+
+</details>
+
 
 ### IT Recruiter
 
