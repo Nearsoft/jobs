@@ -14,9 +14,9 @@
   "author": "Alejandro Beltrán",
   "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
   "devDependencies": {
-    "alex": "^5.1.0",
-    "remark-cli": "^4.0.0",
-    "remark-lint": "^6.0.1",
+    "alex": "^6.0.0",
+    "remark-cli": "^5.0.0",
+    "remark-lint": "^6.0.2",
     "yaspeller-ci": "^1.0.0"
   },
   "engines": {
