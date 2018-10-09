@@ -645,33 +645,33 @@ Send your CV and portfolio to aquijada@nearsoft.com
 
 </details>
 
-### Marketing intern
+### Marketing Intern
 
 <details><summary>Read more</summary>
 
 🌵⚡️
 
-Join the Business Development team at Nearsoft and gain hands-on marketing experience. Nearsoft is a software development company. We help our clients grow their development teams and power up the user experience of their products. We are looking for a passionate and energetic marketing intern to join the Business Development team in a long-term engagement. 
+Join the Business Development team at Nearsoft and gain hands-on marketing experience.
+Nearsoft is a software development company. We help our clients grow their development teams and power up the user experience of their products.
+We are looking for a passionate and energetic Marketing Intern to join the Business Development team in a long-term engagement.
 
+#### Your tasks as a Marketing Intern may include
 
-#### Your tasks as a Marketing intern may include
+* Work closely with the Marketing team on developing, implementing, and executing marketing initiatives and activities for the company
+* Designing and executing marketing campaigns
+* Collecting quantitative and qualitative data from marketing campaigns
+* Performing market analysis and research on competition
+* Assist in the creation, and distribution of content marketing strategy
+* Support the marketing team build a pipeline for prospective clients
 
-Works closely with the marketing team on developing, implementing, and executing marketing initiatives and activities for the company,
-Designing and executing marketing campaigns 
-Collecting quantitative and qualitative data from marketing campaigns
-Performing market analysis and research on competition
-Assist in the creation, and distribution of content marketing strategy
-Support the marketing team build a pipeline for prospective clients
+#### Qualifications
 
-#### Qualifications 
-
-Currently enrolled in a Bachelor’s degree, preferably Marketing, Business Administration or International Business. 
-Fluent in English (Writing and speaking)
+* Currently enrolled in a career in Marketing, Business Administration or International Business
+* Fluent in English (verbal and written)
 
 Send your CV to aquijada@nearsoft.com
 
 </details>
-
 
 ### IT Recruiter
 
