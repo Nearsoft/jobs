@@ -680,25 +680,28 @@ Send your CV to aquijada@nearsoft.com
 
 </details>
 
+### IT Recruiter 
+
+<details><summary>Read more</summary>
 
 🚀
 
-#### Must have
+### Must have
+2+ years experience as IT Recruiter
+Basic understanding of software development platforms and skills
+Customer service and time management skills
+Previous experience recruiting for Information Technology positions
+Excellent verbal and written communication skills, be articulate and have the ability to interact professionally with various levels of personnel, clients, and candidates
+Ability to develop and run recruiting strategies
+Skilled in the use of proactive sourcing strategies and direct sourcing methods utilizing tools such as job boards, social networking tools (LinkedIn Recruiter, etc.), and recruiting research tools
+Ability to interview job candidates effectively and assess candidates accurately
+Strong work ethic
+You have to be resilient and also willing to continuously learn with us
 
-* 2+ years experience as IT Recruiter
-* Basic understanding of software development platforms and skills
-* Customer service and time management skills
-* Previous experience recruiting for Information Technology positions
-* Excellent verbal and written communication skills, be articulate and have the ability to interact professionally with various levels of personnel, clients, and candidates
-* Ability to develop and run recruiting strategies
-* Skilled in the use of proactive sourcing strategies and direct sourcing methods utilizing tools such as job boards, social networking tools (LinkedIn Recruiter, etc.), and recruiting research tools
-* Ability to interview job candidates effectively and assess candidates accurately
-* Strong work ethic
-* You have to be resilient and also willing to continuously learn with us
-
-Send your CV to lbaray@nearsoft.com
+Send your CV and portfolio to labaray@nearsoft.com
 
 </details>
+
 
 ## Credit
 
