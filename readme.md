@@ -645,48 +645,49 @@ Send your CV and portfolio to aquijada@nearsoft.com
 
 </details>
 
-### Marketing intern
+### Marketing Intern
 
 <details><summary>Read more</summary>
 
 🌵⚡️
 
-Join the Business Development team at Nearsoft and gain hands-on marketing experience. Nearsoft is a software development company. We help our clients grow their development teams and power up the user experience of their products. We are looking for a passionate and energetic marketing intern to join the Business Development team in a long-term engagement. 
+Join the Business Development team at Nearsoft and gain hands-on marketing experience.
+Nearsoft is a software development company. We help our clients grow their development teams and power up the user experience of their products.
+We are looking for a passionate and energetic marketing intern to join the Business Development team in a long-term engagement.
 
-#### Your tasks as a Marketing intern may include
+#### Your tasks as a Marketing Intern may include
 
-* Works closely with the marketing team on developing, implementing, and executing marketing initiatives and activities for the company,
-* Designing and executing marketing campaigns 
+* Works closely with the marketing team on developing, implementing, and executing marketing initiatives and activities for the company
+* Designing and executing marketing campaigns
 * Collecting quantitative and qualitative data from marketing campaigns
 * Performing market analysis and research on competition
 * Assist in the creation, and distribution of content marketing strategy
 * Support the marketing team build a pipeline for prospective clients
 
-#### Qualifications 
+#### Qualifications
 
-* Currently enrolled in a Bachelor’s degree, preferably Marketing, Business Administration or International Business. 
-* Written, verbal and storytelling skills are outstanding and a natural communicator.
-* Experience with analytics and data analysis 
-* Fluent in English (Writing and speaking)
+* Currently enrolled in a career in Marketing, Business Administration or International Business
+* Written, verbal and storytelling skills are outstanding, fluent, and a natural communicator
+* Experience with analytics and data analysis
 
 #### Nice to have
 
-* Knowledge of Google Analytics 
+* Knowledge of Google Analytics
 * Familiarity with social media
-* Experience in creating and distributing content (blog post, youtube, social networks, etc.)
-* Know-how to design advertising campaign 
+* Experience in creating and distributing content (blog posts, YouTube, social networks, etc.)
+* Know how to design an advertising campaign
 
 Send your CV to aquijada@nearsoft.com
 
 </details>
 
-### IT Recruiter 
+### IT Recruiter
 
 <details><summary>Read more</summary>
 
 🚀
 
-### Must have
+#### Must have
 
 * 2+ years experience as IT Recruiter
 * Basic understanding of software development platforms and skills
@@ -699,19 +700,18 @@ Send your CV to aquijada@nearsoft.com
 * Strong work ethic
 * You have to be resilient and also willing to continuously learn with us
 
-### Nice to have
+#### Nice to have
 
-* A basic understanding of software development platforms and skills.
-* Ability to filter resumes based on job profiles.
-* Able to work under pressure and to independently handle multiple projects and deadlines.
-* Excellent interpersonal and persuasion skills and ability to influence others.
-* Excellent organizational, analytical, written and verbal communication skills, both in English and Spanish.
-* Customer service and time management skills.
+* A basic understanding of software development platforms and skills
+* Ability to filter resumes based on job profiles
+* Able to work under pressure and to independently handle multiple projects and deadlines
+* Excellent interpersonal and persuasion skills and ability to influence others
+* Excellent organizational, analytical, written and verbal communication skills, both in English and Spanish
+* Customer service and time management skills
 
-Send your CV and portfolio to labaray@nearsoft.com
+Send your CV to lbaray@nearsoft.com
 
 </details>
-
 
 ## Credit
 
