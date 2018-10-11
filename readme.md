@@ -655,26 +655,26 @@ Join the Business Development team at Nearsoft and gain hands-on marketing exper
 
 #### Your tasks as a Marketing intern may include
 
-Works closely with the marketing team on developing, implementing, and executing marketing initiatives and activities for the company,
-Designing and executing marketing campaigns 
-Collecting quantitative and qualitative data from marketing campaigns
-Performing market analysis and research on competition
-Assist in the creation, and distribution of content marketing strategy
-Support the marketing team build a pipeline for prospective clients
+* Works closely with the marketing team on developing, implementing, and executing marketing initiatives and activities for the company,
+* Designing and executing marketing campaigns 
+* Collecting quantitative and qualitative data from marketing campaigns
+* Performing market analysis and research on competition
+* Assist in the creation, and distribution of content marketing strategy
+* Support the marketing team build a pipeline for prospective clients
 
 #### Qualifications 
 
-Currently enrolled in a Bachelor’s degree, preferably Marketing, Business Administration or International Business. 
-Written, verbal and storytelling skills are outstanding and a natural communicator.
-Experience with analytics and data analysis 
-Fluent in English (Writing and speaking)
+* Currently enrolled in a Bachelor’s degree, preferably Marketing, Business Administration or International Business. 
+* Written, verbal and storytelling skills are outstanding and a natural communicator.
+* Experience with analytics and data analysis 
+* Fluent in English (Writing and speaking)
 
 #### Nice to have
 
-Knowledge of Google Analytics 
-Familiarity with social media
-Experience in creating and distributing content (blog post, youtube, social networks, etc.)
-Know-how to design advertising campaign 
+* Knowledge of Google Analytics 
+* Familiarity with social media
+* Experience in creating and distributing content (blog post, youtube, social networks, etc.)
+* Know-how to design advertising campaign 
 
 Send your CV to aquijada@nearsoft.com
 
@@ -687,16 +687,26 @@ Send your CV to aquijada@nearsoft.com
 🚀
 
 ### Must have
-2+ years experience as IT Recruiter
-Basic understanding of software development platforms and skills
-Customer service and time management skills
-Previous experience recruiting for Information Technology positions
-Excellent verbal and written communication skills, be articulate and have the ability to interact professionally with various levels of personnel, clients, and candidates
-Ability to develop and run recruiting strategies
-Skilled in the use of proactive sourcing strategies and direct sourcing methods utilizing tools such as job boards, social networking tools (LinkedIn Recruiter, etc.), and recruiting research tools
-Ability to interview job candidates effectively and assess candidates accurately
-Strong work ethic
-You have to be resilient and also willing to continuously learn with us
+
+* 2+ years experience as IT Recruiter
+* Basic understanding of software development platforms and skills
+* Customer service and time management skills
+* Previous experience recruiting for Information Technology positions
+* Excellent verbal and written communication skills, be articulate and have the ability to interact professionally with various levels of personnel, clients, and candidates
+* Ability to develop and run recruiting strategies
+* Skilled in the use of proactive sourcing strategies and direct sourcing methods utilizing tools such as job boards, social networking tools (LinkedIn Recruiter, etc.), and recruiting research tools
+* Ability to interview job candidates effectively and assess candidates accurately
+* Strong work ethic
+* You have to be resilient and also willing to continuously learn with us
+
+### Nice to have
+
+* A basic understanding of software development platforms and skills.
+* Ability to filter resumes based on job profiles.
+* Able to work under pressure and to independently handle multiple projects and deadlines.
+* Excellent interpersonal and persuasion skills and ability to influence others.
+* Excellent organizational, analytical, written and verbal communication skills, both in English and Spanish.
+* Customer service and time management skills.
 
 Send your CV and portfolio to labaray@nearsoft.com
 
