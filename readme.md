@@ -655,6 +655,8 @@ Join the Business Development team at Nearsoft and gain hands-on marketing exper
 Nearsoft is a software development company. We help our clients grow their development teams and power up the user experience of their products.
 We are looking for a passionate and energetic marketing intern to join the Business Development team in a long-term engagement.
 
+* Location: Hermosillo
+
 #### Your tasks as a Marketing Intern may include
 
 * Works closely with the marketing team on developing, implementing, and executing marketing initiatives and activities for the company
@@ -699,6 +701,7 @@ Send your CV to aquijada@nearsoft.com
 * Ability to interview job candidates effectively and assess candidates accurately
 * Strong work ethic
 * You have to be resilient and also willing to continuously learn with us
+* Location: Hermosillo
 
 #### Nice to have
 
