@@ -23,6 +23,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [iOS Engineer](#ios-engineer)
 * [SQL Engineer](#sql-engineer)
 * [Front End Engineer](#front-end-engineer)
+* [Front End Engineer 2](#front-end-engineer-2)
 * [Back End Engineer](#back-end-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 * [Senior Java Engineer](#senior-java-engineer)
@@ -295,6 +296,31 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 * Awareness of cross-browser compatibility issues and client-side performance considerations
 
 </details>
+
+
+### Front End Engineer 2 
+
+<details><summary>Read more</summary>
+  
+💸
+
+A frontend JavaScript who is excited about becoming a core and early member of a team. This role will accelerate our frontend development by building new and exciting features as we expand a platform that supports 150+ countries.
+
+## Web Frontend Specialist
+
+* Deep expertise and knowledge of the React ecosystem to create modular, reusable components
+* Experience with Redux for front-end state management
+* Clean CSS without heavy reliance on frameworks
+* Takes a pragmatic approach to test-driven development (unit tests, component tests, integration tests)
+* Can write clean code quickly
+* Experience with data visualization and/or interest in finance is a plus
+
+## Skills
+
+* React.js, Webpack, Redux. HTML/CSS/Javascript. Node.js
+
+</details>
+
 
 ### Back End Engineer
 
