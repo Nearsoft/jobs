@@ -19,17 +19,12 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
-* [Database Reporting Engineer](#database-reporting-engineer)
-* [Full-Stack .NET Engineer](#full-stack-net-engineer)
 * [JavaScript Engineer](#javascript-engineer)
 * [iOS Engineer](#ios-engineer)
 * [SQL Engineer](#sql-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
-* [Full-Stack JavaScript-Java Engineer](#full-stack-javascript-java-engineer)
-* [Software Test Engineer](#software-test-engineer)
-* [Python Engineer](#python-engineer)
 * [Senior Java Engineer](#senior-java-engineer)
 * [Product Designer](#product-designer)
 * [UX/UI Designer](#uxui-designer)
@@ -165,46 +160,6 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 
 </details>
 
-### Database Reporting Engineer
-
-<details><summary>Read more</summary>
-
-⛷
-
-#### Skills
-
-* MongoDB Aggregation framework
-* SQL Queries
-* Views
-* Stored Procedures
-* SQL Server Integration Services packages
-* CDATA tools optional but a plus
-* SQL Reporting is optional as well
-* JavaScript for the UI
-
-</details>
-
-### Full-Stack .NET Engineer
-
-<details><summary>Read more</summary>
-
-⛷
-
-#### Skills
-
-* C# and .NET ecosystem
-* Node.js 8
-* ES6
-* Inferno.js
-* Bootstrap
-* Express 4
-* MongoDB
-* jQuery, HTML and CSS
-* Great knowledge and experience in JavaScript
-* Experience with Git
-* Microservices architecture
-
-</details>
 
 ### JavaScript Engineer
 
@@ -389,70 +344,6 @@ This position will be responsible for defining, designing, and implementing comp
 
 </details>
 
-### Full-Stack JavaScript-Java Engineer
-
-<details><summary>Read more</summary>
-
-🌆
-
-* Core Java Development
-* JavaEE APIs
-* JavaBeans
-* Spring
-* JSP
-* JavaScript
-* SQL
-* PL-SQL
-* Web Services development
-
-</details>
-
-### Software Test Engineer
-
-<details><summary>Read more</summary>
-
-🍽
-
-* We build core services on the JVM using Java and Spring framework with Front End developed in AngularJS 4 and Typescript. Web Back Ends and simple middleware services are often made with Spring Boot API
-* Data is stored in PostgreSQL and in MS SQL Server. We run a Mesos cluster for large-scale, distributed applications
-
-#### About you
-
-* You want to be part of a cross-functional team. You're curious, passionate, and enjoy tackling hard problems. You love technology and enjoy finding better ways to do things. You want to share what you discover and feel energized when you can learn from people around you. When you build software, you consider how people will use it from all angles. You take pride in carefully honing your work until it feels reliable and effortless to use
-* You've been a QA Automation Engineer for at least 3 years, have made significant contributions to projects you've been a part of, and want to engineer at a global scale
-* 3 years of experience in automated testing of back end service and RESTful API
-* 3 years of experience in automation framework like BDD (Cucumber, Python/Java) and Selenium
-* Strong working knowledge in Java, Spring framework and JSON
-* 3 years of working experience with SQL databases like PostgreSQL
-* 2 years of working experience in Performance testing and its analysis of back end services and APIs
-* Ability to break down use cases into test cases and manage test suite
-* Working experience with Git and Jenkins/TeamCity is a plus
-
-</details>
-
-### Python Engineer
-
-<details><summary>Read more</summary>
-
-👛
-
-We're looking for Software Engineers to help us make our already awesome platform even better.
-You will join our Back End Development team building new features into our RESTful API written in Python 2.7.
-This API is used by our own internal React.js websites as well as serving as the primary interface for our customer's own integrations.
-
-#### Your skills
-
-* Software Developer (3 - 6 years preferred)
-* Critical thinking
-* Motivation to write and maintain quality code
-* Strong communication skills
-* Python, Django, MySQL, Git
-* Familiarity working on distributed applications
-* Familiarity with RESTful API design
-* e-Commerce experience
-* Experience working on SaaS products
-
-</details>
 
 ### Senior Java Engineer
 
