@@ -25,6 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Front End Engineer](#front-end-engineer)
 * [Front End Engineer 2](#front-end-engineer-2)
 * [Back End Engineer](#back-end-engineer)
+* [Back End Engineer 2](#back-end-engineer-2)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 * [Senior Java Engineer](#senior-java-engineer)
 * [Product Designer](#product-designer)
@@ -346,6 +347,28 @@ You will be involved in the planning of features at the beginning and own them t
 * You have at least 5 years of professional programming experience
 
 </details>
+
+
+### Back end Engineer 2
+
+<details><summary>Read more</summary>
+  
+💸
+
+A backend who is excited about becoming a core and early member of a team. This role will accelerate our backend development by building new and exciting features as we expand our platform to support 150+ countries.
+
+## Backend / API Specialist
+
+* Deep expertise in Postgres and Node.js
+* Can write quality, testable code that is easy to follow and modify
+* Needs to be comfortable with writing optimized SQL queries to fetch and write financial time-series data
+* Experience with managing a large amount of data. Our datasets are constantly updating
+* Can write flexible APIs with well-thought-out error handling
+* Experience with Docker and MongoDB is a plus, but not critical
+* Interest in finance is a plus
+
+</details>
+
 
 ### Senior Full-Stack Engineer
 
