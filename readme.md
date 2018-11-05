@@ -280,7 +280,7 @@ We build the front end components of our Web app and use established practices t
 We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
 Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript proficient and Full-Stack engineers.
 
-### Responsibilities
+#### Responsibilities
 
 * Collaborate with Product Managers to iterate on the design and implementation of our product
 * Build efficient and reusable front-end systems and abstractions
@@ -288,7 +288,7 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 * Participate in design and code reviews
 * Maintain high code coverage via unit tests and acceptance tests
 
-### Skills
+#### Skills
 
 * Strong knowledge of JavaScript
 * Experience with modern JavaScript libraries and tooling
@@ -299,26 +299,31 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 </details>
 
 
-### Front End Engineer 2 
+### Front End Engineer 2
 
 <details><summary>Read more</summary>
-  
+
 💸
 
-A frontend JavaScript who is excited about becoming a core and early member of a team. This role will accelerate our frontend development by building new and exciting features as we expand a platform that supports 150+ countries.
+A Front End JavaScript who is excited about becoming a core and early member of a team.
+This role will accelerate our Front End development by building new and exciting features as we expand a platform that supports 150+ countries.
 
-## Web Frontend Specialist
+#### Web Front End Specialist
 
-* Deep expertise and knowledge of the React ecosystem to create modular, reusable components
+* Deep expertise and knowledge of the React.js ecosystem to create modular, reusable components
 * Experience with Redux for front-end state management
 * Clean CSS without heavy reliance on frameworks
 * Takes a pragmatic approach to test-driven development (unit tests, component tests, integration tests)
 * Can write clean code quickly
 * Experience with data visualization and/or interest in finance is a plus
 
-## Skills
+#### Skills
 
-* React.js, Webpack, Redux. HTML/CSS/Javascript. Node.js
+* React.js
+* Webpack
+* Redux
+* HTML/CSS/Javascript
+* Node.js
 
 </details>
 
@@ -352,17 +357,18 @@ You will be involved in the planning of features at the beginning and own them t
 ### Back end Engineer 2
 
 <details><summary>Read more</summary>
-  
+
 💸
 
-A backend who is excited about becoming a core and early member of a team. This role will accelerate our backend development by building new and exciting features as we expand our platform to support 150+ countries.
+A Back End who is excited about becoming a core and early member of a team.
+This role will accelerate our Back End development by building new and exciting features as we expand our platform to support 150+ countries.
 
-## Backend / API Specialist
+#### Back End / API Specialist
 
-* Deep expertise in Postgres and Node.js
+* Deep expertise in PostgreSQL and Node.js
 * Can write quality, testable code that is easy to follow and modify
 * Needs to be comfortable with writing optimized SQL queries to fetch and write financial time-series data
-* Experience with managing a large amount of data. Our datasets are constantly updating
+* Experience with managing a large amount of data. Our data sets are constantly updating
 * Can write flexible APIs with well-thought-out error handling
 * Experience with Docker and MongoDB is a plus, but not critical
 * Interest in finance is a plus
