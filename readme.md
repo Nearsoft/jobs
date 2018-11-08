@@ -19,7 +19,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
-* [JavaScript Engineer](#javascript-engineer)
 * [iOS Engineer](#ios-engineer)
 * [SQL Engineer](#sql-engineer)
 * [Front End Engineer](#front-end-engineer)
@@ -159,44 +158,6 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 </details>
 
 
-### JavaScript Engineer
-
-<details><summary>Read more</summary>
-
-🐴
-
-We have a vision to build relationships that drive partnerships with 20 Fortune 500 companies and train 200,000 designers and engineers by 2020.
-How are we going to do it? It's all our people – we only hire the best.
-We are passionate about writing code that is understandable and efficient, and teaching others to do the same.
-We then live through our values. We are a community of nerds who are brilliant and curious, hard-working and accountable, kind and authentic.
-
-Sound appealing? Learn more about us.
-
-#### As a JavaScript Engineer, you will...
-
-* Deliver best-in-class front-end solutions for clients using JavaScript frameworks
-* Write stories (use cases, technical and functional requirements), tests and code
-* Help guide clients towards effective solutions that balance technical requirements and business needs
-* Participate in tech sales by providing estimates, risks, assumptions, requirements for future opportunities and participating in sales meetings
-* Attend development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients
-* Inspire peers, future clients, our students, and the community at large by writing, speaking, screencasting, contributing to open source software, and demonstrating our collective expertise and experience
-
-#### As a candidate, you...
-
-* Possess strong JavaScript development and debugging skills with a deep understanding of the language behavior in Front End and Back End contexts
-* Are proficient in a JavaScript UI framework (e.g., React.js, Vue.js, or AngularJS) as well as supplemental libraries for testing, routing, data management, API communication, authentication, bundling, and deployment
-* Take ownership of tasks to raise questions and risks early, find creative solutions, and bring them to completion
-* Have a passion for mentoring others and have the ability to communicate with a wide range of people
-
-#### You might also...
-
-* Have created APIs that conform to the JSON API spec or GraphQL query language
-* Enjoy translating UI/UX wireframes into clean and efficient Sass/CSS
-* Have interest in mobile development (e.g. Swift/iOS, Kotlin/Android, or React Native)
-* Have interest in creating server-side apps or development tools with Node.js
-
-</details>
-
 ### iOS Engineer
 
 <details><summary>Read more</summary>
@@ -256,7 +217,7 @@ Sound appealing? Learn more about us.
 * Strong SQL experience
 * Strong relational database experience
 * Strong verbal and written communication skills
-* AWS experience
+* C# experience
 
 #### Desired Skills
 
