@@ -20,13 +20,11 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
 * [iOS Engineer](#ios-engineer)
-* [SQL Engineer](#sql-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Front End Engineer 2](#front-end-engineer-2)
 * [Back End Engineer](#back-end-engineer)
 * [Back End Engineer 2](#back-end-engineer-2)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
-* [Senior Java Engineer](#senior-java-engineer)
 * [IT Recruiter](#it-recruiter)
 
 <!-- yaspeller ignore:end -->
@@ -197,34 +195,6 @@ Sound appealing? Learn more about us.
 
 </details>
 
-### SQL Engineer
-
-<details><summary>Read more</summary>
-
-⭐️
-
-#### Responsibilities
-
-* Create ETL process to extract data from relational database (SQL Server primarily)
-* Load and transform data into Vertica
-* Develop process to extract change records from source systems
-* Experience working with and parsing JSON and XML
-
-#### Required Skills
-
-* Strong ETL experience
-* Strong SQL experience
-* Strong relational database experience
-* Strong verbal and written communication skills
-* C# experience
-
-#### Desired Skills
-
-* SQL Server T-SQL
-* SQL Server Integration Services
-* Vertica/PostgreSQL
-
-</details>
 
 ### Front End Engineer
 
@@ -352,43 +322,6 @@ This position will be responsible for defining, designing, and implementing comp
 * Experience working with Relational Database Management Systems such as PostgreSQL
 * Experience in building modern distributed applications using a microservices framework
 * Broad experience with various UI architectures with the skills to extend a framework beyond what's provided out of the box
-
-</details>
-
-
-### Senior Java Engineer
-
-<details><summary>Read more</summary>
-
-📦
-
-* Be a trusted advisor: Understand and effectively communicate Java features and limitations in the context of design and development
-* Help manage the design and development process, drive decisions, and coordinate efforts with teammates
-* Designs are following compliance specifications and design and conduct tests
-* New applications that serve existing software systems and further develop current software
-* Support users by developing documentation and assistance tools
-* Support continuous improvement by investigating alternatives and new technologies and presenting these for architectural review
-
-#### What we're looking for
-
-* 5+ years of experience with Core Java
-* Recent Java 8 experience
-* JUnit (unit testing)
-* 5+ years of experience with SQL and NoSQL databases
-* MySQL
-* DynamoDB
-* MongoDB (a plus)
-* 3+ years of experience with Spring frameworks
-* 3+ years of experience with Hibernate
-* Experience with AWS services
-* Experience working with an MVC architecture
-* Has experience working with Agile teams (SCRUM)
-* Ability to come up with accurate development estimates based on high-level business and/or technical requirements
-* Object oriented analysis and design using common design patterns
-* Understanding of established software development life cycles
-* Excellent communication, organizational and problem-solving skills
-* Enjoy working in collaboration with a team, while also possessing a strong independent work ethic
-* Motivation to continuously improve their craft of software development while adhering to best practices and standards
 
 </details>
 
