@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [C# Engineer](#c-engineer)
+* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
@@ -34,40 +34,38 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
-### C# Engineer
+
+### Ruby on Rails Engineer 
 
 <details><summary>Read more</summary>
+  
+✍🏼
 
-📈
+The Role We’re looking for a senior backend ruby developer to join our growing experienced and talented technology team. The development team is responsible for all the vital backend infrastructure for our web application.
+We develop in Ruby on Rails, so having demonstrable senior experiences of this is essential. You should be capable of working on all aspects of the software development cycle from architecture, coding and testing through to deployment.
 
-As a Senior C# Engineer, you will enhance our advisor technology using C#, HTML5, and CSS3.
-Embrace code quality by using modern testing tools like Cucumber.
-Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
+## Development team
 
-#### Responsibilities
+* We're a distributed team of experienced developers
+* We love Ruby
+* We know how to cook a Rails monolith in the right way
+* We do care about the project, about the code quality and about our customers
+* We use code reviews (reviewing each other)
+* We have Code to Test Ratio: 1:1.1
 
-* Work with a team of software engineers delivering projects as the "go to person"
-* Develop & maintain customer facing Web products and Back End services
-* Writing unit tests and integration tests for max coverage
-* Improve the design of the code as the product evolves
-* Deploy and test code to ensure no defects
-* Build out RESTful APIs and consume third-party APIs
-* Work with business operations to turn requirements into technical solutions
+## Required skills
 
-#### Experience
-
-* 3+ years of professional experience using C# and .NET framework
-* 3+ years experience with WPF and Windows Forms
-* 2+ years basic knowledge of JavaScript frameworks like, React.js, or jQuery
-* HTML5 CSS, DOM traversal/manipulation, event capturing
-* Familiarity with Ajax, partial page updates, and async request handling
-* Experience working in an agile scrum development team
-* Excellent communicator, amazing at documentation
-* Knowledge of SQL Server is a plus
-* Knowledge of AWS Elastic Beanstalk is a plus
-* Work with some of the best and brightest in the WealthTech space, and enjoy these perks
+* Loves Ruby
+* Strong Rails knowledge, a good understanding of reliable design for big Rails projects
+* Confident with SQL (PostgreSQL in particular)
+* Clean code with an understanding of code smells and refactoring
+* Test-driven development - “Test Obsessed”
+* Understanding of front-end development (HTML/HAML/SASS/JS). However, no knowledge of frameworks required.
+* Experience of delivering large development projects
+* Tangible contribution to the open-source community or trackable record of public talks
 
 </details>
+
 
 ### Full-Stack Engineer
 
@@ -104,6 +102,7 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 * Open-source contributions, side projects, and participation in the tech community
 
 </details>
+
 
 ### Rails Engineer
 
