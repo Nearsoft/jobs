@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Software Engineer in Test](#software-engineer-in-test)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Java Engineer](#java-engineer)
@@ -33,7 +34,46 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-### Ruby on Rails Engineer 
+## Software Engineer in Test
+
+<details><summary>Read more</summary>
+  
+  ✈️
+
+The QA Automation Engineer will be a member of QA team that is responsible for creating reusable test software aimed to improve functional test coverage, schedule efficiency and reduce manual test dependency. The person filling this position will be recognized as a key individual contributor with technical focus on providing QA automation solutions and functional QA support. Solid software engineering background and previous test automation experience is must.
+
+QA Automation Engineer will work with our Software Quality Assurance & Development teams to design, develop and execute system test solutions. 
+
+### Key Responsibilities
+
+* API, Functional and GUI test automation using open source QA automation framework as Selenium. 
+* Execute, maintain and extend automated test coverage using Selenium.
+* Maintain test suite, specifications, reports etc using test management tools like TestLink, QATraq, TargetProcess or XStudio.
+* Define and track quality assurance metrics such as defect densities and open defect counts.
+* Communicate information effectively cross-functionally. 
+* Provide QA support to internal customers as necessary. 
+* Collaborate with our Engineering teams on best practices, process changes and standards as part of continuous process improvement. 
+
+### About You 
+
+* Minimum 4 years of hands on experience in QA automation for unit, TestNG, functional, Web UI and performance testing for complex client server or high volume web applications.
+* 2 years coding experience in Java as a developer or test developer. Working knowledge of JSP, Servlets, Spring, MVC and Java enterprise applications.
+* Minimum 2 years of hands on experience with Selenium.
+* 2 years of experience in at least one of the API/Unit test automation frameworks. viz. jUnit, TestNG, HTTPUnit, HTMLUnit, Mocking frameworks - easyMock or jMockIt
+* 2 years of experience in one of the test and Project management tools like - TargetProcess, TestLink, STAF, qaTraq.
+* Proficient in QA methodologies, and various stages of software quality assurance including Black Box/White Box/Gray box, configuration, performance testing, requirements analysis, test planning, reporting/control and root cause analysis.
+* Test automation development experience, both functional automation and performance automation, using open source tools or java based homegrown tools is strongly preferred.
+* Must have implemented maintainable automation frameworks and test suites using Selenium.
+* Good understanding of SQL, HTML, CSS, JS, Spring, Hibernate, XML, HTTP protocol, Shell scripting, debugging tools like firebug, charles, IE Developer tools and code profiling tools like jProfiler.
+* Experienced in using various bug tracking, source control and build release tools, like JIRA, SVN, GIT, ANT, Hudson, Jenkins, TargetProcess, etc..
+* Organized and process oriented individual with ability to maintain excellent process/testing/build release documentation and reports.
+* Previous experience with Hudson/Jenkins is preferred but not required.
+* Ability to adapt and willingness to learn new technology or techniques.
+
+</details>
+
+
+## Ruby on Rails Engineer 
 
 <details><summary>Read more</summary>
   
@@ -42,7 +82,7 @@ If an opening has caught your eye feel free to contact us at
 The Role We’re looking for a senior backend ruby developer to join our growing experienced and talented technology team. The development team is responsible for all the vital backend infrastructure for our web application.
 We develop in Ruby on Rails, so having demonstrable senior experiences of this is essential. You should be capable of working on all aspects of the software development cycle from architecture, coding and testing through to deployment.
 
-## Development team
+### Development team
 
 * We're a distributed team of experienced developers
 * We love Ruby
@@ -51,7 +91,7 @@ We develop in Ruby on Rails, so having demonstrable senior experiences of this i
 * We use code reviews (reviewing each other)
 * We have Code to Test Ratio: 1:1.1
 
-## Required skills
+### Required skills
 
 * Loves Ruby
 * Strong Rails knowledge, a good understanding of reliable design for big Rails projects
@@ -65,13 +105,13 @@ We develop in Ruby on Rails, so having demonstrable senior experiences of this i
 </details>
 
 
-### Full-Stack Engineer
+## Full-Stack Engineer
 
 <details><summary>Read more</summary>
 
 📚
 
-#### Job Description
+### Job Description
 
 We are looking for an experienced Full-Stack Angular/Rails engineer to work on our digital platform.
 The ideal candidate needs to be able to hit the ground running in our fast-paced environment, and be comfortable to iterate quickly and push new code every day.
@@ -87,7 +127,7 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 * 3+ years of work experience deploying Rails applications
 * 1+ years of work experience deploying AngularJS applications
 
-#### Skills
+### Skills
 
 * Proficiency with Ruby/Rails, JavaScript/AngularJS/jQuery, HTML5, CSS/Sass, SQL/psql, AWS/Heroku, Git, Rake/Gulp/Grunt
 * Deep knowledge of object-orientation, data modeling, design patterns, TDD/BDD, APIs, clean code and UX
