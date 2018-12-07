@@ -142,7 +142,7 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 </details>
 
 
-### Rails Engineer
+## Rails Engineer
 
 <details><summary>Read more</summary>
 
@@ -156,7 +156,7 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 * Knowledge of JavaScript client-side application development (e.g. Ember.js, Backbone.js)
 * Excellent communication skills, both verbal and written
 
-#### Nice to have
+### Nice to have
 
 * Ember.js
 * Backbone.js
@@ -172,7 +172,7 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 
 </details>
 
-### Java Engineer
+## Java Engineer
 
 <details><summary>Read more</summary>
 
@@ -185,7 +185,7 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 * Skilled in analysis and design for implementation, sizing, performance tuning, and scalability
 * Familiarity with Rails, Django or similar web app framework will be an added advantage
 
-#### Preferred
+### Preferred
 
 * Linux, Tomcat, Dropwizard, GitHub, PostgreSQL, Ansible, Maven, Gradle
 * Focused written communication skills for subsystem planning and designs
@@ -195,7 +195,7 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 </details>
 
 
-### iOS Engineer
+## iOS Engineer
 
 <details><summary>Read more</summary>
 
@@ -208,7 +208,7 @@ We are a community of Nerds who are brilliant and curious, hard-working and acco
 
 Sound appealing? Learn more about us.
 
-#### As an Engineer, you will...
+### As an Engineer, you will...
 
 * Develop applications for our project and our clients
 * Code-review your teammates
@@ -217,7 +217,7 @@ Sound appealing? Learn more about us.
 * Attend development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients
 * Inspire peers, future clients, our students, and the community at large by writing, speaking, contributing to open source software, and demonstrating our collective expertise and experience
 
-#### As a candidate, you...
+### As a candidate, you...
 
 * You know the core aspects of iOS development including architecture, design, configuration, the Xcode environment, Objective-C and Swift
 * You have a solid knowledge of multi-threaded programming and UI concepts
@@ -225,7 +225,7 @@ Sound appealing? Learn more about us.
 * You have excellent written and verbal communication skills
 * You're friendly; strong interpersonal skills are key for success
 
-#### You might also...
+### You might also...
 
 * Have created APIs that conform to the JSON API spec
 * Have interest in web development (e.g. React.js, Ruby on Rails, etc.)
@@ -236,7 +236,7 @@ Sound appealing? Learn more about us.
 </details>
 
 
-### Front End Engineer
+## Front End Engineer
 
 <details><summary>Read more</summary>
 
@@ -246,7 +246,7 @@ We build the front end components of our Web app and use established practices t
 We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
 Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript proficient and Full-Stack engineers.
 
-#### Responsibilities
+### Responsibilities
 
 * Collaborate with Product Managers to iterate on the design and implementation of our product
 * Build efficient and reusable front-end systems and abstractions
@@ -254,7 +254,7 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 * Participate in design and code reviews
 * Maintain high code coverage via unit tests and acceptance tests
 
-#### Skills
+### Skills
 
 * Strong knowledge of JavaScript
 * Experience with modern JavaScript libraries and tooling
@@ -265,7 +265,7 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 </details>
 
 
-### Front End Engineer 2
+## Front End Engineer 2
 
 <details><summary>Read more</summary>
 
@@ -274,7 +274,7 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 A Front End JavaScript who is excited about becoming a core and early member of a team.
 This role will accelerate our Front End development by building new and exciting features as we expand a platform that supports 150+ countries.
 
-#### Web Front End Specialist
+### Web Front End Specialist
 
 * Deep expertise and knowledge of the React.js ecosystem to create modular, reusable components
 * Experience with Redux for front-end state management
@@ -283,7 +283,7 @@ This role will accelerate our Front End development by building new and exciting
 * Can write clean code quickly
 * Experience with data visualization and/or interest in finance is a plus
 
-#### Skills
+### Skills
 
 * React.js
 * Webpack
@@ -294,7 +294,7 @@ This role will accelerate our Front End development by building new and exciting
 </details>
 
 
-### Back End Engineer
+## Back End Engineer
 
 <details><summary>Read more</summary>
 
@@ -307,7 +307,7 @@ As our business continues its rapid growth, you will help ensure our software is
 You will help design APIs and architecture that your colleagues will be delighted to use.
 You will be involved in the planning of features at the beginning and own them through deployment and monitoring.
 
-#### About You
+### About You
 
 * You are passionate about your craft and want to be surrounded by like-minded individuals
 * You like to ship software early and often
@@ -320,7 +320,7 @@ You will be involved in the planning of features at the beginning and own them t
 </details>
 
 
-### Back end Engineer 2
+## Back end Engineer 2
 
 <details><summary>Read more</summary>
 
@@ -329,7 +329,7 @@ You will be involved in the planning of features at the beginning and own them t
 A Back End who is excited about becoming a core and early member of a team.
 This role will accelerate our Back End development by building new and exciting features as we expand our platform to support 150+ countries.
 
-#### Back End / API Specialist
+### Back End / API Specialist
 
 * Deep expertise in PostgreSQL and Node.js
 * Can write quality, testable code that is easy to follow and modify
@@ -342,7 +342,7 @@ This role will accelerate our Back End development by building new and exciting 
 </details>
 
 
-### Senior Full-Stack Engineer
+## Senior Full-Stack Engineer
 
 <details><summary>Read more</summary>
 
@@ -350,7 +350,7 @@ This role will accelerate our Back End development by building new and exciting 
 
 This position will be responsible for defining, designing, and implementing complex, multi-tier distributed software systems throughout all phases of the software development life-cycle while providing technical oversight and guidance to team members.
 
-#### Skills
+### Skills
 
 * Develop clear, well-communicated, thoroughly tested, complete code for complex product features or sub-systems
 * Advanced understanding of object-oriented design methodology and application development in Java, Spring and Spring Boot
@@ -366,13 +366,13 @@ This position will be responsible for defining, designing, and implementing comp
 </details>
 
 
-### IT Recruiter
+## IT Recruiter
 
 <details><summary>Read more</summary>
 
 🚀
 
-#### Must have
+### Must have
 
 * 2+ years experience as IT Recruiter
 * Basic understanding of software development platforms and skills
@@ -386,7 +386,7 @@ This position will be responsible for defining, designing, and implementing comp
 * You have to be resilient and also willing to continuously learn with us
 * Location: Hermosillo
 
-#### Nice to have
+### Nice to have
 
 * A basic understanding of software development platforms and skills
 * Ability to filter resumes based on job profiles
