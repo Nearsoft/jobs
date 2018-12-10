@@ -37,50 +37,54 @@ If an opening has caught your eye feel free to contact us at
 ## Software Engineer in Test
 
 <details><summary>Read more</summary>
-  
-  ✈️
 
-The QA Automation Engineer will be a member of QA team that is responsible for creating reusable test software aimed to improve functional test coverage, schedule efficiency and reduce manual test dependency. The person filling this position will be recognized as a key individual contributor with technical focus on providing QA automation solutions and functional QA support. Solid software engineering background and previous test automation experience is must.
+✈️
 
-QA Automation Engineer will work with our Software Quality Assurance & Development teams to design, develop and execute system test solutions. 
+The QA Automation Engineer will be a member of QA team that is responsible for creating reusable test software aimed to improve functional test coverage, schedule efficiency and reduce manual test dependency.
+The person filling this position will be recognized as a key individual contributor with technical focus on providing QA automation solutions and functional QA support.
+Solid software engineering background and previous test automation experience is must.
+
+QA Automation Engineer will work with our Software Quality Assurance & Development teams to design, develop and run system test solutions.
 
 ### Key Responsibilities
 
-* API, Functional and GUI test automation using open source QA automation framework as Selenium. 
-* Execute, maintain and extend automated test coverage using Selenium.
-* Maintain test suite, specifications, reports etc using test management tools like TestLink, QATraq, TargetProcess or XStudio.
-* Define and track quality assurance metrics such as defect densities and open defect counts.
-* Communicate information effectively cross-functionally. 
-* Provide QA support to internal customers as necessary. 
-* Collaborate with our Engineering teams on best practices, process changes and standards as part of continuous process improvement. 
+* API, Functional and GUI test automation using open source QA automation framework as Selenium
+* Run, maintain and extend automated test coverage using Selenium
+* Maintain test suite, specifications, reports etc using test management tools like TestLink, QaTraq, TargetProcess or XStudio
+* Define and track quality assurance metrics such as defect densities and open defect counts
+* Communicate information effectively cross-functionally
+* Provide QA support to internal customers as necessary
+* Collaborate with our Engineering teams on best practices, process changes and standards as part of continuous process improvement
 
-### About You 
+### About You
 
-* Minimum 4 years of hands on experience in QA automation for unit, TestNG, functional, Web UI and performance testing for complex client server or high volume web applications.
-* 2 years coding experience in Java as a developer or test developer. Working knowledge of JSP, Servlets, Spring, MVC and Java enterprise applications.
-* Minimum 2 years of hands on experience with Selenium.
-* 2 years of experience in at least one of the API/Unit test automation frameworks. viz. jUnit, TestNG, HTTPUnit, HTMLUnit, Mocking frameworks - easyMock or jMockIt
-* 2 years of experience in one of the test and Project management tools like - TargetProcess, TestLink, STAF, qaTraq.
-* Proficient in QA methodologies, and various stages of software quality assurance including Black Box/White Box/Gray box, configuration, performance testing, requirements analysis, test planning, reporting/control and root cause analysis.
-* Test automation development experience, both functional automation and performance automation, using open source tools or java based homegrown tools is strongly preferred.
-* Must have implemented maintainable automation frameworks and test suites using Selenium.
-* Good understanding of SQL, HTML, CSS, JS, Spring, Hibernate, XML, HTTP protocol, Shell scripting, debugging tools like firebug, charles, IE Developer tools and code profiling tools like jProfiler.
-* Experienced in using various bug tracking, source control and build release tools, like JIRA, SVN, GIT, ANT, Hudson, Jenkins, TargetProcess, etc..
-* Organized and process oriented individual with ability to maintain excellent process/testing/build release documentation and reports.
-* Previous experience with Hudson/Jenkins is preferred but not required.
-* Ability to adapt and willingness to learn new technology or techniques.
+* Minimum 4 years of hands on experience in QA automation for unit, TestNG, functional, Web UI and performance testing for complex client server or high volume web applications
+* 2 years coding experience in Java as a developer or test developer. Working knowledge of JSP, Servlets, Spring, MVC and Java enterprise applications
+* Minimum 2 years of hands on experience with Selenium
+* 2 years of experience in at least one of the API/Unit test automation frameworks. viz. JUnit, TestNG, HttpUnit, HtmlUnit, Mocking frameworks - EasyMock or JMockit
+* 2 years of experience in one of the test and Project management tools like - TargetProcess, TestLink, STAF, QaTraq
+* Proficient in QA methodologies, and various stages of software quality assurance including black-box/white-box/gray-box, configuration, performance testing, requirements analysis, test planning, reporting/control and root cause analysis
+* Test automation development experience, both functional automation and performance automation, using open source tools or Java-based home-grown tools is strongly preferred
+* Must have implemented maintainable automation frameworks and test suites using Selenium
+* Good understanding of SQL, HTML, CSS, JavaScript, Spring, Hibernate, XML, HTTP, Shell scripting, debugging tools like Firebug, Charles, IE Developer tools and code profiling tools like JProfiler
+* Experienced in using various bug tracking, source control and build release tools, like JIRA, SVN, Git, Ant, Hudson, Jenkins, TargetProcess, etc.
+* Organized and process oriented individual with ability to maintain excellent process/testing/build release documentation and reports
+* Previous experience with Hudson/Jenkins is preferred but not required
+* Ability to adapt and willingness to learn new technology or techniques
 
 </details>
 
 
-## Ruby on Rails Engineer 
+## Ruby on Rails Engineer
 
 <details><summary>Read more</summary>
-  
-✍🏼
 
-The Role We’re looking for a senior backend ruby developer to join our growing experienced and talented technology team. The development team is responsible for all the vital backend infrastructure for our web application.
-We develop in Ruby on Rails, so having demonstrable senior experiences of this is essential. You should be capable of working on all aspects of the software development cycle from architecture, coding and testing through to deployment.
+✍
+
+The role we're looking for is a Senior Back End Ruby Developer to join our growing experienced and talented technology team.
+The development team is responsible for all the vital back end infrastructure for our web application.
+We develop in Ruby on Rails, so having demonstrable senior experiences of this is essential.
+You should be capable of working on all aspects of the software development cycle from architecture, coding and testing through to deployment.
 
 ### Development team
 
@@ -97,8 +101,8 @@ We develop in Ruby on Rails, so having demonstrable senior experiences of this i
 * Strong Rails knowledge, a good understanding of reliable design for big Rails projects
 * Confident with SQL (PostgreSQL in particular)
 * Clean code with an understanding of code smells and refactoring
-* Test-driven development - “Test Obsessed”
-* Understanding of front-end development (HTML/HAML/SASS/JS). However, no knowledge of frameworks required.
+* Test-driven development - "Test Obsessed"
+* Understanding of Front-end development (HTML/Haml/Sass/JavaScript). However, no knowledge of frameworks required
 * Experience of delivering large development projects
 * Tangible contribution to the open-source community or trackable record of public talks
 
