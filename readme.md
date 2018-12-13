@@ -15,6 +15,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+
+* [Full stack Software Engineer](#full-stack-software-engineer)
+* [Automation Engineer](#automation-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
@@ -32,6 +35,91 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Full stack Software Engineer 
+
+<details><summary>Read more</summary>
+  
+  👓
+  
+  The challenges include processing complex documents and empowering enterprises by extracting, transforming and managing large volumes of data. As we grow our team, we are looking for someone that can broaden our expertise in building secure and scalable systems.
+
+## Responsibilities
+
+* Collaborate with cross functional teams to understand scope and use cases for product features and deliver products that are well tested.
+* Support the release planning by understanding the details (effort, risk, priority) of the planned features.
+* Ship clean, reusable code in extensible and robustly-tested components.
+* Perform peer code reviews as part of everyday workflow.
+* Keep on top of task and bug management system for assigned issues each sprint as well as estimating and assessing priority
+* Troubleshooting production issues and implementing resilient fixes to prevent future issues
+
+## Qualifications
+
+* 5+ years of professional experience building web and backend applications.
+* Experience with Python
+* Ability to write understandable, testable, and secure code with an eye towards maintainability.
+* Strong computer science fundamentals: data structures, algorithms, and distributed systems.
+* Capable of wearing multiple hats and take pride in getting stuff done.
+* Ability to collaborate closely with ML, Product, Design, and QA to spec, build, test and deploy new features with high quality.
+* Bachelor’s degree in Computer Science or related field, or equivalent training or work experience.
+* Ability to work in fast paced environment with a strong sense of empathy for fellow teammates.
+
+## Good to have
+
+* Some experience with front end technologies -  JavaScript, CSS, Angular, etc
+* Experience with AWS services and technologies
+* Experience in a SaaS environment that has an Agile development process is a huge plus
+
+## Skills & Tools
+
+* Python, JavaScript (Angular, Backbone), Database & SQL (PostgreSQL)
+* Amazon Web Services (AWS), Django framework, REST API
+* Jenkins, Test case management tool (TestRail), JIRA
+
+</details>
+
+
+## Automation Engineer 
+
+<details><summary>Read more</summary>
+  
+  👓
+  
+  We are looking for developers who are adept at building systems and environments to test software and make it more secure, scalable and reliable. Responsibilities include expanding our automated testing and deployment framework while designing and implementing functional, system and performance tests.
+  
+### Responsibilities 
+
+* Cross Functional teams collaboration to understand scope and use cases for product features and deliver products that are well tested.
+* Maintain & improve existing automated test scripts, and continue to expand our test coverage.
+* Responsible for functional and system testing of our products.
+* Design test plans, test matrix and test cases for enterprise-level AI web applications, and be the key product quality gate keeper of our releases.
+* Maintain and expand regression, acceptance test scenarios
+* Troubleshoot and debug automation failures
+* Diagnose problems to report detailed bugs in JIRA, and own test reports (ie. bug trends, release test report, etc.)
+
+### Qualifications
+
+* 5+ years software industry experience
+* 3+ years experience in Software Test Engineering and Automation
+* Familiarity with Selenium and Jenkins
+* Familiarity with Object Oriented Programming using Python
+* Hands-on experience working with relational databases (PostgreSQL).
+* Experience testing software at REST API level.
+
+### Good to have
+
+* Experience with AWS services and technologies
+* Experience with Atlassian products like Jira
+* Experience in a SaaS environment that has an Agile development process is a huge plus
+
+### Skills & Tools
+
+* Python, JavaScript (), Database & SQL (PostgreSQL)
+* Amazon Web Services (AWS), Django framework, REST API
+* Jenkins, Selenium, Test case management tool (TestRail), JIRA
+
+</details>
 
 
 ## Software Engineer in Test
