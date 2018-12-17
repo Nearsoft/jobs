@@ -18,6 +18,7 @@
   "ignoreUrls": true,
   "dictionary": [
     "aggregator",
+    "AI",
     "Akamai",
     "ALB",
     "AMQP",
@@ -29,6 +30,7 @@
     "ASP.NET",
     "architecting",
     "async",
+    "Atlassian",
     "Aurelia",
     "AWS",
     "Backbone.js",
@@ -205,6 +207,7 @@
     "Terraform",
     "TestLink",
     "TestNG",
+    "TestRail",
     "TeamCity",
     "TFS",
     "trackable",
