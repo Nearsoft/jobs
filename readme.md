@@ -20,6 +20,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Software Engineer in Test](#software-engineer-in-test)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
+* [Full-Stack Engineer 2](#full-stack-engineer-2)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
 * [iOS Engineer](#ios-engineer)
@@ -231,6 +232,41 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 * Worked on medium-to-large enterprise web applications
 * NoSQL, Big Data, iOS/Android
 * Open-source contributions, side projects, and participation in the tech community
+
+</details>
+
+
+## Full-Stack Engineer
+
+<details><summary>Read more</summary>
+
+🏚
+
+### Description
+
+We are looking for a Full-Stack Engineer  for a Fast-paced tech startup working in the affordable housing industry by creating safe, attractive, and respectable shared living environments. If you’re motivated by the conviction that people working full time should have a decent place to live, and want to do something about it, come join us.
+
+### What you’ll do
+
+* Full stack web/mobile development with a variety of languages including but not limited to Python, Javascript, HTML, etc.
+* Implement web or mobile interfaces using ReactJS and React Native.
+* Work closely with our PM and designer to define feature specifications and build the next generation of products leveraging frameworks such as Django, React, and React Native.
+* Work closely with operations and infrastructure to build and scale back-end services.
+* Build report interfaces and data feeds
+
+### What we’re looking for:
+
+* 3+ years programming experience and also with relational databases and SQL 
+* 3+ years experience with full web stack technologies, including many of the following:
+* Python (Django or Flask experience is a perk)
+* GraphQL
+* React JS
+* Redux
+* Azure or AWS
+* Git
+* Ability to decompose problems into small pieces and quickly build and test each component
+* Interest and ability to learn other coding languages as needed
+* Past projects viewable on Github/BitBucket/Gitlab
 
 </details>
 
