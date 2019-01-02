@@ -19,7 +19,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Automation Engineer](#automation-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
-* [Full-Stack Engineer](#full-stack-engineer)
+* [Full-Stack Engineer 1](#full-stack-engineer-1)
 * [Full-Stack Engineer 2](#full-stack-engineer-2)
 * [Java Engineer](#java-engineer)
 * [Rails Engineer](#rails-engineer)
@@ -199,7 +199,7 @@ You should be capable of working on all aspects of the software development cycl
 </details>
 
 
-## Full-Stack Engineer
+## Full-Stack Engineer 1
 
 <details><summary>Read more</summary>
 
@@ -236,7 +236,7 @@ The ideal candidate needs to be able to hit the ground running in our fast-paced
 </details>
 
 
-## Full-Stack Engineer
+## Full-Stack Engineer 2
 
 <details><summary>Read more</summary>
 
