@@ -252,7 +252,7 @@ If you're motivated by the conviction that people working full time should have 
 * Full-Stack Web/Mobile development with a variety of languages including but not limited to Python, JavaScript, HTML, etc.
 * Implement web or mobile interfaces using React.js and React Native
 * Work closely with our Product Manager and Designer to define feature specifications and build the next generation of products leveraging frameworks such as Django, React.js, and React Native
-* Work closely with operations and infrastructure to build and scale back-end services
+* Work closely with operations and infrastructure to build and scale back end services
 * Build report interfaces and data feeds
 
 ### What we're looking for:
@@ -450,7 +450,7 @@ You will be involved in the planning of features at the beginning and own them t
 </details>
 
 
-## Back end Engineer 2
+## Back End Engineer 2
 
 <details><summary>Read more</summary>
 
