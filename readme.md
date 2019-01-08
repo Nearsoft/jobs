@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+
+* [Front End Web Developer](#front-end-web-developer)
 * [Back End API Developer](#back-end-api-developer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Automation Engineer](#automation-engineer)
@@ -36,6 +38,20 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Front end Web Developer 
+
+<details><summary>Read more</summary>
+  
+* Expert-level JavaScript and TypeScript
+* Expert-level CSS, and an ability to transform design mockups into usable applications
+* Expertise with at least one frontend framework (Angular, React or Meteor preferred)
+* Good understanding of single-page application technologies (AJAX)
+* Deep understanding of security best practices
+* Expertise in backend web frameworks (Django, Rails, etc) is a plus
+
+</details>
 
 
 ## Back end API Developer 
