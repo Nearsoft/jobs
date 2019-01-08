@@ -23,13 +23,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack Engineer 1](#full-stack-engineer-1)
 * [Full-Stack Engineer 2](#full-stack-engineer-2)
-* [Java Engineer](#java-engineer)
-* [Rails Engineer](#rails-engineer)
 * [iOS Engineer](#ios-engineer)
 * [Front End Engineer](#front-end-engineer)
-* [Front End Engineer 2](#front-end-engineer-2)
 * [Back End Engineer](#back-end-engineer)
-* [Back End Engineer 2](#back-end-engineer-2)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 * [IT Recruiter](#it-recruiter)
 
@@ -263,59 +259,6 @@ If you're motivated by the conviction that people working full time should have 
 </details>
 
 
-## Rails Engineer
-
-<details><summary>Read more</summary>
-
-📚
-
-* B.S. in Computer Science or related discipline, or equivalent education plus work experience
-* Strong Object-oriented programmer (e.g. Ruby, Python, Java) experience
-* 3+ years building Rails-based Web applications
-* Experience developing RESTful Web services
-* Grasp and enthusiasm for Agile/XP development practices (e.g. TDD, Pair programming)
-* Knowledge of JavaScript client-side application development (e.g. Ember.js, Backbone.js)
-* Excellent communication skills, both verbal and written
-
-### Nice to have
-
-* Ember.js
-* Backbone.js
-* Redis
-* PostgreSQL
-* CoffeeScript
-* jQuery
-* Sass
-* RSpec
-* Cucumber
-* HTML5
-* Linux/Unix familiarity
-
-</details>
-
-## Java Engineer
-
-<details><summary>Read more</summary>
-
-📚
-
-* Strong experience with Spring
-* Experience with Hibernate, RDBMS design, query optimization
-* Experience with caching methods like Redis, Memcached, Ehcache
-* Experience with CI/CD tools like Jenkins, CircleCI, Travis CI, etc. Setting up pipelines and managing your build process
-* Skilled in analysis and design for implementation, sizing, performance tuning, and scalability
-* Familiarity with Rails, Django or similar web app framework will be an added advantage
-
-### Preferred
-
-* Linux, Tomcat, Dropwizard, GitHub, PostgreSQL, Ansible, Maven, Gradle
-* Focused written communication skills for subsystem planning and designs
-* Team spirit! Making the effort and taking pride in helping others. Supporting your work in production with our DevOps team
-* Able to listen and evaluate ideas and opinions without bias and contribute to a common culture of excellence
-
-</details>
-
-
 ## iOS Engineer
 
 <details><summary>Read more</summary>
@@ -357,36 +300,7 @@ Sound appealing? Learn more about us.
 </details>
 
 
-## Front End Engineer
-
-<details><summary>Read more</summary>
-
-🏋🏻
-
-We build the front end components of our Web app and use established practices to ensure high quality code.
-We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
-Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript proficient and Full-Stack engineers.
-
-### Responsibilities
-
-* Collaborate with Product Managers to iterate on the design and implementation of our product
-* Build efficient and reusable front-end systems and abstractions
-* Find and address performance issues
-* Participate in design and code reviews
-* Maintain high code coverage via unit tests and acceptance tests
-
-### Skills
-
-* Strong knowledge of JavaScript
-* Experience with modern JavaScript libraries and tooling
-* Knowledge of HTML, CSS, and related web technologies
-* Strong Computer Science fundamentals
-* Awareness of cross-browser compatibility issues and client-side performance considerations
-
-</details>
-
-
-## Front End Engineer 2
+## Front End Engineer 
 
 <details><summary>Read more</summary>
 
@@ -415,33 +329,7 @@ This role will accelerate our Front End development by building new and exciting
 </details>
 
 
-## Back End Engineer
-
-<details><summary>Read more</summary>
-
-🏋
-
-We are converting to a microservices based architecture from a single API. Our new architecture Python and Java on the Back End.
-
-As a Back End engineer you will craft new functionality with a dedicated team of co-workers that will enrich our members and our partners.
-As our business continues its rapid growth, you will help ensure our software is positioned to harness and accelerate our marketplace.
-You will help design APIs and architecture that your colleagues will be delighted to use.
-You will be involved in the planning of features at the beginning and own them through deployment and monitoring.
-
-### About You
-
-* You are passionate about your craft and want to be surrounded by like-minded individuals
-* You like to ship software early and often
-* You care about selecting the right tool for the right job
-* You design APIs and services that make difficult problems seem easy
-* You collaborate well with others but are excited to own a big feature
-* You value simplicity and strive to eliminate unnecessary complexity
-* You have at least 5 years of professional programming experience
-
-</details>
-
-
-## Back End Engineer 2
+## Back End Engineer 
 
 <details><summary>Read more</summary>
 
