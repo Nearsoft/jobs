@@ -39,6 +39,10 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
   
+  👷🏽
+  
+  ### Qualifications
+  
 * Expert-level JavaScript and TypeScript
 * Expert-level CSS, and an ability to transform design mockups into usable applications
 * Expertise with at least one frontend framework (Angular, React or Meteor preferred)
@@ -53,6 +57,10 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
   
+   👷🏽
+   
+   ### Qualifications
+   
 * Expert-level Python
 * Experience with Java is a plus
 * Familiar with relational databases (e.g. PostgreSQL) and key-value stores (e.g. Redis)
