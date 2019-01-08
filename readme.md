@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Back End API Developer](#back-end-api-developer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Automation Engineer](#automation-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
@@ -35,6 +36,22 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Back end API Developer 
+
+<details><summary>Read more</summary>
+  
+* Expert-level Python
+* Experience with Java is a plus
+* Familiar with relational databases (e.g. PostgreSQL) and key-value stores (e.g. Redis)
+* Experience developing REST APIs for web and mobile applications
+* Experience with problems of scale (e.g. Microservice architecture, cloud file storage/S3, pub/sub and producer/consumer queues)
+* Familiar with serverless platforms (e.g. Heroku, AWS Lambda)
+* Deep understanding of security best practices
+* Experience with web development is a plus
+
+</details>
 
 
 ## Full-Stack Software Engineer
