@@ -22,7 +22,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Automation Engineer](#automation-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
-* [iOS Engineer](#ios-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
 * [Senior Full-Stack Engineer](#senior-full-stack-engineer)
@@ -225,47 +224,6 @@ If you're motivated by the conviction that people working full time should have 
 * Ability to deconstruct problems into small pieces and quickly build and test each component
 * Interest and ability to learn other coding languages as needed
 * Past projects viewable on GitHub/BitBucket/GitLab
-
-</details>
-
-
-## iOS Engineer
-
-<details><summary>Read more</summary>
-
-🐴
-
-We have a vision to build relationships that drive partnerships with 20 Fortune 500 companies and train 200,000 designers and engineers by 2020.
-How are we going to do it?  It's all our people – we only hire the best. We are passionate about writing stylish code and teaching others to do the same.
-We then live through our values.
-We are a community of Nerds who are brilliant and curious, hard-working and accountable, kind and authentic.
-
-Sound appealing? Learn more about us.
-
-### As an Engineer, you will...
-
-* Develop applications for our project and our clients
-* Code-review your teammates
-* Write stories (use cases, technical and functional requirements), tests and code
-* Help guide clients towards effective solutions that balance technical requirements and business needs
-* Attend development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients
-* Inspire peers, future clients, our students, and the community at large by writing, speaking, contributing to open source software, and demonstrating our collective expertise and experience
-
-### As a candidate, you...
-
-* You know the core aspects of iOS development including architecture, design, configuration, the Xcode environment, Objective-C and Swift
-* You have a solid knowledge of multi-threaded programming and UI concepts
-* You've endured the App Store submission process
-* You have excellent written and verbal communication skills
-* You're friendly; strong interpersonal skills are key for success
-
-### You might also...
-
-* Have created APIs that conform to the JSON API spec
-* Have interest in web development (e.g. React.js, Ruby on Rails, etc.)
-* Have interest in translating UI/UX wireframes into clean and efficient Sass/CSS
-* Enjoy teaching others and can clearly describe complicated software to your peers
-* Have a passion for speaking publicly or blogging regularly
 
 </details>
 
