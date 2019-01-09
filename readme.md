@@ -16,6 +16,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Java Engineer](#java-engineer)
+* [QA Atuomation Engineer](#qa-automation-engineer)
 * [Full stack NET Engineer](#full-stack-net-engineer)
 * [Front End Web Developer](#front-end-web-developer)
 * [Back End API Developer](#back-end-api-developer)
@@ -32,6 +34,63 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Java Engineer 
+
+<details><summary>Read more</summary>
+  
+  📚
+  
+* Strong experience with Spring
+* Experience with Hibernate, RDBMS design, query optimization
+* Experience with caching methods like Redis, memcached, EHCache
+* Experience with CI/CD tools like Jenkins, CircleCI, Travis CI etc., setting up pipelines and managing your build procs
+* Skilled in analysis and design for implementation, sizing, performance tuning, and scalability
+* Familiarity with Rails, Django or similar web app framework will be an added advantage
+
+### Preferred
+
+* Other keywords: Linux, Tomcat, Dropwizard, Github, Postgres, Ansible, Maven, Gradle...and more :-)
+* Focused written communication skills for subsystem planning and designs
+* Team spirit!  Making the effort and taking pride in helping others. Supporting your work in production with our DevOps team.
+* Able to listen and evaluate ideas and opinions without bias and contribute to a common culture of excellence!
+
+</details>
+
+
+## QA Automation Engineer 
+
+<details><summary>Read more</summary>
+  
+  💰
+  
+We are looking for a QA Automation Engineer to join our awesome engineering team. We are a lean, tightly-knit team looking for an independent, hands-on problem solver who can apply creative, non-traditional ideas to raw data in order to come up with high-impact solutions for the underserved population we target. 
+
+### The Responsibilities: 
+
+* Responsible for organizing and overseeing testing for custom lending solutions
+* Specific duties include: evaluating project specifications and requirements; gaining SME level knowledge of solutions 
+* Identifying gaps between implementation and the customer system; providing QA deliverables; supporting QA testing team during test execution phases 
+* Reviewing and reporting on test execution status; reviewing and managing bug status reports 
+* Directing integration testing across front-end clients, Web App servers, Core servers, databases, third-party connectors, Web-services, and SMS messaging and Aggregators as needed
+* Duties also include identifying and validating security and planning and performing data migration testing; performing tests on reporting and data extract consoles
+* Complying and executing complex SQL queries in order to perform database testing; Understanding, and where needed, coding testing components in Python/Perl/Java
+* Leading, managing and prioritizing multiple projects in QA 
+* Performing deployments to QA and validating deployments to production environments; and supporting continuous improvement through the use of tools and improved process
+
+### Desired Skills/Requirements: 
+
+* 2 years of QA Automation experience 
+* Proficiency working with client-server layered architecture environment involving front-end consumer clients 
+* Experience working with Web App servers, Core servers, back-end databases, third party and financial back-end system integration coordinators, and REST and SOAP based web services API’s
+* Proficiency working with real-time, high availability applications and Automation experience using SoapUI or other industry tools are also required
+* Great communicator, self-starter and eager to learn in the fast-paced environment
+* Java, REST API, UI Test Automation- web, hybrid apps, API Test Automation
+* Jmeter, Selenium Webdriver, Appium, TestNG, Performance testing, Gray box testing, Continuous Integration(CI/CD)
+* Database testing, Mobile testing, Javascript, Ansible &nbsp; Compensation 
+
+</details>
 
 
 ## Full stack NET Engineer
