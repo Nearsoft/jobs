@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Full stack NET Engineer](#full-stack-net-engineer)
 * [Front End Web Developer](#front-end-web-developer)
 * [Back End API Developer](#back-end-api-developer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
@@ -31,6 +32,29 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## FullStack NET Engineer
+
+<details><summary>Read more</summary>
+  
+⛷
+
+### Skills
+
+* C# and .NET ecosystem
+* Node.js 8
+* ES6
+* Inferno.js
+* Bootstrap
+* Express 4
+* MongoDB
+* jQuery, HTML and CSS
+* Great knowledge and experience in JavaScript
+* Experience with Git
+* Microservices architecture
+
+</details>
 
 
 ## Front end Web Developer 
