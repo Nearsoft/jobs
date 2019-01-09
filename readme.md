@@ -34,7 +34,7 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## FullStack NET Engineer
+## Full stack NET Engineer
 
 <details><summary>Read more</summary>
   
