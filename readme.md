@@ -16,6 +16,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+
+* [DevOps Engineer](#devops-engineer)
 * [Java Engineer](#java-engineer)
 * [QA Atuomation Engineer](#qa-automation-engineer)
 * [Full stack NET Engineer](#full-stack-net-engineer)
@@ -34,6 +36,34 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
+
+## DevOps Engineer 
+
+<details><summary>Read more</summary>
+  
+  🏦
+  
+  ### Skills & Responsibilities
+  
+* Deployment of .NET & JS applications in cloud platforms, such as MS Azure, Azure Service Fabric &   Microservices
+* Experience provisioning & configuring cloud infrastructure in Azure such as VMs, VLAN, VPN, DBs, Load balancers
+* Define, document and distribute Release Plans, Release Checklists, Process Diagrams, Azure Infrastructure Diagrams
+* Developing tools, scripts, or processes to improve efficiency, quality or reliability of cloud application deployments
+* Experience with source code management tools such as Git
+* Experience using Azure DevOps (VSTS/TFS)
+* Effective monitoring, provisioning, installation/configuration, operation, and maintenance of cloud-based systems and software.
+* Design & develop dashboards for monitoring production applications and systems.
+* Champion improvements into the product based on ease of trouble-shooting, monitoring, assurance, etc.
+* Experience managing SaaS Development Tools such as : Typeform, Twilio, Cognito, Power BI, Auth0, Box, Dropbox, Zapier, Swagger, ElasticSearch, etc. 
+* Experience working in a CI/CD, Agile and/or DevOps team including responsibility for build & release processes.
+* Experience troubleshooting distributed web-based systems
+* Working knowledge of a key database technologies such as MSSQL, Azure SQL & Cosmos DB
+* Network administration, disaster recovery, failover & security
+* Strong analytical, problem solving, organizational and planning skills.
+* Ability to work on a cross-functional team to design and implement scalable and sustainable systems.
+  
+ </details>
+ 
 
 ## Java Engineer 
 
