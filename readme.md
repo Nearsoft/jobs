@@ -171,7 +171,7 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 * Expert-level JavaScript and TypeScript
 * Expert-level CSS, and an ability to transform design mockups into usable applications
 * Expertise with at least one front end framework (AngularJS, React.js or Meteor preferred)
-* Good understanding of single-page application technologies (AJAX)
+* Good understanding of single-page application technologies (Ajax)
 * Deep understanding of security best practices
 * Expertise in back end Web frameworks (Django, Rails, etc.) is a plus
 
