@@ -15,14 +15,12 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
-
 * [DevOps Engineer](#devops-engineer)
 * [Java Engineer](#java-engineer)
-* [QA Atuomation Engineer](#qa-automation-engineer)
-* [Full stack NET Engineer](#full-stack-net-engineer)
-* [Front End Web Developer](#front-end-web-developer)
-* [Back End API Developer](#back-end-api-developer)
+* [QA Automation Engineer](#qa-automation-engineer)
+* [Full-Stack .NET Engineer](#full-stack-net-engineer)
+* [Front End Web Engineer](#front-end-web-engineer)
+* [Back End API Engineer](#back-end-api-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Automation Engineer](#automation-engineer)
 * [Ruby on Rails Engineer](#ruby-on-rails-engineer)
@@ -37,95 +35,112 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## DevOps Engineer 
+## DevOps Engineer
 
 <details><summary>Read more</summary>
-  
-  🏦
-  
-  ### Skills & Responsibilities
-  
-* Deployment of .NET & JS applications in cloud platforms, such as MS Azure, Azure Service Fabric &   Microservices
-* Experience provisioning & configuring cloud infrastructure in Azure such as VMs, VLAN, VPN, DBs, Load balancers
-* Define, document and distribute Release Plans, Release Checklists, Process Diagrams, Azure Infrastructure Diagrams
+
+🏦
+
+### Skills & Responsibilities
+
+<!-- yaspeller ignore:start -->
+<!--alex disable bi-->
+<!-- yaspeller ignore:end -->
+
+* Deployment of .NET & JavaScript applications in cloud platforms, such as Microsoft Azure, Azure Service Fabric & microservices
+* Experience provisioning & configuring cloud infrastructure in Azure such as VMs, VLAN, VPN, databases, load balancers
+* Define, document and distribute release plans, release checklists, process diagrams, Azure infrastructure diagrams
 * Developing tools, scripts, or processes to improve efficiency, quality or reliability of cloud application deployments
 * Experience with source code management tools such as Git
-* Experience using Azure DevOps (VSTS/TFS)
-* Effective monitoring, provisioning, installation/configuration, operation, and maintenance of cloud-based systems and software.
-* Design & develop dashboards for monitoring production applications and systems.
+* Experience using Azure DevOps (Visual Studio Team Services/Team Foundation Server)
+* Effective monitoring, provisioning, installation/configuration, operation, and maintenance of cloud-based systems and software
+* Design & develop dashboards for monitoring production applications and systems
 * Champion improvements into the product based on ease of trouble-shooting, monitoring, assurance, etc.
-* Experience managing SaaS Development Tools such as : Typeform, Twilio, Cognito, Power BI, Auth0, Box, Dropbox, Zapier, Swagger, ElasticSearch, etc. 
-* Experience working in a CI/CD, Agile and/or DevOps team including responsibility for build & release processes.
+* Experience managing SaaS development tools such as: Typeform, Twilio, Cognito, Power BI, Auth0, Box, Dropbox, Zapier, Swagger, Elasticsearch, etc.
+* Experience working in a CI/CD, Agile and/or DevOps team including responsibility for build & release processes
 * Experience troubleshooting distributed web-based systems
 * Working knowledge of a key database technologies such as MSSQL, Azure SQL & Cosmos DB
 * Network administration, disaster recovery, failover & security
-* Strong analytical, problem solving, organizational and planning skills.
-* Ability to work on a cross-functional team to design and implement scalable and sustainable systems.
-  
- </details>
- 
+* Strong analytical, problem solving, organizational and planning skills
+* Ability to work on a cross-functional team to design and implement scalable and sustainable systems
 
-## Java Engineer 
+<!-- yaspeller ignore:start -->
+<!--alex enable bi-->
+<!-- yaspeller ignore:end -->
+
+</details>
+
+
+## Java Engineer
 
 <details><summary>Read more</summary>
-  
-  📚
-  
+
+📚
+
 * Strong experience with Spring
 * Experience with Hibernate, RDBMS design, query optimization
-* Experience with caching methods like Redis, memcached, EHCache
-* Experience with CI/CD tools like Jenkins, CircleCI, Travis CI etc., setting up pipelines and managing your build procs
+* Experience with caching methods like Redis, Memcached, Ehcache
+* Experience with CI/CD tools like Jenkins, CircleCI, Travis CI etc., setting up pipelines and managing your build process
 * Skilled in analysis and design for implementation, sizing, performance tuning, and scalability
-* Familiarity with Rails, Django or similar web app framework will be an added advantage
+* Familiarity with Rails, Django or similar Web app framework will be an added advantage
 
 ### Preferred
 
-* Other keywords: Linux, Tomcat, Dropwizard, Github, Postgres, Ansible, Maven, Gradle...and more :-)
+* Linux, Tomcat, Dropwizard, GitHub, PostgreSQL, Ansible, Maven, Gradle, and more
 * Focused written communication skills for subsystem planning and designs
-* Team spirit!  Making the effort and taking pride in helping others. Supporting your work in production with our DevOps team.
-* Able to listen and evaluate ideas and opinions without bias and contribute to a common culture of excellence!
+* Team spirit: Making the effort and taking pride in helping others. Supporting your work in production with our DevOps team
+* Able to listen and evaluate ideas and opinions without bias and contribute to a common culture of excellence
 
 </details>
 
 
-## QA Automation Engineer 
+## QA Automation Engineer
 
 <details><summary>Read more</summary>
-  
-  💰
-  
-We are looking for a QA Automation Engineer to join our awesome engineering team. We are a lean, tightly-knit team looking for an independent, hands-on problem solver who can apply creative, non-traditional ideas to raw data in order to come up with high-impact solutions for the underserved population we target. 
 
-### The Responsibilities: 
+💰
+
+We are looking for a QA Automation Engineer to join our awesome engineering team.
+We are a lean, tightly-knit team looking for an independent, hands-on problem solver who can apply creative, non-traditional ideas to raw data in order to come up with high-impact solutions for the under served population we target.
+
+### Responsibilities
+
+<!-- yaspeller ignore:start -->
+<!--alex disable execution-->
+<!-- yaspeller ignore:end -->
 
 * Responsible for organizing and overseeing testing for custom lending solutions
-* Specific duties include: evaluating project specifications and requirements; gaining SME level knowledge of solutions 
-* Identifying gaps between implementation and the customer system; providing QA deliverables; supporting QA testing team during test execution phases 
-* Reviewing and reporting on test execution status; reviewing and managing bug status reports 
-* Directing integration testing across front-end clients, Web App servers, Core servers, databases, third-party connectors, Web-services, and SMS messaging and Aggregators as needed
+* Specific duties include: evaluating project specifications and requirements; gaining SME level knowledge of solutions
+* Identifying gaps between implementation and the customer system; providing QA deliverables; supporting QA testing team during test execution phases
+* Reviewing and reporting on test execution status; reviewing and managing bug status reports
+* Directing integration testing across Front End clients, Web app servers, core servers, databases, third-party connectors, Web services, and SMS messaging and aggregators as needed
 * Duties also include identifying and validating security and planning and performing data migration testing; performing tests on reporting and data extract consoles
 * Complying and executing complex SQL queries in order to perform database testing; Understanding, and where needed, coding testing components in Python/Perl/Java
-* Leading, managing and prioritizing multiple projects in QA 
+* Leading, managing and prioritizing multiple projects in QA
 * Performing deployments to QA and validating deployments to production environments; and supporting continuous improvement through the use of tools and improved process
 
-### Desired Skills/Requirements: 
+<!-- yaspeller ignore:start -->
+<!--alex enable execution-->
+<!-- yaspeller ignore:end -->
 
-* 2 years of QA Automation experience 
-* Proficiency working with client-server layered architecture environment involving front-end consumer clients 
-* Experience working with Web App servers, Core servers, back-end databases, third party and financial back-end system integration coordinators, and REST and SOAP based web services API’s
+### Desired Skills/Requirements
+
+* 2 years of QA Automation experience
+* Proficiency working with client-server layered architecture environment involving front-end consumer clients
+* Experience working with Web app servers, core servers, Back End databases, third party and financial back-end system integration coordinators, and REST and SOAP based Web services APIs
 * Proficiency working with real-time, high availability applications and Automation experience using SoapUI or other industry tools are also required
 * Great communicator, self-starter and eager to learn in the fast-paced environment
 * Java, REST API, UI Test Automation- web, hybrid apps, API Test Automation
-* Jmeter, Selenium Webdriver, Appium, TestNG, Performance testing, Gray box testing, Continuous Integration(CI/CD)
-* Database testing, Mobile testing, Javascript, Ansible &nbsp; Compensation 
+* JMeter, Selenium, Appium, TestNG, performance testing, gray box testing, Continuous Integration (CI/CD)
+* Database testing, Mobile testing, JavaScript, Ansible & Compensation
 
 </details>
 
 
-## Full stack NET Engineer
+## Full-Stack .NET Engineer
 
 <details><summary>Read more</summary>
-  
+
 ⛷
 
 ### Skills
@@ -145,32 +160,32 @@ We are looking for a QA Automation Engineer to join our awesome engineering team
 </details>
 
 
-## Front end Web Developer 
+## Front End Web Engineer
 
 <details><summary>Read more</summary>
-  
-  👷🏽
-  
-  ### Qualifications
-  
+
+👷🏽
+
+### Qualifications
+
 * Expert-level JavaScript and TypeScript
 * Expert-level CSS, and an ability to transform design mockups into usable applications
-* Expertise with at least one frontend framework (Angular, React or Meteor preferred)
+* Expertise with at least one front end framework (AngularJS, React.js or Meteor preferred)
 * Good understanding of single-page application technologies (AJAX)
 * Deep understanding of security best practices
-* Expertise in backend web frameworks (Django, Rails, etc) is a plus
+* Expertise in back end Web frameworks (Django, Rails, etc.) is a plus
 
 </details>
 
 
-## Back end API Developer 
+## Back End API Engineer
 
 <details><summary>Read more</summary>
-  
-   👷🏽
-   
-   ### Qualifications
-   
+
+👷🏽
+
+### Qualifications
+
 * Expert-level Python
 * Experience with Java is a plus
 * Familiar with relational databases (e.g. PostgreSQL) and key-value stores (e.g. Redis)
@@ -231,7 +246,7 @@ As we grow our team, we are looking for someone that can broaden our expertise i
 
 <details><summary>Read more</summary>
 
-  👓
+👓
 
 We are looking for developers who are adept at building systems and environments to test software and make it more secure, scalable and reliable.
 Responsibilities include expanding our automated testing and deployment framework while designing and implementing functional, system and performance tests.
@@ -263,7 +278,7 @@ Responsibilities include expanding our automated testing and deployment framewor
 
 ### Skills & tools
 
-* Python, JavaScript (), Database & SQL (PostgreSQL)
+* Python, JavaScript, Database & SQL (PostgreSQL)
 * Amazon Web Services (AWS), Django framework, REST API
 * Jenkins, Selenium, Test case management tool (TestRail), JIRA
 
@@ -276,7 +291,7 @@ Responsibilities include expanding our automated testing and deployment framewor
 
 ✍
 
-The role we're looking for is a Senior Back End Ruby Developer to join our growing experienced and talented technology team.
+The role we're looking for is a Senior Back End Ruby Engineer to join our growing experienced and talented technology team.
 The development team is responsible for all the vital back end infrastructure for our web application.
 We develop in Ruby on Rails, so having demonstrable senior experiences of this is essential.
 You should be capable of working on all aspects of the software development cycle from architecture, coding and testing through to deployment.
@@ -297,14 +312,14 @@ You should be capable of working on all aspects of the software development cycl
 * Confident with SQL (PostgreSQL in particular)
 * Clean code with an understanding of code smells and refactoring
 * Test-driven development - "Test Obsessed"
-* Understanding of Front-end development (HTML/Haml/Sass/JavaScript). However, no knowledge of frameworks required
+* Understanding of Front End development (HTML/Haml/Sass/JavaScript). However, no knowledge of frameworks required
 * Experience of delivering large development projects
 * Tangible contribution to the open-source community or trackable record of public talks
 
 </details>
 
 
-## Full-Stack Engineer 
+## Full-Stack Engineer
 
 <details><summary>Read more</summary>
 
@@ -323,7 +338,7 @@ If you're motivated by the conviction that people working full time should have 
 * Work closely with operations and infrastructure to build and scale back end services
 * Build report interfaces and data feeds
 
-### What we're looking for:
+### What we're looking for
 
 * 3+ years programming experience and also with relational databases and SQL
 * 3+ years experience with full Web stack technologies, including many of the following:
@@ -340,7 +355,7 @@ If you're motivated by the conviction that people working full time should have 
 </details>
 
 
-## Front End Engineer 
+## Front End Engineer
 
 <details><summary>Read more</summary>
 
@@ -369,7 +384,7 @@ This role will accelerate our Front End development by building new and exciting
 </details>
 
 
-## Back End Engineer 
+## Back End Engineer
 
 <details><summary>Read more</summary>
 
