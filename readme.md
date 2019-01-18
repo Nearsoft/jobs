@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [SQL Engineer](#sql-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [DevOps Engineer](#devops-engineer)
 * [Java Engineer](#java-engineer)
@@ -22,7 +23,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack .NET Engineer](#full-stack-net-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Automation Engineer](#automation-engineer)
-* [Ruby on Rails Engineer](#ruby-on-rails-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
@@ -32,6 +32,33 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+### SQL Engineer
+
+<details><summary>Read more</summary>
+  
+  📊
+  
+#### Responsibilities
+* Create ETL process to extract data from relational database (SQL Server primarily)
+* Load and transform data into Vertica
+* Develop process to extract change records from source systems
+* Experience working with and parsing JSON and XML
+
+#### Required Skills
+* Strong ETL experience
+* Strong SQL experience
+* Strong relational database experience
+* Strong verbal and written communication skills
+* C# experience
+
+#### Desired Skills
+* SQL Server T-SQL
+* SQL Server Integration Services
+* Vertica/PostgreSQL
+
+</details>
 
 
 ## Software Engineer in Test
@@ -282,40 +309,6 @@ Responsibilities include expanding our automated testing and deployment framewor
 * Python, JavaScript, Database & SQL (PostgreSQL)
 * Amazon Web Services (AWS), Django framework, REST API
 * Jenkins, Selenium, Test case management tool (TestRail), JIRA
-
-</details>
-
-
-## Ruby on Rails Engineer
-
-<details><summary>Read more</summary>
-
-✍
-
-The role we're looking for is a Senior Back End Ruby Engineer to join our growing experienced and talented technology team.
-The development team is responsible for all the vital back end infrastructure for our web application.
-We develop in Ruby on Rails, so having demonstrable senior experiences of this is essential.
-You should be capable of working on all aspects of the software development cycle from architecture, coding and testing through to deployment.
-
-### Development team
-
-* We're a distributed team of experienced developers
-* We love Ruby
-* We know how to cook a Rails monolith in the right way
-* We do care about the project, about the code quality and about our customers
-* We use code reviews (reviewing each other)
-* We have Code to Test Ratio: 1:1.1
-
-### Required skills
-
-* Loves Ruby
-* Strong Rails knowledge, a good understanding of reliable design for big Rails projects
-* Confident with SQL (PostgreSQL in particular)
-* Clean code with an understanding of code smells and refactoring
-* Test-driven development - "Test Obsessed"
-* Understanding of Front End development (HTML/Haml/Sass/JavaScript). However, no knowledge of frameworks required
-* Experience of delivering large development projects
-* Tangible contribution to the open-source community or trackable record of public talks
 
 </details>
 
