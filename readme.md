@@ -26,7 +26,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [Back End Engineer](#back-end-engineer)
-* [Senior Full-Stack Engineer](#senior-full-stack-engineer)
 
 <!-- yaspeller ignore:end -->
 
@@ -396,30 +395,6 @@ This role will accelerate our Back End development by building new and exciting 
 * Can write flexible APIs with well-thought-out error handling
 * Experience with Docker and MongoDB is a plus, but not critical
 * Interest in finance is a plus
-
-</details>
-
-
-## Senior Full-Stack Engineer
-
-<details><summary>Read more</summary>
-
-🦁
-
-This position will be responsible for defining, designing, and implementing complex, multi-tier distributed software systems throughout all phases of the software development life-cycle while providing technical oversight and guidance to team members.
-
-### Skills
-
-* Develop clear, well-communicated, thoroughly tested, complete code for complex product features or sub-systems
-* Advanced understanding of object-oriented design methodology and application development in Java, Spring and Spring Boot
-* Advanced understanding of web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and AngularJS 2+
-* Strong knowledge of Agile/Scrum methodologies, continuous integration and deployment
-* Possess creative problem solving skills and excellent troubleshooting/debugging skills
-* 5+ years of Full-Stack software development experience in an enterprise environment
-* Extensive experience designing, and developing object oriented software utilizing Java, Spring, AngularJS and JavaScript
-* Experience working with Relational Database Management Systems such as PostgreSQL
-* Experience in building modern distributed applications using a microservices framework
-* Broad experience with various UI architectures with the skills to extend a framework beyond what's provided out of the box
 
 </details>
 
