@@ -18,14 +18,12 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [SQL Engineer](#sql-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [DevOps Engineer](#devops-engineer)
-* [Java Engineer](#java-engineer)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Full-Stack .NET Engineer](#full-stack-net-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
 * [Automation Engineer](#automation-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Front End Engineer](#front-end-engineer)
-* [Back End Engineer](#back-end-engineer)
 
 <!-- yaspeller ignore:end -->
 
@@ -132,29 +130,6 @@ QA Automation Engineer will work with our Software Quality Assurance & Developme
 <!-- yaspeller ignore:start -->
 <!--alex enable bi-->
 <!-- yaspeller ignore:end -->
-
-</details>
-
-
-## Java Engineer
-
-<details><summary>Read more</summary>
-
-📚
-
-* Strong experience with Spring
-* Experience with Hibernate, RDBMS design, query optimization
-* Experience with caching methods like Redis, Memcached, Ehcache
-* Experience with CI/CD tools like Jenkins, CircleCI, Travis CI etc., setting up pipelines and managing your build process
-* Skilled in analysis and design for implementation, sizing, performance tuning, and scalability
-* Familiarity with Rails, Django or similar Web app framework will be an added advantage
-
-### Preferred
-
-* Linux, Tomcat, Dropwizard, GitHub, PostgreSQL, Ansible, Maven, Gradle, and more
-* Focused written communication skills for subsystem planning and designs
-* Team spirit: Making the effort and taking pride in helping others. Supporting your work in production with our DevOps team
-* Able to listen and evaluate ideas and opinions without bias and contribute to a common culture of excellence
 
 </details>
 
@@ -376,27 +351,6 @@ This role will accelerate our Front End development by building new and exciting
 
 </details>
 
-
-## Back End Engineer
-
-<details><summary>Read more</summary>
-
-💸
-
-A Back End who is excited about becoming a core and early member of a team.
-This role will accelerate our Back End development by building new and exciting features as we expand our platform to support 150+ countries.
-
-### Back End / API Specialist
-
-* Deep expertise in PostgreSQL and Node.js
-* Can write quality, testable code that is easy to follow and modify
-* Needs to be comfortable with writing optimized SQL queries to fetch and write financial time-series data
-* Experience with managing a large amount of data. Our data sets are constantly updating
-* Can write flexible APIs with well-thought-out error handling
-* Experience with Docker and MongoDB is a plus, but not critical
-* Interest in finance is a plus
-
-</details>
 
 
 ## Credit
