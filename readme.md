@@ -221,7 +221,6 @@ As we grow our team, we are looking for someone that can broaden our expertise i
 ### Qualifications
 
 * 5+ years of professional experience building Web and Back End applications
-* Experience with Python
 * Ability to write understandable, testable, and secure code with an eye towards maintainability
 * Strong computer science fundamentals: data structures, algorithms, and distributed systems
 * Capable of wearing multiple hats and take pride in getting stuff done
@@ -280,8 +279,8 @@ Responsibilities include expanding our automated testing and deployment framewor
 
 ### Skills & tools
 
-* Python, JavaScript, Database & SQL (PostgreSQL)
-* Amazon Web Services (AWS), Django framework, REST API
+* JavaScript, Database & SQL (PostgreSQL)
+* Amazon Web Services (AWS), REST API
 * Jenkins, Selenium, Test case management tool (TestRail), JIRA
 
 </details>
