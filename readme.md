@@ -15,7 +15,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Implementation Manager](#implementation-manager)
 * [SQL Engineer](#sql-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [DevOps Engineer](#devops-engineer)
@@ -31,54 +30,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
-
-## Implementation Manager 
-
-
-<details><summary>Read more</summary>
-  
-👓
-
-The primary focus of this job will be to ensure success and utilization of our services for our Enterprise customers. You will collaborate across departments to implement our services for each of your customers, from set-up, to production and delivery. Through this process you will play an active in role in improving and shaping the Professional Services department and our product. We are a small team that collaborates closely, and we expect you will take initiative and grow within the role and company.
-
-### You Will
-
-* Lead projects from discovery, implementation to go-live.
-* Communicate with Enterprise customers to understand requirements, manage project progression, and set expectations.
-* Become an expert on our product and provide creative solutions to meet customers needs.
-* Gather functional requirements across Enterprise customers and iteratively configure our software to meet customer expectations.
-* Work closely with the following internal teams:
-* Customer Success team to ensure customer satisfaction, utilization, and renewal.
-* Sales team on solution discovery with prospective customers.
-* Engineering on implementing and deploying advanced solutions.
-* Product team to identify, define, and test new features and solutions.
-* Identify, triage and escalate issues to management and the internal teams.
-* Create and manage both customer-facing and internal processes, documentation, and trainings.
-
-### Personal Qualities
-
-* Detail-oriented and highly organized.
-* Upbeat, even-tempered, and empathetic; able to address challenging situations with humor, understanding, and patience.
-* Outcome-driven and great at anticipating and preventing issues before they arise.
-* Bias for action: be proactive, if something needs to get done, volunteer to do it.
-* Stellar problem-solving skills.
-* Able to communicate both problems and solutions clearly, effectively, and kindly.
-* Able to work quickly and efficiently in a fast-paced setting.
-* Able to manage multiple projects at a time and effectively prioritize.
-* Desire to work with and mentor less experienced team members.
-* Highly motivated and self-sufficient, but also enjoy collaborating closely with a team.
-* Constantly looking for ways to develop and improve processes, best practices, and our product.
-
-### Qualifications
-
-* 1-3 years in a customer-facing role, preferably working for an Enterprise SaaS organization.
-* Excellent organizational and logistical skills. Project management experience is a plus.
-* Computer- and tech-savvy. Experienced with Excel and Google Sheets / Docs.
-* Leadership experience.
-* Customer-facing experience.
-* Ideally, prior experience in a startup.
-
-</details>
 
 
 ## SQL Engineer
