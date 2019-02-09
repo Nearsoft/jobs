@@ -17,7 +17,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 * [SQL Engineer](#sql-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
-* [DevOps Engineer](#devops-engineer)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Full-Stack .NET Engineer](#full-stack-net-engineer)
 * [Full-Stack Software Engineer](#full-stack-software-engineer)
@@ -95,42 +94,6 @@ QA Automation Engineer will work with our Software Quality Assurance & Developme
 * Organized and process oriented individual with ability to maintain excellent process/testing/build release documentation and reports
 * Previous experience with Hudson/Jenkins is preferred but not required
 * Ability to adapt and willingness to learn new technology or techniques
-
-</details>
-
-
-## DevOps Engineer
-
-<details><summary>Read more</summary>
-
-🏦
-
-### Skills & Responsibilities
-
-<!-- yaspeller ignore:start -->
-<!--alex disable bi-->
-<!-- yaspeller ignore:end -->
-
-* Deployment of .NET & JavaScript applications in cloud platforms, such as Microsoft Azure, Azure Service Fabric & microservices
-* Experience provisioning & configuring cloud infrastructure in Azure such as VMs, VLAN, VPN, databases, load balancers
-* Define, document and distribute release plans, release checklists, process diagrams, Azure infrastructure diagrams
-* Developing tools, scripts, or processes to improve efficiency, quality or reliability of cloud application deployments
-* Experience with source code management tools such as Git
-* Experience using Azure DevOps (Visual Studio Team Services/Team Foundation Server)
-* Effective monitoring, provisioning, installation/configuration, operation, and maintenance of cloud-based systems and software
-* Design & develop dashboards for monitoring production applications and systems
-* Champion improvements into the product based on ease of trouble-shooting, monitoring, assurance, etc.
-* Experience managing SaaS development tools such as: Typeform, Twilio, Cognito, Power BI, Auth0, Box, Dropbox, Zapier, Swagger, Elasticsearch, etc.
-* Experience working in a CI/CD, Agile and/or DevOps team including responsibility for build & release processes
-* Experience troubleshooting distributed web-based systems
-* Working knowledge of a key database technologies such as MSSQL, Azure SQL & Cosmos DB
-* Network administration, disaster recovery, failover & security
-* Strong analytical, problem solving, organizational and planning skills
-* Ability to work on a cross-functional team to design and implement scalable and sustainable systems
-
-<!-- yaspeller ignore:start -->
-<!--alex enable bi-->
-<!-- yaspeller ignore:end -->
 
 </details>
 
