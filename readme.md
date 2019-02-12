@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [C# Developer](#C#-developer)
 * [SQL Engineer](#sql-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [QA Automation Engineer](#qa-automation-engineer)
@@ -29,6 +30,39 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
+
+
+## C# Developer
+
+<details><summary>Read more</summary>
+  
+  📈
+  
+  As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
+
+### Responsibilities
+
+* Work with a team of software engineers delivering projects as the “go to guy”
+* Develop & maintain customer facing web products and backend services
+* Writing unit tests and integration tests for max coverage
+* Improve the design of the code as the product evolves
+* Deploy and test code to ensure no defects
+* Build out restful apis and consume 3rd party apis
+* Work with business operations to turn requirements into technical solutions
+
+### Experience
+
+* 5+ years of professional experience using C# and .Net framework
+* 5+ years experience with WPF and Winforms
+* 2+ years basic knowledge of JavaScript frameworks like, React, or JQuery
+* HTML5 CSS, DOM traversal/manipulation, event capturing
+* Familiarity with Ajax, partial page updates, and async request handling
+* Experience working in an agile scrum development team
+* Excellent communicator, amazing at documentation
+* Knowledge of SQL Server is a plus
+* Knowledge of AWS Elastic Beanstalk is a plus
+
+</details>
 
 
 ## SQL Engineer
