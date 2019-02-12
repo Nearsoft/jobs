@@ -52,7 +52,7 @@ As a Senior C# Developer, you will enhance our advisor technology using C#, HTML
 
 * 5+ years of professional experience using C# and .NET framework
 * 5+ years experience with WPF and WinForms
-* 2+ years basic knowledge of JavaScript frameworks like, React.js, or JQuery
+* 2+ years basic knowledge of JavaScript frameworks like, React.js, or jQuery
 * HTML5, CSS, DOM traversal/manipulation, event capturing
 * Familiarity with Ajax, partial page updates, and async request handling
 * Experience working in an agile scrum development team
