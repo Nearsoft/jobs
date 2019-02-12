@@ -30,7 +30,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
-## C# Developer
+## C# Engineer
 
 <details><summary>Read more</summary>
 
