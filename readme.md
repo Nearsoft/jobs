@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [C# Developer](#C#-developer)
+* [C # Developer](#C#-developer)
 * [SQL Engineer](#sql-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [QA Automation Engineer](#qa-automation-engineer)
