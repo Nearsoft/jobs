@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [C # Developer](#C-#-developer)
+* [C# Engineer](#c-engineer)
 * [SQL Engineer](#sql-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [QA Automation Engineer](#qa-automation-engineer)
@@ -30,32 +30,30 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
-
-
 ## C# Developer
 
 <details><summary>Read more</summary>
-  
-  📈
-  
-  As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
+
+📈
+
+As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
 
 ### Responsibilities
 
-* Work with a team of software engineers delivering projects as the “go to guy”
-* Develop & maintain customer facing web products and backend services
+* Work with a team of software engineers delivering projects as the “go to person”
+* Develop & maintain customer facing web products and Back End services
 * Writing unit tests and integration tests for max coverage
 * Improve the design of the code as the product evolves
 * Deploy and test code to ensure no defects
-* Build out restful apis and consume 3rd party apis
+* Build out restful apis and consume third-party APIs
 * Work with business operations to turn requirements into technical solutions
 
 ### Experience
 
 * 5+ years of professional experience using C# and .Net framework
-* 5+ years experience with WPF and Winforms
-* 2+ years basic knowledge of JavaScript frameworks like, React, or JQuery
-* HTML5 CSS, DOM traversal/manipulation, event capturing
+* 5+ years experience with WPF and WinForms
+* 2+ years basic knowledge of JavaScript frameworks like, React.js, or JQuery
+* HTML5, CSS, DOM traversal/manipulation, event capturing
 * Familiarity with Ajax, partial page updates, and async request handling
 * Experience working in an agile scrum development team
 * Excellent communicator, amazing at documentation
@@ -68,16 +66,18 @@ If an opening has caught your eye feel free to contact us at
 ## SQL Engineer
 
 <details><summary>Read more</summary>
-  
-  📊
-  
+
+📊
+
 ### Responsibilities
+
 * Create ETL process to extract data from relational database (SQL Server primarily)
 * Load and transform data into Vertica
 * Develop process to extract change records from source systems
 * Experience working with and parsing JSON and XML
 
 ### Required Skills
+
 * Strong ETL experience
 * Strong SQL experience
 * Strong relational database experience
@@ -85,6 +85,7 @@ If an opening has caught your eye feel free to contact us at
 * C# experience
 
 ### Desired Skills
+
 * SQL Server T-SQL
 * SQL Server Integration Services
 * Vertica/PostgreSQL
@@ -95,9 +96,9 @@ If an opening has caught your eye feel free to contact us at
 ## Software Engineer in Test
 
 <details><summary>Read more</summary>
-  
- ✈️
- 
+
+✈️
+
 The QA Automation Engineer will be a member of QA team that is responsible for creating reusable test software aimed to improve functional test coverage, schedule efficiency and reduce manual test dependency.
 The person filling this position will be recognized as a key individual contributor with technical focus on providing QA automation solutions and functional QA support.
 Solid software engineering background and previous test automation experience is must.
@@ -228,7 +229,7 @@ As we grow our team, we are looking for someone that can broaden our expertise i
 
 ### Good to have
 
-* Some experience with front end technologies - JavaScript, CSS, AngularJS, etc.
+* Some experience with Front End technologies - JavaScript, CSS, AngularJS, etc.
 * Experience with AWS services and technologies
 * Experience in a SaaS environment that has an Agile development process is a huge plus
 
@@ -300,7 +301,7 @@ If you're motivated by the conviction that people working full time should have 
 * Full-Stack Web/Mobile development with a variety of languages including but not limited to Python, JavaScript, HTML, etc.
 * Implement web or mobile interfaces using React.js and React Native
 * Work closely with our Product Manager and Designer to define feature specifications and build the next generation of products leveraging frameworks such as Django, React.js, and React Native
-* Work closely with operations and infrastructure to build and scale back end services
+* Work closely with operations and infrastructure to build and scale Back End services
 * Build report interfaces and data feeds
 
 ### What we're looking for
@@ -347,8 +348,6 @@ This role will accelerate our Front End development by building new and exciting
 * Node.js
 
 </details>
-
-
 
 ## Credit
 
