@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Frontend Developer](#frontend-developer)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
 * [SQL Engineer](#sql-engineer)
@@ -30,6 +31,33 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Frontend Developer 
+
+<details><summary>Read more</summary>
+
+🏋🏻
+
+We build the frontend components of our web app and use established practices to ensure high quality code. We make the most of modern tools like React, Redux, and SASS, and we ensure our UIs work well on all screen sizes. Some of us specialize in CSS, some in front-end infrastructure, but all of us are JavaScript pros and full-stack engineers.
+
+### Responsibilities
+
+* Collaborate with Product Managers to iterate on the design and implementation of our product
+* Build efficient and reusable front-end systems and abstractions
+* Find and address performance issues
+* Participate in design and code reviews
+* Maintain high code coverage via unit tests and acceptance tests
+
+### Requirements
+
+* Strong knowledge of JavaScript
+* Experience with modern JavaScript libraries and tooling
+* Knowledge of HTML, CSS, and related web technologies
+* Strong Computer Science fundamentals
+* Awareness of cross-browser compatibility issues and client-side performance considerations
+
+</details>
 
 
 ## UX Designer
