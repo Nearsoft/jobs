@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Frontend Developer](#frontend-developer)
+* [Front End Engineer](#front-end-engineer)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
 * [SQL Engineer](#sql-engineer)
@@ -33,18 +33,20 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## Frontend Developer 
+## Front End Engineer
 
 <details><summary>Read more</summary>
 
 🏋🏻
 
-We build the frontend components of our web app and use established practices to ensure high quality code. We make the most of modern tools like React, Redux, and SASS, and we ensure our UIs work well on all screen sizes. Some of us specialize in CSS, some in front-end infrastructure, but all of us are JavaScript pros and full-stack engineers.
+We build the Front End components of our Web App and use established practices to ensure high quality code.
+We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
+Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript experts and Full-Stack engineers.
 
 ### Responsibilities
 
 * Collaborate with Product Managers to iterate on the design and implementation of our product
-* Build efficient and reusable front-end systems and abstractions
+* Build efficient and reusable Front End systems and abstractions
 * Find and address performance issues
 * Participate in design and code reviews
 * Maintain high code coverage via unit tests and acceptance tests
@@ -53,7 +55,7 @@ We build the frontend components of our web app and use established practices to
 
 * Strong knowledge of JavaScript
 * Experience with modern JavaScript libraries and tooling
-* Knowledge of HTML, CSS, and related web technologies
+* Knowledge of HTML, CSS, and related Web technologies
 * Strong Computer Science fundamentals
 * Awareness of cross-browser compatibility issues and client-side performance considerations
 
