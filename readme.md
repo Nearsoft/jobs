@@ -41,7 +41,7 @@ If an opening has caught your eye feel free to contact us at
 
 We build the Front End components of our Web App and use established practices to ensure high quality code.
 We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
-Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript experts and Full-Stack engineers.
+Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript experts and Full-Stack Engineers.
 
 ### Responsibilities
 
