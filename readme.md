@@ -18,7 +18,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Front End Engineer](#front-end-engineer)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
-* [SQL Engineer](#sql-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Full-Stack .NET Engineer](#full-stack-net-engineer)
@@ -148,36 +147,6 @@ As a Senior C# Developer, you will enhance our advisor technology using C#, HTML
 * Excellent communicator, amazing at documentation
 * Knowledge of SQL Server is a plus
 * Knowledge of AWS Elastic Beanstalk is a plus
-
-</details>
-
-
-## SQL Engineer
-
-<details><summary>Read more</summary>
-
-📊
-
-### Responsibilities
-
-* Create ETL process to extract data from relational database (SQL Server primarily)
-* Load and transform data into Vertica
-* Develop process to extract change records from source systems
-* Experience working with and parsing JSON and XML
-
-### Required Skills
-
-* Strong ETL experience
-* Strong SQL experience
-* Strong relational database experience
-* Strong verbal and written communication skills
-* C# experience
-
-### Desired Skills
-
-* SQL Server T-SQL
-* SQL Server Integration Services
-* Vertica/PostgreSQL
 
 </details>
 
