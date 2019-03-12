@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Back End Java Engineer](#back-end-java-engineer)
 * [Front End Engineer](#front-end-engineer)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
@@ -30,6 +31,31 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
+
+## Back end Java Engineer 
+
+<details><summary>Read more</summary>
+
+💻
+
+### Requirements
+
+* 3 years as a back end engineer is required.
+* Knowledge on Python platform. 
+* Rest Services.
+* Good practices (clean code)
+* Architecture knowledge to identify opportunities for scaling.
+* Strong communication skills. 
+
+### Nice to have
+
+* Messaging Queue at least as concept (ActiveMQ)
+* AWS experience or equivalent cloud computing. 
+* MongoDB, DynamoDB
+* Redis
+* JavaRx
+
+</details>
 
 ## Front End Engineer
 
