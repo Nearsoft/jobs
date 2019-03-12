@@ -38,24 +38,18 @@ If an opening has caught your eye feel free to contact us at
 
 💻
 
-### Requirements
+We are looking for talented, enthusiastic and creative engineers to build features and scale our real time communication system back end.
 
-* 3 years as a back end engineer is required.
-* Knowledge on Python platform. 
-* Rest Services.
-* Good practices (clean code)
-* Architecture knowledge to identify opportunities for scaling.
-* Strong communication skills. 
+### Ideal Qualifications
 
-### Nice to have
-
-* Messaging Queue at least as concept (ActiveMQ)
-* AWS experience or equivalent cloud computing. 
-* MongoDB, DynamoDB
-* Redis
-* JavaRx
+* 5+ years of software development experience, ideally using Java or Python
+* Strong understanding of databases and NoSQL (MongoDB, DynamoDB)
+* Experience in building and scaling systems (AWS)
+* Used to a fast paced and collaborative environment where every voice has an impact on the product
+* Bachelor's degree in computer science and/or relevant work experience
 
 </details>
+
 
 ## Front End Engineer
 
