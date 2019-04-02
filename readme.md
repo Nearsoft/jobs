@@ -22,7 +22,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Software Engineer in Test](#software-engineer-in-test)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Full-Stack .NET Engineer](#full-stack-net-engineer)
-* [Automation Engineer](#automation-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
 * [Front End Engineer](#front-end-engineer)
 
@@ -272,49 +271,6 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 * Great knowledge and experience in JavaScript
 * Experience with Git
 * Microservices architecture
-
-</details>
-
-
-## Automation Engineer
-
-<details><summary>Read more</summary>
-
-👓
-
-We are looking for developers who are adept at building systems and environments to test software and make it more secure, scalable and reliable.
-Responsibilities include expanding our automated testing and deployment framework while designing and implementing functional, system and performance tests.
-
-### Responsibilities
-
-* Cross Functional teams collaboration to understand scope and use cases for product features and deliver products that are well tested
-* Maintain & improve existing automated test scripts, and continue to expand our test coverage
-* Responsible for functional and system testing of our products
-* Design test plans, test matrix and test cases for enterprise-level AI web applications, and be the key product quality gate keeper of our releases
-* Maintain and expand regression, acceptance test scenarios
-* Troubleshoot and debug automation unsuccessful jobs
-* Diagnose problems to report detailed bugs in JIRA, and own test reports (i.e. bug trends, release test report, etc.)
-
-### Qualifications
-
-* 5+ years software industry experience
-* 3+ years experience in Software Test Engineering and Automation
-* Familiarity with Selenium and Jenkins
-* Familiarity with Object Oriented Programming using Python
-* Hands-on experience working with relational databases (PostgreSQL)
-* Experience testing software at REST API level
-
-### Good to have
-
-* Experience with AWS services and technologies
-* Experience with Atlassian products like JIRA
-* Experience in a SaaS environment that has an Agile development process is a huge plus
-
-### Skills & tools
-
-* JavaScript, Database & SQL (PostgreSQL)
-* Amazon Web Services (AWS), REST API
-* Jenkins, Selenium, Test case management tool (TestRail), JIRA
 
 </details>
 
