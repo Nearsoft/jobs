@@ -16,8 +16,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 * [Back End Java Engineer](#back-end-java-engineer)
-* [Back End Engineer](#java-engineer)
+* [Back End Engineer](#back-end-engineer)
 * [Front End Engineer](#front-end-engineer)
+* [Ruby Engineer](#ruby-engineer)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
@@ -106,6 +107,40 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 
 </details>
 
+## Ruby Engineer 
+
+♻️
+
+<details><summary>Read more</summary>
+ 
+### The Ideal Candidate:
+
+You enjoy thinking about and working on enterprise-level data management systems. You are looking for a company at the epicenter of a rapidly-developing machine learning industry and are driven by a hunger to learn and develop your skills. You are passionate about working on a project that contributes meaningfully to the further development of technology and to humanity as a whole. You care about best practices and you choose the tools you work with judiciously and deliberately. You have strong analytical skills, an unwavering commitment to quality, an open-minded and collaborative work ethic, and cutting-edge coding skills. 
+
+## Responsibilities
+
+* Build & maintain low-latency, high-scalability data pipelines in service of our human-in-the-loop machine learning workflows platform. 
+* Build & maintain adapter services for ingesting data from a wide variety of streaming and batch-based sources. 
+* Build & maintain services for throttling, backpressure, schema management, and normalization. 
+* Implement QA and testing strategies. Promote best practices for writing maintainable code. 
+* Ability/readiness to develop excellent working relationships with a diverse team of peers across organizations (Engineering, QA, DevOps, Product, Design, et al). 
+
+### Competencies: 
+
+* Software development experience in cloud-based, multi-tiered, enterprise application systems. 
+* Managing data platforms/engineering using enterprise service bus or message-based architectures, such as Kafka, Redis, RabbitMQ, or similar.
+* 3+ years production environment-level experience with Ruby on Rails application development. 
+* Hands-on experience with developing microservices and successfully building products using SOA. 
+* Hands-on experience with event-sourcing and functional programming patterns. 
+* Hands-on experience with AWS, Git, Docker, Gradle, Jenkins, Jira, and Confluence. 
+
+### Nice-to-have Competencies: 
+
+* Familiarity with batch processing and workflow tools such as Airflow, Luigi, Celery, or others
+* Prior production experience with Python, Java, and/or Scala. 
+* Familiarity with basic machine learning concepts. 
+
+</details>
 
 ## UX Designer
 
