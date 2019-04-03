@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
 * [Front End Engineer](#front-end-engineer)
-* [Ruby Engineer](#ruby-engineer)
+* [Kafka Dev](#kafka-dev)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
@@ -107,7 +107,7 @@ Some of us specialize in CSS, some in Front End infrastructure, but all of us ar
 
 </details>
 
-## Ruby Engineer 
+## Kafka Dev 
 
 ♻️
 
