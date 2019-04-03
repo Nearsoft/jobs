@@ -70,6 +70,8 @@ As a Senior Backend Engineer you will craft new functionality with a dedicated t
 * Maintain high code coverage via unit tests and acceptance tests
 * Find and address performance issues
 
+</details>
+
 ### Requirements
 
 * Experience with Java or Python
