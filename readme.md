@@ -13,8 +13,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
-<!-- yaspeller ignore:start -->
-
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
 * [Front End Engineer](#front-end-engineer)
@@ -283,10 +281,6 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 
 ### Responsibilities
 
-<!-- yaspeller ignore:start -->
-<!--alex disable execution-->
-<!-- yaspeller ignore:end -->
-
 * Responsible for organizing and overseeing testing for custom lending solutions
 * Specific duties include: evaluating project specifications and requirements; gaining SME level knowledge of solutions
 * Identifying gaps between implementation and the customer system; providing QA deliverables; supporting QA testing team during test execution phases
@@ -296,10 +290,6 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 * Complying and executing complex SQL queries in order to perform database testing; Understanding, and where needed, coding testing components in Python/Perl/Java
 * Leading, managing and prioritizing multiple projects in QA
 * Performing deployments to QA and validating deployments to production environments; and supporting continuous improvement through the use of tools and improved process
-
-<!-- yaspeller ignore:start -->
-<!--alex enable execution-->
-<!-- yaspeller ignore:end -->
 
 ### Desired Skills/Requirements
 
