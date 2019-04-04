@@ -15,7 +15,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
-* [Front End Engineer](#front-end-engineer)
 * [Kafka Dev](#kafka-dev)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
@@ -79,33 +78,6 @@ As a Senior Backend Engineer you will craft new functionality with a dedicated t
 * A strong understanding of RESTful API design
 * Knowledge of web frameworks such as Dropwizard, Flask, and Django a plus.
 
-## Front End Engineer
-
-<details><summary>Read more</summary>
-
-🏋🏻
-
-We build the Front End components of our Web App and use established practices to ensure high quality code.
-We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
-Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript experts and Full-Stack Engineers.
-
-### Responsibilities
-
-* Collaborate with Product Managers to iterate on the design and implementation of our product
-* Build efficient and reusable Front End systems and abstractions
-* Find and address performance issues
-* Participate in design and code reviews
-* Maintain high code coverage via unit tests and acceptance tests
-
-### Requirements
-
-* Strong knowledge of JavaScript
-* Experience with modern JavaScript libraries and tooling
-* Knowledge of HTML, CSS, and related Web technologies
-* Strong Computer Science fundamentals
-* Awareness of cross-browser compatibility issues and client-side performance considerations
-
-</details>
 
 ## Kafka Dev 
 
