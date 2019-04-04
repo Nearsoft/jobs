@@ -13,9 +13,11 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 ## Our openings
 
+<!-- yaspeller ignore:start -->
+
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
-* [Kafka Dev](#kafka-dev)
+* [Kafka Engineer](#kafka-engineer)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
@@ -30,13 +32,13 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## Backend Java Engineer 
+## Back End Java Engineer
 
 <details><summary>Read more</summary>
 
 💻
 
-We are looking for talented, enthusiastic and creative engineers to build features and scale our real time communication system backend.
+We are looking for talented, enthusiastic and creative engineers to build features and scale our real time communication system back end.
 
 ### Ideal Qualifications
 
@@ -48,69 +50,70 @@ We are looking for talented, enthusiastic and creative engineers to build featur
 
 </details>
 
-## Backend Engineer 
+## Back End Engineer
 
 <details><summary>Read more</summary>
-  
+
 🏋🏻
 
-We're looking for an innovative backend engineer with a passion for designing robust and easy to use APIs and services.  You’re comfortable tackling efforts solo or working in groups, both big and small.  Fast-paced environments don’t phase you, and you seek feedback because it has the ability to turn good work into great work. You know the best software is created through collaboration and iteration, which is exactly why you’re looking for the right opportunity, and the right team, to expand your experience.
+We're looking for an innovative Back End Engineer with a passion for designing robust and easy to use APIs and services.
+You’re comfortable tackling efforts solo or working in groups, both big and small.
+Fast-paced environments don’t phase you, and you seek feedback because it has the ability to turn good work into great work.
+You know the best software is created through collaboration and iteration, which is exactly why you’re looking for the right opportunity, and the right team, to expand your experience.
 
-
-As a Senior Backend Engineer you will craft new functionality with a dedicated team of skilled individuals. You like to ship software early and often, you value simplicity, and strive to eliminate unnecessary complexity.
-
+As a Senior Back End Engineer you will craft new functionality with a dedicated team of skilled individuals.
+You like to ship software early and often, you value simplicity, and strive to eliminate unnecessary complexity.
 
 ### Responsibilities
 
 * Collaborate closely with Product, Design, and QA to iterate on the design, implementation, deployment and monitoring of our product
-* Build efficient and reusable backend systems
+* Build efficient and reusable back end systems
 * Provide technical leadership and mentoring for more junior engineers
 * Participate in design and code reviews
 * Maintain high code coverage via unit tests and acceptance tests
 * Find and address performance issues
-
-</details>
 
 ### Requirements
 
 * Experience with Java or Python
 * Bachelor’s degree in Computer Science, or equivalent, and at least 5 years of professional programming experience
 * A strong understanding of RESTful API design
-* Knowledge of web frameworks such as Dropwizard, Flask, and Django a plus.
+* Knowledge of Web frameworks such as Dropwizard, Flask, and Django a plus
 
+</details>
 
-## Kafka Dev 
+## Kafka Engineer
+
+<details><summary>Read more</summary>
 
 ♻️
 
-<details><summary>Read more</summary>
- 
-### The Ideal Candidate:
+### The Ideal Candidate
 
-You enjoy thinking about and working on enterprise-level data management systems. You are looking for a company at the epicenter of a rapidly-developing machine learning industry and are driven by a hunger to learn and develop your skills. You are passionate about working on a project that contributes meaningfully to the further development of technology and to humanity as a whole. You care about best practices and you choose the tools you work with judiciously and deliberately. You have strong analytical skills, an unwavering commitment to quality, an open-minded and collaborative work ethic, and cutting-edge coding skills. 
+You enjoy thinking about and working on enterprise-level data management systems. You are looking for a company at the epicenter of a rapidly-developing machine learning industry and are driven by a hunger to learn and develop your skills. You are passionate about working on a project that contributes meaningfully to the further development of technology and to humanity as a whole. You care about best practices and you choose the tools you work with judiciously and deliberately. You have strong analytical skills, an unwavering commitment to quality, an open-minded and collaborative work ethic, and cutting-edge coding skills.
 
-## Responsibilities
+### Responsibilities
 
-* Build & maintain low-latency, high-scalability data pipelines in service of our human-in-the-loop machine learning workflows platform. 
-* Build & maintain adapter services for ingesting data from a wide variety of streaming and batch-based sources. 
-* Build & maintain services for throttling, backpressure, schema management, and normalization. 
-* Implement QA and testing strategies. Promote best practices for writing maintainable code. 
-* Ability/readiness to develop excellent working relationships with a diverse team of peers across organizations (Engineering, QA, DevOps, Product, Design, et al). 
+* Build & maintain low-latency, high-scalability data pipelines in service of our human-in-the-loop machine learning workflows platform
+* Build & maintain adapter services for ingesting data from a wide variety of streaming and batch-based sources
+* Build & maintain services for throttling, backpressure, schema management, and normalization
+* Implement QA and testing strategies. Promote best practices for writing maintainable code
+* Ability/readiness to develop excellent working relationships with a diverse team of peers across organizations (Engineering, QA, DevOps, Product, Design, and others)
 
-### Competencies: 
+### Competencies
 
-* Software development experience in cloud-based, multi-tiered, enterprise application systems. 
-* Managing data platforms/engineering using enterprise service bus or message-based architectures, such as Kafka, Redis, RabbitMQ, or similar.
-* 3+ years production environment-level experience with Ruby on Rails application development. 
-* Hands-on experience with developing microservices and successfully building products using SOA. 
-* Hands-on experience with event-sourcing and functional programming patterns. 
-* Hands-on experience with AWS, Git, Docker, Gradle, Jenkins, Jira, and Confluence. 
+* Software development experience in cloud-based, multi-tiered, enterprise application systems
+* Managing data platforms/engineering using enterprise service bus or message-based architectures, such as Kafka, Redis, RabbitMQ, or similar
+* 3+ years production environment-level experience with Ruby on Rails application development
+* Hands-on experience with developing microservices and successfully building products using SOA
+* Hands-on experience with event-sourcing and functional programming patterns
+* Hands-on experience with AWS, Git, Docker, Gradle, Jenkins, JIRA, and Confluence
 
-### Nice-to-have Competencies: 
+### Nice-to-have Competencies
 
 * Familiarity with batch processing and workflow tools such as Airflow, Luigi, Celery, or others
-* Prior production experience with Python, Java, and/or Scala. 
-* Familiarity with basic machine learning concepts. 
+* Prior production experience with Python, Java, and/or Scala
+* Familiarity with basic machine learning concepts
 
 </details>
 
@@ -255,6 +258,10 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 
 ### Responsibilities
 
+<!-- yaspeller ignore:start -->
+<!--alex disable execution-->
+<!-- yaspeller ignore:end -->
+
 * Responsible for organizing and overseeing testing for custom lending solutions
 * Specific duties include: evaluating project specifications and requirements; gaining SME level knowledge of solutions
 * Identifying gaps between implementation and the customer system; providing QA deliverables; supporting QA testing team during test execution phases
@@ -264,6 +271,10 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 * Complying and executing complex SQL queries in order to perform database testing; Understanding, and where needed, coding testing components in Python/Perl/Java
 * Leading, managing and prioritizing multiple projects in QA
 * Performing deployments to QA and validating deployments to production environments; and supporting continuous improvement through the use of tools and improved process
+
+<!-- yaspeller ignore:start -->
+<!--alex enable execution-->
+<!-- yaspeller ignore:end -->
 
 ### Desired Skills/Requirements
 
