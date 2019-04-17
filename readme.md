@@ -298,8 +298,10 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 
 ### Skills
 
-* C# and .NET ecosystem
-* Node.js 8
+* Strong C# and .NET ecosystem
+* Strong software patterns
+* Able to have fluent english conversations
+* Proficiency with Node.js 
 * ES6
 * Inferno.js
 * Bootstrap
