@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [React Engineer](#react-engineer)
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
 * [Kafka Engineer](#kafka-engineer)
@@ -30,6 +31,33 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## React Java Engineer
+
+
+<details><summary>Read more</summary>
+  
+  🛢
+  
+### Requiered Skills 
+
+* 5+ years of software development experience
+* 2+ years of ReactJS development
+* Strong experience with modern and vanilla JavaScript techniques including ReactJS, Redux, and ES6/ES7 features
+* Familiarity connecting to Microservices, REST APIs, GraphQL APIs, and other database-driven web applications
+* Experience with third-party libraries and APIs
+* Modern web security methodologies & familiarity with both relational databases and non-relational databases (NoSQL, Elastic Search, Time Based DB)
+* Asynchronous programming including Promises, async/await, and ES7 generators, along with state management using Redux and Observables
+* Must be living in Hermosillo or willing to relocate
+
+### Preferred skills & Experience 
+
+* Server-side development (Node.js), Docker experience a plus
+* Comfort with modern git and GitHub workflows
+* Familiar with command line tools with Bash/ZSH (Linux or Mac)
+
+</details>
 
 
 ## Back End Java Engineer
