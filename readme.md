@@ -33,7 +33,7 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## React Java Engineer
+## React Engineer
 
 
 <details><summary>Read more</summary>
