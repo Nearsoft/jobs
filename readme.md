@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Senior Wireless Software Developer](#senior-wireless-software-developer)
 * [React Engineer](#react-engineer)
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
@@ -33,8 +34,35 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## React Engineer
+## Senior Wireless Software Developer 
 
+<details><summary>Read more</summary>
+  
+  ⭐️
+  
+ ### Description
+ 
+* Design and develop software on Access point for our market verticals
+* Create and develop wireless protocols on the very latest Access Point products
+* Contribute to functional specifications and product 
+* Design/Develop software independently and rapidly
+* Develop test strategy/programs for software that you develop
+* Strong desire to learn new tools and technology is an absolute must
+
+### Qualifications
+
+* Experience in C, C++ and other modern programming languages
+* Experience with Networking, WiFi, 802.11, WLAN protocols and chipsets
+* Experience with Embedded OS is a must, Linux experience is a plus
+* Strong problem solving and software development/troubleshooting skills
+* Strong in data structures/algorithms
+* Typically requires MSEE/CS combined with 5+ years of related 
+* Experience, or BSEE/CS combined with 7+ related experience
+
+</details>
+
+
+## React Engineer
 
 <details><summary>Read more</summary>
   
