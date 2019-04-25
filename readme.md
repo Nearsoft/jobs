@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [DevOps Azure Engineer](#devops-azure-engineer)
+* [DevOps Engineer](#devops-engineer)
 * [Senior Wireless Software Developer](#senior-wireless-software-developer)
 * [React Engineer](#react-engineer)
 * [Back End Java Engineer](#back-end-java-engineer)
@@ -34,6 +36,48 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
+## DevOps Azure Engineer
+
+
+<details><summary>Read more</summary>
+  
+  ⭐️
+  
+  ### Skills & Responsibilities
+  
+ * Deployment of .NET & JS applications in cloud platforms, such as MS Azure, Azure Service Fabric & Microservices
+ * Experience provisioning & configuring cloud infrastructure in Azure such as VMs, VLAN, VPN, DBs, Load balancers
+ * Define, document and distribute Release Plans, Release Checklists, Process Diagrams, Azure Infrastructure Diagrams
+ * Developing tools, scripts, or processes to improve efficiency, quality or reliability of cloud application deployments
+ * Experience with source code management tools such as Git
+ * Experience using Azure DevOps (VSTS/TFS)
+ 
+ </details>
+ 
+ 
+ ## DevOps Engineer
+ 
+ <details><summary>Read more</summary>
+  
+  ⭐️
+  
+ * DevOps and system administration experience
+ * Hands on development experience in one or more languages (Python, Node.js preferred) 
+ * Reasonable knowledge of Linux administration
+ * Experience with continuous integration (Jenkins)
+ * Proficient in scripting languages (Python, Perl, Bash, etc.) and infrastructure provisioning tools (SaltStack, Terraform, Chef or Puppet)
+ * Strong Linux administration (e.g. Ubuntu) and scripting (e.g. Shell scripting, Python) 
+ * Experience administering application servers, web servers, and databases (Jetty, NGINX, PostgreSQL, etc.)
+ * Strong working knowledge of Amazon Web Services
+ * Expertise in Docker and Kubernetes 
+ * Detail-oriented working style & excellent analytical skills
+ * A quick learner who thrives in an agile environment
+ * Soft skills, e.g. team player, clear and concise communication, problem solving
+ * Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication
+ 
+  </details>
+  
+  
 ## Senior Wireless Software Developer 
 
 <details><summary>Read more</summary>
