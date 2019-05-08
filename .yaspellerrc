@@ -10,7 +10,7 @@
     ".Trashes",
     "node_modules"
   ],
-  "format": "madown",
+  "format": "markdown",
   "lang": "en",
   "fileExtensions": [
     ".md"
@@ -74,6 +74,7 @@
     "ElastiCache",
     "Elasticsearch",
     "Ember.js",
+    "Eng",
     "ES2015",
     "ES2016",
     "ES2017",
@@ -131,6 +132,7 @@
     "LoopBack",
     "Luigi",
     "Magento",
+    "macOS",
     "Maven",
     "Memcached",
     "mentoring",
@@ -153,6 +155,7 @@
     "NoSQL",
     "NUnit",
     "OAuth",
+    "observable",
     "OkHttp",
     "OOD",
     "OOAD",
@@ -240,6 +243,7 @@
     "WebLinc",
     "webpack",
     "WinForms",
+    "WLAN",
     "WPF",
     "XAML",
     "Xcode",
@@ -248,6 +252,7 @@
     "XP",
     "XStudio",
     "Zapier",
-    "Zeplin"
+    "Zeplin",
+    "ZSH"
   ]
 }

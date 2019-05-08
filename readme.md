@@ -17,7 +17,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 * [DevOps Azure Engineer](#devops-azure-engineer)
 * [DevOps Engineer](#devops-engineer)
-* [Senior Wireless Software Developer](#senior-wireless-software-developer)
+* [Senior Wireless Software Engineer](#senior-wireless-software-engineer)
 * [React Engineer](#react-engineer)
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
@@ -38,60 +38,59 @@ If an opening has caught your eye feel free to contact us at
 
 ## DevOps Azure Engineer
 
-
 <details><summary>Read more</summary>
-  
+
   ⭐️
-  
-  ### Skills & Responsibilities
-  
- * Deployment of .NET & JS applications in cloud platforms, such as MS Azure, Azure Service Fabric & Microservices
- * Experience provisioning & configuring cloud infrastructure in Azure such as VMs, VLAN, VPN, DBs, Load balancers
- * Define, document and distribute Release Plans, Release Checklists, Process Diagrams, Azure Infrastructure Diagrams
- * Developing tools, scripts, or processes to improve efficiency, quality or reliability of cloud application deployments
- * Experience with source code management tools such as Git
- * Experience using Azure DevOps (VSTS/TFS)
- 
+
+### Skills & Responsibilities
+
+* Deployment of .NET & JavaScript applications in cloud platforms, such as MS Azure, Azure Service Fabric & Microservices
+* Experience provisioning & configuring cloud infrastructure in Azure such as VMs, VLAN, VPN, databases, load balancers
+* Define, document and distribute release plans, release checklists, process diagrams, Azure infrastructure diagrams
+* Developing tools, scripts, or processes to improve efficiency, quality or reliability of cloud application deployments
+* Experience with source code management tools such as Git
+* Experience using Azure DevOps (Visual Studio Team Services/Team Foundation Server)
+
  </details>
- 
- 
- ## DevOps Engineer
- 
- <details><summary>Read more</summary>
-  
-  ⭐️
-  
- * DevOps and system administration experience
- * Hands on development experience in one or more languages (Python, Node.js preferred) 
- * Reasonable knowledge of Linux administration
- * Experience with continuous integration (Jenkins)
- * Proficient in scripting languages (Python, Perl, Bash, etc.) and infrastructure provisioning tools (SaltStack, Terraform, Chef or Puppet)
- * Strong Linux administration (e.g. Ubuntu) and scripting (e.g. Shell scripting, Python) 
- * Experience administering application servers, web servers, and databases (Jetty, NGINX, PostgreSQL, etc.)
- * Strong working knowledge of Amazon Web Services
- * Expertise in Docker and Kubernetes 
- * Detail-oriented working style & excellent analytical skills
- * A quick learner who thrives in an agile environment
- * Soft skills, e.g. team player, clear and concise communication, problem solving
- * Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication
- 
-  </details>
-  
-  
-## Senior Wireless Software Developer 
+
+
+## DevOps Engineer
 
 <details><summary>Read more</summary>
-  
+
   ⭐️
-  
- ### Description
- 
+
+* DevOps and system administration experience
+* Hands on development experience in one or more languages (Python, Node.js preferred)
+* Reasonable knowledge of Linux administration
+* Experience with continuous integration (Jenkins)
+* Proficient in scripting languages (Python, Perl, Bash, etc.) and infrastructure provisioning tools (SaltStack, Terraform, Chef or Puppet)
+* Strong Linux administration (e.g. Ubuntu) and scripting (e.g. Shell scripting, Python)
+* Experience administering application servers, web servers, and databases (Jetty, NGINX, PostgreSQL, etc.)
+* Strong working knowledge of Amazon Web Services
+* Expertise in Docker and Kubernetes
+* Detail-oriented working style & excellent analytical skills
+* A quick learner who thrives in an agile environment
+* Soft skills, e.g. team player, clear and concise communication, problem solving
+* Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication
+
+</details>
+
+
+## Senior Wireless Software Engineer
+
+<details><summary>Read more</summary>
+
+  ⭐️
+
+### Description
+
 * Design and develop software on Access point for our market verticals
 * Create and develop wireless protocols on the very latest Access Point products
-* Contribute to functional specifications and product 
+* Contribute to functional specifications and product
 * Design/Develop software independently and rapidly
 * Develop test strategy/programs for software that you develop
-* Strong desire to learn new tools and technology is an absolute must
+* Strong eagerness to learn new tools and technology is an absolute must
 
 ### Qualifications
 
@@ -100,8 +99,8 @@ If an opening has caught your eye feel free to contact us at
 * Experience with Embedded OS is a must, Linux experience is a plus
 * Strong problem solving and software development/troubleshooting skills
 * Strong in data structures/algorithms
-* Typically requires MSEE/CS combined with 5+ years of related 
-* Experience, or BSEE/CS combined with 7+ related experience
+* Typically requires M.Eng./C.S. combined with 5+ years of related
+* Experience, or B.Eng./C.S. combined with 7+ related experience
 
 </details>
 
@@ -109,25 +108,25 @@ If an opening has caught your eye feel free to contact us at
 ## React Engineer
 
 <details><summary>Read more</summary>
-  
-  🛢
-  
-### Requiered Skills 
 
-* 5+ years of software development experience
-* 2+ years of ReactJS development
-* Strong experience with modern and vanilla JavaScript techniques including ReactJS, Redux, and ES6/ES7 features
+  🛢
+
+### Required Skills
+
+* 5+ years of Software development experience
+* 2+ years of React.js development
+* Strong experience with modern and vanilla JavaScript techniques including React.js, Redux, and ES6/ES7 features
 * Familiarity connecting to Microservices, REST APIs, GraphQL APIs, and other database-driven web applications
 * Experience with third-party libraries and APIs
 * Modern web security methodologies & familiarity with both relational databases and non-relational databases (NoSQL, Elastic Search, Time Based DB)
-* Asynchronous programming including Promises, async/await, and ES7 generators, along with state management using Redux and Observables
+* Asynchronous programming including Promises, async/await, and ES7 generators, along with state management using Redux and observables
 * Must be living in Hermosillo or willing to relocate
 
-### Preferred skills & Experience 
+### Preferred skills & Experience
 
 * Server-side development (Node.js), Docker experience a plus
 * Comfort with modern git and GitHub workflows
-* Familiar with command line tools with Bash/ZSH (Linux or Mac)
+* Familiar with command line tools with Bash/ZSH (Linux or macOS)
 
 </details>
 
@@ -190,7 +189,11 @@ You like to ship software early and often, you value simplicity, and strive to e
 
 ### The Ideal Candidate
 
-You enjoy thinking about and working on enterprise-level data management systems. You are looking for a company at the epicenter of a rapidly-developing machine learning industry and are driven by a hunger to learn and develop your skills. You are passionate about working on a project that contributes meaningfully to the further development of technology and to humanity as a whole. You care about best practices and you choose the tools you work with judiciously and deliberately. You have strong analytical skills, an unwavering commitment to quality, an open-minded and collaborative work ethic, and cutting-edge coding skills.
+You enjoy thinking about and working on enterprise-level data management systems.
+You are looking for a company at the epicenter of a rapidly-developing machine learning industry and are driven by a hunger to learn and develop your skills.
+You are passionate about working on a project that contributes meaningfully to the further development of technology and to humanity as a whole.
+You care about best practices and you choose the tools you work with judiciously and deliberately.
+You have strong analytical skills, an unwavering commitment to quality, an open-minded and collaborative work ethic, and cutting-edge coding skills.
 
 ### Responsibilities
 
@@ -376,7 +379,7 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 <!--alex enable execution-->
 <!-- yaspeller ignore:end -->
 
-### Desired Skills/Requirements
+### Requirements
 
 * 2 years of QA Automation experience
 * Proficiency working with client-server layered architecture environment involving front-end consumer clients
@@ -400,8 +403,8 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 
 * Strong C# and .NET ecosystem
 * Strong software patterns
-* Able to have fluent english conversations
-* Proficiency with Node.js 
+* Able to have fluent English conversations
+* Proficiency with Node.js
 * ES6
 * Inferno.js
 * Bootstrap
