@@ -43,7 +43,7 @@ If an opening has caught your eye feel free to contact us at
 
   🌆
   
-  ### Requiered
+  ### Required
   
 * Java Core
 * JavaEE
