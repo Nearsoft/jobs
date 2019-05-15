@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Java Developer](#java-developer)
 * [DevOps Azure Engineer](#devops-azure-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Senior Wireless Software Engineer](#senior-wireless-software-engineer)
