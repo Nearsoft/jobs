@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Java Developer](#java-developer)
+* [Java Engineer](#java-engineer)
 * [DevOps Azure Engineer](#devops-azure-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Senior Wireless Software Engineer](#senior-wireless-software-engineer)
@@ -37,23 +37,23 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## Java Developer
+## Java Engineer
 
 <details><summary>Read more</summary>
 
-  🌆
-  
-  ### Required
-  
+🌆
+
+### Required
+
 * Java Core
 * JavaEE
 * Spring and Spring Boot
 * Microservices
 * T-SQL and Stored Procedures
 * RabbitMQ
-* Webservices REST
+* Web Services REST
 * JSP
-* Javascript
+* JavaScript
 
 ### Nice to have
 
@@ -62,7 +62,7 @@ If an opening has caught your eye feel free to contact us at
 * AWS
 * Spring Cloud
 * Docker
-* Typescript / Angular
+* TypeScript / AngularJS
 
 
 </details>
@@ -72,7 +72,7 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
 
-  ⭐️
+⭐️
 
 ### Skills & Responsibilities
 
@@ -83,14 +83,14 @@ If an opening has caught your eye feel free to contact us at
 * Experience with source code management tools such as Git
 * Experience using Azure DevOps (Visual Studio Team Services/Team Foundation Server)
 
- </details>
+</details>
 
 
 ## DevOps Engineer
 
 <details><summary>Read more</summary>
 
-  ⭐️
+⭐️
 
 * DevOps and system administration experience
 * Hands on development experience in one or more languages (Python, Node.js preferred)
@@ -113,7 +113,7 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
 
-  ⭐️
+⭐️
 
 ### Description
 
@@ -141,7 +141,7 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
 
-  🛢
+🛢
 
 ### Required Skills
 
