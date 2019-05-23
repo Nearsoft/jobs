@@ -38,7 +38,7 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
 
-🌆
+🌆 ##### !RSKT
 
 ### Required
 
