@@ -105,7 +105,7 @@ If an opening has caught your eye feel free to contact us at
 * Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication
 
 </details>
-nea
+
 
 ## React Engineer
 
