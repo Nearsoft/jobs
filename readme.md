@@ -22,6 +22,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
 * [UX Designer](#ux-designer)
+* [UI Designer](#ui-designer)
 * [C# Engineer](#c-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [QA Automation Engineer](#qa-automation-engineer)
@@ -236,6 +237,52 @@ Your portfolio should have your 5 best UI/UX projects, complemented with a short
 Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: `jpg`, `png` or prototypes in InVision.
 
 Send your CV and portfolio to aquijada@nearsoft.com
+
+</details>
+
+
+## UI Designer
+
+<details><summary>Read more</summary>
+
+🌵!RNEAR
+
+### Role definition
+
+* Design high fidelity user interfaces that reflects strong knowledge of design principles and business objectives with feasible implementation for development teams.
+* Create Visual proposals with the adequate use of Native System Patterns and specs.
+* Have a solid design process.
+* Present and defend your design decisions. All your design decisions should be based on the overall design roadmap as well as your own design thinking and fundamental principles.
+* Effectively communicate your designs to developers and other key stakeholders.
+* Educating Key Stakeholders in the product design process.
+* Able to identify, solve and prevent problems to happen during the product development process.
+* Encourage innovation and technology best practices inside Nearsoft.
+* Provide user perspective to development teams to help them redefine their products.
+* Create user flows, wireframes and prototypes that accurately communicate the product functionality.
+* Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users’ needs.
+
+### Requirements
+
+* At least 3-5 years of experience designing digital products (Web&Mobile).
+* Strong User Interface Design skills.
+* Knowledge of System Native Patterns and specs.
+* Fluent in English written and spoken skills.
+* Experience working in an agile/scrum development process.
+* Experience using tools such as Sketch, Figma, Illustrator, InVision, Zeplin.
+* Experience working with Multidisciplinary teams (Engineers, designers, marketers, stakeholders, product managers).
+* Be open to receive feedback upon improvement.
+* Proactive and Leadership skills.
+* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience.
+* Location: Hermosillo.
+* Availability to travel outside Mexico.
+
+### Nice to have
+
+* Experience using UX methodologies and techniques.
+* Understanding of front-end languages: HTML5, CSS3 Javascript.
+* Portfolio Requirements
+* Your portfolio should showcase 5 of your top best UI/UX projects, complemented with a short description of each and your direct contribution to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution.
+* Send your CV and Portfolio to: aquijada@nearsoft.com
 
 </details>
 
