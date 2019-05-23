@@ -16,8 +16,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 * [Java Engineer](#java-engineer)
-* [DevOps Azure Engineer](#devops-azure-engineer)
 * [DevOps Engineer](#devops-engineer)
+* [DevOps Azure Engineer](#devops-azure-engineer)
 * [React Engineer](#react-engineer)
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
@@ -66,6 +66,32 @@ If an opening has caught your eye feel free to contact us at
 </details>
 
 
+## DevOps Engineer 
+
+<details><summary>Read more</summary>
+
+⭐️ !RSHUT
+
+This DevOps will work collaboratively with software engineering to build CI/CD deploy pipelines and operate highly-scalable, efficient immutable Linux based systems.  You will drive and deliver against containerization and automation standards, while streamlining operations and processes. In addition, the qualified candidate will triage and resolve complex issues effectively in large scale, production AWS environments
+
+### Required Skills
+
+* Fluent with Terraform and Packer (Ansible experience is a plus)
+* 5+ years coding experience writing and maintaining tools and scripts to support automation and operations (bash or python preferred)
+* 4+ years experience with AWS or other cloud provider
+* 4+ years experience in designing/building/maintaining CI/CD and related tools (e.g. Jenkins, Bamboo, Travis, etc..)
+* Strong knowledge of large-scale Web/Internet application architecture and technologies
+* Hands-on experience in building and administering AMIs and Containers using tools such as Docker, Vagrant, Kubernetes, etc. (Amazon EKS/ECS preferred)
+* Strong understanding of immutable infrastructure principles
+
+### Nice to have
+
+* Experience with Kubernetes Operations (KOPS) and Helm
+* Chef and/or Ansible experience
+* Working knowledge of MySQL(percona) database clusters + mysql sharding
+* SignalFx, Splunk, ElasticSearch, Nginx, Ubuntu, Apache, LDAP, HAProxy
+
+
 ## DevOps Azure Engineer
 
 <details><summary>Read more</summary>
@@ -80,29 +106,6 @@ If an opening has caught your eye feel free to contact us at
 * Developing tools, scripts, or processes to improve efficiency, quality or reliability of cloud application deployments
 * Experience with source code management tools such as Git
 * Experience using Azure DevOps (Visual Studio Team Services/Team Foundation Server)
-
-</details>
-
-
-## DevOps Engineer
-
-<details><summary>Read more</summary>
-
-⭐️ !RNEAR
-
-* DevOps and system administration experience
-* Hands on development experience in one or more languages (Python, Node.js preferred)
-* Reasonable knowledge of Linux administration
-* Experience with continuous integration (Jenkins)
-* Proficient in scripting languages (Python, Perl, Bash, etc.) and infrastructure provisioning tools (SaltStack, Terraform, Chef or Puppet)
-* Strong Linux administration (e.g. Ubuntu) and scripting (e.g. Shell scripting, Python)
-* Experience administering application servers, web servers, and databases (Jetty, NGINX, PostgreSQL, etc.)
-* Strong working knowledge of Amazon Web Services
-* Expertise in Docker and Kubernetes
-* Detail-oriented working style & excellent analytical skills
-* A quick learner who thrives in an agile environment
-* Soft skills, e.g. team player, clear and concise communication, problem solving
-* Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication
 
 </details>
 
