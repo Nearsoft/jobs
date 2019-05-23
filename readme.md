@@ -18,18 +18,15 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Java Engineer](#java-engineer)
 * [DevOps Azure Engineer](#devops-azure-engineer)
 * [DevOps Engineer](#devops-engineer)
-* [Senior Wireless Software Engineer](#senior-wireless-software-engineer)
 * [React Engineer](#react-engineer)
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
-* [Kafka Engineer](#kafka-engineer)
 * [UX Designer](#ux-designer)
 * [C# Engineer](#c-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Full-Stack .NET Engineer](#full-stack-net-engineer)
-* [Full-Stack Engineer](#full-stack-engineer)
-* [Front End Engineer](#front-end-engineer)
+
 
 <!-- yaspeller ignore:end -->
 
@@ -107,35 +104,7 @@ If an opening has caught your eye feel free to contact us at
 * Live and breathe DevOps and believe in automated testing, infrastructure as code, immutable infrastructure, continuous deployment, monitoring and open communication
 
 </details>
-
-
-## Senior Wireless Software Engineer
-
-<details><summary>Read more</summary>
-
-⭐️
-
-### Description
-
-* Design and develop software on Access point for our market verticals
-* Create and develop wireless protocols on the very latest Access Point products
-* Contribute to functional specifications and product
-* Design/Develop software independently and rapidly
-* Develop test strategy/programs for software that you develop
-* Strong eagerness to learn new tools and technology is an absolute must
-
-### Qualifications
-
-* Experience in C, C++ and other modern programming languages
-* Experience with Networking, WiFi, 802.11, WLAN protocols and chipsets
-* Experience with Embedded OS is a must, Linux experience is a plus
-* Strong problem solving and software development/troubleshooting skills
-* Strong in data structures/algorithms
-* Typically requires M.Eng./C.S. combined with 5+ years of related
-* Experience, or B.Eng./C.S. combined with 7+ related experience
-
-</details>
-
+nea
 
 ## React Engineer
 
@@ -213,44 +182,6 @@ You like to ship software early and often, you value simplicity, and strive to e
 
 </details>
 
-## Kafka Engineer
-
-<details><summary>Read more</summary>
-
-♻️
-
-### The Ideal Candidate
-
-You enjoy thinking about and working on enterprise-level data management systems.
-You are looking for a company at the epicenter of a rapidly-developing machine learning industry and are driven by a hunger to learn and develop your skills.
-You are passionate about working on a project that contributes meaningfully to the further development of technology and to humanity as a whole.
-You care about best practices and you choose the tools you work with judiciously and deliberately.
-You have strong analytical skills, an unwavering commitment to quality, an open-minded and collaborative work ethic, and cutting-edge coding skills.
-
-### Responsibilities
-
-* Build & maintain low-latency, high-scalability data pipelines in service of our human-in-the-loop machine learning workflows platform
-* Build & maintain adapter services for ingesting data from a wide variety of streaming and batch-based sources
-* Build & maintain services for throttling, backpressure, schema management, and normalization
-* Implement QA and testing strategies. Promote best practices for writing maintainable code
-* Ability/readiness to develop excellent working relationships with a diverse team of peers across organizations (Engineering, QA, DevOps, Product, Design, and others)
-
-### Competencies
-
-* Software development experience in cloud-based, multi-tiered, enterprise application systems
-* Managing data platforms/engineering using enterprise service bus or message-based architectures, such as Kafka, Redis, RabbitMQ, or similar
-* 3+ years production environment-level experience with Ruby on Rails application development
-* Hands-on experience with developing microservices and successfully building products using SOA
-* Hands-on experience with event-sourcing and functional programming patterns
-* Hands-on experience with AWS, Git, Docker, Gradle, Jenkins, JIRA, and Confluence
-
-### Nice-to-have Competencies
-
-* Familiarity with batch processing and workflow tools such as Airflow, Luigi, Celery, or others
-* Prior production experience with Python, Java, and/or Scala
-* Familiarity with basic machine learning concepts
-
-</details>
 
 ## UX Designer
 
@@ -449,70 +380,6 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 
 </details>
 
-
-## Full-Stack Engineer
-
-<details><summary>Read more</summary>
-
-🏚
-
-### Description
-
-We are looking for a Full-Stack Engineer for a fast-paced tech startup working in the affordable housing industry by creating safe, attractive, and respectable shared living environments.
-If you're motivated by the conviction that people working full time should have a decent place to live, and want to do something about it, come join us.
-
-### What you'll do
-
-* Full-Stack Web/Mobile development with a variety of languages including but not limited to Python, JavaScript, HTML, etc.
-* Implement web or mobile interfaces using React.js and React Native
-* Work closely with our Product Manager and Designer to define feature specifications and build the next generation of products leveraging frameworks such as Django, React.js, and React Native
-* Work closely with operations and infrastructure to build and scale Back End services
-* Build report interfaces and data feeds
-
-### What we're looking for
-
-* 3+ years programming experience and also with relational databases and SQL
-* 3+ years experience with full Web stack technologies, including many of the following:
-    * Python (Django or Flask experience is a perk)
-    * GraphQL
-    * React.js
-    * Redux
-    * Azure or AWS
-    * Git
-* Ability to deconstruct problems into small pieces and quickly build and test each component
-* Interest and ability to learn other coding languages as needed
-* Past projects viewable on GitHub/BitBucket/GitLab
-
-</details>
-
-
-## Front End Engineer
-
-<details><summary>Read more</summary>
-
-💸
-
-A Front End JavaScript who is excited about becoming a core and early member of a team.
-This role will accelerate our Front End development by building new and exciting features as we expand a platform that supports 150+ countries.
-
-### Web Front End Specialist
-
-* Deep expertise and knowledge of the React.js ecosystem to create modular, reusable components
-* Experience with Redux for front-end state management
-* Clean CSS without heavy reliance on frameworks
-* Takes a pragmatic approach to test-driven development (unit tests, component tests, integration tests)
-* Can write clean code quickly
-* Experience with data visualization and/or interest in finance is a plus
-
-### Skills
-
-* React.js
-* Webpack
-* Redux
-* HTML/CSS/Javascript
-* Node.js
-
-</details>
 
 ## Credit
 
