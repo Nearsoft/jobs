@@ -39,7 +39,7 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
 
-🌆 !RSKT
+🌆 
 
 ### Required
 
@@ -70,7 +70,7 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
 
-⭐️ !RSHUT
+⭐️
 
 This DevOps will work collaboratively with software engineering to build CI/CD deploy pipelines and operate highly-scalable, efficient immutable Linux based systems.  You will drive and deliver against containerization and automation standards, while streamlining operations and processes. In addition, the qualified candidate will triage and resolve complex issues effectively in large scale, production AWS environments
 
@@ -96,7 +96,7 @@ This DevOps will work collaboratively with software engineering to build CI/CD d
 
 <details><summary>Read more</summary>
 
-⭐️ !RNEAR
+⭐️ 
 
 ### Skills & Responsibilities
 
@@ -114,7 +114,7 @@ This DevOps will work collaboratively with software engineering to build CI/CD d
 
 <details><summary>Read more</summary>
 
-🛢!RE0G
+🛢
 
 ### Required Skills
 
@@ -158,7 +158,7 @@ We are looking for talented, enthusiastic and creative engineers to build featur
 
 <details><summary>Read more</summary>
 
-🏋🏻 !RCPS
+🏋🏻 
 
 We're looking for an innovative Back End Engineer with a passion for designing robust and easy to use APIs and services.
 You’re comfortable tackling efforts solo or working in groups, both big and small.
@@ -191,7 +191,7 @@ You like to ship software early and often, you value simplicity, and strive to e
 
 <details><summary>Read more</summary>
 
-🌵!RNEAR
+🌵
 
 Nearsoft’s UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
 
@@ -248,7 +248,7 @@ Send your CV and portfolio to aquijada@nearsoft.com
 
 <details><summary>Read more</summary>
 
-🌵!RNEAR
+🌵
 
 ### Role definition
 
@@ -294,7 +294,7 @@ Send your CV and portfolio to aquijada@nearsoft.com
 
 <details><summary>Read more</summary>
 
-📈 !RTPMR
+📈 
 
 As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
 
@@ -327,7 +327,7 @@ As a Senior C# Developer, you will enhance our advisor technology using C#, HTML
 
 <details><summary>Read more</summary>
 
-✈️ !RSWF
+✈️ 
 
 The QA Automation Engineer will be a member of QA team that is responsible for creating reusable test software aimed to improve functional test coverage, schedule efficiency and reduce manual test dependency.
 The person filling this position will be recognized as a key individual contributor with technical focus on providing QA automation solutions and functional QA support.
@@ -367,7 +367,7 @@ QA Automation Engineer will work with our Software Quality Assurance & Developme
 
 <details><summary>Read more</summary>
 
-💰 !RINS
+💰 
 
 We are looking for a QA Automation Engineer to join our awesome engineering team.
 We are a lean, tightly-knit team looking for an independent, hands-on problem solver who can apply creative, non-traditional ideas to raw data in order to come up with high-impact solutions for the under served population we target.
@@ -410,7 +410,7 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 
 <details><summary>Read more</summary>
 
-⛷ !RSKY
+⛷ 
 
 ### Skills
 
