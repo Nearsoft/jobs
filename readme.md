@@ -91,6 +91,8 @@ This DevOps will work collaboratively with software engineering to build CI/CD d
 * Working knowledge of MySQL(percona) database clusters + mysql sharding
 * SignalFx, Splunk, ElasticSearch, Nginx, Ubuntu, Apache, LDAP, HAProxy
 
+</details>
+
 
 ## DevOps Azure Engineer
 
@@ -153,6 +155,7 @@ We are looking for talented, enthusiastic and creative engineers to build featur
 * Bachelor's degree in computer science and/or relevant work experience
 
 </details>
+
 
 ## Back End Engineer
 
