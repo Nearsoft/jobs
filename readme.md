@@ -15,6 +15,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Frontend Angular Developer](#frontend-angular-developer)
+* [Fullstack React Developer](#fullstack-react-developer)
+* [Fullstack Developer](#fullstack-developer)
 * [Java Engineer](#java-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [DevOps Azure Engineer](#devops-azure-engineer)
@@ -35,6 +38,85 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
+## Frontend Angular Developer
+
+<details><summary>Read more</summary>
+  
+  🖌
+  
+* Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required.
+* Proficient on SPA frameworks like React (prefered), or similar technologies like Angular or Vue JS. This is required. 
+* Previously worked on public facing websites is required. At least 4+ years.
+* Experienced on managing his own tasks, and follow-up with others when needed. Experienced working with a team size of at least 6, including other developers, QA, and PM/BAs.
+* Experienced on website best-practices in HTML5, SEO, and WCAG. WCAG is optional, but HTML5 and SEO is required.
+* Experienced on writing maintainable code, easy to read, and that is optimized for the task.
+* Has experience working with US-based companies for at least 3+ years.
+* Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead.
+
+</details>
+
+
+## Fullstack React Developer
+
+<details><summary>Read more</summary>
+  
+  🖌
+
+* Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required.
+* Proficient on SPA frameworks like React, or similar technologies like Angular or Vue JS. This is required. Preferred is React. At least 3+ years.
+* Proficient on .NET framework building services using any of the following stack Web APIs, MVC or WCF. At least 3+ years.
+* Previously worked on public facing websites is required. At least 4+ years.
+* Experienced on managing his own tasks, and follow-up with others when needed. Experienced working with a team size of at least 6, including other developers, QA, and PM/BAs.
+* Experienced on website best-practices in HTML5, SEO, and WCAG. WCAG is optional, but HTML5 and SEO is required.
+* Experienced on writing maintainable code, easy to read, and that is optimized for the task.
+* Has experience working with US-based companies for at least 3+ years.
+* Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead.
+
+</details>
+
+## Fullstack Developer 
+
+<details><summary>Read more</summary>
+
+👓
+
+The challenges include processing complex documents and empowering enterprises by extracting, transforming and managing large volumes of data.
+As we grow our team, we are looking for someone that can broaden our expertise in building secure and scalable systems.
+
+### Responsibilities
+
+* Collaborate with cross functional teams to understand scope and use cases for product features and deliver products that are well tested
+* Support the release planning by understanding the details (effort, risk, priority) of the planned features
+* Ship clean, reusable code in extensible and robustly-tested components
+* Perform peer code reviews as part of everyday workflow
+* Keep on top of task and bug management system for assigned issues each sprint as well as estimating and assessing priority
+* Troubleshooting production issues and implementing resilient fixes to prevent future issues
+
+### Qualifications
+
+* 5+ years of professional experience building Web and Back End applications
+* Ability to write understandable, testable, and secure code with an eye towards maintainability
+* Strong computer science fundamentals: data structures, algorithms, and distributed systems
+* Capable of wearing multiple hats and take pride in getting stuff done
+* Ability to collaborate closely with Product, Design, and QA to spec, build, test and deploy new features with high quality
+* B.S. in Computer Science or related field, or equivalent training or work experience
+* Ability to work in fast paced environment with a strong sense of empathy for teammates
+
+### Good to have
+
+* Some experience with Front End technologies - JavaScript, CSS, AngularJS, etc.
+* Experience with AWS services and technologies
+* Experience in a SaaS environment that has an Agile development process is a huge plus
+
+### Skills & Tools
+
+* Python, JavaScript (AngularJS, Backbone.js), Database & SQL (PostgreSQL)
+* Amazon Web Services (AWS), Django framework, REST API
+* Jenkins, Test case management tool (TestRail), JIRA
+
+</details>
+
+ 
 ## Java Engineer
 
 <details><summary>Read more</summary>
@@ -61,7 +143,6 @@ If an opening has caught your eye feel free to contact us at
 * Spring Cloud
 * Docker
 * TypeScript / AngularJS
-
 
 </details>
 
