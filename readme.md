@@ -15,9 +15,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Frontend Angular Developer](#frontend-angular-developer)
-* [Fullstack React Developer](#fullstack-react-developer)
-* [Fullstack Developer](#fullstack-developer)
+* [Front End Angular Engineer](#frontend-angular-engineer)
+* [Full-Stack React Engineer](#full-stack-react-engineer)
+* [Full-Stack Engineer](#fullstack-engineer)
 * [Java Engineer](#java-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [DevOps Azure Engineer](#devops-azure-engineer)
@@ -38,43 +38,43 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## Frontend Angular Developer
+## Front End Angular Engineer
 
 <details><summary>Read more</summary>
-  
-  🖌
-  
-* Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required.
-* Proficient on SPA frameworks like React (prefered), or similar technologies like Angular or Vue JS. This is required. 
-* Previously worked on public facing websites is required. At least 4+ years.
-* Experienced on managing his own tasks, and follow-up with others when needed. Experienced working with a team size of at least 6, including other developers, QA, and PM/BAs.
-* Experienced on website best-practices in HTML5, SEO, and WCAG. WCAG is optional, but HTML5 and SEO is required.
-* Experienced on writing maintainable code, easy to read, and that is optimized for the task.
-* Has experience working with US-based companies for at least 3+ years.
-* Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead.
+
+🖌
+
+* Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required
+* Proficient on Single-page application frameworks like React.js (preferred), or similar technologies like AngularJS or Vue.js. This is required
+* Previously worked on public facing websites is required. At least 4+ years
+* Experienced on managing their own tasks, and follow-up with others when needed. Experienced working with a team size of at least 6, including other developers, QA, and Product Managers
+* Experienced on website best-practices in HTML5, SEO, and WCAG. WCAG is optional, but HTML5 and SEO is required
+* Experienced on writing maintainable code, easy to read, and that is optimized for the task
+* Has experience working with US-based companies for at least 3+ years
+* Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead
 
 </details>
 
 
-## Fullstack React Developer
+## Full-Stack React Engineer
 
 <details><summary>Read more</summary>
-  
-  🖌
 
-* Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required.
-* Proficient on SPA frameworks like React, or similar technologies like Angular or Vue JS. This is required. Preferred is React. At least 3+ years.
-* Proficient on .NET framework building services using any of the following stack Web APIs, MVC or WCF. At least 3+ years.
-* Previously worked on public facing websites is required. At least 4+ years.
-* Experienced on managing his own tasks, and follow-up with others when needed. Experienced working with a team size of at least 6, including other developers, QA, and PM/BAs.
-* Experienced on website best-practices in HTML5, SEO, and WCAG. WCAG is optional, but HTML5 and SEO is required.
-* Experienced on writing maintainable code, easy to read, and that is optimized for the task.
-* Has experience working with US-based companies for at least 3+ years.
-* Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead.
+🖌
+
+* Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required
+* Proficient on Single-page application frameworks like React.js, or similar technologies like AngularJS or Vue.js. This is required. Preferred is React.js. At least 3+ years
+* Proficient on .NET framework building services using any of the following stack Web APIs, MVC or WCF. At least 3+ years
+* Previously worked on public facing websites is required. At least 4+ years
+* Experienced on managing their own tasks, and follow-up with others when needed. Experienced working with a team size of at least 6, including other developers, QA, and Product Managers
+* Experienced on website best-practices in HTML5, SEO, and WCAG. WCAG is optional, but HTML5 and SEO is required
+* Experienced on writing maintainable code, easy to read, and that is optimized for the task
+* Has experience working with US-based companies for at least 3+ years
+* Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead
 
 </details>
 
-## Fullstack Developer 
+## Full-Stack Engineer
 
 <details><summary>Read more</summary>
 
@@ -116,12 +116,12 @@ As we grow our team, we are looking for someone that can broaden our expertise i
 
 </details>
 
- 
+
 ## Java Engineer
 
 <details><summary>Read more</summary>
 
-🌆 
+🌆
 
 ### Required
 
@@ -147,13 +147,15 @@ As we grow our team, we are looking for someone that can broaden our expertise i
 </details>
 
 
-## DevOps Engineer 
+## DevOps Engineer
 
 <details><summary>Read more</summary>
 
 ⭐️
 
-This DevOps will work collaboratively with software engineering to build CI/CD deploy pipelines and operate highly-scalable, efficient immutable Linux based systems.  You will drive and deliver against containerization and automation standards, while streamlining operations and processes. In addition, the qualified candidate will triage and resolve complex issues effectively in large scale, production AWS environments
+This DevOps will work in collaboration with software engineering to build CI/CD deploy pipelines and operate highly-scalable, efficient immutable Linux based systems.
+You will drive and deliver against containerization and automation standards, while streamlining operations and processes.
+In addition, the qualified candidate will triage and resolve complex issues effectively in large scale, production AWS environments
 
 ### Required Skills
 
@@ -167,10 +169,10 @@ This DevOps will work collaboratively with software engineering to build CI/CD d
 
 ### Nice to have
 
-* Experience with Kubernetes Operations (KOPS) and Helm
+* Experience with Kubernetes Operations (kops) and Helm
 * Chef and/or Ansible experience
-* Working knowledge of MySQL(percona) database clusters + mysql sharding
-* SignalFx, Splunk, ElasticSearch, Nginx, Ubuntu, Apache, LDAP, HAProxy
+* Working knowledge of MySQL (Percona) database clusters + MySQL sharding
+* SignalFx, Splunk, Elasticsearch, NGINX, Ubuntu, Apache, LDAP, HAProxy
 
 </details>
 
@@ -179,7 +181,7 @@ This DevOps will work collaboratively with software engineering to build CI/CD d
 
 <details><summary>Read more</summary>
 
-⭐️ 
+⭐️
 
 ### Skills & Responsibilities
 
@@ -242,7 +244,7 @@ We are looking for talented, enthusiastic and creative engineers to build featur
 
 <details><summary>Read more</summary>
 
-🏋🏻 
+🏋🏻
 
 We're looking for an innovative Back End Engineer with a passion for designing robust and easy to use APIs and services.
 You’re comfortable tackling efforts solo or working in groups, both big and small.
@@ -336,32 +338,32 @@ Send your CV and portfolio to aquijada@nearsoft.com
 
 ### Role definition
 
-* Design high fidelity user interfaces that reflects strong knowledge of design principles and business objectives with feasible implementation for development teams.
-* Create Visual proposals with the adequate use of Native System Patterns and specs.
-* Have a solid design process.
-* Present and defend your design decisions. All your design decisions should be based on the overall design roadmap as well as your own design thinking and fundamental principles.
-* Effectively communicate your designs to developers and other key stakeholders.
-* Educating Key Stakeholders in the product design process.
-* Able to identify, solve and prevent problems to happen during the product development process.
-* Encourage innovation and technology best practices inside Nearsoft.
-* Provide user perspective to development teams to help them redefine their products.
-* Create user flows, wireframes and prototypes that accurately communicate the product functionality.
-* Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users’ needs.
+* Design high fidelity user interfaces that reflects strong knowledge of design principles and business objectives with feasible implementation for development teams
+* Create Visual proposals with the adequate use of Native System Patterns and specs
+* Have a solid design process
+* Present and defend your design decisions. All your design decisions should be based on the overall design roadmap as well as your own design thinking and fundamental principles
+* Effectively communicate your designs to developers and other key stakeholders
+* Educating Key Stakeholders in the product design process
+* Able to identify, solve and prevent problems to happen during the product development process
+* Encourage innovation and technology best practices inside Nearsoft
+* Provide user perspective to development teams to help them redefine their products
+* Create user flows, wireframes and prototypes that accurately communicate the product functionality
+* Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users’ needs
 
 ### Requirements
 
-* At least 3-5 years of experience designing digital products (Web&Mobile).
-* Strong User Interface Design skills.
-* Knowledge of System Native Patterns and specs.
-* Fluent in English written and spoken skills.
-* Experience working in an agile/scrum development process.
-* Experience using tools such as Sketch, Figma, Illustrator, InVision, Zeplin.
-* Experience working with Multidisciplinary teams (Engineers, designers, marketers, stakeholders, product managers).
-* Be open to receive feedback upon improvement.
-* Proactive and Leadership skills.
-* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience.
-* Location: Hermosillo.
-* Availability to travel outside Mexico.
+* At least 3-5 years of experience designing digital products (Web&Mobile)
+* Strong User Interface Design skills
+* Knowledge of System Native Patterns and specs
+* Fluent in English written and spoken skills
+* Experience working in an agile/scrum development process
+* Experience using tools such as Sketch, Figma, Illustrator, InVision, Zeplin
+* Experience working with Multidisciplinary teams (Engineers, designers, marketers, stakeholders, product managers)
+* Be open to receive feedback upon improvement
+* Proactive and Leadership skills
+* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
+* Location: Hermosillo
+* Availability to travel outside Mexico
 
 ### Nice to have
 
@@ -378,7 +380,7 @@ Send your CV and portfolio to aquijada@nearsoft.com
 
 <details><summary>Read more</summary>
 
-📈 
+📈
 
 As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
 
@@ -411,7 +413,7 @@ As a Senior C# Developer, you will enhance our advisor technology using C#, HTML
 
 <details><summary>Read more</summary>
 
-✈️ 
+✈️
 
 The QA Automation Engineer will be a member of QA team that is responsible for creating reusable test software aimed to improve functional test coverage, schedule efficiency and reduce manual test dependency.
 The person filling this position will be recognized as a key individual contributor with technical focus on providing QA automation solutions and functional QA support.
@@ -451,7 +453,7 @@ QA Automation Engineer will work with our Software Quality Assurance & Developme
 
 <details><summary>Read more</summary>
 
-💰 
+💰
 
 We are looking for a QA Automation Engineer to join our awesome engineering team.
 We are a lean, tightly-knit team looking for an independent, hands-on problem solver who can apply creative, non-traditional ideas to raw data in order to come up with high-impact solutions for the under served population we target.
@@ -494,7 +496,7 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 
 <details><summary>Read more</summary>
 
-⛷ 
+⛷
 
 ### Skills
 
