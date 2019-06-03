@@ -15,9 +15,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Front End Angular Engineer](#frontend-angular-engineer)
+* [Front End Angular Engineer](#front-end-angular-engineer)
 * [Full-Stack React Engineer](#full-stack-react-engineer)
-* [Full-Stack Engineer](#fullstack-engineer)
+* [Full-Stack Engineer](#full-stack-engineer)
 * [Java Engineer](#java-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [DevOps Azure Engineer](#devops-azure-engineer)
