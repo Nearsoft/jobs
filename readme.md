@@ -76,7 +76,7 @@ If an opening has caught your eye feel free to contact us at
 </details>
 
 
-## Full-Stack React Engineer 2
+## Full-Stack Engineer 2
 
 <details><summary>Read more</summary>
 
