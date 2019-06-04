@@ -18,6 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Front End Angular Engineer](#front-end-angular-engineer)
 * [Full-Stack React Engineer](#full-stack-react-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
+* [Full-Stack Engineer 2](#full-stack-engineer-2)
 * [Java Engineer](#java-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [DevOps Azure Engineer](#devops-azure-engineer)
@@ -73,6 +74,26 @@ If an opening has caught your eye feel free to contact us at
 * Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead
 
 </details>
+
+
+## Full-Stack React Engineer 2
+
+<details><summary>Read more</summary>
+
+🐇
+
+### Qualifications 
+
+* 2-3 years of experience, comfortable working independently
+* Comfortable with React.js, familiarity with Rails a plus
+* Experience building single page applications and calling APIs from JS
+* Knowledge of CSS/Sass, MySQL, Redis, and/or ElasticSearch all a plus
+* Familiarity with Linux command line, automated build systems would be nice
+* Excited to work with continuous integration and frequent, daily releases
+* Like to think about how to break problems down into smaller iterable steps
+
+</details>
+
 
 ## Full-Stack Engineer
 
