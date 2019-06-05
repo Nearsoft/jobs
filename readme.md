@@ -25,7 +25,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [React Engineer](#react-engineer)
 * [Back End Java Engineer](#back-end-java-engineer)
 * [Back End Engineer](#back-end-engineer)
-* [UX/UI Designer](#ux-ui-designer)
+* [UX/UI Designer](#ux/ui-designer)
 * [UI Designer](#ui-designer)
 * [C# Engineer](#c-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
@@ -294,7 +294,7 @@ You like to ship software early and often, you value simplicity, and strive to e
 </details>
 
 
-## UX Designer
+## UX/UI Designer
 
 <details><summary>Read more</summary>
 
