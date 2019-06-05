@@ -300,53 +300,40 @@ You like to ship software early and often, you value simplicity, and strive to e
 
 🌵
 
-Nearsoft’s UX Team is focused on digital product design, and we are looking for designers with experience in User Interface Design (UI), User Experience Design (UX), and Product Design to join the team.
+The UX Team from Nearsoft is growing and we're looking for a hands-on UX/UI Designer that help us build value to our clients’ business by being actively involved in product decisions. As part of the UX Team, you’ll work closely with designers, developers and stakeholders to produce digital products, conduct user research and design engaging UI solutions. 
 
-### Role definition
+### What you'll do:
 
-* Helping UX team and clients to ensure the project is well defined and running smoothly
-* Educating Key Stakeholders in the product development process
-* Able to identify, solve and prevent problems to happen during the product development process
-* Encourage innovation and technology best practices inside Nearsoft
-* Elaborate client proposals and project estimates
-* Continuously implement strategies to improve team and projects performance
-* Test assumptions and measure success in projects and team strategies
-* Provide user perspective to development teams to help them redefine their products
-* Plan, design, test and measure UX projects
-* Create user flows, wireframes and prototypes that accurately communicate product functionality
-* Design high fidelity user interfaces that reflects UX findings and business objectives with feasible implementation for development teams
-* Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users’ needs
-* Collaborate with UX researchers, designers, marketing, developers and stakeholders to produce high quality digital products
-* Create and share product development content in the software industry
+* Create low and high fidelity mockups using best design principles for user interfaces in mobile and web platforms.
+* Communicate ideas effectively to key stakeholders in the product development process.
+* Build a strong relationship with your client by being actively involved in product decisions and tackle the needs at hand.
+* Conduct usability testings, user interviews and analyze findings to translate into design solutions.
+* Collaborate with development teams and stakeholders in an Agile environment to produce high-quality digital products.
+* Analyze and create successful strategies to implement design solutions to products in any phase of the development process.
+* Create mobile and web user-interface designs following best platform guidelines and practices.
+* Build design systems including patterns, components, and guidelines for software products.
+* Support current team initiatives like facilitating workshops, mentoring and creating new content for our blog.
 
-### Requirements
 
-* At least 5 years of experience designing digital products
-* Experience leading digital projects
-* Fluent in written and spoken English
-* Experience with Human Centered Design, Design Thinking and Design Sprint Methodology
-* Samples of Live digital projects
-* Experience using Sketch, InVision and Zeplin or similar tools
-* Experience with Multidisciplinary collaboration (Engineers, designers, marketers, stakeholders, product managers)
-* Proactive and Leadership skills
-* Strong Visual Design skills
-* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
-* Location: Hermosillo
-* Availability to travel outside Mexico
+### What we're looking for:
 
-### Nice to have
+* 3+ years of experience designing digital products.
+* Fluent in English, written and spoken. 
+* Proven ability to collaborate successfully with cross-­functional teams and software products.
+* Experience designing User Interfaces for web and mobile platforms.
+* Experience conducting usability testing, user interviews and analyze findings to translate into design solutions.
+* Advance use of Sketch and Invision, or other similar tools.
+* Ability to self-manage and conduct in a proactive manner.
+* Location: Hermosillo, Sonora.
 
-* SEO and Google analytics skills
-* Conference speaker
-* Front End knowledge
-* Include a brief description of the project, design and UX process
 
-### Portfolio
+### How to Apply
 
-Your portfolio should have your 5 best UI/UX projects, complemented with a short description of each and your direct contributions to it.
-Make sure to include a minimum of six screens per project or one complete user flow in high resolution. File type: `jpg`, `png` or prototypes in InVision.
-
-Send your CV and portfolio to aquijada@nearsoft.com
+* To apply your portfolio should include the following:
+* Top 3 best UX/UI projects for web and mobile platforms.
+* Include a short description of the project and your direct contributions.
+* Make sure to include a minimum of 8 main screens per project in high resolution.  File type: jpg, png or InVision prototypes.
+* Send us your CV and portfolio to: aquijada@nearsoft.com
 
 </details>
 
