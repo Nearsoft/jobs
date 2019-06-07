@@ -82,15 +82,15 @@ If an opening has caught your eye feel free to contact us at
 
 🐇
 
-### Qualifications 
+### Qualifications
 
 * 2-3 years of experience, comfortable working independently
 * Comfortable with React.js, familiarity with Rails a plus
-* Experience building single page applications and calling APIs from JS
-* Knowledge of CSS/Sass, MySQL, Redis, and/or ElasticSearch all a plus
+* Experience building Single-page Applications and calling APIs from JavaScript
+* Knowledge of CSS/Sass, MySQL, Redis, and/or Elasticsearch all a plus
 * Familiarity with Linux command line, automated build systems would be nice
 * Excited to work with continuous integration and frequent, daily releases
-* Like to think about how to break problems down into smaller iterable steps
+* Likes to think about how to break problems down into smaller iterable steps
 
 </details>
 
@@ -300,39 +300,41 @@ You like to ship software early and often, you value simplicity, and strive to e
 
 🌵
 
-The UX Team from Nearsoft is growing and we're looking for a hands-on UX/UI Designer that help us build value to our clients’ business by being actively involved in product decisions. As part of the UX Team, you’ll work closely with designers, developers and stakeholders to produce digital products, conduct user research and design engaging UI solutions. 
+The UX Team from Nearsoft is growing and we're looking for a hands-on UX/UI Designer that help us build value to our clients' business by being actively involved in product decisions.
+As part of the UX Team, you’ll work closely with designers, developers and stakeholders to produce digital products, conduct user research and design engaging UI solutions.
 
-### What you'll do:
+### What you'll do
 
-* Create low and high fidelity mockups using best design principles for user interfaces in mobile and web platforms.
-* Communicate ideas effectively to key stakeholders in the product development process.
-* Build a strong relationship with your client by being actively involved in product decisions and tackle the needs at hand.
-* Conduct usability testings, user interviews and analyze findings to translate into design solutions.
-* Collaborate with development teams and stakeholders in an Agile environment to produce high-quality digital products.
-* Analyze and create successful strategies to implement design solutions to products in any phase of the development process.
-* Create mobile and web user-interface designs following best platform guidelines and practices.
-* Build design systems including patterns, components, and guidelines for software products.
-* Support current team initiatives like facilitating workshops, mentoring and creating new content for our blog.
+* Create low and high fidelity mockups using best design principles for user interfaces in mobile and web platforms
+* Communicate ideas effectively to key stakeholders in the product development process
+* Build a strong relationship with your client by being actively involved in product decisions and tackle the needs at hand
+* Conduct usability testings, user interviews and analyze findings to translate into design solutions
+* Collaborate with development teams and stakeholders in an Agile environment to produce high-quality digital products
+* Analyze and create successful strategies to implement design solutions to products in any phase of the development process
+* Create mobile and web user-interface designs following best platform guidelines and practices
+* Build design systems including patterns, components, and guidelines for software products
+* Support current team initiatives like facilitating workshops, mentoring and creating new content for our blog
 
 
-### What we're looking for:
+### What we're looking for
 
-* 3+ years of experience designing digital products.
-* Fluent in English, written and spoken. 
-* Proven ability to collaborate successfully with cross-­functional teams and software products.
-* Experience designing User Interfaces for web and mobile platforms.
-* Experience conducting usability testing, user interviews and analyze findings to translate into design solutions.
-* Advance use of Sketch and Invision, or other similar tools.
-* Ability to self-manage and conduct in a proactive manner.
-* Location: Hermosillo, Sonora.
+* 3+ years of experience designing digital products
+* Fluent in English, written and spoken
+* Proven ability to collaborate successfully with cross-­functional teams and software products
+* Experience designing User Interfaces for web and mobile platforms
+* Experience conducting usability testing, user interviews and analyze findings to translate into design solutions
+* Advance use of Sketch and InVision, or other similar tools
+* Ability to self-manage and conduct in a proactive manner
+* Location: Hermosillo, Sonora
 
 
 ### How to Apply
 
-* To apply your portfolio should include the following:
-* Top 3 best UX/UI projects for web and mobile platforms.
-* Include a short description of the project and your direct contributions.
-* Make sure to include a minimum of 8 main screens per project in high resolution.  File type: jpg, png or InVision prototypes.
+To apply your portfolio should include the following:
+
+* Top 3 best UX/UI projects for web and mobile platforms
+* Include a short description of the project and your direct contributions
+* Make sure to include a minimum of 8 main screens per project in high resolution. File type: jpg, png or InVision prototypes
 * Send us your CV and portfolio to: aquijada@nearsoft.com
 
 </details>
