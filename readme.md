@@ -534,38 +534,43 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 
 🌵
 
-We’re passionate about understanding humans and what moves them—it’s what drives us. Nearsoft's UX Team takes a user-centered design approach to developing useful digital solutions such as iOS, Android and web apps.
+We're passionate about understanding humans and what moves them — it's what drives us.
+Nearsoft's UX Team takes a user-centered design approach to developing useful digital solutions for iOS, Android and Web applications.
 
-We are looking for a passionate, energetic design intern to join the Nearsoft UX team in a long-term engagement. You’ll be involved in researching and designing for consumers by uncovering their attitudes and behaviors. 
+We are looking for a passionate, energetic design intern to join the Nearsoft UX team in a long-term engagement.
+You'll be involved in researching and designing for consumers by uncovering their attitudes and behaviors.
 
-As a member of the UX team, you will work hand in hand with a multidisciplinary team. From UI designers, UX researchers, Front-end Developers and Business Developers.
+As a member of the UX team, you will work hand in hand with a Multidisciplinary team.
+From UI designers, UX researchers, Front End Engineers and Business Developers.
 
-If you see yourself, visualizing customer problems, telling user stories in a meaningful way, sketching out viable solutions, prototyping and ispring great design, you’ll fit right in. 
+If you see yourself visualizing customer problems, telling user stories in a meaningful way, sketching out viable solutions, prototyping and inspiring great design, you'll fit right in.
 
 Join the UX Team at Nearsoft and help us design products people love!
 
-## AS A UX INTERN YOU’LL
+### As a UX intern you'll
+
 * Design and facilitate usability testings
-* Design digital products from scratch 
+* Design digital products from scratch
 * Improve your visual design skills
-* Wireframing and Prototyping 
+* Wireframe and Prototype
 * Take ownership of an internal product
 * Run product presentations with international clients
 * Learn to use design tools like Sketch, Figma, Zeplin, InVision
-* Improve your users research skills 
+* Improve your users research skills
 * Work with agile teams
 
-## Minimum Skills Required:
+### Minimum skills required
 
-* Currently enrolled in the last semester or recent graduate of a Bachelor’s degree, preferably in a design-related field 
-* Fluent in English (Writing and speaking)
+* Currently enrolled in the last semester, or recent graduate of a Bachelor's degree, preferably on a design-related field
+* Fluent in English (writing and speaking)
 * Experience working with Adobe Suite or design software (Sketch in particular)
 * Quickly visualize and prototype ideas to communicate designs
 * Quick learner, excellent problem-solving skills, visionary
-* Please submit a digital portfolio.
+* Please submit a digital portfolio
 
-## Nice to have 
-* Familiarity with HTML, CSS
+### Nice to have
+
+* Familiarity with HTML and CSS
 
 </details>
 
