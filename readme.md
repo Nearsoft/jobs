@@ -545,7 +545,7 @@ From UI designers, UX researchers, Front End Engineers and Business Developers.
 
 If you see yourself visualizing customer problems, telling user stories in a meaningful way, sketching out viable solutions, prototyping and inspiring great design, you'll fit right in.
 
-Join the UX Team at Nearsoft and help us design products people love!
+Join the UX Team at Nearsoft in Hermosillo and help us design products people love!
 
 ### As a UX intern you'll
 
@@ -558,6 +558,7 @@ Join the UX Team at Nearsoft and help us design products people love!
 * Learn to use design tools like Sketch, Figma, Zeplin, InVision
 * Improve your users research skills
 * Work with agile teams
+* Location: Hermosillo, Sonora
 
 ### Minimum skills required
 
