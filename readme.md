@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Ruby Engineer](#ruby-engineer)
 * [Front End Angular Engineer](#front-end-angular-engineer)
 * [Full-Stack React Engineer](#full-stack-react-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
@@ -38,6 +39,27 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Ruby Engineer
+
+<details><summary>Read more</summary>
+
+🐇
+
+We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable backend services and an agile approach to problem solving.
+
+### You have
+
+* 2+ Years of Ruby on Rails Development and 2+ years developing software in a commercial environment
+* Solid experience in building high-performance, reliable and scalable services
+* Experience with Ajax based user interfaces
+* Experience with our current technology stack is a bonus: Ruby on Rails, ReactJS, Git, Postgres
+* Shipping/transportation industry experience is a bonus
+
+In addition we want the usual skill set: efficient, organized and follows through on commitments. You’re intelligent, have great analytical skills and pay attention to detail. In addition, you’re calm under pressure, have a great work ethic and communicate well.
+
+</details>
 
 
 ## Front End Angular Engineer
