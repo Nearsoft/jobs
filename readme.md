@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 * [Ruby Engineer](#ruby-engineer)
+* [Application Architect](#application-architect)
 * [Front End Angular Engineer](#front-end-angular-engineer)
 * [Full-Stack React Engineer](#full-stack-react-engineer)
 * [Full-Stack Engineer](#full-stack-engineer)
@@ -58,6 +59,39 @@ We are looking for an individual who has a deep knowledge of the Ruby on Rails a
 * Shipping/transportation industry experience is a bonus
 
 In addition we want the usual skill set: efficient, organized and follows through on commitments. You’re intelligent, have great analytical skills and pay attention to detail. In addition, you’re calm under pressure, have a great work ethic and communicate well.
+
+</details>
+
+
+## Application Architect
+
+<details><summary>Read more</summary>
+
+📸
+
+### Description
+
+We are seeking an experienced Application Architect to join our team of committed IT professionals. Are you passionate about problem-solving and innovation ? Apply today and join the Lifetouch family!
+
+* Provide application architectural consulting expertise, direction, and assistance to Technical Analysts, Application Engineers, Senior Database analysts and other Systems Architects.
+* Collaborate with end users and senior management to define business requirements for complex systems development and gain buy-in for all infrastructure plans.
+* Provide guidance and mentoring to junior members of the technical team. Provide hands on coding between 30% - 50% depending on the size of the project.
+* Document and develop in-depth knowledge of assigned domain architecture, hardware and network infrastructure, and technology portfolio.
+* Develop, document, make recommendations, and communicate plans for investing in application infrastructure, including analysis of cost reduction opportunities.
+* Overall technical implementation and quality of assigned projects and technical domain.
+
+### Experience
+
+* Minimum of eight years related experience and/or training; or equivalent combination of education and experience.
+* Experience building high quality applications by creating a well designed architecture, writing clean code and implementing common industry practices (e.g. continuous integration, unit tests).
+* Ability to mentor and lead other technical team members without having direct supervision responsibility.
+* A background successfully delivering applications using agile methods and collaborating with non-technical team members including quality assurance, business analysts, and project managers.
+* Candidate should have professionally developed applications with Java or Groovy and JavaScript.
+* Application development experience with common libraries such as Spring, Hibernate, JUnit, Spock, Gradle, and Apache Maven.
+* Knowledge of creating single page applications using a framework such as Angular or ExtJS is preferred.
+* Experience creating RESTful web services is highly desired.
+* Load and performance testing experience is preferred.
+* Knowledge and understanding of the following technologies and libraries is a plus: Spring Boot, Grails, NodeJS, and Amazon Web Services.
 
 </details>
 
