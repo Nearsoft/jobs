@@ -33,7 +33,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Software Engineer in Test](#software-engineer-in-test)
 * [QA Automation Engineer](#qa-automation-engineer)
 * [Full-Stack .NET Engineer](#full-stack-net-engineer)
-* [UX/UI Internship](#uxui-internship)
+* [UI Designer](#ui-Designer)
 
 
 <!-- yaspeller ignore:end -->
@@ -584,52 +584,51 @@ We are a lean, tightly-knit team looking for an independent, hands-on problem so
 </details>
 
 
-## UX/UI Internship
+### UI Designer
 
 <details><summary>Read more</summary>
 
-🌵
+## Role definition
 
-We're passionate about understanding humans and what moves them — it's what drives us.
-Nearsoft's UX Team takes a user-centered design approach to developing useful digital solutions for iOS, Android and Web applications.
+* Design high fidelity user interfaces that reflects strong knowledge of design principles and business objectives with feasible implementation for development teams.
+* Create Visual proposals with the adequate use of Native System Patterns and specs.
+* Have a solid Design process.
+* Present and defend your design decisions. All your design decisions should be based on the overall design roadmap as well as your own design thinking and fundamental principles.
+* Effectively communicate your designs to developers and other key stakeholders.
+* Educating Key Stakeholders in the product design process.
+* Able to identify, solve and prevent problems to happen during the product development process.
+* Encourage innovation and technology best practices inside Nearsoft.
+* Provide user perspective to development teams to help them redefine their products.
+* Create user flows, wireframes and prototypes that accurately communicate the product functionality.
+* Create and perform presentations that communicate design intent to both internal and external teams, and justify design value and advocate for users’ needs.
 
-We are looking for a passionate, energetic design intern to join the Nearsoft UX team in a long-term engagement.
-You'll be involved in researching and designing for consumers by uncovering their attitudes and behaviors.
+## Requirements
 
-As a member of the UX team, you will work hand in hand with a Multidisciplinary team.
-From UI designers, UX researchers, Front End Engineers and Business Developers.
+* At least 3-5 years of experience designing digital products (Web&Mobile).
+* Strong User Interface Design skills.
+* Knowledge of System Native Patterns and specs.
+* Fluent in English written and spoken skills.
+* Experience working in an agile/scrum development process.
+* Experience using tools such as Sketch, Figma, Illustrator, InVision, Zeplin.
+* Experience working with Multidisciplinary teams (Engineers, designers, marketers, stakeholders, product managers).
+* Be open to receive feedback upon improvement.
+* Proactive and Leadership skills.
+* Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience.
+* Location: Hermosillo.
+* Availability to travel outside Mexico.
 
-If you see yourself visualizing customer problems, telling user stories in a meaningful way, sketching out viable solutions, prototyping and inspiring great design, you'll fit right in.
+## Nice to have
 
-Join the UX Team at Nearsoft in Hermosillo and help us design products people love!
+* Experience using UX methodologies and techniques. 
+* Understanding of front-end languages: HTML5, CSS3 Javascript.
 
-### As a UX intern you'll
+## Portfolio Requirements
 
-* Design and facilitate usability testings
-* Design digital products from scratch
-* Improve your visual design skills
-* Wireframe and Prototype
-* Take ownership of an internal product
-* Run product presentations with international clients
-* Learn to use design tools like Sketch, Figma, Zeplin, InVision
-* Improve your users research skills
-* Work with agile teams
-* Location: Hermosillo, Sonora
+* Your portfolio should showcase 5 of your top best UI/UX projects, complemented with a short description of each and your direct contribution to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution.
 
-### Minimum skills required
-
-* Currently enrolled in the last semester, or recent graduate of a Bachelor's degree, preferably on a design-related field
-* Fluent in English (writing and speaking)
-* Experience working with Adobe Suite or design software (Sketch in particular)
-* Quickly visualize and prototype ideas to communicate designs
-* Quick learner, excellent problem-solving skills, visionary
-* Please submit a digital portfolio
-
-### Nice to have
-
-* Familiarity with HTML and CSS
 
 </details>
+
 
 ## Credit
 
