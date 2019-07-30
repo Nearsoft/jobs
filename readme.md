@@ -47,17 +47,19 @@ If an opening has caught your eye feel free to contact us at
 
 🐇
 
-We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable backend services and an agile approach to problem solving.
+We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable Back End services and an agile approach to problem solving.
 
 ### You have
 
 * 2+ Years of Ruby on Rails Development and 2+ years developing software in a commercial environment
 * Solid experience in building high-performance, reliable and scalable services
 * Experience with Ajax based user interfaces
-* Experience with our current technology stack is a bonus: Ruby on Rails, ReactJS, Git, Postgres
+* Experience with our current technology stack is a bonus: Ruby on Rails, React, Git, PostgreSQL
 * Shipping/transportation industry experience is a bonus
 
-In addition we want the usual skill set: efficient, organized and follows through on commitments. You’re intelligent, have great analytical skills and pay attention to detail. In addition, you’re calm under pressure, have a great work ethic and communicate well.
+In addition we want the usual skill set: efficient, organized and follows through on commitments.
+You’re intelligent, have great analytical skills and pay attention to detail.
+In addition, you’re calm under pressure, have a great work ethic and communicate well.
 
 </details>
 
@@ -70,27 +72,27 @@ In addition we want the usual skill set: efficient, organized and follows throug
 
 ### Description
 
-We are seeking an experienced Application Architect to join our team of committed IT professionals. Are you passionate about problem-solving and innovation ? Apply today and join the Lifetouch family!
+We are seeking an experienced Application Architect to join our team of committed IT professionals. Are you passionate about problem-solving and innovation? Apply today and join the family!
 
-* Provide application architectural consulting expertise, direction, and assistance to Technical Analysts, Application Engineers, Senior Database analysts and other Systems Architects.
-* Collaborate with end users and senior management to define business requirements for complex systems development and gain buy-in for all infrastructure plans.
-* Provide guidance and mentoring to junior members of the technical team. Provide hands on coding between 30% - 50% depending on the size of the project.
-* Document and develop in-depth knowledge of assigned domain architecture, hardware and network infrastructure, and technology portfolio.
-* Develop, document, make recommendations, and communicate plans for investing in application infrastructure, including analysis of cost reduction opportunities.
+* Provide application architectural consulting expertise, direction, and assistance to Technical Analysts, Application Engineers, Senior Database analysts and other Systems Architects
+* Collaborate with end users and senior management to define business requirements for complex systems development and gain buy-in for all infrastructure plans
+* Provide guidance and mentoring to junior members of the technical team. Provide hands on coding between 30% - 50% depending on the size of the project
+* Document and develop in-depth knowledge of assigned domain architecture, hardware and network infrastructure, and technology portfolio
+* Develop, document, make recommendations, and communicate plans for investing in application infrastructure, including analysis of cost reduction opportunities
 * Overall technical implementation and quality of assigned projects and technical domain.
 
 ### Experience
 
-* Minimum of eight years related experience and/or training; or equivalent combination of education and experience.
-* Experience building high quality applications by creating a well designed architecture, writing clean code and implementing common industry practices (e.g. continuous integration, unit tests).
-* Ability to mentor and lead other technical team members without having direct supervision responsibility.
-* A background successfully delivering applications using agile methods and collaborating with non-technical team members including quality assurance, business analysts, and project managers.
-* Candidate should have professionally developed applications with Java or Groovy and JavaScript.
-* Application development experience with common libraries such as Spring, Hibernate, JUnit, Spock, Gradle, and Apache Maven.
-* Knowledge of creating single page applications using a framework such as Angular or ExtJS is preferred.
-* Experience creating RESTful web services is highly desired.
-* Load and performance testing experience is preferred.
-* Knowledge and understanding of the following technologies and libraries is a plus: Spring Boot, Grails, NodeJS, and Amazon Web Services.
+* Minimum of eight years related experience and/or training; or equivalent combination of education and experience
+* Experience building high quality applications by creating a well designed architecture, writing clean code and implementing common industry practices (e.g. continuous integration, unit tests)
+* Ability to mentor and lead other technical team members without having direct supervision responsibility
+* A background successfully delivering applications using agile methods and collaborating with non-technical team members including quality assurance, business analysts, and project managers
+* Candidate should have professionally developed applications with Java or Groovy and JavaScript
+* Application development experience with common libraries such as Spring, Hibernate, JUnit, Spock, Gradle, and Apache Maven
+* Knowledge of creating single page applications using a framework such as Angular or Ext JS is preferred
+* Experience creating RESTful web services is highly desired
+* Load and performance testing experience is preferred
+* Knowledge and understanding of the following technologies and libraries is a plus: Spring Boot, Grails, Node.js, and Amazon Web Services
 
 </details>
 
