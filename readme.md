@@ -20,7 +20,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Application Architect](#application-architect)
 * [Front End Angular Engineer](#front-end-angular-engineer)
 * [Full-Stack React Engineer](#full-stack-react-engineer)
-* [Full-Stack Engineer](#full-stack-engineer)
 * [Full-Stack Engineer 2](#full-stack-engineer-2)
 * [Java Engineer](#java-engineer)
 * [DevOps Engineer](#devops-engineer)
@@ -166,49 +165,6 @@ We are seeking an experienced Application Architect to join our team of committe
 * Familiarity with Linux command line, automated build systems would be nice
 * Excited to work with continuous integration and frequent, daily releases
 * Likes to think about how to break problems down into smaller iterable steps
-
-</details>
-
-
-## Full-Stack Engineer
-
-<details><summary>Read more</summary>
-
-👓
-
-The challenges include processing complex documents and empowering enterprises by extracting, transforming and managing large volumes of data.
-As we grow our team, we are looking for someone that can broaden our expertise in building secure and scalable systems.
-
-### Responsibilities
-
-* Collaborate with cross functional teams to understand scope and use cases for product features and deliver products that are well tested
-* Support the release planning by understanding the details (effort, risk, priority) of the planned features
-* Ship clean, reusable code in extensible and robustly-tested components
-* Perform peer code reviews as part of everyday workflow
-* Keep on top of task and bug management system for assigned issues each sprint as well as estimating and assessing priority
-* Troubleshooting production issues and implementing resilient fixes to prevent future issues
-
-### Qualifications
-
-* 5+ years of professional experience building Web and Back End applications
-* Ability to write understandable, testable, and secure code with an eye towards maintainability
-* Strong computer science fundamentals: data structures, algorithms, and distributed systems
-* Capable of wearing multiple hats and take pride in getting stuff done
-* Ability to collaborate closely with Product, Design, and QA to spec, build, test and deploy new features with high quality
-* B.S. in Computer Science or related field, or equivalent training or work experience
-* Ability to work in fast paced environment with a strong sense of empathy for teammates
-
-### Good to have
-
-* Some experience with Front End technologies - JavaScript, CSS, AngularJS, etc.
-* Experience with AWS services and technologies
-* Experience in a SaaS environment that has an Agile development process is a huge plus
-
-### Skills & Tools
-
-* Python, JavaScript (AngularJS, Backbone.js), Database & SQL (PostgreSQL)
-* Amazon Web Services (AWS), Django framework, REST API
-* Jenkins, Test case management tool (TestRail), JIRA
 
 </details>
 
