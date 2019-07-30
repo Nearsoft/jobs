@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [iOS Developer](#ios-developer)
 * [Ruby Engineer](#ruby-engineer)
 * [Application Architect](#application-architect)
 * [Front End Angular Engineer](#front-end-angular-engineer)
@@ -39,6 +40,22 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## iOS Developer
+
+<details><summary>Read more</summary>
+
+🍽
+
+### Needs
+
+* Experience shipping production native iOS applications and features.
+* Proficient with Swift and Objective-C.
+* Experience evaluating and working with open source toolkits and frameworks.
+* Familiarity with (and deep experience in two or more of): UIKit, CoreData, Networking, Instruments, SOLID, MVVM, FRP
+
+</details>
 
 
 ## Ruby Engineer
