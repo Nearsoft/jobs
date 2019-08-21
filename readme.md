@@ -49,10 +49,10 @@ If an opening has caught your eye feel free to contact us at
 
 ### Needs
 
-* Experience shipping production native iOS applications and features.
-* Proficient with Swift and Objective-C.
-* Experience evaluating and working with open source toolkits and frameworks.
-* Familiarity with (and deep experience in two or more of): UIKit, CoreData, Networking, Instruments, SOLID, MVVM, FRP
+* Experience shipping production native iOS applications and features
+* Proficient with Swift and Objective-C
+* Experience evaluating and working with open source toolkits and frameworks
+* Familiarity with (and deep experience in two or more of): UIKit, Core Data, Networking, Instruments, SOLID, MVVM, FRP
 
 </details>
 
