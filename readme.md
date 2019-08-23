@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Python Developer](#python-developer)
 * [iOS Developer](#ios-developer)
 * [Ruby Engineer](#ruby-engineer)
 * [Application Architect](#application-architect)
@@ -39,6 +40,24 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+
+
+## Python Developer
+
+<details><summary>Read more</summary>
+
+We are looking for a great communicator and outstanding team player!
+
+* 5+ years developing complex software in multiple languages
+* 3 + years using Python and/or Javascript or proven experience learning new languages incredibly quickly
+CS/CIS/Systems Mentality
+* A deep understanding about request life cycles, system architecture, and user behavior
+* Strong understanding of software design fundamentals
+* MySQL/Postgres/RDBMS experience. (Just using ORM's doesn't count)
+* Someone fun, interesting, and likes to build and hack. Not just software!
+* Nice to haves:  React, Django, NoSQL, Mobile Development or DevOps Experience
+
+</details>
 
 
 ## iOS Developer
