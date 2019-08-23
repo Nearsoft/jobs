@@ -46,6 +46,7 @@ If an opening has caught your eye feel free to contact us at
 
 <details><summary>Read more</summary>
 
+
 We are looking for a great communicator and outstanding team player!
 
 * 5+ years developing complex software in multiple languages
