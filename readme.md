@@ -137,7 +137,7 @@ We are seeking an experienced Application Architect to join our team of committe
 
 <details><summary>Read more</summary>
 
-🖌
+
 
 * Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required
 * Proficient on Single-page application frameworks like React.js (preferred), or similar technologies like AngularJS or Vue.js. This is required
