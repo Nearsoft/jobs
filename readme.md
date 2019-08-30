@@ -18,14 +18,14 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Python Developer](#python-developer)
 * [iOS Developer](#ios-developer)
 * [Ruby Developer](#ruby-developer)
-* [Application Architect](#application-architect)
 * [Java Developer](#java-developer)
-* [DevOps Engineer](#devops-engineer)
 * [React Developer](#react-developer)
+* [C# Developer](#c-developer)
+* [DevOps Engineer](#devops-engineer)
 * [UX/UI Designer](#uxui-designer)
 * [UI Designer](#ui-designer)
-* [C# Developer](#c-developer)
 * [Software Engineer in Test](#software-engineer-in-test)
+* [Application Architect](#application-architect)
 
 
 
@@ -93,39 +93,6 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 </details>
 
 
-## Application Architect
-
-<details><summary>Read more</summary>
-
-📸
-
-### Description
-
-We are seeking an experienced Application Architect to join our team of committed IT professionals. Are you passionate about problem-solving and innovation? Apply today and join the family!
-
-* Provide application architectural consulting expertise, direction, and assistance to Technical Analysts, Application Engineers, Senior Database analysts and other Systems Architects
-* Collaborate with end users and senior management to define business requirements for complex systems development and gain buy-in for all infrastructure plans
-* Provide guidance and mentoring to junior members of the technical team. Provide hands on coding between 30% - 50% depending on the size of the project
-* Document and develop in-depth knowledge of assigned domain architecture, hardware and network infrastructure, and technology portfolio
-* Develop, document, make recommendations, and communicate plans for investing in application infrastructure, including analysis of cost reduction opportunities
-* Overall technical implementation and quality of assigned projects and technical domain.
-
-### Experience
-
-* Minimum of eight years related experience and/or training; or equivalent combination of education and experience
-* Experience building high quality applications by creating a well designed architecture, writing clean code and implementing common industry practices (e.g. continuous integration, unit tests)
-* Ability to mentor and lead other technical team members without having direct supervision responsibility
-* A background successfully delivering applications using agile methods and collaborating with non-technical team members including quality assurance, business analysts, and project managers
-* Candidate should have professionally developed applications with Java or Groovy and JavaScript
-* Application development experience with common libraries such as Spring, Hibernate, JUnit, Spock, Gradle, and Apache Maven
-* Knowledge of creating single page applications using a framework such as Angular or Ext JS is preferred
-* Experience creating RESTful web services is highly desired
-* Load and performance testing experience is preferred
-* Knowledge and understanding of the following technologies and libraries is a plus: Spring Boot, Grails, Node.js, and Amazon Web Services
-
-</details>
-
-
 ## Java Developer
 
 <details><summary>Read more</summary>
@@ -156,6 +123,64 @@ We are seeking an experienced Application Architect to join our team of committe
 </details>
 
 
+## React Developer
+
+<details><summary>Read more</summary>
+
+
+### Required Skills
+
+* 5+ years of Software development experience
+* 2+ years of React.js development
+* Strong experience with modern and vanilla JavaScript techniques including React.js, Redux, and ES6/ES7 features
+* Familiarity connecting to Microservices, REST APIs, GraphQL APIs, and other database-driven web applications
+* Experience with third-party libraries and APIs
+* Modern web security methodologies & familiarity with both relational databases and non-relational databases (NoSQL, Elastic Search, Time Based DB)
+* Asynchronous programming including Promises, async/await, and ES7 generators, along with state management using Redux and observables
+* Must be living in Hermosillo or willing to relocate
+
+### Preferred skills & Experience
+
+* Server-side development (Node.js), Docker experience a plus
+* Comfort with modern git and GitHub workflows
+* Familiar with command line tools with Bash/ZSH (Linux or macOS)
+
+</details>
+
+
+## C# Developer
+
+<details><summary>Read more</summary>
+
+
+
+As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
+
+### Responsibilities
+
+* Work with a team of software engineers delivering projects as the “go to person”
+* Develop & maintain customer facing web products and Back End services
+* Writing unit tests and integration tests for max coverage
+* Improve the design of the code as the product evolves
+* Deploy and test code to ensure no defects
+* Build out restful apis and consume third-party APIs
+* Work with business operations to turn requirements into technical solutions
+
+### Experience
+
+* 5+ years of professional experience using C# and .NET framework
+* 5+ years experience with WPF and WinForms
+* 2+ years basic knowledge of JavaScript frameworks like, React.js, or jQuery
+* HTML5, CSS, DOM traversal/manipulation, event capturing
+* Familiarity with Ajax, partial page updates, and async request handling
+* Experience working in an agile scrum development team
+* Excellent communicator, amazing at documentation
+* Knowledge of SQL Server is a plus
+* Knowledge of AWS Elastic Beanstalk is a plus
+
+</details>
+
+
 ## DevOps Engineer
 
 <details><summary>Read more</summary>
@@ -182,31 +207,6 @@ In addition, the qualified candidate will triage and resolve complex issues effe
 * Chef and/or Ansible experience
 * Working knowledge of MySQL (Percona) database clusters + MySQL sharding
 * SignalFx, Splunk, Elasticsearch, NGINX, Ubuntu, Apache, LDAP, HAProxy
-
-</details>
-
-
-## React Developer
-
-<details><summary>Read more</summary>
-
-
-### Required Skills
-
-* 5+ years of Software development experience
-* 2+ years of React.js development
-* Strong experience with modern and vanilla JavaScript techniques including React.js, Redux, and ES6/ES7 features
-* Familiarity connecting to Microservices, REST APIs, GraphQL APIs, and other database-driven web applications
-* Experience with third-party libraries and APIs
-* Modern web security methodologies & familiarity with both relational databases and non-relational databases (NoSQL, Elastic Search, Time Based DB)
-* Asynchronous programming including Promises, async/await, and ES7 generators, along with state management using Redux and observables
-* Must be living in Hermosillo or willing to relocate
-
-### Preferred skills & Experience
-
-* Server-side development (Node.js), Docker experience a plus
-* Comfort with modern git and GitHub workflows
-* Familiar with command line tools with Bash/ZSH (Linux or macOS)
 
 </details>
 
@@ -303,44 +303,10 @@ To apply your portfolio should include the following:
 </details>
 
 
-## C# Developer
-
-<details><summary>Read more</summary>
-
-
-
-As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
-
-### Responsibilities
-
-* Work with a team of software engineers delivering projects as the “go to person”
-* Develop & maintain customer facing web products and Back End services
-* Writing unit tests and integration tests for max coverage
-* Improve the design of the code as the product evolves
-* Deploy and test code to ensure no defects
-* Build out restful apis and consume third-party APIs
-* Work with business operations to turn requirements into technical solutions
-
-### Experience
-
-* 5+ years of professional experience using C# and .NET framework
-* 5+ years experience with WPF and WinForms
-* 2+ years basic knowledge of JavaScript frameworks like, React.js, or jQuery
-* HTML5, CSS, DOM traversal/manipulation, event capturing
-* Familiarity with Ajax, partial page updates, and async request handling
-* Experience working in an agile scrum development team
-* Excellent communicator, amazing at documentation
-* Knowledge of SQL Server is a plus
-* Knowledge of AWS Elastic Beanstalk is a plus
-
-</details>
-
-
 ## Software Engineer in Test
 
 <details><summary>Read more</summary>
 
-✈️
 
 The QA Automation Engineer will be a member of QA team that is responsible for creating reusable test software aimed to improve functional test coverage, schedule efficiency and reduce manual test dependency.
 The person filling this position will be recognized as a key individual contributor with technical focus on providing QA automation solutions and functional QA support.
@@ -375,6 +341,37 @@ QA Automation Engineer will work with our Software Quality Assurance & Developme
 
 </details>
 
+
+## Application Architect
+
+<details><summary>Read more</summary>
+
+
+### Description
+
+We are seeking an experienced Application Architect to join our team of committed IT professionals. Are you passionate about problem-solving and innovation? Apply today and join the family!
+
+* Provide application architectural consulting expertise, direction, and assistance to Technical Analysts, Application Engineers, Senior Database analysts and other Systems Architects
+* Collaborate with end users and senior management to define business requirements for complex systems development and gain buy-in for all infrastructure plans
+* Provide guidance and mentoring to junior members of the technical team. Provide hands on coding between 30% - 50% depending on the size of the project
+* Document and develop in-depth knowledge of assigned domain architecture, hardware and network infrastructure, and technology portfolio
+* Develop, document, make recommendations, and communicate plans for investing in application infrastructure, including analysis of cost reduction opportunities
+* Overall technical implementation and quality of assigned projects and technical domain.
+
+### Experience
+
+* Minimum of eight years related experience and/or training; or equivalent combination of education and experience
+* Experience building high quality applications by creating a well designed architecture, writing clean code and implementing common industry practices (e.g. continuous integration, unit tests)
+* Ability to mentor and lead other technical team members without having direct supervision responsibility
+* A background successfully delivering applications using agile methods and collaborating with non-technical team members including quality assurance, business analysts, and project managers
+* Candidate should have professionally developed applications with Java or Groovy and JavaScript
+* Application development experience with common libraries such as Spring, Hibernate, JUnit, Spock, Gradle, and Apache Maven
+* Knowledge of creating single page applications using a framework such as Angular or Ext JS is preferred
+* Experience creating RESTful web services is highly desired
+* Load and performance testing experience is preferred
+* Knowledge and understanding of the following technologies and libraries is a plus: Spring Boot, Grails, Node.js, and Amazon Web Services
+
+</details>
 
 
 ## Credit
