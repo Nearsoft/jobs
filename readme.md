@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Python Engineer](#python-engineer)
+* [Python Developer](#python-developer)
 * [iOS Developer](#ios-developer)
 * [Ruby Developer](#ruby-developer)
 * [Application Architect](#application-architect)
