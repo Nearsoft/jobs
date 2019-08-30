@@ -16,15 +16,15 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 * [Python Engineer](#python-engineer)
-* [iOS Engineer](#ios-engineer)
-* [Ruby Engineer](#ruby-engineer)
+* [iOS Developer](#ios-developer)
+* [Ruby Developer](#ruby-developer)
 * [Application Architect](#application-architect)
-* [Java Engineer](#java-engineer)
+* [Java Developer](#java-developer)
 * [DevOps Engineer](#devops-engineer)
-* [React Engineer](#react-engineer)
+* [React Developer](#react-developer)
 * [UX/UI Designer](#uxui-designer)
 * [UI Designer](#ui-designer)
-* [C# Engineer](#c-engineer)
+* [C# Developer](#c-developer)
 * [Software Engineer in Test](#software-engineer-in-test)
 
 
@@ -35,7 +35,7 @@ If an opening has caught your eye feel free to contact us at
 [jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
 
 
-## Python Engineer
+## Python Developer
 
 <details><summary>Read more</summary>
 
@@ -54,11 +54,11 @@ We are looking for a great communicator and outstanding team player!
 </details>
 
 
-## iOS Engineer
+## iOS Developer
 
 <details><summary>Read more</summary>
 
-🍽
+
 
 ### Needs
 
@@ -70,11 +70,11 @@ We are looking for a great communicator and outstanding team player!
 </details>
 
 
-## Ruby Engineer
+## Ruby Developer
 
 <details><summary>Read more</summary>
 
-🐇
+
 
 We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable Back End services and an agile approach to problem solving.
 
@@ -126,11 +126,11 @@ We are seeking an experienced Application Architect to join our team of committe
 </details>
 
 
-## Java Engineer
+## Java Developer
 
 <details><summary>Read more</summary>
 
-🌆
+
 
 ### Required
 
@@ -160,7 +160,7 @@ We are seeking an experienced Application Architect to join our team of committe
 
 <details><summary>Read more</summary>
 
-⭐️
+
 
 This DevOps will work in collaboration with software engineering to build CI/CD deploy pipelines and operate highly-scalable, efficient immutable Linux based systems.
 You will drive and deliver against containerization and automation standards, while streamlining operations and processes.
@@ -186,11 +186,10 @@ In addition, the qualified candidate will triage and resolve complex issues effe
 </details>
 
 
-## React Engineer
+## React Developer
 
 <details><summary>Read more</summary>
 
-🛢
 
 ### Required Skills
 
@@ -216,7 +215,7 @@ In addition, the qualified candidate will triage and resolve complex issues effe
 
 <details><summary>Read more</summary>
 
-🌵
+
 
 The UX Team from Nearsoft is growing and we're looking for a hands-on UX/UI Designer that help us build value to our clients' business by being actively involved in product decisions.
 As part of the UX Team, you’ll work closely with designers, developers and stakeholders to produce digital products, conduct user research and design engaging UI solutions.
@@ -262,7 +261,7 @@ To apply your portfolio should include the following:
 
 <details><summary>Read more</summary>
 
-🌵
+
 
 ### Role definition
 
@@ -304,11 +303,11 @@ To apply your portfolio should include the following:
 </details>
 
 
-## C# Engineer
+## C# Developer
 
 <details><summary>Read more</summary>
 
-📈
+
 
 As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
 
