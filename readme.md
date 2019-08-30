@@ -19,21 +19,14 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [iOS Engineer](#ios-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [Application Architect](#application-architect)
-* [Front End Angular Engineer](#front-end-angular-engineer)
-* [Full-Stack React Engineer](#full-stack-react-engineer)
-* [Full-Stack Engineer 2](#full-stack-engineer-2)
 * [Java Engineer](#java-engineer)
 * [DevOps Engineer](#devops-engineer)
-* [DevOps Azure Engineer](#devops-azure-engineer)
 * [React Engineer](#react-engineer)
-* [Back End Java Engineer](#back-end-java-engineer)
-* [Back End Engineer](#back-end-engineer)
 * [UX/UI Designer](#uxui-designer)
 * [UI Designer](#ui-designer)
 * [C# Engineer](#c-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
-* [QA Automation Engineer](#qa-automation-engineer)
-* [Full-Stack .NET Engineer](#full-stack-net-engineer)
+
 
 
 <!-- yaspeller ignore:end -->
@@ -133,62 +126,6 @@ We are seeking an experienced Application Architect to join our team of committe
 </details>
 
 
-## Front End Angular Engineer
-
-<details><summary>Read more</summary>
-
-
-
-* Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required
-* Proficient on Single-page application frameworks like React.js (preferred), or similar technologies like AngularJS or Vue.js. This is required
-* Previously worked on public facing websites is required. At least 4+ years
-* Experienced on managing their own tasks, and follow-up with others when needed. Experienced working with a team size of at least 6, including other developers, QA, and Product Managers
-* Experienced on website best-practices in HTML5, SEO, and WCAG. WCAG is optional, but HTML5 and SEO is required
-* Experienced on writing maintainable code, easy to read, and that is optimized for the task
-* Has experience working with US-based companies for at least 3+ years
-* Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead
-
-</details>
-
-
-## Full-Stack React Engineer
-
-<details><summary>Read more</summary>
-
-🖌
-
-* Well-rounded professional who has a proven track working on a mid-size company for at least 5 years, that can learn quickly to support different type of tasks if required
-* Proficient on Single-page application frameworks like React.js, or similar technologies like AngularJS or Vue.js. This is required. Preferred is React.js. At least 3+ years
-* Proficient on .NET framework building services using any of the following stack Web APIs, MVC or WCF. At least 3+ years
-* Previously worked on public facing websites is required. At least 4+ years
-* Experienced on managing their own tasks, and follow-up with others when needed. Experienced working with a team size of at least 6, including other developers, QA, and Product Managers
-* Experienced on website best-practices in HTML5, SEO, and WCAG. WCAG is optional, but HTML5 and SEO is required
-* Experienced on writing maintainable code, easy to read, and that is optimized for the task
-* Has experience working with US-based companies for at least 3+ years
-* Able to clearly collaborate with others through phone, emails, and tickets with little to no overhead
-
-</details>
-
-
-## Full-Stack Engineer 2
-
-<details><summary>Read more</summary>
-
-🐇
-
-### Qualifications
-
-* 2-3 years of experience, comfortable working independently
-* Comfortable with React.js, familiarity with Rails a plus
-* Experience building Single-page Applications and calling APIs from JavaScript
-* Knowledge of CSS/Sass, MySQL, Redis, and/or Elasticsearch all a plus
-* Familiarity with Linux command line, automated build systems would be nice
-* Excited to work with continuous integration and frequent, daily releases
-* Likes to think about how to break problems down into smaller iterable steps
-
-</details>
-
-
 ## Java Engineer
 
 <details><summary>Read more</summary>
@@ -249,24 +186,6 @@ In addition, the qualified candidate will triage and resolve complex issues effe
 </details>
 
 
-## DevOps Azure Engineer
-
-<details><summary>Read more</summary>
-
-⭐️
-
-### Skills & Responsibilities
-
-* Deployment of .NET & JavaScript applications in cloud platforms, such as MS Azure, Azure Service Fabric & Microservices
-* Experience provisioning & configuring cloud infrastructure in Azure such as VMs, VLAN, VPN, databases, load balancers
-* Define, document and distribute release plans, release checklists, process diagrams, Azure infrastructure diagrams
-* Developing tools, scripts, or processes to improve efficiency, quality or reliability of cloud application deployments
-* Experience with source code management tools such as Git
-* Experience using Azure DevOps (Visual Studio Team Services/Team Foundation Server)
-
-</details>
-
-
 ## React Engineer
 
 <details><summary>Read more</summary>
@@ -289,58 +208,6 @@ In addition, the qualified candidate will triage and resolve complex issues effe
 * Server-side development (Node.js), Docker experience a plus
 * Comfort with modern git and GitHub workflows
 * Familiar with command line tools with Bash/ZSH (Linux or macOS)
-
-</details>
-
-
-## Back End Java Engineer
-
-<details><summary>Read more</summary>
-
-💻
-
-We are looking for talented, enthusiastic and creative engineers to build features and scale our real time communication system back end.
-
-### Ideal Qualifications
-
-* 5+ years of software development experience, ideally using Java or Python
-* Strong understanding of databases and NoSQL (MongoDB, DynamoDB)
-* Experience in building and scaling systems (AWS)
-* Used to a fast paced and collaborative environment where every voice has an impact on the product
-* Bachelor's degree in computer science and/or relevant work experience
-
-</details>
-
-
-## Back End Engineer
-
-<details><summary>Read more</summary>
-
-🏋🏻
-
-We're looking for an innovative Back End Engineer with a passion for designing robust and easy to use APIs and services.
-You’re comfortable tackling efforts solo or working in groups, both big and small.
-Fast-paced environments don’t phase you, and you seek feedback because it has the ability to turn good work into great work.
-You know the best software is created through collaboration and iteration, which is exactly why you’re looking for the right opportunity, and the right team, to expand your experience.
-
-As a Senior Back End Engineer you will craft new functionality with a dedicated team of skilled individuals.
-You like to ship software early and often, you value simplicity, and strive to eliminate unnecessary complexity.
-
-### Responsibilities
-
-* Collaborate closely with Product, Design, and QA to iterate on the design, implementation, deployment and monitoring of our product
-* Build efficient and reusable back end systems
-* Provide technical leadership and mentoring for more junior engineers
-* Participate in design and code reviews
-* Maintain high code coverage via unit tests and acceptance tests
-* Find and address performance issues
-
-### Requirements
-
-* Experience with Java or Python
-* Bachelor’s degree in Computer Science, or equivalent, and at least 5 years of professional programming experience
-* A strong understanding of RESTful API design
-* Knowledge of Web frameworks such as Dropwizard, Flask, and Django a plus
 
 </details>
 
@@ -506,74 +373,6 @@ QA Automation Engineer will work with our Software Quality Assurance & Developme
 * Organized and process oriented individual with ability to maintain excellent process/testing/build release documentation and reports
 * Previous experience with Hudson/Jenkins is preferred but not required
 * Ability to adapt and willingness to learn new technology or techniques
-
-</details>
-
-
-## QA Automation Engineer
-
-<details><summary>Read more</summary>
-
-💰
-
-We are looking for a QA Automation Engineer to join our awesome engineering team.
-We are a lean, tightly-knit team looking for an independent, hands-on problem solver who can apply creative, non-traditional ideas to raw data in order to come up with high-impact solutions for the under served population we target.
-
-### Responsibilities
-
-<!-- yaspeller ignore:start -->
-<!--alex disable execution-->
-<!-- yaspeller ignore:end -->
-
-* Responsible for organizing and overseeing testing for custom lending solutions
-* Specific duties include: evaluating project specifications and requirements; gaining SME level knowledge of solutions
-* Identifying gaps between implementation and the customer system; providing QA deliverables; supporting QA testing team during test execution phases
-* Reviewing and reporting on test execution status; reviewing and managing bug status reports
-* Directing integration testing across Front End clients, Web app servers, core servers, databases, third-party connectors, Web services, and SMS messaging and aggregators as needed
-* Duties also include identifying and validating security and planning and performing data migration testing; performing tests on reporting and data extract consoles
-* Complying and executing complex SQL queries in order to perform database testing; Understanding, and where needed, coding testing components in Python/Perl/Java
-* Leading, managing and prioritizing multiple projects in QA
-* Performing deployments to QA and validating deployments to production environments; and supporting continuous improvement through the use of tools and improved process
-
-<!-- yaspeller ignore:start -->
-<!--alex enable execution-->
-<!-- yaspeller ignore:end -->
-
-### Requirements
-
-* 2 years of QA Automation experience
-* Proficiency working with client-server layered architecture environment involving front-end consumer clients
-* Experience working with Web app servers, core servers, Back End databases, third party and financial back-end system integration coordinators, and REST and SOAP based Web services APIs
-* Proficiency working with real-time, high availability applications and Automation experience using SoapUI or other industry tools are also required
-* Great communicator, self-starter and eager to learn in the fast-paced environment
-* Java, REST API, UI Test Automation- web, hybrid apps, API Test Automation
-* JMeter, Selenium, Appium, TestNG, performance testing, gray box testing, Continuous Integration (CI/CD)
-* Database testing, Mobile testing, JavaScript, Ansible & Compensation
-
-</details>
-
-
-## Full-Stack .NET Engineer
-
-<details><summary>Read more</summary>
-
-⛷
-
-### Skills
-
-* Strong C# and .NET ecosystem
-* Strong software patterns
-* Able to have fluent English conversations
-* Proficiency with Node.js
-* ES6
-* Inferno.js
-* Bootstrap
-* Express 4
-* MongoDB
-* jQuery, HTML and CSS
-* Great knowledge and experience in JavaScript
-* Experience with Git
-* Microservices architecture
 
 </details>
 
