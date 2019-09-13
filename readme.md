@@ -289,7 +289,7 @@ To apply your portfolio should include the following:
 * Be open to receive feedback upon improvement
 * Proactive and Leadership skills
 * Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
-* Location: Hermosillo
+* Location: Hermosillo or CDMX.
 * Availability to travel outside Mexico
 
 ### Nice to have
