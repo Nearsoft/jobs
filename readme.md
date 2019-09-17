@@ -26,7 +26,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [UI Designer](#ui-designer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [Application Architect](#application-architect)
-
+* [English Coach](#english-coach)
 
 
 <!-- yaspeller ignore:end -->
@@ -373,6 +373,14 @@ We are seeking an experienced Application Architect to join our team of committe
 
 </details>
 
+
+## English Coach
+
+<details><summary>Read more</summary>
+  
+🚀Nearsoft⭐️, a software development company with clients based solely in the United States, is looking for a part-time English coach. Are you able to give classes at our office, located in Colonia Roma Norte? Are you committed, adaptable and enjoy creating? Do you have experience teaching advanced English to adults? If so, please email your resume to klantis@nearsoft.com.
+
+</details>
 
 ## Credit
 
