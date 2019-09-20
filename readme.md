@@ -15,12 +15,12 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Python Developer](#python-developer)
-* [iOS Developer](#ios-developer)
-* [Ruby Developer](#ruby-developer)
-* [Java Developer](#java-developer)
-* [React Developer](#react-developer)
-* [C# Developer](#c-developer)
+* [Python Engineer](#python-engineer)
+* [iOS Engineer](#ios-engineer)
+* [Ruby Engineer](#ruby-engineer)
+* [Java Engineer](#java-engineer)
+* [React Engineer](#react-engineer)
+* [C# Engineer](#c-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [UX/UI Designer](#uxui-designer)
 * [UI Designer](#ui-designer)
@@ -31,11 +31,10 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:end -->
 
-If an opening has caught your eye feel free to contact us at
-[jobs@nearsoft.com](mailto:jobs@nearsoft.com) <!-- yaspeller ignore -->
+If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 
-## Python Developer
+## Python Engineer
 
 <details><summary>Read more</summary>
 
@@ -54,7 +53,7 @@ We are looking for a great communicator and outstanding team player!
 </details>
 
 
-## iOS Developer
+## iOS Engineer
 
 <details><summary>Read more</summary>
 
@@ -70,7 +69,7 @@ We are looking for a great communicator and outstanding team player!
 </details>
 
 
-## Ruby Developer
+## Ruby Engineer
 
 <details><summary>Read more</summary>
 
@@ -93,7 +92,7 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 </details>
 
 
-## Java Developer
+## Java Engineer
 
 <details><summary>Read more</summary>
 
@@ -123,7 +122,7 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 </details>
 
 
-## React Developer
+## React Engineer
 
 <details><summary>Read more</summary>
 
@@ -148,13 +147,13 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 </details>
 
 
-## C# Developer
+## C# Engineer
 
 <details><summary>Read more</summary>
 
 
 
-As a Senior C# Developer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
+As a Senior C# Engineer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
 
 ### Responsibilities
 
@@ -279,7 +278,7 @@ To apply your portfolio should include the following:
 
 ### Requirements
 
-* At least 3-5 years of experience designing digital products (Web&Mobile)
+* At least 3-5 years of experience designing digital products (Web & Mobile)
 * Strong User Interface Design skills
 * Knowledge of System Native Patterns and specs
 * Fluent in English written and spoken skills
@@ -289,16 +288,16 @@ To apply your portfolio should include the following:
 * Be open to receive feedback upon improvement
 * Proactive and Leadership skills
 * Understand modern web and mobile environments such as HTML, CSS, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience
-* Location: Hermosillo or CDMX.
+* Location: Hermosillo or Mexico City
 * Availability to travel outside Mexico
 
 ### Nice to have
 
-* Experience using UX methodologies and techniques.
-* Understanding of front-end languages: HTML5, CSS3 Javascript.
-* Portfolio Requirements
-* Your portfolio should showcase 5 of your top best UI/UX projects, complemented with a short description of each and your direct contribution to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution.
-* Send your CV and Portfolio to: aquijada@nearsoft.com
+* Experience using UX methodologies and techniques
+* Understanding of front-end languages: HTML5, CSS3 JavaScript
+* Portfolio requirements:
+  * Your portfolio should showcase 5 of your top best UI/UX projects, complemented with a short description of each and your direct contribution to it. Make sure to include a minimum of six screens per project or one complete user flow in high resolution
+  * Send your CV and Portfolio to: aquijada@nearsoft.com
 
 </details>
 
@@ -377,8 +376,16 @@ We are seeking an experienced Application Architect to join our team of committe
 ## English Coach
 
 <details><summary>Read more</summary>
-  
-🚀Nearsoft⭐️, a software development company with clients based solely in the United States, is looking for a part-time English coach. Are you able to give classes at our office, located in Colonia Roma Norte? Are you committed, adaptable and enjoy creating? Do you have experience teaching advanced English to adults? If so, please email your resume to klantis@nearsoft.com.
+
+🚀Nearsoft⭐️, a software development company with clients based solely in the United States, is looking for a part-time English coach.
+
+Are you able to give classes at our Mexico City office, located in Colonia Roma Norte? <!-- yaspeller ignore -->
+
+Are you committed, adaptable and enjoy creating?
+
+Do you have experience teaching advanced English to professionals?
+
+If so, please email your resume to klantis@nearsoft.com.
 
 </details>
 
