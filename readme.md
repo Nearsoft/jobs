@@ -20,7 +20,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Ruby Engineer](#ruby-engineer)
 * [Java Engineer](#java-engineer)
 * [React Engineer](#react-engineer)
-* [C# Engineer](#c-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [UX/UI Designer](#uxui-designer)
 * [UI Designer](#ui-designer)
@@ -143,39 +142,6 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 * Server-side development (Node.js), Docker experience a plus
 * Comfort with modern git and GitHub workflows
 * Familiar with command line tools with Bash/ZSH (Linux or macOS)
-
-</details>
-
-
-## C# Engineer
-
-<details><summary>Read more</summary>
-
-
-
-As a Senior C# Engineer, you will enhance our advisor technology using C#, HTML5, and CSS3. Embrace code quality by using modern testing tools like Cucumber. Experience the power of the cloud while using Amazon Web Services (AWS) to build out environments, run scenarios, and communicate between microservices.
-
-### Responsibilities
-
-* Work with a team of software engineers delivering projects as the “go to person”
-* Develop & maintain customer facing web products and Back End services
-* Writing unit tests and integration tests for max coverage
-* Improve the design of the code as the product evolves
-* Deploy and test code to ensure no defects
-* Build out restful apis and consume third-party APIs
-* Work with business operations to turn requirements into technical solutions
-
-### Experience
-
-* 5+ years of professional experience using C# and .NET framework
-* 5+ years experience with WPF and WinForms
-* 2+ years basic knowledge of JavaScript frameworks like, React.js, or jQuery
-* HTML5, CSS, DOM traversal/manipulation, event capturing
-* Familiarity with Ajax, partial page updates, and async request handling
-* Experience working in an agile scrum development team
-* Excellent communicator, amazing at documentation
-* Knowledge of SQL Server is a plus
-* Knowledge of AWS Elastic Beanstalk is a plus
 
 </details>
 
