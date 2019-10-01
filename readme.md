@@ -135,7 +135,6 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 * Experience with third-party libraries and APIs
 * Modern web security methodologies & familiarity with both relational databases and non-relational databases (NoSQL, Elastic Search, Time Based DB)
 * Asynchronous programming including Promises, async/await, and ES7 generators, along with state management using Redux and observables
-* Must be living in Hermosillo or willing to relocate
 
 ### Preferred skills & Experience
 
