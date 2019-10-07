@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Data Engineer](#data-engineer)
 * [Node Engineer](#node-engineer)
 * [Python Engineer](#python-engineer)
 * [iOS Engineer](#ios-engineer)
@@ -32,6 +33,39 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## Data Engineer
+
+<details><summary>Read more</summary>
+  
+### Responsibilities:
+
+* Build and maintain multiple data pipelines to ingest new data sources (APIs, Files, Streaming, Databases,
+Email, etc.) and support products used by both external users and internal teams.
+* Optimize infrastructure and pipelines by building DataOps tools to evaluate and automatically monitor
+data quality, auto-scale serverless infrastructure, and develop data driven pipelines.
+* Work with our data science and product management teams to design, rapidly prototype, and
+productize new internal and external data product ideas and capabilities.
+* Work with the data engineering team to migrate and enhance our existing Pentaho-based ETL pipeline
+to a new Python-based system and develop a serverless cloud data lake to augment our existing
+Snowflake Data Warehouse.
+* Conquer complex problems by finding new ways to solve with simple, efficient approaches with focus on
+reliability, scalability, quality and cost of our platforms.
+* Build processes supporting data transformation, data structures metadata, and workload management.
+* Collaborate with the team to perform root cause analysis and audit internal and external data and
+processes to help answer specific business questions.
+
+### REQUIREMENTS
+
+* 2+ years of data engineering experience or education equivalency
+* SQL and Python skills including knowledge of Python libraries / frameworks
+* Experience with AWS tools including EMR/Athena, S3, Kinesis, API Gateway, LAMBDA, Athena, etc.
+* Excellent troubleshooting and problem-solving skills
+* Excellent communication and teamwork, and a passion to learn
+( Familiarity with distributed computing platforms (e.g. Hadoop, Spark, Storm)
+
+</details>
 
 
 ## Node Engineer
