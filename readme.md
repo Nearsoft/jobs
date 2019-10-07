@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Node Engineer](#node-engineer)
 * [Python Engineer](#python-engineer)
 * [iOS Engineer](#ios-engineer)
 * [Ruby Engineer](#ruby-engineer)
@@ -31,6 +32,37 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## Node Engineer
+
+<details><summary>Read more</summary>
+  
+We are looking for a Software Engineer with experience in delivering AdTech, MarTech, and editorial content solutions. As a Software Engineer on the engineering team, you will be working with the engineering, product, data, and analytics teams to design and build modern performance-based marketing systems natively in the cloud.
+
+### Job Responsibilities
+
+* Collaborate with product; tech teams to design, document and develop solutions.
+* Deliver quality software on time and to spec.
+* Participate in peer review process.
+* Collaborate optimize our tools and process with collaboration.
+
+### Requirements
+
+* Command of NodeJS, PHP, Python and comfort working in other languages.
+* Working knowledge of docker and or other containerization services.
+* Solid understanding of SQL fundamentals.
+* Comfortable writing unit tests.
+* Excellent written and verbal communication skills with an emphasis on collaboration.
+
+### Nice to have experience
+
+* Symfony Framework
+* AWS
+* Terraform and or CloudFormation
+* ReactJS
+
+</details>
 
 
 ## Python Engineer
