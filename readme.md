@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [DevOps Engineer](#devops-engineer)
 * [Data Engineer](#data-engineer)
 * [Node Engineer](#node-engineer)
 * [Python Engineer](#python-engineer)
@@ -22,7 +23,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Ruby Engineer](#ruby-engineer)
 * [Java Engineer](#java-engineer)
 * [React Engineer](#react-engineer)
-* [DevOps Engineer](#devops-engineer)
 * [UX/UI Designer](#uxui-designer)
 * [UI Designer](#ui-designer)
 * [Software Engineer in Test](#software-engineer-in-test)
@@ -34,6 +34,49 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 
+## DevOps Engineer
+
+<details><summary>Read more</summary>
+  
+ ### Requirements
+
+* Enterprise public cloud experience such as AWS, Google, MS Azure, etc.
+* Experience writing automation scripts such as Python, Bash, Ruby, Powershell etc.
+* Experience working with and coding automated configuration and infrastructure deployment
+management tools such as Puppet, Chef, Salt, Ansible etc.
+* Experience implementing systems and application performance monitoring tools (AppDynamics, New
+Relic, Sensu, Zenoss, Nagios, etc.); Emphasis on developing custom systems and application monitors.
+* Hands-on experience with operating system administration and tuning including Linux/Unix and/or
+Microsoft Operating Systems is required.
+* Hands-on experience implementing centralized log aggregation and search frameworks such as Splunk,
+ELK, etc.
+* Experience with source control management and how they are used in delivery (Git/TFS/CVS) and
+conforming to Development organization’s SDLC standards.
+* Strong technical and troubleshooting skills to evaluate, recommend and support new technology as it
+relates to Web-based applications.
+* Comfort with facilitating collaboration, open communication and reaching across functional borders
+* Prior deployment experience working with software development life cycle and methodology are strongly
+desired.
+* Must be a self-starter and motivated to work with people to get the task accomplished, sometimes with
+minimal supervision.
+* High level of customer responsiveness, excellent documentation and communication skills and attention
+to detail
+
+### Preferences
+
+* Minimum 2 years’ experience configuration and maintaining network and system security: firewalls
+(including WAF), security logs and audits, proxies, DMZ.
+* Minimum 2 years’ experience with networking principles: routing, naming services, port-mapping,
+protocols, network address translation, DHCP, IP chaining, etc.
+* Experience installing, configuring, and tuning application messaging technologies such as ActiveMQ, JMS,
+RabbitMQ etc.
+* Experience with Software Development tracking and collaboration tools (Atlassian Suite etc.)
+* Experience with basic database administration: installation, emergency recovery, creating accounts,
+tuning SQL queries, indexing.
+  
+ </details>
+ 
+  
 ## Data Engineer
 
 <details><summary>Read more</summary>
@@ -206,36 +249,6 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 * Server-side development (Node.js), Docker experience a plus
 * Comfort with modern git and GitHub workflows
 * Familiar with command line tools with Bash/ZSH (Linux or macOS)
-
-</details>
-
-
-## DevOps Engineer
-
-<details><summary>Read more</summary>
-
-
-
-This DevOps will work in collaboration with software engineering to build CI/CD deploy pipelines and operate highly-scalable, efficient immutable Linux based systems.
-You will drive and deliver against containerization and automation standards, while streamlining operations and processes.
-In addition, the qualified candidate will triage and resolve complex issues effectively in large scale, production AWS environments
-
-### Required Skills
-
-* Fluent with Terraform and Packer (Ansible experience is a plus)
-* 5+ years coding experience writing and maintaining tools and scripts to support automation and operations (bash or python preferred)
-* 4+ years experience with AWS or other cloud provider
-* 4+ years experience in designing/building/maintaining CI/CD and related tools (e.g. Jenkins, Bamboo, Travis, etc..)
-* Strong knowledge of large-scale Web/Internet application architecture and technologies
-* Hands-on experience in building and administering AMIs and Containers using tools such as Docker, Vagrant, Kubernetes, etc. (Amazon EKS/ECS preferred)
-* Strong understanding of immutable infrastructure principles
-
-### Nice to have
-
-* Experience with Kubernetes Operations (kops) and Helm
-* Chef and/or Ansible experience
-* Working knowledge of MySQL (Percona) database clusters + MySQL sharding
-* SignalFx, Splunk, Elasticsearch, NGINX, Ubuntu, Apache, LDAP, HAProxy
 
 </details>
 
