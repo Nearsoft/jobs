@@ -19,7 +19,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Data Engineer](#data-engineer)
 * [Node Engineer](#node-engineer)
 * [Python Engineer](#python-engineer)
-* [iOS Engineer](#ios-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [Java Engineer](#java-engineer)
 * [React Engineer](#react-engineer)
@@ -156,22 +155,6 @@ We are looking for a great communicator and outstanding team player!
 * MySQL/PostgreSQL/RDBMS experience. (Just using ORMs doesn't count)
 * Someone fun, interesting, and likes to build and hack. Not just software!
 * Nice to haves: React.js, Django, NoSQL, Mobile Development or DevOps Experience
-
-</details>
-
-
-## iOS Engineer
-
-<details><summary>Read more</summary>
-
-
-
-### Needs
-
-* Experience shipping production native iOS applications and features
-* Proficient with Swift and Objective-C
-* Experience evaluating and working with open source toolkits and frameworks
-* Familiarity with (and deep experience in two or more of): UIKit, Core Data, Networking, Instruments, SOLID, MVVM, FRP
 
 </details>
 
