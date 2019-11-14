@@ -36,75 +36,54 @@ If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 ## DevOps Engineer
 
 <details><summary>Read more</summary>
-  
- ### Requirements
+
+### Requirements
 
 * Enterprise public cloud experience such as AWS, Google, MS Azure, etc.
 * Experience writing automation scripts such as Python, Bash, Ruby, Powershell etc.
-* Experience working with and coding automated configuration and infrastructure deployment
-management tools such as Puppet, Chef, Salt, Ansible etc.
-* Experience implementing systems and application performance monitoring tools (AppDynamics, New
-Relic, Sensu, Zenoss, Nagios, etc.); Emphasis on developing custom systems and application monitors.
-* Hands-on experience with operating system administration and tuning including Linux/Unix and/or
-Microsoft Operating Systems is required.
-* Hands-on experience implementing centralized log aggregation and search frameworks such as Splunk,
-ELK, etc.
-* Experience with source control management and how they are used in delivery (Git/TFS/CVS) and
-conforming to Development organization’s SDLC standards.
-* Strong technical and troubleshooting skills to evaluate, recommend and support new technology as it
-relates to Web-based applications.
+* Experience working with and coding automated configuration and infrastructure deployment management tools such as Puppet, Chef, Salt, Ansible etc.
+* Experience implementing systems and application performance monitoring tools (AppDynamics, New Relic, Sensu, Zenoss, Nagios, etc.); Emphasis on developing custom systems and application monitors
+* Hands-on experience with operating system administration and tuning including Linux/Unix and/or Microsoft Operating Systems is required
+* Hands-on experience implementing centralized log aggregation and search frameworks such as Splunk, ELK, etc.
+* Experience with source control management and how they are used in delivery (Git/TFS/CVS) and conforming to Development organization's SDLC standards
+* Strong technical and troubleshooting skills to evaluate, recommend and support new technology as it relates to Web-based applications
 * Comfort with facilitating collaboration, open communication and reaching across functional borders
-* Prior deployment experience working with software development life cycle and methodology are strongly
-desired.
-* Must be a self-starter and motivated to work with people to get the task accomplished, sometimes with
-minimal supervision.
-* High level of customer responsiveness, excellent documentation and communication skills and attention
-to detail
+* Prior deployment experience working with software development life-cycle and methodology are strongly desired
+* Must be a self-starter and motivated to work with people to get the task accomplished, sometimes with minimal supervision
+* High level of customer responsiveness, excellent documentation and communication skills and attention to detail
 
 ### Preferences
 
-* Minimum 2 years’ experience configuration and maintaining network and system security: firewalls
-(including WAF), security logs and audits, proxies, DMZ.
-* Minimum 2 years’ experience with networking principles: routing, naming services, port-mapping,
-protocols, network address translation, DHCP, IP chaining, etc.
-* Experience installing, configuring, and tuning application messaging technologies such as ActiveMQ, JMS,
-RabbitMQ etc.
+* Minimum 2 years experience configuration and maintaining network and system security: firewalls (including WAF), security logs and audits, proxies, DMZ
+* Minimum 2 years experience with networking principles: routing, naming services, port-mapping, protocols, network address translation, DHCP, IP chaining, etc.
+* Experience installing, configuring, and tuning application messaging technologies such as ActiveMQ, JMS, RabbitMQ etc.
 * Experience with Software Development tracking and collaboration tools (Atlassian Suite etc.)
-* Experience with basic database administration: installation, emergency recovery, creating accounts,
-tuning SQL queries, indexing.
-  
- </details>
- 
-  
+* Experience with basic database administration: installation, emergency recovery, creating accounts, tuning SQL queries, indexing
+
+</details>
+
+
 ## Data Engineer
 
 <details><summary>Read more</summary>
-  
-### Responsibilities:
 
-* Build and maintain multiple data pipelines to ingest new data sources (APIs, Files, Streaming, Databases,
-Email, etc.) and support products used by both external users and internal teams.
-* Optimize infrastructure and pipelines by building DataOps tools to evaluate and automatically monitor
-data quality, auto-scale serverless infrastructure, and develop data driven pipelines.
-* Work with our data science and product management teams to design, rapidly prototype, and
-productize new internal and external data product ideas and capabilities.
-* Work with the data engineering team to migrate and enhance our existing Pentaho-based ETL pipeline
-to a new Python-based system and develop a serverless cloud data lake to augment our existing
-Snowflake Data Warehouse.
-* Conquer complex problems by finding new ways to solve with simple, efficient approaches with focus on
-reliability, scalability, quality and cost of our platforms.
-* Build processes supporting data transformation, data structures metadata, and workload management.
-* Collaborate with the team to perform root cause analysis and audit internal and external data and
-processes to help answer specific business questions.
+### Responsibilities
 
-### REQUIREMENTS
+* Build and maintain multiple data pipelines to ingest new data sources (APIs, Files, Streaming, Databases, Email, etc.) and support products used by both external users and internal teams
+* Optimize infrastructure and pipelines by building DataOps tools to evaluate and automatically monitor data quality, auto-scale serverless infrastructure, and develop data driven pipelines
+* Work with our data science and product management teams to design, rapidly prototype, and produce new internal and external data product ideas and capabilities
+* Work with the data engineering team to migrate and enhance our existing Pentaho-based ETL pipeline to a new Python-based system and develop a serverless cloud data lake to augment our existing Snowflake Data Warehouse
+* Conquer complex problems by finding new ways to solve with simple, efficient approaches with focus on reliability, scalability, quality and cost of our platforms
+* Build processes supporting data transformation, data structures metadata, and workload management
+* Collaborate with the team to perform root cause analysis and audit internal and external data and processes to help answer specific business questions
+
+### Requirements
 
 * 2+ years of data engineering experience or education equivalency
 * SQL and Python skills including knowledge of Python libraries / frameworks
 * Experience with AWS tools including EMR/Athena, S3, Kinesis, API Gateway, LAMBDA, Athena, etc.
 * Excellent troubleshooting and problem-solving skills
-* Excellent communication and teamwork, and a passion to learn
-( Familiarity with distributed computing platforms (e.g. Hadoop, Spark, Storm)
+* Excellent communication and teamwork, and a passion to learn (Familiarity with distributed computing platforms (e.g. Hadoop, Spark, Storm)
 
 </details>
 
@@ -112,30 +91,30 @@ processes to help answer specific business questions.
 ## Node Engineer
 
 <details><summary>Read more</summary>
-  
-We are looking for a Software Engineer with experience in delivering AdTech, MarTech, and editorial content solutions. As a Software Engineer on the engineering team, you will be working with the engineering, product, data, and analytics teams to design and build modern performance-based marketing systems natively in the cloud.
 
-### Job Responsibilities
+We are looking for a Software Engineer with experience in delivering Ad tech, Mar tech, and editorial content solutions. As a Software Engineer on the engineering team, you will be working with the engineering, product, data, and analytics teams to design and build modern performance-based marketing systems natively in the cloud.
 
-* Collaborate with product; tech teams to design, document and develop solutions.
-* Deliver quality software on time and to spec.
-* Participate in peer review process.
-* Collaborate optimize our tools and process with collaboration.
+### Responsibilities
+
+* Collaborate with product; tech teams to design, document and develop solutions
+* Deliver quality software on time and to spec
+* Participate in peer review process
+* Collaborate optimize our tools and process with collaboration
 
 ### Requirements
 
-* Command of NodeJS, PHP, Python and comfort working in other languages.
-* Working knowledge of docker and or other containerization services.
-* Solid understanding of SQL fundamentals.
-* Comfortable writing unit tests.
-* Excellent written and verbal communication skills with an emphasis on collaboration.
+* Command of NodeJS, PHP, Python and comfort working in other languages
+* Working knowledge of docker and or other containerization services
+* Solid understanding of SQL fundamentals
+* Comfortable writing unit tests
+* Excellent written and verbal communication skills with an emphasis on collaboration
 
-### Nice to have experience
+### Nice to have
 
 * Symfony Framework
 * AWS
 * Terraform and or CloudFormation
-* ReactJS
+* React.js
 
 </details>
 
