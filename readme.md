@@ -24,7 +24,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [React Engineer](#react-engineer)
 * [UI Designer](#ui-designer)
 * [Software Engineer in Test](#software-engineer-in-test)
-* [English Coach](#english-coach)
 
 
 <!-- yaspeller ignore:end -->
@@ -298,22 +297,6 @@ QA Automation Engineer will work with our Software Quality Assurance & Developme
 
 </details>
 
-
-## English Coach
-
-<details><summary>Read more</summary>
-
-🚀Nearsoft⭐️, a software development company with clients based solely in the United States, is looking for a part-time English coach.
-
-Are you able to give classes at our Mexico City office, located in Colonia Roma Norte? <!-- yaspeller ignore -->
-
-Are you committed, adaptable and enjoy creating?
-
-Do you have experience teaching advanced English to professionals?
-
-If so, please email your resume to klantis@nearsoft.com.
-
-</details>
 
 ## Credit
 
