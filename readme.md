@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Fullstack Web Developer](#fullstack-web-developer)
 * [DevOps Engineer](#devops-engineer)
 * [Data Engineer](#data-engineer)
 * [Node Engineer](#node-engineer)
@@ -30,6 +31,52 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
+
+## Fullstack Web Developer
+
+<details><summary>Read more</summary>
+
+The right individual for this role will be a passionate, motivated, and energetic developer who takes initiative, enjoys finding solutions to a varying number of challenges, and takes pride in their work.
+
+### Essential Duties:
+
+* Write code for both front-end and back-end that is reusable, maintainable and extensible.
+* Develop intuitive, user-friendly, visually appealing front-end interfaces
+* Implement server side logic to integrate with client side elements
+* Optimize applications for security, performance, speed and operation on various devices
+* Collaborate with other team members
+* Design, implement, and maintain data storage solutions while ensuring data integrity and security
+* Maintain existing web applications and fix bugs
+
+### Other Duties: 
+
+* Handle multiple tasks simultaneously.
+* Participate in proactive team efforts to achieve departmental and company goals.  
+* Comply with all safety policies, practices and procedures.
+* Report any potential or actual violations of such policies, practices and procedures to Supervisor. 
+* Perform other duties as assigned by Management.
+
+### Technical Requirements:
+
+* Proficient understanding and experience with building both front-end and back-end using ASP.Net Core and React and Redux JS
+* Experience building Enterprise web applications with extensive exposure to SDLC processes including architecture, design, coding, testing, deployment and support
+* Experience to SQL server 2016, creating queries, stored procedures, Views, and database functions
+* Develop and implement projects in with MS development stack using SOAP, JSON, C#.Net, ASP.Net Core, ADO.Net, Web API, Entity Framework
+* Experience with Javascript, HTML 5, CSS3, Node.Js, Webpack, Babel.
+* Experience with Azure DevOps and continuous integration
+
+### Knowledge, Skills, Abilities and Experience:
+
+* 5+ years of database work in MS SQL
+* 5+ years of programming in C# 
+* 4+ years of ASP.NET and modern front end framework.
+* 5+ years Object Oriented design concepts 
+* Enjoy a smaller environment, and be able to work under deadline. 
+* Strong interpersonal skills, mature judgment to interact effectively with a broad spectrum of people, both individually and in groups.
+* Mortgage & Encompass Background is a Plus (Optional)
+* Azure Ad OIDC and Azure SQL is a Plus
+
+</details>
 
 ## DevOps Engineer
 
