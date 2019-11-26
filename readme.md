@@ -17,7 +17,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 * [Fullstack Web Developer](#fullstack-web-developer)
 * [DevOps Engineer](#devops-engineer)
-* [Data Engineer](#data-engineer)
 * [Node Engineer](#node-engineer)
 * [Python Engineer](#python-engineer)
 * [Ruby Engineer](#ruby-engineer)
@@ -104,31 +103,6 @@ The right individual for this role will be a passionate, motivated, and energeti
 * Experience installing, configuring, and tuning application messaging technologies such as ActiveMQ, JMS, RabbitMQ etc.
 * Experience with Software Development tracking and collaboration tools (Atlassian Suite etc.)
 * Experience with basic database administration: installation, emergency recovery, creating accounts, tuning SQL queries, indexing
-
-</details>
-
-
-## Data Engineer
-
-<details><summary>Read more</summary>
-
-### Responsibilities
-
-* Build and maintain multiple data pipelines to ingest new data sources (APIs, Files, Streaming, Databases, Email, etc.) and support products used by both external users and internal teams
-* Optimize infrastructure and pipelines by building DataOps tools to evaluate and automatically monitor data quality, auto-scale serverless infrastructure, and develop data driven pipelines
-* Work with our data science and product management teams to design, rapidly prototype, and produce new internal and external data product ideas and capabilities
-* Work with the data engineering team to migrate and enhance our existing Pentaho-based ETL pipeline to a new Python-based system and develop a serverless cloud data lake to augment our existing Snowflake Data Warehouse
-* Conquer complex problems by finding new ways to solve with simple, efficient approaches with focus on reliability, scalability, quality and cost of our platforms
-* Build processes supporting data transformation, data structures metadata, and workload management
-* Collaborate with the team to perform root cause analysis and audit internal and external data and processes to help answer specific business questions
-
-### Requirements
-
-* 2+ years of data engineering experience or education equivalency
-* SQL and Python skills including knowledge of Python libraries / frameworks
-* Experience with AWS tools including EMR/Athena, S3, Kinesis, API Gateway, LAMBDA, Athena, etc.
-* Excellent troubleshooting and problem-solving skills
-* Excellent communication and teamwork, and a passion to learn (Familiarity with distributed computing platforms (e.g. Hadoop, Spark, Storm)
 
 </details>
 
