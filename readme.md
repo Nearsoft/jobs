@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Data Engineer](#data-engineer)
 * [Fullstack Web Developer](#fullstack-web-developer)
 * [DevOps Engineer](#devops-engineer)
 * [Node Engineer](#node-engineer)
@@ -29,6 +30,40 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## Data Engineer 
+
+<details><summary>Read more</summary>
+
+We looking for a Data Engineer experienced in Python, AWS and Data Integration technologies. 
+The CTI Data Engineering team is responsible for designing and developing the Enterprise Data Platform including a Serverless Data Lake and Data Warehouse, core application pipelines, reporting solutions, machine learning and predictive analytics. If you are a critical thinker with a solid track record of developing data solutions and solving complex problems, we want you to join our team! You will play a vital role in designing and developing our next generation datapipelines and data platform. Join the team and prototype new internal and external data product ideas and concepts!
+
+### Responsibilities
+
+* Build and maintain multiple data pipelines to ingest new data sources (APIs, Files, Streaming, Databases, Email, etc.) and support products used by both external users and internal teams
+* Optimize infrastructure and pipelines by building DataOps tools to evaluate and automatically monitor data quality, auto-scale serverless infrastructure, and develop data driven pipelines
+* Work with our data science and product management teams to design, rapidly prototype, and productize new internal and external data product ideas and capabilities
+* Work with the data engineering team to migrate and enhance our existing Pentaho-based ETL pipeline to a new Python-based system and develop a serverlesscloud data lake to augment our existing Snowflake Data Warehouse
+* Conquer complex problems by finding new ways to solve with simple, efficient approaches with focus on reliability, scalability, quality and cost of our platforms
+* Build processes supporting data transformation, data structures metadata, and workload management
+* Collaborate with the team to perform root cause analysis and audit internal and external data and processes to help answer specific business questions
+
+### REQUIREMENTS
+
+* 5+ years of professional data engineering experience
+* Strong SQL and Python skills including knowledge of Python libraries / frameworks
+* Comfortable working directly with data analytics to bridge business requirements with data engineering
+* Experience with AWS tools including EMR/Athena, S3, Kinesis, API Gateway, LAMBDA, Athena, etc.
+* Excellent troubleshooting and problem-solving skills
+* Experience with workflow management tools (Airflow, Oozie, Azkaban, Luigi, etc.)
+* Ability to operate in an agile, entrepreneurial start-up environment, and prioritize
+* Excellent communication and teamwork, and a passion to learn
+* Experience with Data Integration Technologies (Pentaho, Talend, Informatica, Glue, etc.)
+* Experience with Snowflake, Redshift or other MPP databases is a plus
+* Familiarity with distributed computing platforms (e.g. Hadoop, Spark, Storm)
+
+</details>
 
 
 ## Fullstack Web Developer
