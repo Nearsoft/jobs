@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Wordpress Developer](#wordpress-developer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
 * [Fullstack Web Developer](#fullstack-web-developer)
@@ -32,10 +33,21 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 
+## Wordpress Developer
+
+<details><summary>Read more</summary>
+  
+  We are seeking a candidate with experience in JavaScript, CSS and responsive UI. The ideal WordPress candidate would have hands-on experience with the WordPress REST API and Advanced Custom Fields (ACF). 
+  
+  </details>
+  
+  
 ## Python Automation Engineer 
 
 <details><summary>Read more</summary>
   
+  We are seeking a candidate with experience in JavaScript, CSS and responsive UI.
+The ideal WordPress candidate would have hands-on experience with the WordPress REST API and Advanced Custom Fields (ACF).
   * 3-5 years experience in Software Quality with strong demonstrable automation skills in Selenium, Python, PHP or a scripting language used for test regression
 * Ability to not only automation but manually test and apply manual tests to regression scripts quickly and seamlessly to sprint tasks
 * Junior/Mid-level Agile experience working with onsite and offsite teams within an Agile Development Life Cycle
