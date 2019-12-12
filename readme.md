@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Learning Development Engineer](#learning-development-engineer)
 * [Wordpress Developer](#wordpress-developer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
@@ -32,6 +33,34 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
+
+
+## Learning Development Engineer 
+
+<details><summary>Read more</summary>
+  
+### Your responsibilities:
+
+* Research, write, update and create scalable resources, help articles and guides related to online teaching and learning
+Analyze data related to pedagogical L&D needs and support services
+* Create training programs for face to face and online Teaching and Learning workshops
+* Support impact evaluation and measurement processes for L&D
+* Build up dev teams from the academy. Work with a client for a couple of months, and then leave a functional team 
+* You’ll support us on the development of our junior developers to make progress each week and help them excel in their role and be on the way to become senior developers
+
+### Your skills:
+
+* 5+ years experience building software using multiple tech stacks
+* A Passion for education or mentoring
+* Proven research skills, excellent analytical skills
+* Superior writing skills
+* Ability to work independently and deliver results with clear deadlines
+* Quick to learn new technologies, methods and work styles
+* Shows Interest in learning more about teaching and learning online
+* Background in online learning is an advantage
+
+  </details>
+  
 
 ## Wordpress Developer
 
