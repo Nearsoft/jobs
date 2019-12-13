@@ -16,7 +16,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 * [Learning Development Engineer](#learning-development-engineer)
-* [Wordpress Developer](#wordpress-developer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
 * [Fullstack Web Developer](#fullstack-web-developer)
@@ -60,17 +59,8 @@ Analyze data related to pedagogical L&D needs and support services
 * Background in online learning is an advantage
 
   </details>
-  
-
-## Wordpress Developer
-
-<details><summary>Read more</summary>
-  
-  We are seeking a candidate with experience in JavaScript, CSS and responsive UI. The ideal WordPress candidate would have hands-on experience with the WordPress REST API and Advanced Custom Fields (ACF). 
-  
-  </details>
-  
-  
+ 
+    
 ## Python Automation Engineer 
 
 <details><summary>Read more</summary>
