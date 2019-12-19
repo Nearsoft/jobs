@@ -15,11 +15,11 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Wordpress Developer](#wordpress-developer)
+* [WordPress Developer](#wordpress-developer)
 * [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
-* [Fullstack Web Developer](#fullstack-web-developer)
+* [Full Stack Web Developer](#full-stack-web-developer)
 * [DevOps Engineer](#devops-engineer)
 * [Node Engineer](#node-engineer)
 * [Python Engineer](#python-engineer)
@@ -35,7 +35,7 @@ If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 
 
-## Wordpress Developer
+## WordPress Developer
 
 <details><summary>Read more</summary>
   
@@ -119,7 +119,7 @@ The CTI Data Engineering team is responsible for designing and developing the En
 </details>
 
 
-## Fullstack Web Developer
+## Full Stack Web Developer
 
 <details><summary>Read more</summary>
 
