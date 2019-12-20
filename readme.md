@@ -15,11 +15,11 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [WordPress Developer](#wordpress-developer)
+* [WordPress Engineer](#wordpress-engineer)
 * [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
-* [Full Stack Web Developer](#full-stack-web-developer)
+* [Full-Stack Web Engineer](#full-stack-web-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Node Engineer](#node-engineer)
 * [Python Engineer](#python-engineer)
@@ -35,79 +35,79 @@ If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 
 
-## WordPress Developer
+## WordPress Engineer
 
 <details><summary>Read more</summary>
-  
+
 We are seeking a candidate with experience in JavaScript, CSS and responsive UI.
 The ideal WordPress candidate would have hands-on experience with the WordPress REST API and Advanced Custom Fields (ACF).
-  
- </details>
-    
-    
-## Learning Development Engineer 
-
-<details><summary>Read more</summary>
-  
-### Your responsibilities:
-
-* Research, write, update and create scalable resources, help articles and guides related to online teaching and learning
-Analyze data related to pedagogical L&D needs and support services
-* Create training programs for face to face and online Teaching and Learning workshops
-* Support impact evaluation and measurement processes for L&D
-* Build up dev teams from the academy. Work with a client for a couple of months, and then leave a functional team 
-* You’ll support us on the development of our junior developers to make progress each week and help them excel in their role and be on the way to become senior developers
-
-### Your skills:
-
-* 5+ years experience building software using multiple tech stacks
-* A Passion for education or mentoring
-* Proven research skills, excellent analytical skills
-* Superior writing skills
-* Ability to work independently and deliver results with clear deadlines
-* Quick to learn new technologies, methods and work styles
-* Shows Interest in learning more about teaching and learning online
-* Background in online learning is an advantage
-
-  </details>
- 
-    
-## Python Automation Engineer 
-
-<details><summary>Read more</summary>
-  
-  * 3-5 years experience in Software Quality with strong demonstrable automation skills in Selenium, Python, PHP or a scripting language used for test regression
-* Ability to not only automation but manually test and apply manual tests to regression scripts quickly and seamlessly to sprint tasks
-* Junior/Mid-level Agile experience working with onsite and offsite teams within an Agile Development Life Cycle
-* Experience leading a small, agile quality team across multiple teams and sprints
-* Believe in working with other SCRUM teams and context switching when the team and business needs call for the help.
 
 </details>
 
 
-## Data Engineer 
+## Learning Development Engineer
 
 <details><summary>Read more</summary>
 
-We looking for a Data Engineer experienced in Python, AWS and Data Integration technologies. 
-The CTI Data Engineering team is responsible for designing and developing the Enterprise Data Platform including a Serverless Data Lake and Data Warehouse, core application pipelines, reporting solutions, machine learning and predictive analytics. If you are a critical thinker with a solid track record of developing data solutions and solving complex problems, we want you to join our team! You will play a vital role in designing and developing our next generation datapipelines and data platform. Join the team and prototype new internal and external data product ideas and concepts!
+### Responsibilities
+
+* Research, write, update and create scalable resources, articles and guides related to online teaching and learning
+* Analyze data related to pedagogical Learning & Development needs and support services
+* Create training programs for face to face and online Teaching and Learning workshops
+* Support impact evaluation and measurement processes for Learning & Development
+* Build up development teams from the Academy. Work with a client for a couple of months, and then leave a functional team
+* You'll support us on the development of our junior developers to make progress each week and help them excel in their role and be on the way to become senior developers
+
+### Skills
+
+* 5+ years experience building software using multiple tech stacks
+* A passion for education or mentoring
+* Proven research skills, excellent analytical skills
+* Superior writing skills
+* Ability to work independently and deliver results with clear deadlines
+* Quick to learn new technologies, methods and work styles
+* Shows interest in learning more about teaching and learning online
+* Background in online learning is an advantage
+
+</details>
+
+
+## Python Automation Engineer
+
+<details><summary>Read more</summary>
+
+* 3-5 years experience in Software Quality with strong demonstrable automation skills in Selenium, Python, PHP or a scripting language used for test regression
+* Ability to not only automation, but manually test and apply manual tests to regression scripts quickly and seamlessly to sprint tasks
+* Junior/Mid-level Agile experience working with onsite and offsite teams within an Agile development life-cycle
+* Experience leading a small, agile quality team across multiple teams and sprints
+* Believe in working with other SCRUM teams and context switching when the team and business needs call for the help
+
+</details>
+
+
+## Data Engineer
+
+<details><summary>Read more</summary>
+
+We looking for a Data Engineer experienced in Python, AWS and Data Integration technologies.
+The CTI Data Engineering team is responsible for designing and developing the Enterprise Data Platform including a Serverless Data Lake and Data Warehouse, core application pipelines, reporting solutions, machine learning and predictive analytics. If you are a critical thinker with a solid track record of developing data solutions and solving complex problems, we want you to join our team! You will play a vital role in designing and developing our next generation data pipelines and data platform. Join the team and prototype new internal and external data product ideas and concepts!
 
 ### Responsibilities
 
 * Build and maintain multiple data pipelines to ingest new data sources (APIs, Files, Streaming, Databases, Email, etc.) and support products used by both external users and internal teams
 * Optimize infrastructure and pipelines by building DataOps tools to evaluate and automatically monitor data quality, auto-scale serverless infrastructure, and develop data driven pipelines
-* Work with our data science and product management teams to design, rapidly prototype, and productize new internal and external data product ideas and capabilities
-* Work with the data engineering team to migrate and enhance our existing Pentaho-based ETL pipeline to a new Python-based system and develop a serverlesscloud data lake to augment our existing Snowflake Data Warehouse
+* Work with our data science and product management teams to design, rapidly prototype, and develop new internal and external data product ideas and capabilities
+* Work with the data engineering team to migrate and enhance our existing Pentaho-based ETL pipeline to a new Python-based system and develop a serverless cloud data lake to augment our existing Snowflake Data Warehouse
 * Conquer complex problems by finding new ways to solve with simple, efficient approaches with focus on reliability, scalability, quality and cost of our platforms
 * Build processes supporting data transformation, data structures metadata, and workload management
 * Collaborate with the team to perform root cause analysis and audit internal and external data and processes to help answer specific business questions
 
-### REQUIREMENTS
+### Requirements
 
 * 5+ years of professional data engineering experience
 * Strong SQL and Python skills including knowledge of Python libraries / frameworks
 * Comfortable working directly with data analytics to bridge business requirements with data engineering
-* Experience with AWS tools including EMR/Athena, S3, Kinesis, API Gateway, LAMBDA, Athena, etc.
+* Experience with AWS tools including EMR/Athena, S3, Kinesis, API Gateway, Lambda, Athena, etc.
 * Excellent troubleshooting and problem-solving skills
 * Experience with workflow management tools (Airflow, Oozie, Azkaban, Luigi, etc.)
 * Ability to operate in an agile, entrepreneurial start-up environment, and prioritize
@@ -119,49 +119,49 @@ The CTI Data Engineering team is responsible for designing and developing the En
 </details>
 
 
-## Full Stack Web Developer
+## Full-Stack Web Engineer
 
 <details><summary>Read more</summary>
 
 The right individual for this role will be a passionate, motivated, and energetic developer who takes initiative, enjoys finding solutions to a varying number of challenges, and takes pride in their work.
 
-### Essential Duties:
+### Essential duties
 
-* Write code for both front-end and back-end that is reusable, maintainable and extensible.
+* Write code for both Front End and Back End that is reusable, maintainable and extensible
 * Develop intuitive, user-friendly, visually appealing front-end interfaces
-* Implement server side logic to integrate with client side elements
+* Implement server-side logic to integrate with client side elements
 * Optimize applications for security, performance, speed and operation on various devices
 * Collaborate with other team members
 * Design, implement, and maintain data storage solutions while ensuring data integrity and security
-* Maintain existing web applications and fix bugs
+* Maintain existing Web applications and fix bugs
 
-### Other Duties: 
+### Other duties
 
-* Handle multiple tasks simultaneously.
-* Participate in proactive team efforts to achieve departmental and company goals.  
-* Comply with all safety policies, practices and procedures.
-* Report any potential or actual violations of such policies, practices and procedures to Supervisor. 
-* Perform other duties as assigned by Management.
+* Handle multiple tasks simultaneously
+* Participate in proactive team efforts to achieve departmental and company goals
+* Comply with all safety policies, practices and procedures
+* Report any potential or actual violations of such policies, practices and procedures to Supervisor
+* Perform other duties as assigned by Management
 
-### Technical Requirements:
+### Technical requirements
 
-* Proficient understanding and experience with building both front-end and back-end using ASP.Net Core and React and Redux JS
-* Experience building Enterprise web applications with extensive exposure to SDLC processes including architecture, design, coding, testing, deployment and support
-* Experience to SQL server 2016, creating queries, stored procedures, Views, and database functions
-* Develop and implement projects in with MS development stack using SOAP, JSON, C#.Net, ASP.Net Core, ADO.Net, Web API, Entity Framework
-* Experience with Javascript, HTML 5, CSS3, Node.Js, Webpack, Babel.
+* Proficient understanding and experience with building both Front End and Back End using ASP.NET Core, React.js, and Redux
+* Experience building Enterprise Web applications with extensive exposure to Software Development Life-cycle processes including architecture, design, coding, testing, deployment and support
+* Experience with SQL server 2016, creating queries, stored procedures, views, and database functions
+* Develop and implement projects in with the Microsoft development stack using SOAP, JSON, C#, ASP.NET Core, ADO.NET, Web API, Entity Framework
+* Experience with JavaScript, HTML5, CSS3, Node.Js, webpack, Babel.
 * Experience with Azure DevOps and continuous integration
 
-### Knowledge, Skills, Abilities and Experience:
+### Knowledge, Skills, Abilities and Experience
 
 * 5+ years of database work in MS SQL
-* 5+ years of programming in C# 
-* 4+ years of ASP.NET and modern front end framework.
-* 5+ years Object Oriented design concepts 
-* Enjoy a smaller environment, and be able to work under deadline. 
-* Strong interpersonal skills, mature judgment to interact effectively with a broad spectrum of people, both individually and in groups.
-* Mortgage & Encompass Background is a Plus (Optional)
-* Azure Ad OIDC and Azure SQL is a Plus
+* 5+ years of programming in C#
+* 4+ years of ASP.NET and modern Front End framework
+* 5+ years Object-oriented design concepts
+* Enjoy a smaller environment, and be able to work under deadline
+* Strong interpersonal skills, mature judgment to interact effectively with a broad spectrum of people, both individually and in groups
+* Mortgage & Encompass background is a plus (optional)
+* Azure Ad OIDC and Azure SQL is a plus
 
 </details>
 
@@ -199,7 +199,8 @@ The right individual for this role will be a passionate, motivated, and energeti
 
 <details><summary>Read more</summary>
 
-We are looking for a Software Engineer with experience in delivering Ad tech, Mar tech, and editorial content solutions. As a Software Engineer on the engineering team, you will be working with the engineering, product, data, and analytics teams to design and build modern performance-based marketing systems natively in the cloud.
+We are looking for a Software Engineer with experience in delivering Ad tech, Mar tech, and editorial content solutions.
+As a Software Engineer on the engineering team, you will be working with the engineering, product, data, and analytics teams to design and build modern performance-based marketing systems natively in the cloud.
 
 ### Responsibilities
 
@@ -230,7 +231,6 @@ We are looking for a Software Engineer with experience in delivering Ad tech, Ma
 
 <details><summary>Read more</summary>
 
-
 We are looking for a great communicator and outstanding team player!
 
 * 5+ years developing complex software in multiple languages
@@ -249,8 +249,6 @@ We are looking for a great communicator and outstanding team player!
 
 <details><summary>Read more</summary>
 
-
-
 We are looking for an individual who has a deep knowledge of the Ruby on Rails and JavaScript frameworks, has developed scalable Back End services and an agile approach to problem solving.
 
 ### You have
@@ -258,11 +256,11 @@ We are looking for an individual who has a deep knowledge of the Ruby on Rails a
 * 2+ Years of Ruby on Rails Development and 2+ years developing software in a commercial environment
 * Solid experience in building high-performance, reliable and scalable services
 * Experience with Ajax based user interfaces
-* Experience with our current technology stack is a bonus: Ruby on Rails, React, Git, PostgreSQL
+* Experience with our current technology stack is a bonus: Ruby on Rails, React.js, Git, PostgreSQL
 * Shipping/transportation industry experience is a bonus
 
 In addition we want the usual skill set: efficient, organized and follows through on commitments.
-You’re intelligent, have great analytical skills and pay attention to detail.
+You're intelligent, have great analytical skills and pay attention to detail.
 In addition, you’re calm under pressure, have a great work ethic and communicate well.
 
 </details>
@@ -271,8 +269,6 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 ## Java Engineer
 
 <details><summary>Read more</summary>
-
-
 
 ### Required
 
@@ -302,7 +298,6 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 
 <details><summary>Read more</summary>
 
-
 ### Required Skills
 
 * 5+ years of Software development experience
@@ -325,7 +320,6 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 ## Software Engineer in Test
 
 <details><summary>Read more</summary>
-
 
 The QA Automation Engineer will be a member of QA team that is responsible for creating reusable test software aimed to improve functional test coverage, schedule efficiency and reduce manual test dependency.
 The person filling this position will be recognized as a key individual contributor with technical focus on providing QA automation solutions and functional QA support.
