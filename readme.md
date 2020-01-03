@@ -123,47 +123,37 @@ The CTI Data Engineering team is responsible for designing and developing the En
 
 <details><summary>Read more</summary>
 
-The right individual for this role will be a passionate, motivated, and energetic developer who takes initiative, enjoys finding solutions to a varying number of challenges, and takes pride in their work.
+### Job Duties
 
-### Essential duties
+* Works on multiple applications.
+* Provides informal mentoring to less experienced colleagues.
+* Develops innovative and creative output based on interpretation and analysis.
+* Participates and may lead critical projects, customer engagements or business processes.
+* Provides design and documentation at an application or function capability level.
+* Participates in establishing and maintaining application standards and processes.
+* Effectively communicates application and technical direction to the business and within the customer’s IT organization.
+* Advises on issues of systems integration, compatibility, scalability and multiple platforms.
 
-* Write code for both Front End and Back End that is reusable, maintainable and extensible
-* Develop intuitive, user-friendly, visually appealing front-end interfaces
-* Implement server-side logic to integrate with client side elements
-* Optimize applications for security, performance, speed and operation on various devices
-* Collaborate with other team members
-* Design, implement, and maintain data storage solutions while ensuring data integrity and security
-* Maintain existing Web applications and fix bugs
+### Required Qualifications
 
-### Other duties
+* Minimum 3+ years of strong real time experience in developing React JS based applications.
+* Minimum 5+ years of strong experience in Front End technologies
+* Minimum 5+ years HTML5
+* Minimum 5+ years CSS3
+* Minimum 5+ years Object Oriented JavaScript (ES5 & ES6)
 
-* Handle multiple tasks simultaneously
-* Participate in proactive team efforts to achieve departmental and company goals
-* Comply with all safety policies, practices and procedures
-* Report any potential or actual violations of such policies, practices and procedures to Supervisor
-* Perform other duties as assigned by Management
+### Nice to Have
 
-### Technical requirements
-
-* Proficient understanding and experience with building both Front End and Back End using ASP.NET Core, React.js, and Redux
-* Experience building Enterprise Web applications with extensive exposure to Software Development Life-cycle processes including architecture, design, coding, testing, deployment and support
-* Experience with SQL server 2016, creating queries, stored procedures, views, and database functions
-* Develop and implement projects in with the Microsoft development stack using SOAP, JSON, C#, ASP.NET Core, ADO.NET, Web API, Entity Framework
-* Experience with JavaScript, HTML5, CSS3, Node.Js, webpack, Babel.
-* Experience with Azure DevOps and continuous integration
-
-### Knowledge, Skills, Abilities and Experience
-
-* 5+ years of database work in MS SQL
-* 5+ years of programming in C#
-* 4+ years of ASP.NET and modern Front End framework
-* 5+ years Object-oriented design concepts
-* Enjoy a smaller environment, and be able to work under deadline
-* Strong interpersonal skills, mature judgment to interact effectively with a broad spectrum of people, both individually and in groups
-* Mortgage & Encompass background is a plus (optional)
-* Azure Ad OIDC and Azure SQL is a plus
+* Experience working with .NET Technologies.
+* Experience in developing enterprise level responsive web pages or applications
+* Experience in LESS / SASS css pre-processors is a plus
+* Experience in unit testing code with JEST / Jasmine / Mocha / Chai is desired
+* Experience in designing & developing reusable front end frameworks and tools is a plus
+* Strong verbal and written communication skills
+* Good analytical skills
 
 </details>
+
 
 ## DevOps Engineer
 
