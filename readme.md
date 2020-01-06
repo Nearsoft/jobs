@@ -125,29 +125,29 @@ The CTI Data Engineering team is responsible for designing and developing the En
 
 ### Job Duties
 
-* Works on multiple applications.
-* Provides informal mentoring to less experienced colleagues.
-* Develops innovative and creative output based on interpretation and analysis.
-* Participates and may lead critical projects, customer engagements or business processes.
-* Provides design and documentation at an application or function capability level.
-* Participates in establishing and maintaining application standards and processes.
-* Effectively communicates application and technical direction to the business and within the customer’s IT organization.
-* Advises on issues of systems integration, compatibility, scalability and multiple platforms.
+* Works on multiple applications
+* Provides informal mentoring to less experienced colleagues
+* Develops innovative and creative output based on interpretation and analysis
+* Participates and may lead critical projects, customer engagements or business processes
+* Provides design and documentation at an application or function capability level
+* Participates in establishing and maintaining application standards and processes
+* Effectively communicates application and technical direction to the business and within the customer's IT organization
+* Advises on issues of systems integration, compatibility, scalability and multiple platforms
 
 ### Required Qualifications
 
-* Minimum 3+ years of strong real time experience in developing React JS based applications.
+* Minimum 3+ years of strong real time experience in developing React.js based applications
 * Minimum 5+ years of strong experience in Front End technologies
 * Minimum 5+ years HTML5
 * Minimum 5+ years CSS3
-* Minimum 5+ years Object Oriented JavaScript (ES5 & ES6)
+* Minimum 5+ years Object-Oriented JavaScript (ES5 & ES6)
 
 ### Nice to Have
 
 * Experience working with .NET Technologies.
 * Experience in developing enterprise level responsive web pages or applications
-* Experience in LESS / SASS css pre-processors is a plus
-* Experience in unit testing code with JEST / Jasmine / Mocha / Chai is desired
+* Experience in Less.js / Sass CSS preprocessors is a plus
+* Experience in unit testing code with Jest / Jasmine / Mocha / Chai.js is desired
 * Experience in designing & developing reusable front end frameworks and tools is a plus
 * Strong verbal and written communication skills
 * Good analytical skills
