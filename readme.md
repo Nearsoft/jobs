@@ -350,35 +350,39 @@ QA Automation Engineer will work with our Software Quality Assurance & Developme
 
 <details><summary>Read more</summary>
 
-The UX Team from Nearsoft is growing and we're looking for a hands-on UX/UI Designer that help us build value to our clients’ business by being actively involved in product decisions. As part of the UX Team, you’ll work closely with designers, developers and stakeholders to produce digital products, conduct user research and design engaging UI solutions. 
+The UX Team from Nearsoft is growing and we're looking for a hands-on UX/UI Designer that help us build value to our clients' business by being actively involved in product decisions. As part of the UX Team, you'll work closely with designers, developers and stakeholders to produce digital products, conduct user research and design engaging UI solutions.
 
-## What you'll do:
+### What you'll do
 
-* Create low and high fidelity mockups using best design principles for user interfaces in mobile and web platforms.
-* Communicate ideas effectively to key stakeholders in the product development process.
-* Build a strong relationship with your client by being actively involved in product decisions and tackle the needs at hand.
-* Conduct usability testings, user interviews and analyze findings to translate into design solutions.
-* Collaborate with development teams and stakeholders in an Agile environment to produce high-quality digital products.
-* Analyze and create successful strategies to implement design solutions to products in any phase of the development process.
-* Create mobile and web user-interface designs following best platform guidelines and practices.
-* Build design systems including patterns, components, and guidelines for software products.
-* Support current team initiatives like facilitating workshops, mentoring and creating new content for our blog.
-3+ years of experience designing digital products.
-Fluent in English, written and spoken. 
-Proven ability to collaborate successfully with cross-­functional teams and software products.
-Experience designing User Interfaces for web and mobile platforms.
-Experience conducting usability testing, user interviews and analyze findings to translate into design solutions.
-Advance use of Sketch and Invision, or other similar tools.
-Ability to self-manage and conduct in a proactive manner.
-Location: Hermosillo, Sonora.
+* Create low and high fidelity mockups using best design principles for user interfaces in mobile and Web platforms
+* Communicate ideas effectively to key stakeholders in the product development process
+* Build a strong relationship with your client by being actively involved in product decisions and tackle the needs at hand
+* Conduct usability testings, user interviews and analyze findings to translate into design solutions
+* Collaborate with development teams and stakeholders in an Agile environment to produce high-quality digital products
+* Analyze and create successful strategies to implement design solutions to products in any phase of the development process
+* Create mobile and web user-interface designs following best platform guidelines and practices
+* Build design systems including patterns, components, and guidelines for software products
+* Support current team initiatives like facilitating workshops, mentoring and creating new content for our blog
 
-## How to Apply
+### About you
 
-* To apply your portfolio should include the following:
-* Top 3 best UX/UI projects for web and mobile platforms.
-* Include a short description of the project and your direct contributions.
-* Make sure to include a minimum of 8 main screens per project in high resolution.  File type: jpg, png or InVision prototypes.
-* Send us your CV and portfolio to: aquijada@nearsoft.com
+* 3+ years of experience designing digital products
+* Fluent in English, written and spoken
+* Proven ability to collaborate successfully with cross-­functional teams and software products
+* Experience designing User Interfaces for web and mobile platforms
+* Experience conducting usability testing, user interviews and analyze findings to translate into design solutions
+* Advanced use of Sketch and InVision, or other similar tools
+* Ability to self-manage and conduct in a proactive manner
+* Location: Hermosillo, Sonora
+
+### How to apply
+
+To apply your portfolio should include the following:
+
+* Top 3 best UX/UI projects for Web and mobile platforms
+* Include a short description of the project and your direct contributions
+* Make sure to include a minimum of 8 main screens per project in high resolution. File type: `.jpg`, `.png` or InVision prototypes
+* Send your CV and portfolio to: aquijada@nearsoft.com
 
 
 ## Credit
