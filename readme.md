@@ -22,7 +22,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Full-Stack Web Engineer](#full-stack-web-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Node Engineer](#node-engineer)
-* [Python Engineer](#python-engineer)
 * [Ruby Engineer](#ruby-engineer)
 * [Java Engineer](#java-engineer)
 * [React Engineer](#react-engineer)
@@ -214,24 +213,6 @@ As a Software Engineer on the engineering team, you will be working with the eng
 * AWS
 * Terraform and or CloudFormation
 * React.js
-
-</details>
-
-
-## Python Engineer
-
-<details><summary>Read more</summary>
-
-We are looking for a great communicator and outstanding team player!
-
-* 5+ years developing complex software in multiple languages
-* 3 + years using Python and/or JavaScript or proven experience learning new languages incredibly quickly
-* C.S./CIS/Systems Mentality
-* A deep understanding about request life cycles, system architecture, and user behavior
-* Strong understanding of software design fundamentals
-* MySQL/PostgreSQL/RDBMS experience. (Just using ORMs doesn't count)
-* Someone fun, interesting, and likes to build and hack. Not just software!
-* Nice to haves: React.js, Django, NoSQL, Mobile Development or DevOps Experience
 
 </details>
 
