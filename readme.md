@@ -19,6 +19,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
+* [Data Analyst](#data-analyst)
 * [Full-Stack Web Engineer](#full-stack-web-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Node Engineer](#node-engineer)
@@ -115,6 +116,26 @@ The CTI Data Engineering team is responsible for designing and developing the En
 * Experience with Data Integration Technologies (Pentaho, Talend, Informatica, Glue, etc.)
 * Experience with Snowflake, Redshift or other MPP databases is a plus
 * Familiarity with distributed computing platforms (e.g. Hadoop, Spark, Storm)
+
+</details>
+
+
+## Data Analyst
+
+<details><summary>Read more</summary>
+
+### Responsibilities 
+
+Translate business problems and requirements into data questions Develop testable hypotheses, test and measure results Deliver insights to improve business processes and decision-making Collaborate closely with cross-functional teams Become a subject-matter expert on marketplace dynamics.
+
+### Background and Experience 
+
+We welcome applicants from a variety of backgrounds and experiences. Below gives you a sense of how we're thinking about what you'll need to be successful in the role.
+
+* 2-4 years experience in a data analytics role or equivalent Strong experience with SQL (MySQL, PostgreSQL, etc.)
+* Strong communication skills, both written and oral; comfortable presenting findings and recommendations to decision-makers. * Excited about working with large data sets.
+* Python proficiency a plus; eventual proficiency is expected in the role.
+* Familiarity with Looker, Tableau, or similar tool is a plus.
 
 </details>
 
