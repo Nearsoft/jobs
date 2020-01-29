@@ -126,7 +126,11 @@ The CTI Data Engineering team is responsible for designing and developing the En
 
 ### Responsibilities 
 
-Translate business problems and requirements into data questions Develop testable hypotheses, test and measure results Deliver insights to improve business processes and decision-making Collaborate closely with cross-functional teams Become a subject-matter expert on marketplace dynamics.
+* Translate business problems and requirements into data questions. 
+* Develop testable hypotheses, test and measure results. 
+* Deliver insights to improve business processes and decision-making.
+* Collaborate closely with cross-functional teams.
+* Become a subject-matter expert on marketplace dynamics.
 
 ### Background and Experience 
 
