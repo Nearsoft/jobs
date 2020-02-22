@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+
+* [Senior Backend Engineer](#senior-backend-engieer) 
 * [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
@@ -33,6 +35,37 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Senior Backend Engineer
+
+<details><summary>Read more</summary>
+
+## About the Right Team Member:
+
+We're looking for an innovative backend engineer with a passion for designing robust and easy to use APIs and services.  You’re comfortable tackling efforts solo or working in groups, both big and small. Fast-paced environments don’t phase you, and you seek feedback because it has the ability to turn good work into great work. You know the best software is created through collaboration and iteration, which is exactly why you’re looking for the right opportunity, and the right team, to expand your experience.
+
+As a Senior Backend Engineer you will craft new functionality with a dedicated team of skilled individuals. You like to ship software early and often, you value simplicity, and strive to eliminate unnecessary complexity.
+
+
+## Responsibilities:
+* Collaborate closely with Product, Design, and QA to iterate on the design, implementation, deployment and monitoring of our product
+* Build efficient and reusable backend systems
+* Provide technical leadership and mentoring for more junior engineers
+* Participate in design and code reviews
+* Maintain high code coverage via unit tests and acceptance tests
+* Find and address performance issues
+
+## Requirements:
+* Experience with Java or Python
+* Bachelor’s degree in Computer Science, or equivalent, and at least 5 years of professional programming experience
+* Experience with ETL and data pipelines
+* Looking to work on data-related challenges such as the optimization of SQL, ETL processes, and data pipelines.
+* A strong understanding of RESTful API design
+* Knowledge of web frameworks such as Dropwizard, Flask, and Django a plus
+* Very strong SQL skills
+* Love of fitness a plus
+
+<details>
 
 
 ## Python Automation Engineer
