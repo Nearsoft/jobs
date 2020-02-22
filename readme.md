@@ -15,8 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
-* [Senior Backend Engineer](#senior-backend-engieer) 
+* [Senior Backend Engineer](#Senior-Backends-engineer)
 * [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
@@ -36,36 +35,54 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
+
 ## Senior Backend Engineer
 
 <details><summary>Read more</summary>
 
-## About the Right Team Member:
+## About the Right Team Member
+As a Platform Engineer, you will help accelerate our engineering team as we deploy frequently to production for 100+ services. You will help create systems, tools, and practices so that we can scale with increasing confidence.
 
-We're looking for an innovative backend engineer with a passion for designing robust and easy to use APIs and services.  You’re comfortable tackling efforts solo or working in groups, both big and small. Fast-paced environments don’t phase you, and you seek feedback because it has the ability to turn good work into great work. You know the best software is created through collaboration and iteration, which is exactly why you’re looking for the right opportunity, and the right team, to expand your experience.
+## Requirements: 
+* Professional experience designing, building, and operating distributed systems at large-scale in an AWS environment.
+* Use existing commercial and open source tools to create a robust, reliable, and performant platform.
+* Determine when these tools are insufficient and decide when it's time to write our own (and then write them).  Our go-to languages are Python and Java.
+* Excited by big, complicated problems and try to solve them with creative, elegant, and simple solutions.
+* Communicate problems and their solutions to other engineers as well as a less technical audience.
+* Look at a process and you instinctively want to automate it.
+* You value simplicity and strive to eliminate unnecessary complexity.
+* At least 5 years of professional programming experience.
+* You treat infrastructure as code.  Prior experience with Terraform is a plus.
+* Passionate about your craft and want to be surrounded by like-minded individuals.
 
-As a Senior Backend Engineer you will craft new functionality with a dedicated team of skilled individuals. You like to ship software early and often, you value simplicity, and strive to eliminate unnecessary complexity.
+</details>
 
 
-## Responsibilities:
-* Collaborate closely with Product, Design, and QA to iterate on the design, implementation, deployment and monitoring of our product
-* Build efficient and reusable backend systems
-* Provide technical leadership and mentoring for more junior engineers
-* Participate in design and code reviews
-* Maintain high code coverage via unit tests and acceptance tests
-* Find and address performance issues
+## Learning Development Engineer
 
-## Requirements:
-* Experience with Java or Python
-* Bachelor’s degree in Computer Science, or equivalent, and at least 5 years of professional programming experience
-* Experience with ETL and data pipelines
-* Looking to work on data-related challenges such as the optimization of SQL, ETL processes, and data pipelines.
-* A strong understanding of RESTful API design
-* Knowledge of web frameworks such as Dropwizard, Flask, and Django a plus
-* Very strong SQL skills
-* Love of fitness a plus
+<details><summary>Read more</summary>
 
-<details>
+### Responsibilities
+
+* Research, write, update and create scalable resources, articles and guides related to online teaching and learning
+* Analyze data related to pedagogical Learning & Development needs and support services
+* Create training programs for face to face and online Teaching and Learning workshops
+* Support impact evaluation and measurement processes for Learning & Development
+* Build up development teams from the Academy. Work with a client for a couple of months, and then leave a functional team
+* You'll support us on the development of our junior developers to make progress each week and help them excel in their role and be on the way to become senior developers
+
+### Skills
+
+* 5+ years experience building software using multiple tech stacks
+* A passion for education or mentoring
+* Proven research skills, excellent analytical skills
+* Superior writing skills
+* Ability to work independently and deliver results with clear deadlines
+* Quick to learn new technologies, methods and work styles
+* Shows interest in learning more about teaching and learning online
+* Background in online learning is an advantage
+
+</details>
 
 
 ## Python Automation Engineer
@@ -407,8 +424,7 @@ As a Senior Quality Engineer, you will be responsible for the development of aut
 * Participate in technical communications within the team and with other groups associated with specified projects.
 * Provide input to improvements of processes and procedures.
 * Participate in review of QE documentation and test scripts.
-* Work on additional tasks and responsibilities as assigned that will contribute towards
-squad, organization, and company goals.
+* Work on additional tasks and responsibilities as assigned that will contribute towards squad, organization, and company goals.
 * Communicate progress and escalate issues to management in a timely manner.
 * Provide technical leadership, mentoring and development for more junior engineers.
 * Individuals should be able to operate, drive results and set priorities independently.
