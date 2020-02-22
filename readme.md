@@ -15,7 +15,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [WordPress Engineer](#wordpress-engineer)
 * [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
@@ -34,44 +33,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
-
-
-
-## WordPress Engineer
-
-<details><summary>Read more</summary>
-
-We are seeking a candidate with experience in JavaScript, CSS and responsive UI.
-The ideal WordPress candidate would have hands-on experience with the WordPress REST API and Advanced Custom Fields (ACF).
-
-</details>
-
-
-## Learning Development Engineer
-
-<details><summary>Read more</summary>
-
-### Responsibilities
-
-* Research, write, update and create scalable resources, articles and guides related to online teaching and learning
-* Analyze data related to pedagogical Learning & Development needs and support services
-* Create training programs for face to face and online Teaching and Learning workshops
-* Support impact evaluation and measurement processes for Learning & Development
-* Build up development teams from the Academy. Work with a client for a couple of months, and then leave a functional team
-* You'll support us on the development of our junior developers to make progress each week and help them excel in their role and be on the way to become senior developers
-
-### Skills
-
-* 5+ years experience building software using multiple tech stacks
-* A passion for education or mentoring
-* Proven research skills, excellent analytical skills
-* Superior writing skills
-* Ability to work independently and deliver results with clear deadlines
-* Quick to learn new technologies, methods and work styles
-* Shows interest in learning more about teaching and learning online
-* Background in online learning is an advantage
-
-</details>
 
 
 ## Python Automation Engineer
