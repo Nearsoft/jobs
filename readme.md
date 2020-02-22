@@ -408,6 +408,7 @@ To apply your portfolio should include the following:
 ## Senior Quality Engineer
 
 <details><summary>Read more</summary>
+  
 
 As a Senior Quality Engineer, you will be responsible for the development of automated tests and the associated automation framework used to qualify the products. You will help set and drive our verification strategy and roadmap. In addition, you will partner extensively with our manual QA team to ensure that all testing is aligned with the broader site framework strategy. Close collaboration with our product and engineering management teams, development squads, and other QA teams will also be essential to ensure we produce the highest quality products that meet and exceed our customers expectations. In addition to focusing on test automation you will help lead and drive our transition to a Continuous Integration test process. Helping to set this expectation and drive this change is crucial to our success.
 
