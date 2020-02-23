@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Senior Backend Engineer](#Senior-Backends-engineer)
+* [Senior Back End Engineer](#senior-back-end-engineer)
 * [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
@@ -36,24 +36,26 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 
-## Senior Backend Engineer
+## Senior Back End Engineer
 
 <details><summary>Read more</summary>
 
-## About the Right Team Member
-As a Platform Engineer, you will help accelerate our engineering team as we deploy frequently to production for 100+ services. You will help create systems, tools, and practices so that we can scale with increasing confidence.
+### About the right team Member
 
-## Requirements: 
-* Professional experience designing, building, and operating distributed systems at large-scale in an AWS environment.
-* Use existing commercial and open source tools to create a robust, reliable, and performant platform.
-* Determine when these tools are insufficient and decide when it's time to write our own (and then write them).  Our go-to languages are Python and Java.
-* Excited by big, complicated problems and try to solve them with creative, elegant, and simple solutions.
-* Communicate problems and their solutions to other engineers as well as a less technical audience.
-* Look at a process and you instinctively want to automate it.
-* You value simplicity and strive to eliminate unnecessary complexity.
-* At least 5 years of professional programming experience.
-* You treat infrastructure as code.  Prior experience with Terraform is a plus.
-* Passionate about your craft and want to be surrounded by like-minded individuals.
+As a Platform Engineer, you will help accelerate our Engineering team as we deploy frequently to production for 100+ services. You will help create systems, tools, and practices so that we can scale with increasing confidence.
+
+### Requirements
+
+* Professional experience designing, building, and operating distributed systems at large-scale in an AWS environment
+* Use existing commercial and open-source tools to create a robust, reliable, and performant platform
+* Determine when these tools are insufficient and decide when it's time to write our own (and then write them). Our go-to languages are Python and Java
+* Excited by big, complicated problems and try to solve them with creative, elegant, and simple solutions
+* Communicate problems and their solutions to other engineers as well as a less technical audience
+* Look at a process and you instinctively want to automate it
+* You value simplicity and strive to eliminate unnecessary complexity
+* At least 5 years of professional programming experience
+* You treat infrastructure as code.  Prior experience with Terraform is a plus
+* Passionate about your craft and want to be surrounded by like-minded individuals
 
 </details>
 
@@ -136,22 +138,23 @@ The CTI Data Engineering team is responsible for designing and developing the En
 
 <details><summary>Read more</summary>
 
-### Responsibilities 
+### Responsibilities
 
-* Translate business problems and requirements into data questions. 
-* Develop testable hypotheses, test and measure results. 
-* Deliver insights to improve business processes and decision-making.
-* Collaborate closely with cross-functional teams.
-* Become a subject-matter expert on marketplace dynamics.
+* Translate business problems and requirements into data questions
+* Develop testable hypotheses, test and measure results
+* Deliver insights to improve business processes and decision-making
+* Collaborate closely with cross-functional teams
+* Become a subject-matter expert on marketplace dynamics
 
-### Background and Experience 
+### Background and Experience
 
 We welcome applicants from a variety of backgrounds and experiences. Below gives you a sense of how we're thinking about what you'll need to be successful in the role.
 
 * 2-4 years experience in a data analytics role or equivalent Strong experience with SQL (MySQL, PostgreSQL, etc.)
-* Strong communication skills, both written and oral; comfortable presenting findings and recommendations to decision-makers. * Excited about working with large data sets.
-* Python proficiency a plus; eventual proficiency is expected in the role.
-* Familiarity with Looker, Tableau, or similar tool is a plus.
+* Strong communication skills, both written and verbal; comfortable presenting findings and recommendations to decision-makers
+* Excited about working with large data sets
+* Python proficiency a plus; eventual proficiency is expected in the role
+* Familiarity with Looker, Tableau, or similar tool is a plus
 
 </details>
 
@@ -408,45 +411,44 @@ To apply your portfolio should include the following:
 ## Senior Quality Engineer
 
 <details><summary>Read more</summary>
-  
 
 As a Senior Quality Engineer, you will be responsible for the development of automated tests and the associated automation framework used to qualify the products. You will help set and drive our verification strategy and roadmap. In addition, you will partner extensively with our manual QA team to ensure that all testing is aligned with the broader site framework strategy. Close collaboration with our product and engineering management teams, development squads, and other QA teams will also be essential to ensure we produce the highest quality products that meet and exceed our customers expectations. In addition to focusing on test automation you will help lead and drive our transition to a Continuous Integration test process. Helping to set this expectation and drive this change is crucial to our success.
 
-## Key Accountabilities:
+### Key responsibilities
 
-* Help design, enhance, and maintain a test framework according to relevant needs.
-* Gather test requirements.
-* Develop Test Design Specifications and test strategies.
-* Develop, implement and guide the team to execute automation test plans.
-* Provide test, development, and defect metrics.
-* Prepare Test summaries.
-* Set up test environments.
-* Seek out expertise, knowledge, and resources to develop solutions to problems.
-* Participate in technical communications within the team and with other groups associated with specified projects.
-* Provide input to improvements of processes and procedures.
-* Participate in review of QE documentation and test scripts.
-* Work on additional tasks and responsibilities as assigned that will contribute towards squad, organization, and company goals.
-* Communicate progress and escalate issues to management in a timely manner.
-* Provide technical leadership, mentoring and development for more junior engineers.
-* Individuals should be able to operate, drive results and set priorities independently.
-* Be a proactive contributor and subject matter expert.
-* Demonstrate favorable results through regular leadership and influencing others.
- 
-## Skills Summary:
+* Help design, enhance, and maintain a test framework according to relevant needs
+* Gather test requirements
+* Develop Test Design Specifications and test strategies
+* Develop, implement and guide the team to run automation test plans
+* Provide test, development, and defect metrics
+* Prepare test summaries
+* Set up test environments
+* Seek out expertise, knowledge, and resources to develop solutions to problems
+* Participate in technical communications within the team and with other groups associated with specified projects
+* Provide input to improvements of processes and procedures
+* Participate in review of Quality Engineering documentation and test scripts
+* Work on additional tasks and responsibilities as assigned that will contribute towards squad, organization, and company goals
+* Communicate progress and escalate issues to management in a timely manner
+* Provide technical leadership, mentoring and development for more junior engineers
+* Individuals should be able to operate, drive results and set priorities independently
+* Be a proactive contributor and subject matter expert
+* Demonstrate favorable results through regular leadership and influencing others
 
-* 5+ years professional experience in quality engineering or/and software application development.
+### Skills summary
+
+* 5+ years professional experience in quality engineering or/and software application development
 * Proficiency with Test Automation tools such as Cucumber Feature File and Ruby Step
-Definition, React Native, Appium, Selenium, Xpath, Junit, Espresso, Jest, Cypress, etc.
-* Exposure to Agile software development life cycle, Continuous Integration and Continuous Deployment required.
-* Experience with code coverage tools is a plus.
-* Experience with SaaS testing is a plus.
-* Ability to design, create and implement automated test cases for new requirements in complex systems quickly.
-* Experience working in cross functional teams.
-* Self-starter, team player, and self-motivated.
-* Desire to seek continuous improvement in the quality assurance processes to drive better quality and efficiency.
+Definition, React Native, Appium, Selenium, XPath, JUnit, Espresso, Jest, Cypress, etc.
+* Exposure to Agile Software Development life-cycle, Continuous Integration and Continuous Deployment required
+* Experience with code coverage tools is a plus
+* Experience with SaaS testing is a plus
+* Ability to design, create and implement automated test cases for new requirements in complex systems quickly
+* Experience working in cross functional teams
+* Self-starter, team player, and self-motivated
+* Will to seek continuous improvement in the quality assurance processes to drive better quality and efficiency
 
 </details>
- 
+
 
 ## Credit
 
