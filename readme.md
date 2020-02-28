@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [React-Ruby Engineer](#react-ruby-engineer)
 * [Senior Back End Engineer](#senior-back-end-engineer)
 * [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
@@ -34,6 +35,33 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## React-Ruby Engineer
+
+<details><summary>Read more</summary>
+  
+As a mid-level fullstack engineer we expect you to be able to code solutions of moderate complexity on your own. In addition when the more complex projects arise we expect you to collaborate with more senior engineers to learn how to approach more complex problems. We believe strongly in a growth mindset; we're here to learn and we're looking for other folks who have an appetite to grow their skills on the job.
+
+### Background and Experience
+
+* We welcome applicants from a variety of backgrounds and experiences. Below gives you a sense of how we're thinking about what you'll need to be successful in the role. 
+* 2-3 years of experience, comfortable working independently
+* Comfortable with React.js, familiarity with Rails a plus
+* Experience building single page applications and calling APIs from JS
+* Knowledge of CSS/Sass, MySQL, Redis, and/or ElasticSearch all a plus
+* Familiarity with Linux command line, automated build systems would be nice
+* Excited to work with continuous integration and frequent, daily releases
+* Like to think about how to break problems down into smaller iterable steps
+
+### Bonus Points
+
+* Socially Conscious. Agile. Intelligent. Creative. Problem-solver. Startup lover. You like making things happen.
+* We care about experience, not degrees. We're looking for people that have a passion for programming and social impact.
+* You have contributed to an open source software project. Show us your github account, we'd love to see what you're enjoy working on.
+* You're familiar with our product and have some ideas on things you'd want to add or change!
+
+</details>
 
 
 ## Senior Back End Engineer
