@@ -70,22 +70,27 @@ As a mid-level fullstack engineer we expect you to be able to code solutions of 
 
 ### About the right team Member
 
-As a Platform Engineer, you will help accelerate our Engineering team as we deploy frequently to production for 100+ services. You will help create systems, tools, and practices so that we can scale with increasing confidence.
+We’re looking for an innovative backend engineer with a passion for designing robust and easy to use APIs and services.  You’re comfortable tackling efforts solo or working in groups, both big and small. Fast-paced environments don’t phase you, and you seek feedback because it has the ability to turn good work into great work. You know the best software is created through collaboration and iteration, which is exactly why you’re looking for the right opportunity, and the right team, to expand your experience.
+As a backend engineer you will craft new functionality with a dedicated team of skilled individuals. You like to ship software early and often, you value simplicity, and strive to eliminate unnecessary complexity.
 
-### Requirements
+### Responsibilities
 
-* Professional experience designing, building, and operating distributed systems at large-scale in an AWS environment
-* Use existing commercial and open-source tools to create a robust, reliable, and performant platform
-* Determine when these tools are insufficient and decide when it's time to write our own (and then write them). Our go-to languages are Python and Java
-* Excited by big, complicated problems and try to solve them with creative, elegant, and simple solutions
-* Communicate problems and their solutions to other engineers as well as a less technical audience
-* Look at a process and you instinctively want to automate it
-* You value simplicity and strive to eliminate unnecessary complexity
-* At least 5 years of professional programming experience
-* You treat infrastructure as code.  Prior experience with Terraform is a plus
-* Passionate about your craft and want to be surrounded by like-minded individuals
+* Collaborate closely with Product, Design, and QA to iterate on the design, implementation, deployment and monitoring of our product
+* Build efficient and reusable backend systems
+* Participate in design and code reviews
+* Maintain high code coverage via unit tests and acceptance tests
+* Find and address performance issues
 
-</details>
+## Requirements
+
+* Experience with Java and Python desired
+* Bachelor degree in Computer Science, or equivalent and at least 2 years of professional programming experience
+* A strong understanding of RESTful API design
+* Knowledge of web frameworks such as Dropwizard, Flask, and Django a plus
+* Love of fitness a plus
+
+
+</details>  
 
 
 ## Learning Development Engineer
