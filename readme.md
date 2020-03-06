@@ -139,6 +139,8 @@ The CTI Data Engineering team is responsible for designing and developing the En
 * Experience with Snowflake, Redshift or other MPP databases is a plus
 * Familiarity with distributed computing platforms (e.g. Hadoop, Spark, Storm)
 
+###### *CT* 
+
 </details>
 
 
