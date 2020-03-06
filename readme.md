@@ -17,10 +17,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 * [React-Ruby Engineer](#react-ruby-engineer)
 * [Senior Back End Engineer](#senior-back-end-engineer)
-* [Learning Development Engineer](#learning-development-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [Data Engineer](#data-engineer)
-* [Data Analyst](#data-analyst)
 * [Full-Stack Web Engineer](#full-stack-web-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [Node Engineer](#node-engineer)
@@ -95,33 +93,6 @@ As a backend engineer you will craft new functionality with a dedicated team of 
 </details>  
 
 
-## Learning Development Engineer
-
-<details><summary>Read more</summary>
-
-### Responsibilities
-
-* Research, write, update and create scalable resources, articles and guides related to online teaching and learning
-* Analyze data related to pedagogical Learning & Development needs and support services
-* Create training programs for face to face and online Teaching and Learning workshops
-* Support impact evaluation and measurement processes for Learning & Development
-* Build up development teams from the Academy. Work with a client for a couple of months, and then leave a functional team
-* You'll support us on the development of our junior developers to make progress each week and help them excel in their role and be on the way to become senior developers
-
-### Skills
-
-* 5+ years experience building software using multiple tech stacks
-* A passion for education or mentoring
-* Proven research skills, excellent analytical skills
-* Superior writing skills
-* Ability to work independently and deliver results with clear deadlines
-* Quick to learn new technologies, methods and work styles
-* Shows interest in learning more about teaching and learning online
-* Background in online learning is an advantage
-
-</details>
-
-
 ## Python Automation Engineer
 
 <details><summary>Read more</summary>
@@ -131,6 +102,8 @@ As a backend engineer you will craft new functionality with a dedicated team of 
 * Junior/Mid-level Agile experience working with onsite and offsite teams within an Agile development life-cycle
 * Experience leading a small, agile quality team across multiple teams and sprints
 * Believe in working with other SCRUM teams and context switching when the team and business needs call for the help
+
+###### *CT* 
 
 </details>
 
@@ -169,31 +142,6 @@ The CTI Data Engineering team is responsible for designing and developing the En
 </details>
 
 
-## Data Analyst
-
-<details><summary>Read more</summary>
-
-### Responsibilities
-
-* Translate business problems and requirements into data questions
-* Develop testable hypotheses, test and measure results
-* Deliver insights to improve business processes and decision-making
-* Collaborate closely with cross-functional teams
-* Become a subject-matter expert on marketplace dynamics
-
-### Background and Experience
-
-We welcome applicants from a variety of backgrounds and experiences. Below gives you a sense of how we're thinking about what you'll need to be successful in the role.
-
-* 2-4 years experience in a data analytics role or equivalent Strong experience with SQL (MySQL, PostgreSQL, etc.)
-* Strong communication skills, both written and verbal; comfortable presenting findings and recommendations to decision-makers
-* Excited about working with large data sets
-* Python proficiency a plus; eventual proficiency is expected in the role
-* Familiarity with Looker, Tableau, or similar tool is a plus
-
-</details>
-
-
 ## Full-Stack Web Engineer
 
 <details><summary>Read more</summary>
@@ -226,6 +174,8 @@ We welcome applicants from a variety of backgrounds and experiences. Below gives
 * Experience in designing & developing reusable front end frameworks and tools is a plus
 * Strong verbal and written communication skills
 * Good analytical skills
+
+###### *APM* 
 
 </details>
 
@@ -289,6 +239,8 @@ As a Software Engineer on the engineering team, you will be working with the eng
 * Terraform and or CloudFormation
 * React.js
 
+###### *CT*
+
 </details>
 
 
@@ -337,6 +289,8 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 * Spring Cloud
 * Docker
 * TypeScript / AngularJS
+
+###### *SKT*
 
 </details>
 
@@ -439,6 +393,8 @@ To apply your portfolio should include the following:
 * Include a short description of the project and your direct contributions
 * Make sure to include a minimum of 8 main screens per project in high resolution. File type: `.jpg`, `.png` or InVision prototypes
 * Send your CV and portfolio to: aquijada@nearsoft.com
+
+###### *NS* 
 
 </details>
 
