@@ -61,7 +61,7 @@ As a mid-level fullstack engineer we expect you to be able to code solutions of 
 * You have contributed to an open source software project. Show us your github account, we'd love to see what you're enjoy working on.
 * You're familiar with our product and have some ideas on things you'd want to add or change!
 
-#### **TKR** 
+###### *TKR* 
 
 </details>
 
