@@ -90,6 +90,8 @@ As a backend engineer you will craft new functionality with a dedicated team of 
 * Love of fitness a plus
 
 
+###### *CP* 
+
 </details>  
 
 
@@ -439,6 +441,9 @@ Definition, React Native, Appium, Selenium, XPath, JUnit, Espresso, Jest, Cypres
 * Experience working in cross functional teams
 * Self-starter, team player, and self-motivated
 * Will to seek continuous improvement in the quality assurance processes to drive better quality and efficiency
+
+
+###### *CP*
 
 </details>
 
