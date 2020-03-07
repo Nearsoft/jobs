@@ -211,6 +211,8 @@ The CTI Data Engineering team is responsible for designing and developing the En
 * Experience with Software Development tracking and collaboration tools (Atlassian Suite etc.)
 * Experience with basic database administration: installation, emergency recovery, creating accounts, tuning SQL queries, indexing
 
+###### *SKT* 
+
 </details>
 
 
