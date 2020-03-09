@@ -38,28 +38,30 @@ If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 ## React-Ruby Engineer
 
 <details><summary>Read more</summary>
-  
-As a mid-level fullstack engineer we expect you to be able to code solutions of moderate complexity on your own. In addition when the more complex projects arise we expect you to collaborate with more senior engineers to learn how to approach more complex problems. We believe strongly in a growth mindset; we're here to learn and we're looking for other folks who have an appetite to grow their skills on the job.
+
+As a mid-level Full-Stack Engineer we expect you to be able to code solutions of moderate complexity on your own. In addition when the more complex projects arise we expect you to collaborate with more Senior Engineers to learn how to approach more complex problems. We believe strongly in a growth mindset; we're here to learn and we're looking for other folks who have an appetite to grow their skills on the job.
 
 ### Background and Experience
 
-* We welcome applicants from a variety of backgrounds and experiences. Below gives you a sense of how we're thinking about what you'll need to be successful in the role. 
+* We welcome applicants from a variety of backgrounds and experiences. Below gives you a sense of how we're thinking about what you'll need to be successful in the role
 * 2-3 years of experience, comfortable working independently
-* Comfortable with React.js, familiarity with Rails a plus
+* Comfortable with React.js, familiarity with Ruby on Rails a plus
 * Experience building single page applications and calling APIs from JS
-* Knowledge of CSS/Sass, MySQL, Redis, and/or ElasticSearch all a plus
-* Familiarity with Linux command line, automated build systems would be nice
+* Knowledge of CSS/Sass, MySQL, Redis, and/or Elasticsearch all a plus
+* Familiarity with Linux command-line, automated build systems would be nice
 * Excited to work with continuous integration and frequent, daily releases
 * Like to think about how to break problems down into smaller iterable steps
 
 ### Bonus Points
 
-* Socially Conscious. Agile. Intelligent. Creative. Problem-solver. Startup lover. You like making things happen.
-* We care about experience, not degrees. We're looking for people that have a passion for programming and social impact.
-* You have contributed to an open source software project. Show us your github account, we'd love to see what you're enjoy working on.
+* Socially Conscious. Agile. Intelligent. Creative. Problem-solver. Startup lover. You like making things happen
+* We care about experience, not degrees. We're looking for people that have a passion for programming and social impact
+* You have contributed to an open source software project. Show us your GitHub account, we'd love to see what you're enjoy working on
 * You're familiar with our product and have some ideas on things you'd want to add or change!
 
-###### *TKR* 
+<!-- yaspeller ignore:start -->
+###### *TKR*
+<!-- yaspeller ignore:end -->
 
 </details>
 
@@ -70,13 +72,13 @@ As a mid-level fullstack engineer we expect you to be able to code solutions of 
 
 ### About the right team Member
 
-We’re looking for an innovative backend engineer with a passion for designing robust and easy to use APIs and services.  You’re comfortable tackling efforts solo or working in groups, both big and small. Fast-paced environments don’t phase you, and you seek feedback because it has the ability to turn good work into great work. You know the best software is created through collaboration and iteration, which is exactly why you’re looking for the right opportunity, and the right team, to expand your experience.
-As a backend engineer you will craft new functionality with a dedicated team of skilled individuals. You like to ship software early and often, you value simplicity, and strive to eliminate unnecessary complexity.
+We're looking for an innovative Back End Engineer with a passion for designing robust and easy to use APIs and services. You're comfortable tackling efforts solo or working in groups, both big and small. Fast-paced environments don't phase you, and you seek feedback because it has the ability to turn good work into great work. You know the best software is created through collaboration and iteration, which is exactly why you're looking for the right opportunity, and the right team, to expand your experience.
+As a Back End Engineer you will craft new functionality with a dedicated team of skilled individuals. You like to ship software early and often, you value simplicity, and strive to eliminate unnecessary complexity.
 
 ### Responsibilities
 
 * Collaborate closely with Product, Design, and QA to iterate on the design, implementation, deployment and monitoring of our product
-* Build efficient and reusable backend systems
+* Build efficient and reusable Back End systems
 * Participate in design and code reviews
 * Maintain high code coverage via unit tests and acceptance tests
 * Find and address performance issues
@@ -89,10 +91,11 @@ As a backend engineer you will craft new functionality with a dedicated team of 
 * Knowledge of web frameworks such as Dropwizard, Flask, and Django a plus
 * Love of fitness a plus
 
+<!-- yaspeller ignore:start -->
+###### *CP*
+<!-- yaspeller ignore:end -->
 
-###### *CP* 
-
-</details>  
+</details>
 
 
 ## Python Automation Engineer
@@ -105,7 +108,9 @@ As a backend engineer you will craft new functionality with a dedicated team of 
 * Experience leading a small, agile quality team across multiple teams and sprints
 * Believe in working with other SCRUM teams and context switching when the team and business needs call for the help
 
-###### *CT* 
+<!-- yaspeller ignore:start -->
+###### *CT*
+<!-- yaspeller ignore:end -->
 
 </details>
 
@@ -141,7 +146,9 @@ The CTI Data Engineering team is responsible for designing and developing the En
 * Experience with Snowflake, Redshift or other MPP databases is a plus
 * Familiarity with distributed computing platforms (e.g. Hadoop, Spark, Storm)
 
-###### *CT* 
+<!-- yaspeller ignore:start -->
+###### *CT*
+<!-- yaspeller ignore:end -->
 
 </details>
 
@@ -173,13 +180,15 @@ The CTI Data Engineering team is responsible for designing and developing the En
 
 * Experience working with .NET Technologies.
 * Experience in developing enterprise level responsive web pages or applications
-* Experience in Less.js / Sass CSS preprocessors is a plus
+* Experience in Less.js / Sass / CSS pre-processors is a plus
 * Experience in unit testing code with Jest / Jasmine / Mocha / Chai.js is desired
 * Experience in designing & developing reusable front end frameworks and tools is a plus
 * Strong verbal and written communication skills
 * Good analytical skills
 
-###### *APM* 
+<!-- yaspeller ignore:start -->
+###### *APM*
+<!-- yaspeller ignore:end -->
 
 </details>
 
@@ -211,7 +220,9 @@ The CTI Data Engineering team is responsible for designing and developing the En
 * Experience with Software Development tracking and collaboration tools (Atlassian Suite etc.)
 * Experience with basic database administration: installation, emergency recovery, creating accounts, tuning SQL queries, indexing
 
-###### *SKT* 
+<!-- yaspeller ignore:start -->
+###### *SKT*
+<!-- yaspeller ignore:end -->
 
 </details>
 
@@ -245,7 +256,9 @@ As a Software Engineer on the engineering team, you will be working with the eng
 * Terraform and or CloudFormation
 * React.js
 
+<!-- yaspeller ignore:start -->
 ###### *CT*
+<!-- yaspeller ignore:end -->
 
 </details>
 
@@ -266,7 +279,7 @@ We are looking for an individual who has a deep knowledge of the Ruby on Rails a
 
 In addition we want the usual skill set: efficient, organized and follows through on commitments.
 You're intelligent, have great analytical skills and pay attention to detail.
-In addition, you’re calm under pressure, have a great work ethic and communicate well.
+In addition, you're calm under pressure, have a great work ethic and communicate well.
 
 </details>
 
@@ -296,7 +309,9 @@ In addition, you’re calm under pressure, have a great work ethic and communica
 * Docker
 * TypeScript / AngularJS
 
+<!-- yaspeller ignore:start -->
 ###### *SKT*
+<!-- yaspeller ignore:end -->
 
 </details>
 
@@ -400,7 +415,9 @@ To apply your portfolio should include the following:
 * Make sure to include a minimum of 8 main screens per project in high resolution. File type: `.jpg`, `.png` or InVision prototypes
 * Send your CV and portfolio to: aquijada@nearsoft.com
 
-###### *NS* 
+<!-- yaspeller ignore:start -->
+###### *NS*
+<!-- yaspeller ignore:end -->
 
 </details>
 
@@ -444,8 +461,9 @@ Definition, React Native, Appium, Selenium, XPath, JUnit, Espresso, Jest, Cypres
 * Self-starter, team player, and self-motivated
 * Will to seek continuous improvement in the quality assurance processes to drive better quality and efficiency
 
-
+<!-- yaspeller ignore:start -->
 ###### *CP*
+<!-- yaspeller ignore:end -->
 
 </details>
 
