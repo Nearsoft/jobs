@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [Senior Full Stack Engineer](#senior-full-stack-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [DevOps Engineer](#devops-engineer)
 * [UX/UI Designer](#uxui-designer)
@@ -22,6 +23,46 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Senior Full Stack Engineer
+
+<details><summary>Read more</summary>
+  
+### What you’ll be doing:
+
+* Create REST based microservices and APIs to support mobile and web applications
+* Contribute to developing a culture of testing and quality within the team
+* Collaborate with QA team in implementing and maintaining test automation
+* Continuously discover, evaluate and implement new technologies or services to maximize development efficiency
+
+### Who you are:
+
+* You feel good about your work knowing that what you do will affect the lives of millions of people around the world
+* Entrepreneurial and eager to thrive in a startup environment
+* Strong communicator
+* A good person, highly ethical and accepting of others
+* Self-motivated and willing to learn new things and take on new challenges
+ 
+### Your background and skills:
+
+* Preferably fluent in TypeScript/Node.js; Java/Spring/Spring Boot a plus
+* Experienced with MongoDB, NoSQL technologies
+* Docker experience a plus
+* Experienced with service design patterns, multithreading, scalability and performance
+* Excellent knowledge of algorithms and data structures
+* Familiarity with cloud architectural patterns and microservices, message queues, container orchestration, etc.
+* Experience developing and supporting production code
+* Able to collaborate with appropriate resources to prepare design create technical design, slicing and sizing of new features and function
+* Clear and concise communication skills
+* Proven track record of delivering on tight schedule
+* B.S. in Computer Science or related field OR equivalent experience
+* 6+ years of full-stack software engineering experience developing user-facing features and systems
+
+<!-- yaspeller ignore:start -->
+###### *MND*
+<!-- yaspeller ignore:end -->
+
+</details>
 
 
 ## Python Automation Engineer
