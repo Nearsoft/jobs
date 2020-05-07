@@ -147,11 +147,6 @@ The UX Team from Nearsoft is growing and we're looking for a hands-on UX/UI Desi
 
 ### How to apply
 
-To apply your portfolio should include the following:
-
-* Top 3 best UX/UI projects for Web and mobile platforms
-* Include a short description of the project and your direct contributions
-* Make sure to include a minimum of 8 main screens per project in high resolution. File type: `.jpg`, `.png` or InVision prototypes
 * Send your CV and portfolio to: aquijada@nearsoft.com
 
 <!-- yaspeller ignore:start -->
