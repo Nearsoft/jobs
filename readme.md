@@ -143,7 +143,6 @@ The UX Team from Nearsoft is growing and we're looking for a hands-on UX/UI Desi
 * Experience conducting usability testing, user interviews and analyze findings to translate into design solutions
 * Advanced use of Sketch and InVision, or other similar tools
 * Ability to self-manage and conduct in a proactive manner
-* Location: Hermosillo, Sonora
 
 ### How to apply
 
