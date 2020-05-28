@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+
+* [Principal Architect](#principal-architect)
 * [Senior Full Stack Engineer](#senior-full-stack-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [DevOps Engineer](#devops-engineer)
@@ -23,6 +25,65 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Principal Architect
+
+<details><summary>Read more</summary>
+
+Reporting to the Chief Architect, the principal Architect plays an integral role in supporting the effort to build the company's multi-year technology strategy, roadmap, and processes. The Principal Architect will be part of the company’s architecture team responsible for development and technology innovation. The principal architect will support multiple domains part of  the integration of our brands into one cohesive platform and set of services to deliver delight at scale to our millions of customs around the world. 
+
+### Responsibilities 
+
+* Lead software architecture implementation throughout the product life cycle for one or moreapplication domains.
+* Define software application architecture solution proposals and alternatives with the team, including schedule, resource & costing.
+* Lead and participate in software architecture and code reviews.
+* Work with the team of internal and external software engineers to prototype and implement the applications.
+* Owns the Domain Roadmap and works closely with business, architects and engineering heads to set priority, deliver on-time, within budget and of high quality.
+* This architect will lead engineering teams to develop innovative solutions that meet market needs with respect to functionality, performance, scalability, reliability, implementation schedules, and adherence to develop goals and principles.
+* Drive and understand use cases for current and future architectural requirements across multiple domains.  Drive the evolution of our technology stack, and enhance leadership role.
+* Act as a role model and mentor for the entire technology organization. Lead one or more application domains to achieve architectural initiatives.
+* Will be part of the Architectural Committee consisting of the team of architects to achieve enterprise-wide architectural alignment, work towards devising architectural solutions, and chairing architectural design reviews. 
+
+### Leadership Requirements
+
+* Strategic thinker with a high level of situational intelligence to be able to work with a diverse workforce with a differing opinion
+* Able to communicate, influence, and lead technical teams in making strong technical decisions.  
+* Effectively describes and communicates the future direction of a given domain, conducts analysis of architectural data, and articulates analytic and technical findings to senior audiences in a coherent and organized fashion.
+* Builds loyalty, trust and confidence with cross-functional leaders and teams
+* Hands-on and entrepreneurial style –one that looks to become personally involved in all elements of managing their domain responsibility
+* Actively develops technical talent and shares knowledge
+* Skilled at contributing to broader business conversations beyond their domain expertise
+* Solicits the involvement of others to build a sense of ownership.
+* Comfortable presenting to executive leaders in ways that build confidence and support, and enables strategic decision making
+* High degree of technical competency (strong engineering foundation) with a passion around execution and delivery.  Technical aptitude to probe, assess and understand their technology environment
+* Strong verbal, presentation and written communications skills
+* Proven ability to navigate ambiguity and collaborate with other functional leaders to provide positive outcomes
+
+### Tech Skills 
+
+* 12+ years of experience as a software developer, lead and architect
+* At least 6 years’ experience as a software architect at a consumer services company delivering solutions running in Cloud infrastructure, preferably AWS. 
+* Experience with large scale e-commerce platforms and highly available distributed systems
+* Deep experience of micro-service-based architectures and building performing, scalable and durable solutions in cloud environments for 24x7 business to consumer-facing applications.
+* Cloud Application Design patterns and frameworks (for e.g. service discovery, circuitbreaker, and 12 factor)
+* AWS cloud experience (IAM, Cognito, ECS, Fargate, Lambda, RDS, S3)
+* Experience with various access control models and standards, including SSO and ID Federation
+* Experience acting as technical liaison between Product Management, Development, and Operations
+* Experience with event-driven architecture and messaging systems (ActiveMQ, Kafka, SQS/SNS)
+* Proficient in NoSQL (MongoDB, Amazon DynamoDB, Redis) and Relational Databases (Oracle, MySQL and PostgreSQL)
+* Expert-level experience with Java/Spring Boot/Spring Framework required and LAMP, HTML5 and iOS etc. would be a plus
+* Ability to create analysis and quick prototypes for different implementation alternatives.
+* Experience in Machine Learning and Artificial Intelligence 
+* Expert knowledge of technical architecture best practices
+* Developed architectures in multiple diverse domains and application stacks
+* Expertise with modern, Agile-based application development methodologies such as microservices, API management,web-scale architectures, container-based delivery, cloud automation, TDD, BDD, continuous integration (CI), and CD.
+
+<!-- yaspeller ignore:start -->
+###### *SHUTT*
+<!-- yaspeller ignore:end -->
+
+</details>
+
 
 ## Senior Full Stack Engineer
 
