@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [C++ and Node Engineer](#c++-node-engineer)
 * [Principal Architect](#principal-architect)
 * [Senior Full Stack Engineer](#senior-full-stack-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
@@ -25,6 +26,46 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## C++ and Node Engineer 
+
+<details><summary>Read more</summary>
+  
+We looking for a mid/senior C++ developer to join our growing team. This is an exciting and high profile project that will involve challenging problem solving and collaborating in architecting a solution from the ground up. You will also be asked to develop documentation on the new built system.
+
+### Your Profile
+
+* You are committed to using your technical skills to deliver amazing user experiences.
+* You enjoy learning new and emerging technologies. 
+* You are pro open source, do not like to reinvent the wheel. 
+* You are a force of proposal and an excellent team player. 
+* You are attentive to potential security vulnerabilities, strive for improvement, like to get out of your comfort zone and the challenges are a source of motivation for you.
+* You are a problem-solver, critical thinker, and team player.
+
+### Key Requirements
+
+* 5+ years of experience in the software industry
+* 3+ years of working experience in C++
+* 5+ years NodeJS/Typescript or Java development experience
+* Experience in server/client side JS (nodeJS, expressJS, Typescript)
+* Object-oriented design and development experience
+* Ability to drive technical excellence, pushing innovation and quality
+* Experience with REST web services, message brokers, network programming
+* Self-driven, autonomous and accountable, with great interpersonal skills
+* Proficient in English
+
+### It’s great if you also have
+
+* Experience with linux
+* Experience with CI/CD using Travis CI
+* Experience with some aspect(s) of computer security: network security,
+application security, security protocols, cryptography, etc…)
+* Experience with agile software development practices
+
+<!-- yaspeller ignore:start -->
+###### *ULT*
+<!-- yaspeller ignore:end -->
+
 
 ## Principal Architect
 
