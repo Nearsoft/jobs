@@ -65,6 +65,7 @@ application security, security protocols, cryptography, etc…)
 <!-- yaspeller ignore:start -->
 ###### *ULT*
 <!-- yaspeller ignore:end -->
+</details>
 
 
 ## Principal Architect
