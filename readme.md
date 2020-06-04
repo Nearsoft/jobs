@@ -17,6 +17,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 
+
+* [Senior Front End Engineer ](#senior-front-end-engineer)
 * [WordPress Developer](#wordpress-developer)
 * [C++ and Node Engineer](#c++-node-engineer)
 * [Principal Architect](#principal-architect)
@@ -28,6 +30,44 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Senior Front End Engineer
+
+<details><summary>Read more</summary>
+
+We have an amazing opportunity to work in Hermosillo, Sonora. 
+
+### Tech stack
+
+* HTML5
+* CSS3
+* JavaScript
+* React/Redux
+* Angular
+* ES5 and ES6
+* Web Services and RESTful APIs
+
+### Requirements
+
+* 6+ years of UI development experience
+* Development experience with HTML5, CSS3, and JavaScript, and on working on applications with backend and database components
+* Experience with JavaScript libraries and frameworks such as React/Redux, Angular, ES5, ES6, and knowledge of how to use and optimize them
+* Experience in development of, and/or integration with web services and RESTful APIs
+* Experience with source control tools, unit test development and performing code reviews
+
+### Desired Experience:
+
+* Willingness and ability to quickly learn new technologies and frameworks. Demonstrate the ability to research, explain reasons and make informed technology choices.
+* Strong understanding of APIs, databases and at least one server-side language (Python, Java, Go)
+* Hands on experience working with visualization libraries such as D3.js, plotly.js and/or web.gl
+* Familiarity with unit testing frameworks such as Jest, Enzyme, Mocha, Selenium or Cypress
+* Good understanding of CI / CD processes and cloud-based deployments
+
+<!-- yaspeller ignore:start -->
+###### *BL*
+<!-- yaspeller ignore:end -->
+</details>
+
 
 ## WordPress Developer
 
@@ -81,6 +121,7 @@ The right person will be experienced with large, high traffic WordPress installa
 ###### *CT*
 <!-- yaspeller ignore:end -->
 </details>
+
 
 ## C++ and Node Engineer 
 
