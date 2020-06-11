@@ -18,6 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 
+* [Principal Security Architect ](#principal-security-architect)
 * [Senior Front End Engineer ](#senior-front-end-engineer)
 * [WordPress Developer](#wordpress-developer)
 * [C++ and Node Engineer](#c++-node-engineer)
@@ -30,6 +31,65 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Principal Security Architect
+
+<details><summary>Read more</summary>
+
+### Position summary
+
+The Principal Security Architect is a position of technical expertise, influence, and leadership in the security technology realm. The Principal Security Architect is highly passionate and is a deeply technical Security Expert to help the company and its users develop sound security practices. Our Principal Security Architects will deliver security architecture, risk and control guidance, lead proof-of- concept projects, and conduct workshops.
+
+### Essential Functions and Responsibilities
+
+* Implementation experience with enterprise security solutions such as WAF, IPS, Anti-DDOS, and SIEM.
+* Familiarity with compliance & security standards across the enterprise IT landscape deep understanding of enterprise risk management methods and techniques to drive successful outcomes in a complex environment.
+* Working knowledge of cloud computing technologies.
+* Familiarity with archive, backup/recovery and business continuity processes in distributed operations.
+* Demonstrated ability to think strategically about business, product, and technical challenges.
+* Assist with penetration testing, incident handling/digital forensics, continuous monitoring, intrusion detection/prevention, vulnerability management.
+* Functions equally well in abstract, conceptual, and architectural work as in granular technical implementation and configuration work.
+* Implement tools, processes, and communications that support information security initiatives.
+* Identify gaps in the University’s security model, suggest solutions including tools and processes.
+* Participate in tactical projects as they arise to clarify and respond to identified security risks across different technical domains.
+* Create new processes, identify new threats and mitigation strategies.
+* Process service request tickets efficiently and reliably.
+* Demonstrate ownership of incidents. Participate in the Correction of Errors (CoE) process designed to
+improve company's standards, procedures, responses, baselines, guidelines etc. Learning is at the core of company’s mission.
+* We apply it to ourselves as well as our users.
+* Monitors and tests fixes and patches to ensure problems have been resolved.
+* Assists in the development of security policies and procedures.
+* Continuously monitors tools for events that could lead to a breach.
+* Required to gain the trust and confidence of all employees including the Senior Staff.
+* Must be comfortable providing competent solutions to company's personnel.
+* Inspire and develop less experienced staff through sharing of knowledge and being approachable.
+* Understand the mission of the company and the devotion required to best serve users.
+
+### Required
+
+* Bachelor’s degree in IT, or related field with 8 years of experience in IT security, compliance or risk management, if candidate has a CISSP – 6 years of experience or 10 years Information Security Experience without a degree.
+* Experience with security industry standards and best practices. Proven experience with interpretation and implementation of those standards in a corporate environment.
+* High integrity. Will be working with sensitive data.
+* Operate Information security tools and processes.
+* Execute established security practices with consistency and discipline.
+* Highly technical and analytical, possessing 7 or more years of IT implementation experience.
+* Bilingual, preferred certifications, preferred field of study, etc.
+* Preferred – CISSP, Masters Degree, ISACA Certifications.
+* Working knowledge of intrusion detection methodologies and techniques for detecting intrusions via intrusion detection technologies.
+* Ability to use network management tools to analyze network traffic patterns.
+* Ability to tune sensors, read, and interpret signatures.
+* Ability to create alerts and automated responses.
+* Ability to generate and articulate performance metrics.
+* Ability to identify and communicate the risk of vulnerabilities.
+* Ability to identify internal and external trends to identify risks.
+* Ability to articulate risk to upper management.
+* Competencies Required: Communication, Teamwork, problem-solving, etc.
+
+<!-- yaspeller ignore:start -->
+###### *WGU*
+<!-- yaspeller ignore:end -->
+</details>
+
 
 ## Senior Front End Engineer
 
