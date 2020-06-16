@@ -42,48 +42,70 @@ The Principal Security Architect is a position of technical expertise, influence
 
 ### Essential Functions and Responsibilities
 
-* Implementation experience with enterprise security solutions such as WAF, IPS, Anti-DDOS, and SIEM.
-* Familiarity with compliance & security standards across the enterprise IT landscape deep understanding of enterprise risk management methods and techniques to drive successful outcomes in a complex environment.
-* Working knowledge of cloud computing technologies.
-* Familiarity with archive, backup/recovery and business continuity processes in distributed operations.
+* Architecture experience with enterprise security solutions.
+* Subject matter expert in compliance & security standards across the enterprise IT landscape, deep understanding of enterprise risk management methods, and techniques to drive successful outcomes in a complex environment.
+* Extensive experience in cloud computing technologies.
+* Subject matter expert in archive, backup/recovery and business continuity processes in distributed operations.
 * Demonstrated ability to think strategically about business, product, and technical challenges.
-* Assist with penetration testing, incident handling/digital forensics, continuous monitoring, intrusion detection/prevention, vulnerability management.
+* Provide guidance and direction with penetration testing, incident handling/digital forensics, continuous monitoring, intrusion detection/prevention, vulnerability management.
 * Functions equally well in abstract, conceptual, and architectural work as in granular technical implementation and configuration work.
-* Implement tools, processes, and communications that support information security initiatives.
-* Identify gaps in the University’s security model, suggest solutions including tools and processes.
-* Participate in tactical projects as they arise to clarify and respond to identified security risks across different technical domains.
+* Implement tools, policies, standards, processes, and communications that support information security initiatives.
+* Identify gaps in the University’s security model and architect remediation solutions.
+* Lead tactical projects related to security initiatives.
 * Create new processes, identify new threats and mitigation strategies.
 * Process service request tickets efficiently and reliably.
-* Demonstrate ownership of incidents. Participate in the Correction of Errors (CoE) process designed to
-improve company's standards, procedures, responses, baselines, guidelines etc. Learning is at the core of company’s mission.
-* We apply it to ourselves as well as our users.
-* Monitors and tests fixes and patches to ensure problems have been resolved.
-* Assists in the development of security policies and procedures.
-* Continuously monitors tools for events that could lead to a breach.
-* Required to gain the trust and confidence of all employees including the Senior Staff.
-* Must be comfortable providing competent solutions to company's personnel.
-* Inspire and develop less experienced staff through sharing of knowledge and being approachable.
-* Understand the mission of the company and the devotion required to best serve users.
+* Demonstrate ownership of incidents.  Participate in the Correction of Errors (CoE) process designed to improve our standards, procedures, responses, baselines, guidelines etc.  
+* Identification of vulnerabilities, misconfigurations, and related patches. 
+* Coordinate and carryout red/blue team activities. 
+* Inspire and develop less experienced staff through sharing of knowledge and being approachable. 
+* Engage with internal product teams, architects, and business leaders to understand and inform product roadmaps and security needs.
+* Evaluate emerging technologies and market trends to develop a 5-year vision/roadmap. 
+* Communicate security architecture strategy and roadmap clearly.
+* Define security requirements and checklist for all security disciplines.
+* Serve as technical security/risk advisor on new technologies.
+* Provide architectural guidance and leadership on best practices regarding security in software development, IoT platform, mobile application, user interface design frameworks, high performance messaging solutions, server-side development, integrations and tools and technologies.
+* Work with corporate security governance team to comply with internal SLA and policies.
+* Research security technologies and maintain knowledge of current and emerging technologies / products / trends related to security architectural solutions.
+* Determines security requirements by evaluating business strategies, researching information security standards, conducting system security and vulnerability analyses and risk assessments, studying architecture/platform, identifying integration issues, and preparing cost estimates.
+* Plans security systems by evaluating network and security technologies; developing requirements for network environments; designs public key infrastructures (PKIs), including use of certification authorities (CAs) and digital signatures as well as hardware and software encryption solutions; adhering to industry standards.
+* Implements security systems by specifying intrusion detection methodologies, preparing preventive and reactive measures; creating, transmitting, and maintaining keys and encrypted data; providing technical guidance to engineering and support teams; completing documentation.
 
-### Required
+### Required skills, education and experience
 
-* Bachelor’s degree in IT, or related field with 8 years of experience in IT security, compliance or risk management, if candidate has a CISSP – 6 years of experience or 10 years Information Security Experience without a degree.
-* Experience with security industry standards and best practices. Proven experience with interpretation and implementation of those standards in a corporate environment.
-* High integrity. Will be working with sensitive data.
-* Operate Information security tools and processes.
-* Execute established security practices with consistency and discipline.
-* Highly technical and analytical, possessing 7 or more years of IT implementation experience.
-* Bilingual, preferred certifications, preferred field of study, etc.
+* Bachelor’s degree in IT, or related field with 8 years of experience in IT security, compliance or risk management, if candidate has a CISSP – 7 years of experience or 12+ years Information Security Experience without a degree.
+Experience with security industry standards and best practices. Proven experience with interpretation and implementation of those standards in a corporate environment. 
+* High integrity.  Will be working with sensitive data.
+* Operate Information security tools and processes
+* Execute established security practices with consistency and discipline
+* Highly technical and analytical, possessing 7 or more years of IT implementation experience
+* Demonstrated expertise in cryptographic algorithms and protocols (PKI).
+* Demonstrated expertise in end-to-end software architecture.
+* Ability to present complex security topics to wide range of internal and internal audiences (engineers to executives).
+* Strong project planning and execution skills.
+* Good analytical and debugging skills; creative ability, good organizational skills.
+* Experience in working with or deploying identity management solutions (privileged access management and user behavioral analytics)
+* Working knowledge of web application technology and API frameworks, authentication, and secure coding best practices.
+* Working knowledge of network architecture including routing and switching, firewall design and load balancing.
+* Experience with threat modeling, vulnerability assessments, and penetration testing is highly desirable.
+* Excellent communication skills and coordination with peers, end-users, and cross-group collaborative leadership.
+
+### Preferred Qualifications
+
 * Preferred – CISSP, Masters Degree, ISACA Certifications.
 * Working knowledge of intrusion detection methodologies and techniques for detecting intrusions via intrusion detection technologies.
-* Ability to use network management tools to analyze network traffic patterns.
-* Ability to tune sensors, read, and interpret signatures.
-* Ability to create alerts and automated responses.
-* Ability to generate and articulate performance metrics.
-* Ability to identify and communicate the risk of vulnerabilities.
+* Ability to identify and communicate the risk of vulnerabilities 
 * Ability to identify internal and external trends to identify risks.
-* Ability to articulate risk to upper management.
-* Competencies Required: Communication, Teamwork, problem-solving, etc.
+* Ability to articulate risk to upper management
+* Experience in application level security architectures.  
+* Security engineering experience in conducting threat analysis, risk management, mitigation techniques, and vulnerability assessments.  
+
+### Competencies Required 
+
+* Works well with others, maintaining a positive work environment by communicating in a manner to promote positive relations with customers, co-workers, and management.
+* Effective communication skills with the ability to communicate with purpose, clarity, and accuracy.
+* Excellent analytical, problem solving, and decision-making skills required. Identifies and resolves problems in a timely manner with a solution driven approach to problems.
+* Demonstrated pragmatic, adaptable, and result-driven approach to information security risk management.
+* Methodical, data-driven approach to security and risk analysis; ability to think imaginatively in order to implement security improvements. 
 
 <!-- yaspeller ignore:start -->
 ###### *WGU*
