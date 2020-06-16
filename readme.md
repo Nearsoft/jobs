@@ -18,6 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 
+* [Security Analist II ](#security-analist-ii)
 * [Principal Security Architect ](#principal-security-architect)
 * [Senior Front End Engineer ](#senior-front-end-engineer)
 * [WordPress Developer](#wordpress-developer)
@@ -31,6 +32,91 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Security Analist II 
+
+<details><summary>Read more</summary>
+
+### Position summary
+
+The Security Analyst II is a strategic support role for the IT Security team. They will provide mentorship, administrative service and support for monitoring systems, security breaches, providing investigative analysis and supporting incident response plans, security awareness, risk assessments, document review, vendor risk, vulnerability management and threat hunting.  They will also engage in the support of other security focused tools and services and other duties as assigned.  In addition, they may be asked to assist with risk assessments, forensics analysis, data collection, user training and other security related tasks.
+
+### Essential Functions and Responsibilities
+
+* Works with IT Security Analysts.  Function as a lead analyst in one or more efforts to assist with penetration testing, incident handling/digital forensics, continuous monitoring, intrusion detection/prevention), auditing, risk analysis, compliance, security awareness, threat hunting, vendor risk analysis and identity and access efforts. 
+* Functions equally well in abstract, conceptual, and architectural work as in granular technical implementation and configuration work.  
+* Support in the creation of tools, processes, and communications that support information security initiatives. Participate in the development of security policies, standards and procedures.  
+* Develop and apply standards and procedures regarding security tools.   
+* Analysis of phishing emails utilizing industry standard tools. 
+* Monitor Endpoint Security utilizing tools such as DLP, HIPS, Client Proxy, EPP, IPS/IDS and local firewalls to establish a baseline and identify anomalous behavior. Understand data encryption strategies. Strive for optimal policy of balance in security and performance.  
+* Participate in tactical projects as they arise to clarify and respond to identified security risks across different technical domains.  Assist in project testing and technical documentation. 
+* Execute established security practices with consistency and discipline. Monitor alerts for security incidents and escalate, as needed. Process large quantities of data based on significance.  
+* Collaborate with engineers to support standardized practices and follow routine processes to promote secure systems. Recommend new tools for penetration testing, assessment, and secure product validation.  
+* Identify and create process improvements.
+* Process service request tickets efficiently and reliably. 
+* Participate in Correction of Errors (CoE), often with members of other teams. 
+* Participate with incident response activities. 
+* Monitors and tests fixes and patches to ensure vulnerabilities have been appropriately mitigated. 
+* Continuously monitor tools for events that could lead to an incident and work with business partners to ensure data protection and remediation. 
+* Knowledge of NIST, ISO, and PCI-DSS standards as well as FERPA, GLBA, GDPR, HIPAA, FTC regulations. Contribute to developing assessment plans building on the methodologies promoted by these standards and regulations to quantify risk.  
+* Performs activities needed to demonstrate regulatory compliance. 
+* Proficiencies with computing technologies (Windows Server, Linux, databases, TCP/IP network stack, scripting languages, etc.) 
+* Working knowledge of intrusion detection methodologies and techniques for detecting intrusions via intrusion detection technologies. 
+* Administration of security information and event management including devices, watch list, alerting, threat feeds, and problem resolution. 
+* Research emerging security technologies, tactics, trends, and exploits.  Prepare reports and presentations periodically for management and developers.  
+* Participate in ongoing status meetings to update Information Security members of initiatives and ongoing projects.  
+* Maintain user security by evaluating security standards and access controls.  
+* Manage security test lab including daily activities, documentation, maintenance, component installation/configuration, and facility evolution. 
+* Ability to use network management tools to analyze network traffic patterns. 
+* Ability to tune sensors, read, and interpret signatures. 
+* Ability to create alerts and automated responses. 
+* Ability to generate and articulate performance metrics. 
+* Ability to identify and communicate the risk of vulnerabilities. 
+* Ability to identify internal and external trends to identify risks. 
+* Ability to articulate risk to management. 
+* Provide policy and technical advice to internal stakeholders to ensure new initiatives conform to current corporate security architecture.  
+* Applies design theories and principles in researching, designing, and developing, while maintaining security architectures of the company.  
+* Contributes to security operations and technology projects that have tactical and operational impact to all business segments of WGU. 
+* Responsible to support the creation and maintenance of an effective security architecture for the corporation that maps to business requirements.  
+* Collaborate with IT leadership and other business leaders to provide integrated security planning and recommendations for innovative technologies that will enhance the current security posture of the organization system protection. 
+* Manage subscriptions to vendors’ security/vulnerability alerts and assess vendor alerts by establishing a response plan based on the platform, severity, and applicability of the threat.  
+* Review and maintain inventory and documentation for “golden images” for all operating systems from security and baseline configuration perspective. 
+
+### Required skills, education and experience
+
+* Bachelor’s Degree in related field and 2 years of relevant work experience or 4-5 years minimum of Information Security experience.
+* Experience with security industry standards and best practices. Proven experience with interpretation and implementation of those standards in a corporate environment. 
+* Execute established security practices with consistency and discipline 
+* Results oriented, self-motivated, and self-directed. 
+* Experience with open source security tools (i.e. Kali, Nessus, Fortify, AppScan, Nexpose, SAINT, Burp, NMap, Metasploit, Meterpreter, Wireshark, Kismet, Aircrack-ng, Eramba, etc) 
+* Familiarity with network architectures, network services & devices, system types, development platforms, and software suites (Microsoft, Cisco, Oracle, Linux, etc.) 
+* Technical skills in patch and vulnerability assessment, analytical theory, networking, operating systems, incident response methodology and ability to compose management level summaries as needed. 
+
+### Preferred Qualifications
+
+* Relevant security certifications– (SSCP, GIAC, Security+, CEH, etc.) Certifications. 
+* Experience recommending additional security requirements and safeguards 
+* Experience in development of end user operating manuals and documentation 
+* Familiarity with Cloud infrastructure  
+* Experience preparing System Security Plans and supporting Cybersecurity/IA testing. 
+* Experience with NAC and MDM.
+* Knowledge of OWASP a plus.
+  
+  ### Competencies Required 
+
+* Works well with others, maintaining a positive work environment by communicating in a manner to promote positive relations with customers, co-workers, and management.
+* Effective communication skills with the ability to communicate with purpose, clarity, and accuracy
+* Excellent analytical, problem solving, and decision-making skills required. Identifies and resolves problems in a timely manner with a solution driven approach to problems.
+  
+  ### Special Requirements 
+  
+ * Flexibility to work some nights/weekends/holidays/on call rotation.
+    
+    <!-- yaspeller ignore:start -->
+###### *WGU*
+<!-- yaspeller ignore:end -->
+</details>
+
 
 ## Principal Security Architect
 
