@@ -18,9 +18,11 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 
-* [Security Analist II ](#security-analist-ii)
-* [Principal Security Architect ](#principal-security-architect)
-* [Senior Front End Engineer ](#senior-front-end-engineer)
+* [Senior iOS Engineer](#senior-ios-engineer)
+* [Senior Android Engineer](#senior-android-engineer)
+* [Security Analist II](#security-analist-ii)
+* [Principal Security Architect](#principal-security-architect)
+* [Senior Front End Engineer](#senior-front-end-engineer)
 * [WordPress Developer](#wordpress-developer)
 * [C++ and Node Engineer](#c++-node-engineer)
 * [Principal Architect](#principal-architect)
@@ -32,6 +34,41 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Senior iOS Engineer
+
+<details><summary>Read more</summary>
+
+### Tech Skills
+
+* Experience with Swift 5, iOS 13, and Xcode 11.
+* Solid understanding of MVVM.
+* SwiftUI experience is preferred.  
+* Exposure to Clean Architecture is preferred.
+* Experience with the Coordinator pattern is preferred.
+
+  <!-- yaspeller ignore:start -->
+###### *TA*
+<!-- yaspeller ignore:end -->
+</details>
+
+
+## Senior Android Engineer
+
+<details><summary>Read more</summary>
+
+### Tech Skills
+
+* Experience with Kotlin.
+* Solid understanding of MVVM.
+* Experience with Kotlin Coroutines is preferred.
+* Experience with Clean Architecture is preferred.
+  
+  <!-- yaspeller ignore:start -->
+###### *TA*
+<!-- yaspeller ignore:end -->
+</details>
+
 
 ## Security Analist II 
 
