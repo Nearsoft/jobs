@@ -29,7 +29,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior Full Stack Engineer](#senior-full-stack-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
 * [DevOps Engineer](#devops-engineer)
-* [UX/UI Designer](#uxui-designer)
 
 <!-- yaspeller ignore:end -->
 
