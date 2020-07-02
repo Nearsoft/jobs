@@ -23,7 +23,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Security Analist II](#security-analist-ii)
 * [Principal Security Architect](#principal-security-architect)
 * [Senior Front End Engineer](#senior-front-end-engineer)
-* [WordPress Developer](#wordpress-developer)
 * [C++ and Node Engineer](#c++-node-engineer)
 * [Senior Full Stack Engineer](#senior-full-stack-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
@@ -268,60 +267,6 @@ We have an amazing opportunity to work in Hermosillo, Sonora.
 
 <!-- yaspeller ignore:start -->
 ###### *BL*
-<!-- yaspeller ignore:end -->
-</details>
-
-
-## WordPress Developer
-
-<details><summary>Read more</summary>
-  
-We are unique in the digital marketing and media industry. We combine marketing,digital,content,and fin-tech.
-Our performance-based approach increases brand awareness and generates targeted audience engagement on our internal web properties and partner sites. We are seeking a Software Engineer with WordPress experience who will help us to implement amazing front-end and back-end user experiences for our highly-customized site with over 10,000 articles reaching millions of monthly users.
-The right person will be experienced with large, high traffic WordPress installations and must be able to code custom features and build plug-ins according to coding standards and best practices and will be knowledgeable in WordPress, PHP, Javascript, and CSS. This role will be required to handle feature-rich front end development along with complicated back end tasks such as migrations, search customization,and web service programming.
-
-### Development Responsibilities
-
-* Build, extend, maintain and deploy websites using the WordPress content managementsystem.
-* Create and modify front end and back end components (themes, plugins, scripts, and styles)using PHP, Javascript, and CSS
-* Demonstrate a complete understanding of WordPress 
-* Monitor, maintain and optimize front end and back end performance
-* Design themes, templates and plugins based on wireframes and project requirements
-* Stay up to date with the latest WordPress and related plugin security updates
-* Produce high-quality code that works well across multiple browsers and devices 
-
-### Team Collaboration
-
-* Interact with the team to share and discuss design and functionality ideas
-* Interpret wireframes, storyboards, user flows, process flows and site maps
-* Discuss project milestones and key deliverables to peers and stakeholders
-* Set design guidelines, best practices and standards
-* Meet deadlines and stay on target
-* Work with designers to ensure the technical feasibility of UI/UX designs
-* Conducting quality assurance and tests of code quality
- 
-### Requirements
-
-* 3 to 4 years of Wordpress development experience, has to have current work experience in Wordpress
-* Technical skills should include multiple years in web development and experience with: WordPress,PHP, MySQL, HTML5, CSS3, JavaScript, and JQuery,
-* Ability to build custom themes and plugins
-* Develop page types, taxonomy language, menus, and other WordPress CMS data structures
-* Experience with AWS services such as S3 and CloudFront
-* Experience using Git for version control
-* Familiar with Command-Line Interfaces (i.e. Bash)
-* Familiar with SEO best practices (semantic markup, alt tags, meta tags)
-* Ability to work with APIs
-* Able to write database queries and logic
-* Experience with common deployment methodologies (dev->stage->live)
-* Excellent debug experience
-* Stay up to date with community patches and updates as required
-* Strong knowledge of production-ready code QA such as browser testing, validity testing, and performance testing
-* Able to take direction, critique and brainstorming your ideas
-* Collaborative will-do attitude
-* Attention to detai
-
-<!-- yaspeller ignore:start -->
-###### *CT*
 <!-- yaspeller ignore:end -->
 </details>
 
