@@ -17,7 +17,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 
-
+* [Shopify Engineer](#shopify-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
 * [Senior iOS Engineer](#senior-ios-engineer)
 * [Senior Android Engineer](#senior-android-engineer)
@@ -29,6 +29,33 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Shopify Engineer 
+
+<details><summary>Read more</summary>
+  
+### Key Responsibilities
+
+* Develop websites for client and internal projects
+* Consult on client project goals (technology stack, development workflow, QA process, deployment strategy, etc.)
+* Handle multiple client and internal projects simultaneously
+
+### Duties
+
+* Working with UX and designers to produce tight, forward-thinking, responsive and scalable front-end experiences
+* Building out custom Shopify themes and modifying pre-existing themes depending on the scope of the project
+* Working with Project Management to scope new functionality requests and supporting Sales to scope new projects
+
+### Requirements
+
+* Minimum of 2+ years experience working within the Shopify Plus platform, including knowledge of Slate / Themekit or similar
+* 2+ years working with modern technologies such as HTML5 and CSS3 experience
+* 2+ years experience working with Liquid, JavaScript, jQuery and AJAX as necessary
+* Knowledge of Shopify Ajax API a plus, as well as experience configuring third party apps
+* Superb troubleshooting and debugging skills
+
+</details>
+
 
 ## Software Engineer in Test
 
