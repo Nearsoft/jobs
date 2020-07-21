@@ -16,10 +16,10 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
-
+* [iOS Engineer](#ios-engineer)
+* [Senior iOS Engineer](#senior-ios-engineer)
 * [Shopify Engineer](#shopify-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
-* [Senior iOS Engineer](#senior-ios-engineer)
 * [Senior Android Engineer](#senior-android-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Senior Full Stack Engineer](#senior-full-stack-engineer)
@@ -29,6 +29,91 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## iOS Engineer 
+
+<details><summary>Read more</summary>
+
+We are looking for an iOS Developer with more than 3 years of experience.
+
+### Responsibilities 
+
+* Maintain and develop new features
+* Published apps in different platforms 
+* Maintain and update the system
+* Testing Apps in the Hardware (barcode, scanner, printer, etc.) 
+
+### Must have experience with: 
+
+* Swift 4 & 5
+* Core Data
+* Keychain
+* User defaults
+* Unit Testing con Quick/Nimble
+* URLSession
+* Alamofire  
+
+### Nice to have: 
+
+* Fastlane
+* RXSwift
+* Pusher
+* Travis CI
+* Jenkins
+* Cocoa Pods
+* Charles Proxy
+* Bugsnag
+
+<!-- yaspeller ignore:start -->
+###### *ACM*
+<!-- yaspeller ignore:end -->
+</details>
+
+
+## Senior iOS Engineer 
+
+<details><summary>Read more</summary>
+  
+### What is the Senior iOS Engineer role?
+
+We are looking for a stellar and passionate Senior iOS Engineer to work on our mobile app development. You’ll be working across multiple teams from platform engineers to designers and data scientists. You’ll be helping to redesign our mobile app to delight our users while transparently capturing the human-computer interaction patterns that drive the platform. Your work will support AI algorithms that identify patterns of brain activity from human-computer interactions and predict the impact that different interventions have on neuropsychological function.
+This is a unique opportunity to be part of an exceptional company that is transforming how we diagnose and treat brain disorders affecting hundreds of millions of people globally by applying some of the most innovative techniques in artificial intelligence.
+
+### What yo will be doing:
+
+* iOS architecture planning and implementation
+* Design and implement major pieces of functionality in iOS apps
+* Interface with internal and external design teams to translate UX and visual designs into application code
+* Contribute to developing a culture of testing and quality within the team
+* Collaborate with QA team in implementing and maintaining test automation
+* Continuously discover, evaluate and implement new technologies or services to maximize development efficiency
+* And you will feel good about your work knowing that what you do will make a real difference in the life of someone suffering from a mental or brain disorder
+
+### Who you are:
+
+* You feel good about your work knowing that what you do will affect the lives of millions of people around the world
+* Entrepreneurial and eager to thrive in a startup environment
+* Strong communicator (oral and written)
+* A good person, highly ethical and accepting of others
+
+### Your background and skills:
+
+* An amazing developer; technical challenges of all types excite you
+* Excellent knowledge of the mobile landscape, architectures, trends and emerging technologies
+* Highly experienced in Objective-C and Swift
+* Experience in writing multi-threaded asynchronous code
+* Have published two or more iOS apps in the app store
+* Proven track record of delivering on tight schedules
+* Experience and interest in Android development is a plus!
+ B.S. in Computer Science or related field with 6+ years of professional software development experience including 3+ years of iOS app development
+
+Join us in our journey to transform the future of brain health!
+
+<!-- yaspeller ignore:start -->
+###### *MND*
+<!-- yaspeller ignore:end -->
+</details>
 
 ## Shopify Engineer 
 
@@ -114,23 +199,6 @@ successful results
 
  <!-- yaspeller ignore:start -->
 ###### *MND*
-<!-- yaspeller ignore:end -->
-</details>
-
-## Senior iOS Engineer
-
-<details><summary>Read more</summary>
-
-### Tech Skills
-
-* Experience with Swift 5, iOS 13, and Xcode 11.
-* Solid understanding of MVVM.
-* SwiftUI experience is preferred.  
-* Exposure to Clean Architecture is preferred.
-* Experience with the Coordinator pattern is preferred.
-
-  <!-- yaspeller ignore:start -->
-###### *TA*
 <!-- yaspeller ignore:end -->
 </details>
 
