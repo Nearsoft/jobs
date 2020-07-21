@@ -139,6 +139,10 @@ Join us in our journey to transform the future of brain health!
 * Knowledge of Shopify Ajax API a plus, as well as experience configuring third party apps
 * Superb troubleshooting and debugging skills
 
+<!-- yaspeller ignore:start -->
+###### *3RD*
+<!-- yaspeller ignore:end -->
+</details>
 </details>
 
 
