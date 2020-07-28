@@ -20,7 +20,6 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Senior iOS Engineer](#senior-ios-engineer)
 * [Shopify Engineer](#shopify-engineer)
 * [Software Engineer in Test](#software-engineer-in-test)
-* [Senior Android Engineer](#senior-android-engineer)
 * [Senior Front End Engineer](#senior-front-end-engineer)
 * [Senior Full Stack Engineer](#senior-full-stack-engineer)
 * [Python Automation Engineer](#python-automation-engineer)
@@ -208,18 +207,6 @@ successful results
 </details>
 
 
-## Senior Android Engineer
-
-<details><summary>Read more</summary>
-
-### Tech Skills
-
-* Experience with Kotlin.
-* Solid understanding of MVVM.
-* Experience with Kotlin Coroutines is preferred.
-* Experience with Clean Architecture is preferred.
-  
-  <!-- yaspeller ignore:start -->
 ###### *TA*
 <!-- yaspeller ignore:end -->
 </details>
