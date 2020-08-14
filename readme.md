@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
-* [NET Engineer](#net-engineer)
+* [Software NET Engineer](#software-net-engineer)
 * [iOS Engineer](#ios-engineer)
 * [Senior iOS Engineer](#senior-ios-engineer)
 * [Shopify Engineer](#shopify-engineer)
@@ -31,22 +31,23 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
-## NET Engineer 
+## Software NET Engineer 
 
 <details><summary>Read more</summary>
 
 ### Requirements 
 
-* 5+ years of professional software development experience as a .NET developer (C#)
-* Experience with .NET Core
-* Experience providing and consuming REST API
-* Deep understanding of TDD and DDD
-* Solid understanding of OOP principles and standards, LINQ, Design Patterns and Data Structures
-* Experience in building complex server-side systems
+* 4+ years of professional software development experience as a .NET developer (C#)Solid understanding of OOP principles and standards, LINQ, Design Patterns and Data Structures
 * Strong experience with relational databases
-* CI/CD experience
+* Experience providing and consuming REST API
+* Experience integrating third party APIs and services
+* Experience designing and writing unit tests
+* Experience with SQL Adapters
+* Experience writing stored procedures and performant queries
+* Experience in building complex server-side systems
+* Experience optimizing for performance in crucial parts of an application
+* Some level of experience in ElasticSearch
 * Some level of experience in front-end development technologies
-* Understanding of multi-threading applications
 
 <!-- yaspeller ignore:start -->
 ###### *NS*
