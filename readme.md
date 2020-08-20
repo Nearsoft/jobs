@@ -31,6 +31,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
+
 ## Software NET Engineer 
 
 <details><summary>Read more</summary>
