@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Senior React Engineer](#senior-react-engineer)
 * [Software NET Engineer](#software-net-engineer)
 * [iOS Engineer](#ios-engineer)
 * [Senior iOS Engineer](#senior-ios-engineer)
@@ -31,7 +32,40 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
+## Senior React Engineer 
 
+<details><summary>Read more</summary>
+  
+This position involves partnering closely with peers and product management to ensure on-time high quality delivery of functional requirements. You will also work closely with senior engineers and architects to leverage and improve the core capabilities of the system. You should feel comfortable designing solutions based on product requirements. 
+
+### Responsibilities
+
+* Design, develop, test, and release web applications in accordance with established requirements, standards, processes and best practices
+* Maintain and monitor production applications and platforms
+* Prepare high quality technical documentation pertaining to business and technical requirements, including writing design documents, test cases and deployment guides
+* Collaborate within an Agile development environment
+
+### Minimum qualifications
+
+* At least 7 years of website development experience with proficiency in latest versions of HTML, CSS, Javascript (ES6), ReactJS, or other Javascript libraries
+* Thorough understanding of software development life-cycle and Agile process
+* Demonstrated knowledge and experience of delivering application from requirement gathering to post-production support in a test-driven and continuous integration environment
+* Experience working with unit testing
+* Love to build high quality code with efficiency and maintainability in mind
+* Experience with responsive web design and a keen eye for aesthetics and design
+* Can identify and address performance bottlenecks in a production environment
+* Have excellent communication skills and be a mentor and role model to less experienced developers
+ 
+### Desired qualifications
+ 
+* At least 7 years experience with server-side technologies such as NodeJS
+ 
+  <!-- yaspeller ignore:start -->
+###### *SHUT*
+<!-- yaspeller ignore:end -->
+</details>
+  
+  
 ## Software NET Engineer 
 
 <details><summary>Read more</summary>
