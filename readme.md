@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Angular Web Developer](#angular-web-developer)
 * [Senior React Engineer](#senior-react-engineer)
 * [Software NET Engineer](#software-net-engineer)
 * [iOS Engineer](#ios-engineer)
@@ -31,6 +32,45 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Angular Web Developer
+
+<details><summary>Read more</summary>
+  
+### Tech stack
+
+* Software Engineer - 5+ years of experience
+* Front End
+* Angular  8
+* Typescript 3.5
+* MobX 5.9.0
+* Bootstrap 4, ngx-bootstrap for Angular Integration
+* Google Analytics
+* sass
+
+### Nice to have
+
+* Experience creating UI libraries
+
+### Wants
+* Experience integrating internal restful APIs
+* Experience integrating internal APIs in frontend application
+* Communicates well with other developers/managers with comments, criticisms, and general input.
+* Ability to work with and guide junior developers
+* Ability to create new features from scratch
+
+### List don’t wants
+
+* Lazy people
+* Someone who needs to have their hand held through all tasks
+* Not open to new technologies and ideas
+* People who go off and do whatever they want
+
+ <!-- yaspeller ignore:start -->
+###### *XUP*
+<!-- yaspeller ignore:end -->
+</details>
+  
 
 ## Senior React Engineer 
 
