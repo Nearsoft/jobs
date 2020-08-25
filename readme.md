@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [QA Lead](#qa-lead)
 * [Angular Web Developer](#angular-web-developer)
 * [Senior React Engineer](#senior-react-engineer)
 * [Software NET Engineer](#software-net-engineer)
@@ -32,6 +33,45 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## QA Lead 
+
+<details><summary>Read more</summary>
+
+### Job Duties/Responsibilities
+
+* Gather project schedules, software functional and non-functional requirements from our project teams, and turn them into test plans, test designs, and test cases
+* Work closely with stakeholders to setup QA processes and establish best practices
+* Create and execute manual & automated tests
+* Perform regression testing to ensure no bugs are introduced in new builds
+* Estimate, plan and prioritize test activities
+* Track quality assurance metrics
+* Write test reports for project stakeholders
+* Be an integral member of the team that follows the Agile software development lifecycle process
+* Debug, troubleshoot, and improve live cloud-based applications
+
+### Minimum Qualifications
+
+* 5-8 years of QA experience with both white box and black box testing
+* BS or MS degree in Computer Science or a related degree
+* Experience writing test plans, cases, and designs from scratch for large scale distributed applications, web services or RESTful APIs
+* Experience creating, executing and reviewing results of functional, integration, and regression testing
+* Ability to design and implement test automation & unit testing frameworks.
+* Experience with open source test automation frameworks such as Cypress, Selenium, Cucumber or Robot Framework.
+* Experience working with JavaScript, Java, Python or a similar programming language
+* Setup and maintenance of test environments in AWS or Azure instances
+
+### Desired Experience
+
+* Comfortable using a variety of tools & technologies to investigate and resolve issues (e.g. SQL, RabbitMQ, Elastic Search, Postgres, Postman, JMeter)
+* Knowledge of Cloud Technologies and Distributed Systems. Experience with AWS/Azure, Docker and container technologies is a solid plus
+* Experience with continuous integration/continuous deployment operations and toolsets (e.g. Jenkins).
+* Experience with performance, security and/or stress is a plus.
+
+ <!-- yaspeller ignore:start -->
+###### *BL*
+<!-- yaspeller ignore:end -->
+</details>
 
 ## Angular Web Developer
 
