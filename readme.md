@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [NET Developer](#net-developer)
 * [Data Science Engineer](#data-science-engineer)
 * [QA Lead](#qa-lead)
 * [Angular Web Developer](#angular-web-developer)
@@ -33,6 +34,67 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## NET Developer
+
+<details><summary>Read more</summary>
+  
+### Who is Encora?
+
+We create competitive advantages for client partners through accelerated technology innovation, Encora
+provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary
+caring culture.
+
+Our clients are mainly focused on:
+* Fast Growing Tech
+* Fintech
+* HealthTech
+* Logistics and Supply Chain
+* Digital Commerce
+* LendTech
+
+### Professional Development
+
+Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high
+impact challenging projects, learning about top technologies or helping others by sharing what they know.
+
+### Our MX Offices
+
+Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
+
+### Benefits
+
+We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of
+benefits, including health insurance, paid time off, and wellness programs designed to promote physical,
+emotional and financial well-being.
+
+### Culture
+
+We have long been recognized as a Great Place to Work and World Blue. We strive to create an
+inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
+Join our passionate community of innovators making lasting impact in the world through technology.
+
+### Qualifications:
+
+* 5+ years of professional software development experience as a .NET developer (C#)
+* Experience with .NET Core
+* Experience with ASP.NET MVC / Web API
+* Experience integrating third party services
+* Experience providing and consuming REST API
+* Deep understanding of TDD and DDD
+* Solid understanding of OOP principles and standards, LINQ, Design Patterns and Data
+Structures
+* Experience in building complex server-side systems
+* Strong experience with relational databases
+* CI/CD experience
+* Some level of experience in front-end development technologies
+* Understanding of multi-threading applications
+
+<!-- yaspeller ignore:start -->
+###### *NS*
+<!-- yaspeller ignore:end -->
+</details>
+
 
 ## Data Science Engineer 
 
