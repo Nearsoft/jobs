@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
+* [Data Science Engineer](#data-science-engineer)
 * [QA Lead](#qa-lead)
 * [Angular Web Developer](#angular-web-developer)
 * [Senior React Engineer](#senior-react-engineer)
@@ -33,6 +33,63 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Data Science Engineer 
+
+<details><summary>Read more</summary>
+  
+### Who is Encora?
+
+We create competitive advantages for client partners through accelerated technology innovation, Encora
+provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary
+caring culture.
+
+Our clients are mainly focused on:
+* Fast Growing Tech
+* Fintech
+* HealthTech
+* Logistics and Supply Chain
+* Digital Commerce
+* LendTech
+
+### Professional Development
+
+Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high
+impact challenging projects, learning about top technologies or helping others by sharing what they know.
+
+### Our MX Offices
+
+Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
+
+### Benefits
+
+We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of
+benefits, including health insurance, paid time off, and wellness programs designed to promote physical,
+emotional and financial well-being.
+
+### Culture
+
+We have long been recognized as a Great Place to Work and World Blue. We strive to create an
+inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
+Join our passionate community of innovators making lasting impact in the world through technology.
+
+### Qualifications:
+
+* 5+ years of experience as a Data Scientist.
+* Strong problem solving skills with an emphasis on product development.
+* Experience writing and working with stored procedures, full text searching, Common Table
+* Expressions and User Defined Functions.
+* Experience doing data modeling using normal forms 1 through 3.
+* Solid working knowledge of Python and R.
+* Understanding of the different types of ML (i.e. supervised, unsupervised and semi-supervised).
+* Intermediate knowledge of ML algorithms such as k-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM) and Principal Component Analysis (PCA), including their real-world advantages/drawbacks.
+* Experience working with one or more of: Classification and Regression Trees, Random Forest Chi-square automatic interaction detection (CHAID) and C4.5 from POC to production.
+* Knowledge of the fundamentals of statistics (e.g. variance, covariance, types of distributions, kurtosis, skewness, regression, statistical tests and their proper use).
+
+ <!-- yaspeller ignore:start -->
+###### *CPA*
+<!-- yaspeller ignore:end -->
+</details>
 
 ## QA Lead 
 
