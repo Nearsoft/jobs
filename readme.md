@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+
+* [Senior Backend Engineer](#senior-backend-engineer)
 * [NET Developer](#net-developer)
 * [Data Science Engineer](#data-science-engineer)
 * [QA Lead](#qa-lead)
@@ -34,6 +36,36 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Senior Backend Engineer 
+
+<details><summary>Read more</summary>
+  
+### Key Requirements
+
+* 5+ years NodeJS/Typescript or Java development experience 
+* Experience in server/client side JS (nodeJS, expressJS, Typescript) 
+* Experience with SQL/noSQL databases 
+* Experience building large scale distributed systems 
+* Strong object-oriented design and development experience 
+* Knowledge of the principles to construct fault-tolerance, reliability and durability software systems 
+* Experience building microservices and designing REST APIs 
+* Experience with message brokers 
+* Proficiency in English, with great interpersonal skills
+
+### It’s great if you also have:
+
+* GCP and/or AWS experience
+* Experience with Kafka
+* Experience deploying microservices with docker, kubernetes
+* Experience with CI/CD using Gitlab-ci
+* Experience with some aspect(s) of computer security: network security, application security, security protocols, cryptography, etc...)
+
+<!-- yaspeller ignore:start -->
+###### *ULT*
+<!-- yaspeller ignore:end -->
+</details>
+
 
 ## NET Developer
 
