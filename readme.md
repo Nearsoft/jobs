@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Java Software Engineer](#java-software-engineer)
 * [Senior Backend Engineer](#senior-backend-engineer)
 * [NET Developer](#net-developer)
 * [Data Science Engineer](#data-science-engineer)
@@ -37,7 +38,93 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
-## Senior Backend Engineer 
+
+## Java Software Engineer 
+
+<details><summary>Read more</summary>
+  
+Responsible for the research, design, development, analysis, testing, and implementation of software operating or application systems. Communicates project information to client, project manager, or other design personnel working on projects. Maintains good working relationships with clients and staff. Writes and maintains complete documentation. Supports team members and ensures established goals and deadlines are met. Keeps management informed of status and significant problems.
+
+### Essential Functions and Responsibilities:
+
+* Develop web applications and web services using Java, SOAP, REST, XML, HTTP, and other web
+technologies.
+* Manage multiple tasks and responsibilities in high-pressure environments; excelling at pinpointing and
+resolving problems in early project stages to avoid cost/time expenses
+* Deliver high quality projects on time, through ability to design architecture, write high quality code,
+and execute effective unit tests
+* Optimize performance tuning for high utilization 24x7 access
+* Integrate third party products with existing infrastructure
+* Excellent verbal and written communication skills and the ability to work equally well in self-managed
+and team-based Agile projects.
+* Work with internal customers to gather business processes and project requirements
+* Researches, designs, and develops computer software systems, in conjunction with hardware product
+development applying principles and techniques of computer science, engineering, and mathematical
+analysis.
+* Analyzes software requirements to determine feasibility of design within time and cost constraints.
+* Consults with hardware engineers and other engineering staff to evaluate interface between hardware
+and software, and operational and performance requirements of overall system.
+* Formulates and designs software system, using scientific analysis and mathematical models to predict
+and measure outcome and consequences of design.
+* Develops and directs software system testing procedures, programming, and documentation.
+* Ensures work area is clean, secure, and well maintained.
+* Performs miscellaneous projects as assigned.
+* Updates technical skills as required.
+
+### Knowledge, Skill and Abilities:
+
+* Project designs and plans are creative, employ useful technologies, meet deadlines, and fulfill goals and
+requirements.
+* Project estimates are well-researched and accurate.
+* Project testing procedures are effective and timely. Results are well-analyzed and problems are
+corrected.
+* Required reports and documentation are complete and current.
+* Good communication and working relationships exist with clients and co-workers. Concerns are
+promptly addressed and any problems effectively resolved.
+* Management is appropriately informed of area activities and of any significant problems.
+* Company policies and procedures are closely followed.
+* Experience with Web Services development: REST/SOAP/SOA/XML/HTML
+* Good understanding of issue troubleshooting and performance tuning
+* Commitment to quality through the ability to translate complex technical requirements into functional software
+using best practices to write high quality code
+* Excellent verbal and written communication skills
+* Working equally well in self-managed and team-based Agile projects and the ability to provide technical
+* guidance and leadership to other team members.
+
+### Minimum Qualifications:
+
+* Minimum of 3 years of experience and a proven track record in developing web-based applications and web
+services using Java, SOAP, REST, XML, and other web technologies, including
+* Experience interfacing with Oracle databases, and integrating third party products with existing infrastructure.
+
+### Preferred Qualifications:
+
+* NetBeans
+* Subversion
+* Jira
+* Agile/Scrum project development
+* IDM/OSSO
+* ASP/.Net
+* DRUPAL
+* Groovy/Grails
+* Ruby/Rails
+* PHP
+* Hibernate/Seam
+* Banner
+* DROOLS, JBOSS
+* Technical Certification
+* Application Integration with legacy systems
+* JSF, J2EE, Java EE, jQuery, JavaScript
+* SQL
+* Oracle or other database interface
+  
+<!-- yaspeller ignore:start -->
+###### *WGU*
+<!-- yaspeller ignore:end -->
+</details>
+  
+  
+## Senior Backend Engineer
 
 <details><summary>Read more</summary>
   
