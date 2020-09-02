@@ -15,7 +15,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
+* [Backend Java Engineer](#backend-java-engineer)
+* [Java Backend Software Engineer](#java-backend-software-engineer)
+* [Back end Java Engineer B2C](#back-end-java-engineer-b2c)
 * [Java Software Engineer](#java-software-engineer)
 * [Senior Backend Engineer](#senior-backend-engineer)
 * [NET Developer](#net-developer)
@@ -38,10 +40,246 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
+## Backend Java Engineer
 
+<details><summary>Read more</summary>
+
+### Who is Encora?
+
+We create competitive advantages for client partners through accelerated technology innovation, Encora provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary caring culture.
+
+Our clients are mainly focused on:
+* Fast Growing Tech
+* Fintech
+* HealthTech
+* Logistics and Supply Chain
+* Digital Commerce
+* LendTech
+
+### Professional Development
+
+Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high impact challenging projects, learning about top technologies or helping others by sharing what they know.
+
+### Our MX Offices
+Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
+
+### Benefits
+We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of benefits, including health insurance, paid time off, and wellness programs designed to promote physical, emotional and financial well-being.
+
+### Culture
+We have long been recognized as a Great Place to Work and World Blue. We strive to create an inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
+
+Join our passionate community of innovators making lasting impact in the world through technology.
+
+### Qualifications:
+
+We are seeking a senior Java back-end software engineer/developer
+
+### Coding Requirements:
+
+* 5+ years production-level high-performance Java code
+* Memory management, optimization
+* Heap profiling and snapshotting
+* API-driven development
+* Unit and integration tests
+* Java 8/11 experience
+* Experience with Microservices, JSON, REST APIs, GraphQL, Kubernetes 
+* API tools: Swagger
+* Build tools:  Gradle, Maven
+* Database:  Postgres, Jooq
+* Frontend:
+* ReactJS, HTML5, CSS
+
+### Nice to have
+
+* Object stores, caching and search tools:  Elastic, Redis, Memcache
+* Servlet containers: Jetty, NGINX
+* AWS experiences
+* Big data: hive, kafka
+* NodeJS
+
+### Production Environment:
+
+* Experience coding in a team environment, standups, code reviews
+* Able to read and work with other people’s code
+* Code repository:  Git, SVN
+* Task management: JIRA
+
+### Communication:
+
+* Strong written and verbal English, needs to be able to express ideas clearly (will make allowances for second language issues)
+* Slack, video-conferencing primary means of communication
+* Email and JIRA
+
+ <!-- yaspeller ignore:start -->
+###### *TA*
+<!-- yaspeller ignore:end -->
+</details>
+
+
+## Java Backend Software Engineer
+
+<details><summary>Read more</summary>
+  
+  ### Who is Encora?
+
+We create competitive advantages for client partners through accelerated technology innovation, Encora provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary caring culture.
+
+Our clients are mainly focused on:
+* Fast Growing Tech
+* Fintech
+* HealthTech
+* Logistics and Supply Chain
+* Digital Commerce
+* LendTech
+
+### Professional Development
+
+Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high impact challenging projects, learning about top technologies or helping others by sharing what they know.
+
+### Our MX Offices
+Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
+
+### Benefits
+We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of benefits, including health insurance, paid time off, and wellness programs designed to promote physical, emotional and financial well-being.
+
+### Culture
+We have long been recognized as a Great Place to Work and World Blue. We strive to create an inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
+
+Join our passionate community of innovators making lasting impact in the world through technology.
+  
+ ### Qualifications:
+
+We are seeking a senior Java back-end software engineer/developer
+
+### Coding Requirements:
+
+* 5+ years production-level high-performance Java code
+* Memory management, optimization
+* Heap profiling and snapshotting
+* API-driven development
+* Unit and integration tests
+* Java 8/11 experience
+* Servlet container: Tomcat
+* Experience with Microservices, JSON, REST APIs, GraphQL
+* API tools: Swagger
+* Build tools:  Gradle, Maven
+* Database:  Postgres, Jooq
+
+### Nice to have
+
+* Object stores, caching and search tools:  Elastic, Redis, Memcache
+* Servlet containers: Jetty, NGINX
+* Experience developing complex ETL processes
+* Experience working with big data technologies
+### Production Environment:
+
+* Experience coding in a team environment, standups, code reviews
+* Able to read and work with other people’s code
+* Code repository:  SVN, Git
+* Task management: JIRA
+
+### Communication:
+* Strong written and verbal English, needs to be able to express ideas clearly (will make allowances for second language issues)
+* Slack, video-conferencing primary means of communication
+* Email and JIRA
+
+ <!-- yaspeller ignore:start -->
+###### *TA*
+<!-- yaspeller ignore:end -->
+</details>
+  
+
+## Back end Java Engineer B2C
+
+<details><summary>Read more</summary>
+  
+  ### Who is Encora?
+
+We create competitive advantages for client partners through accelerated technology innovation, Encora provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary caring culture.
+
+Our clients are mainly focused on:
+* Fast Growing Tech
+* Fintech
+* HealthTech
+* Logistics and Supply Chain
+* Digital Commerce
+* LendTech
+
+### Professional Development
+
+Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high impact challenging projects, learning about top technologies or helping others by sharing what they know.
+
+### Our MX Offices
+Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
+
+### Benefits
+We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of benefits, including health insurance, paid time off, and wellness programs designed to promote physical, emotional and financial well-being.
+
+### Culture
+We have long been recognized as a Great Place to Work and World Blue. We strive to create an inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
+
+Join our passionate community of innovators making lasting impact in the world through technology.
+
+  
+  ### Qualifications:
+
+*  The ideal candidate for this position will have a broad set of web platform skills including confident knowledge of integration using APIs and similar technologies used for system to system integration over the web.  The candidate will demonstrate solid experience in coding for scale and have a passionate interest in producing high quality code quickly (speed wins!).
+* Excellent problem-solving ability with effective debugging of complex systems
+* Proficiency with 3+ years’ experience of programming Java
+* Adept on the Linux platform and its standard utilities
+* Ability to construct complex SQL queries
+* Solid understanding of HTTP and other internet protocols
+* Able to quickly develop scripts in Perl/Python/Bash and others
+* Excellent written and oral communication skills with the ability to communicate complex concepts clearly
+
+
+### Responsibilities:
+
+* Design and develop simple solutions for complex connectivity upgrades and health challenges.
+* Adapt to complex projects, including working closely with cross-functional teams consisting of technical and business stakeholders, and deliver quality code on time.
+* Analyse, investigate, and trouble-shoot API integration/interoperability features and issues.
+* Continually improve efficiency by contributing to team development of automated tools.
+* Improve and add to system documentation for customers who interoperate with our APIs.
+* Rotating on-call duty for network connectivity support.
+
+<!-- yaspeller ignore:start -->
+###### *TA*
+<!-- yaspeller ignore:end -->
+</details>
+  
+  
 ## Java Software Engineer 
 
 <details><summary>Read more</summary>
+  
+  ### Who is Encora?
+
+We create competitive advantages for client partners through accelerated technology innovation, Encora provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary caring culture.
+
+Our clients are mainly focused on:
+* Fast Growing Tech
+* Fintech
+* HealthTech
+* Logistics and Supply Chain
+* Digital Commerce
+* LendTech
+
+### Professional Development
+
+Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high impact challenging projects, learning about top technologies or helping others by sharing what they know.
+
+### Our MX Offices
+Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
+
+### Benefits
+We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of benefits, including health insurance, paid time off, and wellness programs designed to promote physical, emotional and financial well-being.
+
+### Culture
+We have long been recognized as a Great Place to Work and World Blue. We strive to create an inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
+
+Join our passionate community of innovators making lasting impact in the world through technology.
+
   
 Responsible for the research, design, development, analysis, testing, and implementation of software operating or application systems. Communicates project information to client, project manager, or other design personnel working on projects. Maintains good working relationships with clients and staff. Writes and maintains complete documentation. Supports team members and ensures established goals and deadlines are met. Keeps management informed of status and significant problems.
 
