@@ -15,6 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+* [DevOps Engineer](#devops-engineer)
 * [Backend Java Engineer](#backend-java-engineer)
 * [Java Backend Software Engineer](#java-backend-software-engineer)
 * [Back end Java Engineer B2C](#back-end-java-engineer-b2c)
@@ -39,6 +40,73 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## DevOps Engineer
+
+<details><summary>Read more</summary>
+  
+  ### Who is Encora?
+
+We create competitive advantages for client partners through accelerated technology innovation, Encora
+provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary
+caring culture.
+
+Our clients are mainly focused on
+* Fast Growing Tech
+* Fintech
+* HealthTech
+* Logistics and Supply Chain
+* Digital Commerce
+* LendTech
+
+### Professional Development
+Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high
+impact challenging projects, learning about top technologies or helping others by sharing what they know.
+
+### Our MX Offices
+Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
+
+### Benefits
+We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of
+benefits, including health insurance, paid time off, and wellness programs designed to promote physical,
+emotional and financial well-being.
+
+### Culture
+We have long been recognized as a Great Place to Work and World Blue. We strive to create an
+inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
+Join our passionate community of innovators making lasting impact in the world through technology.
+
+### Qualifications:
+
+
+* At least one of the following AWS certifications: AWS Solutions Architect – Associate, AWS
+Developer – Associate, AWS Sysops Administrator – Associate
+* Experience in managing backend Java infrastructure, including the JVM and Tomcat.
+* Experience in Linux administration from the command line.
+* Experience in Java development.
+* Experience in implementing RESTful APIs and testing said APIs through tools such as
+POSTman.
+
+### This person will be responsible for the following:
+
+* Setting up AWS infrastructure, such as EC2 instances and load balancers.
+* Designing high available architectures in AWS in which to operate 3’rd party applications.
+* Installing and validating the installation of 3’rd party applications. This includes things such as
+testing that RESTful APIs are available and working.
+* Performing security updates on Linux as well as at the application level.
+* Orchestrating the management of external system using a configuration management system
+(Chef).
+* Providing guidance to teams in deployment and maintenance of RESTful services running in
+Docker deployed in AWS Fargate.
+
+ <!-- yaspeller ignore:start -->
+###### *WGU*
+<!-- yaspeller ignore:end -->
+</details>
+  
+  
+ 
 
 ## Backend Java Engineer
 
