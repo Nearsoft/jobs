@@ -15,6 +15,8 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+
+* [React Native Developer](#react-native-developer)
 * [DevOps Engineer](#devops-engineer)
 * [Backend Java Engineer](#backend-java-engineer)
 * [Java Backend Software Engineer](#java-backend-software-engineer)
@@ -41,41 +43,49 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
+## React Native Developer
+
+<details><summary>Read more</summary>
+
+We're hiring a talented Senior React Native Engineer to join our growing team where you'll build performant mobile apps on both the iOS and Android platforms. You'll be responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure. Building a product is a highly collaborative effort so a strong team player with a commitment to excellence is required. 
+
+### What You'll Do
+
+* Build pixel-perfect, buttery smooth UIs across both mobile platforms
+* Leverage native APIs for deep integrations with both platforms
+* Diagnose and fix bugs and performance bottlenecks for performance that feels native
+* Reach out to the open source community to encourage and help implement mission-critical software fixes—React Native moves fast and often breaks things
+* Maintain code and write automated tests to ensure the product is of the highest quality
+* Maximize code sharing between React Web Apps and React Native Apps
+* Maintain clean separation of business logic and UI to support internal E2E testing framework
+
+### What You'll Need
+
+* At least 3+ years React Native experience; 7+ years overall engineering experience
+* Production-level React Native applications hands-on experience
+* JavaScript and TypeScript, including ES6+ syntax understanding
+* Redux/MobX/MobX State Tree experience great pluses.
+* CI/CD of React Native applications familiarity
+* Deep knowledge of functional programming
+* Ability to write well-documented, clean TypeScript code
+* Rock solid at working with third-party dependencies and debugging dependency conflicts
+* Familiarity with native build tools such as XCode, Gradle, Android Studio
+* Experience using frameworks from AWS such as Amplify & AppSync.
+* Understanding of REST APIs, the document request model and offline storage
+* Experience with automated testing suites Jest
+* 4 year degree in CS or STEM-Related field, or equivalent work experience
+
+ <!-- yaspeller ignore:start -->
+###### *LK*
+<!-- yaspeller ignore:end -->
+</details>
+
+
 
 ## DevOps Engineer
 
 <details><summary>Read more</summary>
   
-  ### Who is Encora?
-
-We create competitive advantages for client partners through accelerated technology innovation, Encora
-provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary
-caring culture.
-
-Our clients are mainly focused on
-* Fast Growing Tech
-* Fintech
-* HealthTech
-* Logistics and Supply Chain
-* Digital Commerce
-* LendTech
-
-### Professional Development
-Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high
-impact challenging projects, learning about top technologies or helping others by sharing what they know.
-
-### Our MX Offices
-Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
-
-### Benefits
-We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of
-benefits, including health insurance, paid time off, and wellness programs designed to promote physical,
-emotional and financial well-being.
-
-### Culture
-We have long been recognized as a Great Place to Work and World Blue. We strive to create an
-inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
-Join our passionate community of innovators making lasting impact in the world through technology.
 
 ### Qualifications:
 
@@ -112,32 +122,6 @@ Docker deployed in AWS Fargate.
 
 <details><summary>Read more</summary>
 
-### Who is Encora?
-
-We create competitive advantages for client partners through accelerated technology innovation, Encora provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary caring culture.
-
-Our clients are mainly focused on:
-* Fast Growing Tech
-* Fintech
-* HealthTech
-* Logistics and Supply Chain
-* Digital Commerce
-* LendTech
-
-### Professional Development
-
-Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high impact challenging projects, learning about top technologies or helping others by sharing what they know.
-
-### Our MX Offices
-Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
-
-### Benefits
-We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of benefits, including health insurance, paid time off, and wellness programs designed to promote physical, emotional and financial well-being.
-
-### Culture
-We have long been recognized as a Great Place to Work and World Blue. We strive to create an inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
-
-Join our passionate community of innovators making lasting impact in the world through technology.
 
 ### Qualifications:
 
@@ -189,32 +173,6 @@ We are seeking a senior Java back-end software engineer/developer
 
 <details><summary>Read more</summary>
   
-  ### Who is Encora?
-
-We create competitive advantages for client partners through accelerated technology innovation, Encora provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary caring culture.
-
-Our clients are mainly focused on:
-* Fast Growing Tech
-* Fintech
-* HealthTech
-* Logistics and Supply Chain
-* Digital Commerce
-* LendTech
-
-### Professional Development
-
-Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high impact challenging projects, learning about top technologies or helping others by sharing what they know.
-
-### Our MX Offices
-Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
-
-### Benefits
-We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of benefits, including health insurance, paid time off, and wellness programs designed to promote physical, emotional and financial well-being.
-
-### Culture
-We have long been recognized as a Great Place to Work and World Blue. We strive to create an inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
-
-Join our passionate community of innovators making lasting impact in the world through technology.
   
  ### Qualifications:
 
@@ -262,32 +220,6 @@ We are seeking a senior Java back-end software engineer/developer
 
 <details><summary>Read more</summary>
   
-  ### Who is Encora?
-
-We create competitive advantages for client partners through accelerated technology innovation, Encora provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary caring culture.
-
-Our clients are mainly focused on:
-* Fast Growing Tech
-* Fintech
-* HealthTech
-* Logistics and Supply Chain
-* Digital Commerce
-* LendTech
-
-### Professional Development
-
-Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high impact challenging projects, learning about top technologies or helping others by sharing what they know.
-
-### Our MX Offices
-Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
-
-### Benefits
-We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of benefits, including health insurance, paid time off, and wellness programs designed to promote physical, emotional and financial well-being.
-
-### Culture
-We have long been recognized as a Great Place to Work and World Blue. We strive to create an inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
-
-Join our passionate community of innovators making lasting impact in the world through technology.
 
   
   ### Qualifications:
@@ -321,32 +253,6 @@ Join our passionate community of innovators making lasting impact in the world t
 
 <details><summary>Read more</summary>
   
-  ### Who is Encora?
-
-We create competitive advantages for client partners through accelerated technology innovation, Encora provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary caring culture.
-
-Our clients are mainly focused on:
-* Fast Growing Tech
-* Fintech
-* HealthTech
-* Logistics and Supply Chain
-* Digital Commerce
-* LendTech
-
-### Professional Development
-
-Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high impact challenging projects, learning about top technologies or helping others by sharing what they know.
-
-### Our MX Offices
-Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
-
-### Benefits
-We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of benefits, including health insurance, paid time off, and wellness programs designed to promote physical, emotional and financial well-being.
-
-### Culture
-We have long been recognized as a Great Place to Work and World Blue. We strive to create an inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
-
-Join our passionate community of innovators making lasting impact in the world through technology.
 
   
 Responsible for the research, design, development, analysis, testing, and implementation of software operating or application systems. Communicates project information to client, project manager, or other design personnel working on projects. Maintains good working relationships with clients and staff. Writes and maintains complete documentation. Supports team members and ensures established goals and deadlines are met. Keeps management informed of status and significant problems.
@@ -464,40 +370,6 @@ services using Java, SOAP, REST, XML, and other web technologies, including
 
 <details><summary>Read more</summary>
   
-### Who is Encora?
-
-We create competitive advantages for client partners through accelerated technology innovation, Encora
-provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary
-caring culture.
-
-Our clients are mainly focused on:
-* Fast Growing Tech
-* Fintech
-* HealthTech
-* Logistics and Supply Chain
-* Digital Commerce
-* LendTech
-
-### Professional Development
-
-Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high
-impact challenging projects, learning about top technologies or helping others by sharing what they know.
-
-### Our MX Offices
-
-Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
-
-### Benefits
-
-We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of
-benefits, including health insurance, paid time off, and wellness programs designed to promote physical,
-emotional and financial well-being.
-
-### Culture
-
-We have long been recognized as a Great Place to Work and World Blue. We strive to create an
-inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
-Join our passionate community of innovators making lasting impact in the world through technology.
 
 ### Qualifications:
 
