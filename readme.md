@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Platform Engineer](#Platform-engineer)
 * [React Native Developer](#react-native-developer)
 * [DevOps Engineer](#devops-engineer)
 * [Backend Java Engineer](#backend-java-engineer)
@@ -42,6 +43,42 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+## Platform Engineer
+
+<details><summary>Read more</summary>
+
+## About the right team member
+
+You love to design, build, and operate distributed systems at large-scale in cloud environments. You know the best software is created through collaboration and iteration and you’re looking for the right opportunity, and the right team, to expand your experience. You seek feedback because it has the ability to turn good work into great work. You like to ship software early and often, you value simplicity and strive to eliminate unnecessary complexity.
+
+We value people who are intellectually curious, who are pragmatic not dogmatic, and people who care about our product, their teammates, and their own personal growth. We are faced with an interesting set of technical challenges and we believe in giving our engineers the autonomy to go and solve them. Much of our team come from non-traditional computing backgrounds; we know that by bringing together a diverse set of voices we’ll be able to build a better product, and a better company. We care less about what languages or frameworks you know, and care more that you are excited to produce high-quality code and be constantly learning. Our engineers work in cross-functional teams that are focused on impact, and movement between teams is encouraged. We work very closely with our brilliant product team to deliver a world class user experience, and ultimately to empower our users to live their fullest, healthiest lives.
+
+## Key Responsibilities
+
+* Use existing commercial and open source tools to create a robust, reliable, and performant platform.
+* Build DevOps tooling and processes to increase overall engineering velocity.
+* Write clear and concise technical design documents and gather feedback from your team and the broader engineering organization
+* Provide leadership and mentorship for junior engineers through code reviews and technical discussions
+* Seek different perspectives, and solicit honest feedback
+
+## Requirements
+
+* Infrastructure as code, such as Terraform or CodeFormation
+* Cloud Computing management, preferably AWS
+* Build Pipeline Management, Jenkins a plus
+
+## Nice to Have
+
+* ETL Experience, Airflow a plus
+* Understand reliability and microservice monitoring best practices
+* Love fitness!
+
+<!-- yaspeller ignore:start -->
+###### *CP*
+<!-- yaspeller ignore:end -->
+</details>
+
 
 ## React Native Developer
 
