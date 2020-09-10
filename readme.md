@@ -24,7 +24,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Back end Java Engineer B2C](#back-end-java-engineer-b2c)
 * [Java Software Engineer](#java-software-engineer)
 * [Senior Backend Engineer](#senior-backend-engineer)
-* [NET Developer](#net-developer)
+* [.NET Developer](#.net-developer)
 * [Data Science Engineer](#data-science-engineer)
 * [QA Lead](#qa-lead)
 * [Angular Web Developer](#angular-web-developer)
@@ -599,7 +599,7 @@ This position involves partnering closely with peers and product management to e
 </details>
   
   
-## Software NET Engineer 
+## Software .NET Engineer 
 
 <details><summary>Read more</summary>
 
