@@ -71,13 +71,7 @@ You are a problem-solver, critical thinker, a great communicator, and an excelle
 <!-- yaspeller ignore:start -->
 ###### *MTW*
 <!-- yaspeller ignore:end -->
-</details>
-
-
-
-
-<details><summary>Read more</summary>
-  
+</details>  
   
   
 
