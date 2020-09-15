@@ -16,6 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+* [Android Developer](#android-developer)
 * [Platform Engineer](#Platform-engineer)
 * [React Native Developer](#react-native-developer)
 * [DevOps Engineer](#devops-engineer)
@@ -43,6 +44,39 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## Android Developer
+
+You are committed to building amazing Android applications and always strive to improve the user experience. You use your technical skills to write clean and well-structured Java code, using the different design patterns that Java offers.  You enjoy learning and sharing your knowledge.
+You are a problem-solver, critical thinker, a great communicator, and an excellent team player.
+
+## Key Requirements
+
+• 3+ years developing native Java Android applications 
+• Good understanding of Android architecture, patterns, data structures and open-source libraries.
+• Strong object-oriented design and development experience
+• Experience with Restful services
+• Experience writing test scripts for automation (Espresso is a plus)
+• Excellent communication skills
+
+## It's great if you also have:
+• Familiar with Scrum/Agile methodologies
+• Kotlin knowledge 
+• Familiar with CI process 
+
+<!-- yaspeller ignore:start -->
+###### *MTW*
+<!-- yaspeller ignore:end -->
+</details>
+
+
+
+
+<details><summary>Read more</summary>
+  
+  
+  
 
 ## Platform Engineer
 
