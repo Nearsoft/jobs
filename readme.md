@@ -48,6 +48,8 @@ If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 ## Android Developer
 
+<details><summary>Read more</summary>
+
 You are committed to building amazing Android applications and always strive to improve the user experience. You use your technical skills to write clean and well-structured Java code, using the different design patterns that Java offers.  You enjoy learning and sharing your knowledge.
 You are a problem-solver, critical thinker, a great communicator, and an excellent team player.
 
@@ -61,6 +63,7 @@ You are a problem-solver, critical thinker, a great communicator, and an excelle
 • Excellent communication skills
 
 ## It's great if you also have:
+
 • Familiar with Scrum/Agile methodologies
 • Kotlin knowledge 
 • Familiar with CI process 
