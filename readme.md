@@ -55,18 +55,18 @@ You are a problem-solver, critical thinker, a great communicator, and an excelle
 
 ## Key Requirements
 
-• 3+ years developing native Java Android applications 
-• Good understanding of Android architecture, patterns, data structures and open-source libraries.
-• Strong object-oriented design and development experience
-• Experience with Restful services
-• Experience writing test scripts for automation (Espresso is a plus)
-• Excellent communication skills
+* 3+ years developing native Java Android applications 
+* Good understanding of Android architecture, patterns, data structures and open-source libraries.
+* Strong object-oriented design and development experience
+* Experience with Restful services
+* Experience writing test scripts for automation (Espresso is a plus)
+* Excellent communication skills
 
 ## It's great if you also have:
 
-• Familiar with Scrum/Agile methodologies
-• Kotlin knowledge 
-• Familiar with CI process 
+* Familiar with Scrum/Agile methodologies
+* Kotlin knowledge 
+* Familiar with CI process 
 
 <!-- yaspeller ignore:start -->
 ###### *MTW*
