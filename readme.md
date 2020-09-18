@@ -465,40 +465,6 @@ Structures
 
 <details><summary>Read more</summary>
   
-### Who is Encora?
-
-We create competitive advantages for client partners through accelerated technology innovation, Encora
-provides unmatched opportunities for professional development, benefits, total rewards, an extraordinary
-caring culture.
-
-Our clients are mainly focused on:
-* Fast Growing Tech
-* Fintech
-* HealthTech
-* Logistics and Supply Chain
-* Digital Commerce
-* LendTech
-
-### Professional Development
-
-Encorians find a wide range of opportunities to grow with us, whether it is hand-on experience on high
-impact challenging projects, learning about top technologies or helping others by sharing what they know.
-
-### Our MX Offices
-
-Hermosillo, CDMX, Chihuahua, San Luis Potosí and Mérida.
-
-### Benefits
-
-We care about you as a whole person. That is why, as an Encorian, you will receive a broad range of
-benefits, including health insurance, paid time off, and wellness programs designed to promote physical,
-emotional and financial well-being.
-
-### Culture
-
-We have long been recognized as a Great Place to Work and World Blue. We strive to create an
-inclusive, caring culture in which people with diverse backgrounds and talents can be their absolute best.
-Join our passionate community of innovators making lasting impact in the world through technology.
 
 ### Qualifications:
 
