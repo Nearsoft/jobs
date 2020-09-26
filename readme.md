@@ -50,6 +50,7 @@ If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 <details><summary>Read more</summary>
   
+  
   ## You will:
   
   * Analyze existing platform functionality and identify gaps with security best practices
