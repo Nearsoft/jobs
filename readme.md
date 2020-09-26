@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Ruby Security Engineer](#rubysecurityengineer)
+* [Ruby Security Engineer](#ruby-security-engineer)
 * [Android Developer](#android-developer)
 * [Platform Engineer](#Platform-engineer)
 * [React Native Developer](#react-native-developer)
