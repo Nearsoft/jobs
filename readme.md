@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
+* [Security Engineer](#securityengineer)
 * [Android Developer](#android-developer)
 * [Platform Engineer](#Platform-engineer)
 * [React Native Developer](#react-native-developer)
@@ -45,6 +45,42 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
+
+## Security Engineer
+
+<details><summary>Read more</summary>
+  
+  ## You will:
+  
+  * Analyze existing platform functionality and identify gaps with security best practices
+  * Design and build features, patches, scripts, monitoring solutionsthat will advance the cause of security
+  * Participate in design reviews as an expert in security
+  * Run projects largely independently, with some help from team members but no expectation of constant supervision
+  
+  ## Basic qualifications:
+  
+  * Two or more years’ full-time experience in software development
+  * A good understanding of Ruby on Rails, including libraries and components that are relevant for security (Devise, Warden, etc.)
+  * Significant experience with Javascript
+  * A good understanding of basic security best practices in SDLC
+  * Familiarity with CI / CD tools (Jenkins or others)
+  * A solid understanding of networking, especially HTTP
+  * Understanding of relational and NoSQL databases
+  
+  ## Preferred qualifications:
+  
+  * Significant experience in professional software development teams, with knowledge of common best practices in source control, code/design reviews,   deployment lifecycles
+  * Experience with single-page application frameworks
+  * Experience in Java, nodejs
+  * Understanding of key principles of API design (REST)
+  * Familiarity with microservices.
+  
+  
+<!-- yaspeller ignore:start -->
+###### *APP*
+<!-- yaspeller ignore:end -->
+</details>
+  
 
 ## Android Developer
 
