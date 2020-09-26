@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-* [Security Engineer](#securityengineer)
+* [Ruby Security Engineer](#rubysecurityengineer)
 * [Android Developer](#android-developer)
 * [Platform Engineer](#Platform-engineer)
 * [React Native Developer](#react-native-developer)
@@ -46,7 +46,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
 
 
-## Security Engineer
+## Ruby Security Engineer
 
 <details><summary>Read more</summary>
   
