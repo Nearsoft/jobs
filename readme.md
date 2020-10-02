@@ -17,7 +17,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 
-* [Python Data Engineer](#python-datta-engineer)
+* [Python Data Engineer](#python-data-engineer)
 * [Ruby Security Engineer](#ruby-security-engineer)
 * [Android Developer](#android-developer)
 * [Platform Engineer](#Platform-engineer)
