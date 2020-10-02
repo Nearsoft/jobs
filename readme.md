@@ -15,6 +15,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
+
+
+* [Python Data Engineer](#python-datta-engineer)
 * [Ruby Security Engineer](#ruby-security-engineer)
 * [Android Developer](#android-developer)
 * [Platform Engineer](#Platform-engineer)
@@ -44,6 +47,55 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## Python Data Engineer
+
+<details><summary>Read more</summary>
+  
+ ## What is the Data Engineer Role?
+ 
+We are seeking a talented and experienced Data Engineer to help lead our data engineering efforts.
+
+## What you'll be doing:
+
+* Architect and implement scalable solutions to ingest data from a variety of sources and prepare it for use by our machine learning and analytics applications. 
+* Make architectural and technology decisions to support data infrastructure requirements
+* Work closely with our Data Science and Data Analytics teams using/providing data from the data warehouse
+
+
+## Who you are:
+
+* You feel good about your work knowing that what you do will affect the lives of millions of people around the world
+* Entrepreneurial and eager to thrive in a startup environment
+* Strong communicator (oral and written)
+* A good person, highly ethical and accepting of others
+
+## Your background and skills:
+* 2+ years of relevant industry experience in Data Engineering working with large scale data driven systems.
+* Proficient in Python
+* Strong knowledge of relational databases and query authoring (SQL)
+* Experience with Airflow data pipeline framework highly desirable
+* Experience designing and deploying high performance data processing systems with reliable data validation, monitoring and logging practices
+* Experience in database design and development and familiarity and/or working experience designing Data Warehouses
+* Rigor in high code quality, automated testing, and other engineering best practices
+* Outstanding communication and interpersonal skills and detail oriented
+* Experience in ad-hoc data analysis, solution design, reporting & dashboard development
+* Experience building data platforms from scratch for data consumption across a variety of use cases (e.g. reporting, data visualization, data science, ML etc.) desirable
+ 
+ ## Preferred Qualifications:
+* Experience in healthcare data is a huge plus, but not required
+* Working experience in cloud infrastructure like AWS and its services is a huge plus
+* Experience and working knowledge with Big Data frameworks like Spark, AWS Athena is a plus
+
+
+<!-- yaspeller ignore:start -->
+###### *MND*
+<!-- yaspeller ignore:end -->
+</details>
+
+
+
 
 
 ## Ruby Security Engineer
