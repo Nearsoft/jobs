@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
-
+* [Go Engineer](#go-engineer)
 * [Python Data Engineer](#python-data-engineer)
 * [Ruby Security Engineer](#ruby-security-engineer)
 * [Android Developer](#android-developer)
@@ -47,6 +47,40 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## Go Engineer
+
+<details><summary>Read more</summary>
+
+## Position Summary
+
+We’re hiring for a talented Lead/Senior Software Engineer with a strong technical foundation in computer science. In this role, you will be working cross functionally with the product and engineering teams on a wide variety of projects that power our unique platform. 
+
+Our Lead/Senior Software Engineer will help to design, build, and maintain our 2-way ordering platform that helps retailers and brands alike by digitizing and streamlining the buying process and taking selling to the next level. One of the big initiatives you’ll help to drive in this role is leveraging the notion of operational transformation to build out such features as shopping carts that can be edited by multiple parties, at once. 
+
+You're also going to work on other major parts of our growing and blossoming platform, and will be joining an amazing, friendly, and diverse team. In our company, engineers work closely with the product and design team, and think about problems from our customers' perspective to devise the best solutions.
+
+
+## Requirements
+
+* 7+ years of software development
+* Strong Computer Science fundamentals
+* Test driven development, experience with large projects
+* Strong communication and collaboration skills, team player, enjoy learning and teaching
+* Highly motivated with an eagerness to learn and grow both personally and professionally
+* Ability to take ownership of projects and drive them to completion
+* Expereinced with Go, grpc, node.js, Bigtable, MongoDB, PostgreSQL, GCP, Docker, Kubernetes
+* Solid understanding of frontend and backend technologies and architecture (RESTful API design, message driven applications, micro-services, relational/non-relational DBs, concurrency, scaling, big data, security etc.)
+* FE skills are a plus
+
+<!-- yaspeller ignore:start -->
+###### *NOR*
+<!-- yaspeller ignore:end -->
+</details>
+
+
+
 
 
 ## Python Data Engineer
