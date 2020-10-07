@@ -18,7 +18,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 
-* [Full Stack Node Engineer](#full-stack-node-engineer)
+* [FullStack Node Engineer](#fullstack-node-engineer)
 * [Go Engineer](#go-engineer)
 * [Python Data Engineer](#python-data-engineer)
 * [Ruby Security Engineer](#ruby-security-engineer)
