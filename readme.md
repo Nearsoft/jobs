@@ -16,6 +16,9 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
+
+
+* [Fullstack Node Engineer](#fullstack-node-engineer)
 * [Go Engineer](#go-engineer)
 * [Python Data Engineer](#python-data-engineer)
 * [Ruby Security Engineer](#ruby-security-engineer)
@@ -80,6 +83,30 @@ You're also going to work on other major parts of our growing and blossoming pla
 </details>
 
 
+## Fullstack Node Engineer
+
+<details><summary>Read more</summary>
+
+
+We’re hiring product-focused senior software engineers who will build new features, scale distributed systems to handle millions of events, and lead projects, all as part of a globally distributed team.
+
+## Preferred skills and background:
+
+* We’re looking for engineers who have experience with the core of our tech stack: ES6 Javascript, Node.js, React, and MongoDB.
+* We love new teammates who strive to grow personally and professionally, beyond just expanding their technical abilities.
+* We take pride in the quality of our work, so we’re looking for engineers with experience in maintaining and supporting the systems they’ve built.
+* We’re a distributed team working in multiple time zones, so excellent documentation and communication skills are paramount!
+
+## It’s also awesome (and 100% not a requirement!) for you to:
+
+* Have worked in a distributed codebase with microservices and shared modules.
+* Be familiar with secondary tools in our tech stack, like Elasticsearch or Redis.
+* Have worked on a Google Chrome extension or Salesforce integration.
+
+<!-- yaspeller ignore:start -->
+###### *MXM*
+<!-- yaspeller ignore:end -->
+</details>
 
 
 
