@@ -17,7 +17,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 
 
-
+* [Software Engineer in Test Automation](#software-engineer-in-test-automation)
 * [FullStack Node Engineer](#fullstack-node-engineer)
 * [Go Engineer](#go-engineer)
 * [Python Data Engineer](#python-data-engineer)
@@ -50,6 +50,63 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+
+## Software Engineer in Test Automation
+
+<details><summary>Read more</summary>
+
+## What is the Software Engineer in Test role?
+Our service depends on accurate data collection across a wide variety of mobile platforms. We
+are looking for a stellar and passionate Software Engineer in Test to perform manual testing of
+our mobile and web applications to ensure consistent data capture and correct functionality. In
+this role you will actively participate in manual testing and application troubleshooting. You will
+need to understand how the client applications use backend services to deliver their
+functionality. You will use this understanding to set up specific test scenarios and to help
+identify the root cause of defects. As time permits, you will also contribute to automation by
+implementing new test cases in an existing automation framework.
+Our ideal candidate is a bright and motivated Engineer who is excited about shipping quality
+products and eager to apply their experience with manual and automated testing for native
+Android and iOS apps. This is a great opportunity for someone who wants to learn and grow as
+they are contributing to the quality of our products.
+
+## What you will be doing:
+
+* Writing new test cases or modifying existing to cover new or changed functionality
+* Defining test requirements, test strategies and test designs
+* Conducting manual testing on mobile, web and back end
+* Automating test cases and adding to an existing automation suite
+* Manage multiple priorities and tasks in a dynamic work environment
+
+## Who you are:
+
+* You feel good about your work knowing that what you do will affect the lives of millions of people around the world
+* Entrepreneurial and eager to thrive in a startup environment
+* Strong communicator (oral and written)
+* A good person, highly ethical and accepting of others
+
+
+## Your background and skills:
+
+* Delivering quality products across a wide range of running environments excites you
+* You are familiar with mobile application testing and have programming experience, preferably in Java.
+* Familiar with adb, Charles, GIT & Jira
+* Working knowledge of Cloud technologies (AWS EC2, Docker) is a plus
+* Working knowledge of any mobile automation tool such as Espresso, Appium, Selendroid etc. is a plus.
+* Experience with CI/CD (Jenkins, TeamCity, Bamboo, Fastlane etc.) is a plus
+* Strong aptitude for learning new technologies
+* You use judgment in selecting methods, techniques and evaluation criteria for successful results
+* B.S. in Computer Science or related field OR equivalent experience
+* 2-3 years of experience in testing mobile applications
+
+<!-- yaspeller ignore:start -->
+###### *MND*
+<!-- yaspeller ignore:end -->
+</details>
+
+
+
 
 
 ## Go Engineer
