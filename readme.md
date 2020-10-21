@@ -31,12 +31,10 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 * [Back end Java Engineer B2C](#back-end-java-engineer-b2c)
 * [Java Software Engineer](#java-software-engineer)
 * [Senior Backend Engineer](#senior-backend-engineer)
-* [.NET Developer](#.net-developer)
 * [Data Science Engineer](#data-science-engineer)
 * [QA Lead](#qa-lead)
 * [Angular Web Developer](#angular-web-developer)
 * [Senior React Engineer](#senior-react-engineer)
-* [Software NET Engineer](#software-net-engineer)
 * [iOS Engineer](#ios-engineer)
 * [Senior iOS Engineer](#senior-ios-engineer)
 * [Shopify Engineer](#shopify-engineer)
@@ -641,31 +639,6 @@ services using Java, SOAP, REST, XML, and other web technologies, including
 </details>
 
 
-## NET Developer
-
-<details><summary>Read more</summary>
-  
-
-### Qualifications:
-
-* 5+ years of professional software development experience as a .NET developer (C#)
-* Experience with .NET Core
-* Experience with ASP.NET MVC / Web API
-* Experience integrating third party services
-* Experience providing and consuming REST API
-* Deep understanding of TDD and DDD
-* Solid understanding of OOP principles and standards, LINQ, Design Patterns and Data
-Structures
-* Experience in building complex server-side systems
-* Strong experience with relational databases
-* CI/CD experience
-* Some level of experience in front-end development technologies
-* Understanding of multi-threading applications
-
-<!-- yaspeller ignore:start -->
-###### *NS*
-<!-- yaspeller ignore:end -->
-</details>
 
 
 ## Data Science Engineer 
@@ -802,30 +775,7 @@ This position involves partnering closely with peers and product management to e
 <!-- yaspeller ignore:end -->
 </details>
   
-  
-## Software .NET Engineer 
-
-<details><summary>Read more</summary>
-
-### Requirements 
-
-* 4+ years of professional software development experience as a .NET developer (C#)Solid understanding of OOP principles and standards, LINQ, Design Patterns and Data Structures
-* Strong experience with relational databases
-* Experience providing and consuming REST API
-* Experience integrating third party APIs and services
-* Experience designing and writing unit tests
-* Experience with SQL Adapters
-* Experience writing stored procedures and performant queries
-* Experience in building complex server-side systems
-* Experience optimizing for performance in crucial parts of an application
-* Some level of experience in ElasticSearch
-* Some level of experience in front-end development technologies
-
-<!-- yaspeller ignore:start -->
-###### *NS*
-<!-- yaspeller ignore:end -->
-</details>
-
+ 
 
 ## iOS Engineer 
 
