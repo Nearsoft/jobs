@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
-* [.NET](#net)
+* [.NET Engineer](#net-engineer)
 * [Software Engineer in Test Automation](#software-engineer-in-test-automation)
 * [FullStack Node Engineer](#fullstack-node-engineer)
 * [Go Engineer](#go-engineer)
