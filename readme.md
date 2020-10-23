@@ -16,7 +16,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:start -->
 
 
-
+* [.NET](#.net)
 * [Software Engineer in Test Automation](#software-engineer-in-test-automation)
 * [FullStack Node Engineer](#fullstack-node-engineer)
 * [Go Engineer](#go-engineer)
@@ -48,6 +48,35 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## .NET
+
+<details><summary>Read more</summary>
+
+## Required Qualifications
+* Strong C# and WPF background.
+* 5+ years of experience developing C# GUI applications using object-oriented techniques and methodology, especially building complex visualizations (Grid, Chart, etc).
+* Design Patterns experience with MVVM
+* 2+ years of experience developing WPF applications (.Net 4.5 and up) with deep XAML skill.
+* Experience in gathering business requirements and translating & implementing into scalable & reliable software engineering solutions.
+* Experience in working with multiple teams to implement enterprise software engineering projects.
+* Experience with multi-threaded constructs
+* Enhancing and improving existing libraries and applications understanding and communicating associated risks.
+
+
+## Plus Skills (Not Required but Nice-to-Have)
+
+* Bachelor degree in Computer Science or related discipline required
+* Experience developing business applications in Oil and Gas industry
+* Experience in developing REST API services (Experience with Containerized/Docker services a plus)
+* Full Stack development experience strongly preferred.
+
+<!-- yaspeller ignore:start -->
+###### *EOG*
+<!-- yaspeller ignore:end -->
+</details>
+
 
 
 
