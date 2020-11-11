@@ -15,7 +15,7 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 
 <!-- yaspeller ignore:start -->
 
-
+* [UI Designer](#ui-designer)
 * [.NET Engineer](#net-engineer)
 * [Software Engineer in Test Automation](#software-engineer-in-test-automation)
 * [FullStack Node Engineer](#fullstack-node-engineer)
@@ -48,6 +48,36 @@ At [Nearsoft](https://nearsoft.com) we're always looking for talented individual
 <!-- yaspeller ignore:end -->
 
 If an opening has caught your eye feel free to contact us at jobs@nearsoft.com
+
+
+## UI Designer
+
+<details><summary>Read more</summary>
+  
+  
+## What you'll do:
+* Create low and high fidelity mockups using best design principles for user interfaces in mobile and web platforms.
+* Create and set best practices and visual design standards. 
+* Design useful, usable, and desirable interfaces while considering research findings, business goals, and requirements.
+* Demonstrate proficiency communicating throughout the design process from formulating high-level strategy to executing pixel-perfect mockups
+* Collaborate and communicate with development teams and stakeholders in an Agile environment to produce high-quality digital products.
+* Build and manage design systems including patterns, components, and guidelines for software products ( Figma or Sketch ).
+
+## What we're looking for:
+* 5+ years of experience designing digital products ( web, mobile, and desktop apps).
+* Fluent in English, written and spoken. 
+* Proven ability to collaborate successfully with cross-functional teams and software products.
+* Experience designing User Interfaces for web and mobile platforms.
+* Advance use of Sketch,figma and Invision, or other similar tools.
+* Ability to self-manage and conduct in a proactive manner.
+
+<!-- yaspeller ignore:start -->
+###### *NS*
+<!-- yaspeller ignore:end -->
+</details>
+
+  
+
 
 
 ## .NET Engineer
